@@ -1,1 +1,13543 @@
-local kW={"(P9OX8+1/C+3=","!\\s&7,bXS";"(ODyxqM==","!jHP13L\'sl_b<+_G+n=ZtcWKNj>D[>";"(PDujCsY/nsua3QauZs5be9n=","!b:DB7L\'B>kAa","!\\4?cWD-5j/","!b%0G3AI*1OA.agl";"!18-]T1?>Ek18un`Yj\'h\\WgEFd,7bSEL6dcN,qJ/&DhZKan*";"!L\'mB\'teMZ@A#","(q95gt+1JC+SbCzIWhJQN6JtJ1AMJ6zpJKLVY6n==","(SDNWqXV=";"(80SBq9mumQNbqGn=";"(nDFJesO/8s168s5xt+5Y";"(q95gt+1JC+SbCzIWhJPJ1LtN6J601JV=","!A1D;/tmLhgLD%>LtelPlLT]","(PDyDC4kkqR==","(C9ufCM==";"!..!+5D(>","(n+S/ts1IesOfmykW8sY/";"!C-%W*A_1?VYbRaTja5S^\\eBKpA#";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6LQR1LqD1n==";"(O9uJmsyjq01utGSbeDg=","(m9uumD0WCEOj+DFDC+5x8sSu+DCRqR==","!A1D;/teiP-DJl4\'L]1JnA#";"(OsYjeD1T3QyjeM==","(tsua8sYX3Eyf8s0BmEuWep==";"(8DujeyFJeGOfCyFDeDN0esP=","!\\4?UZ,qtX3DDD";"(q95gt+1JC+SbCzIWhJqD1AQR6zn/1zV01A30";"!LUb!uA5SG]bX4Z9LD\"e>j9","!_SJGTb[YucC$g\'=Y,bZmA#","!bB3(\'Agu6ELD\"e>","!qW%S<,94G0Yb!pdAMT";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+-]Njca`f";"(+G1j8sSbe9m7qGkx8sYX";"(q95gt+1JC+SbCzIWhJQJKzMR1zpD1A6G6LqN1R==";"(mEOBes0BmEOJ","(nDBBq9/pnDyRqGOjCn==","(P9yV8+OJ";"!\\4`0eW%","!\\4gFI,n","(8+198sNu","(q95gt+1JC+SbCzIWhJQRKL3N1LnNKLnY";"!_C*NZWgE]a,^R<V","!_9fRPD;2";"(SEOjC+Su";"(nG5WqG1xeDyVqR==";"!DnGtcte57JA#";"!,9#\\@b%_o","!_K`/;AZ%gdDifInWAT\".,^K?3D-l9h!p";"!qYKC9L283-D$dD";"!\\E_1-1BYj?UV)!a","!C$K\'-LA[h6AZ5d","!C$K\'-LA[Y4D;0-AL\'aQrLk7j?cb";"(P9uX8iSL8Eu9mM==";"!\\Qg@-D-4";"(4EyJSDyaC+kBqG6=","(q95gt+1JC+SbCzIWhJt/6zVx1AqY6A3=","(n+kReEuuCwQ=","!W3W21AIT";"(nG5ut+Su4XOaqykBCyCbqGOBeM==";"!\\/kDUL2\'C/AZ-(9D-a","(SEOBmEppPDF0e9n=";"(sVF9CX1umM==","!\\4U]LAIrI","(tGOxq9OftGu7qGkWeDCJ","!1BYt8AZ<","(mEOBeO1umiSbe9mJ","!teKL/#6=p!j=5j]";"!1%Ll)LD\\u+LD\"e>\\e\\PHj*\"*cA5,","!C-rsK,q%l[AZ-(9D-a";"(Oi5bCDmuq95WmQOfts5jCsn=";"!A.JY]U(V59D;;bOtelPlLT]";"!C$K\'-LA[Y4D;0-A,pJh/nlQ:2","!D;;bOteKc\'D$qt0D-+L";"!qUl<rLd]\'H#4;V;","!._*X8LUo-fL.";"(tsY/8OFB8s0789u/mEOx+DyfCDNu";"(e9F7mEOgmiOxC+6=";"(q9yfCEFaqDOuCM==";"!A_ic<bFQV6L2]T@L281";"(eEuX8iSbe9m7t+SaeG1R8EOxCn==","!,9#_ajHHE>";"!C$K\'-LA[Y4D;0-A,S&,%nlQ:2";"(LEFAtsNLtG5bqin=","(SEy/tn==";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6LQD6zMgKM==","!q=eSs,C?6J1X2bGb%_W","!C-#W(Y,MgS";"!kl";"(Lsy/C+5btsR=","!\\mMOLj9";"!q#D`lqD%M";"!C(63Pj=ME\'De","!jHP13L\'sl_b<+_G++]P#!uf%G+MDEL>2jI","!\\II","(O+kVt+SuLEOBCEOxt9FBq9n=","(n9F0e91u3y1RCsOV","(tG5WqG1Itsux+D5WmsYACn==";"(PGSBqXSk8s0be9q=";"!.5uEILT4u5DWsG*,9/:SD;N0uD-+K";"(nsSV3Qyjewkzt+1uqR==","(ssyG";"!qYKC9L283=\\f";"(q9OBCECbeEP=";"(8/0BmEOx8syjLsyR","!qYlr0A\"#fGL\':g";"!\\Q^&5\\eZd0L\'%>JA1h";"!^f`o<jJYl@D$Y64LAZY4,7i^%A#";"(LsOJ8M==","(PDabedkzt+1u3z3=";"(LEO9mM==";"(m9uumDufC0FRq9F98sNu";"(zLo2","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+-]NAcaVn";"(q95gt+1JC+SbCzIWhJVR1Anx1A6Y6A3=";"(PENBZsOx4sn=";"!C$1#pD;0+9W%","!LDaArU8[`\'j9";"!Lj>\'hbXed[D--tJbBu6/Ld]f>LU$s";"(PEyxmM==";"(q95gt+1JC+SbCzIWhJQ/6LnGKzpJ6zVN","(LGmfq/1WqD0umEuA","!q=eSs,C;uZbFsNVj9","(801TZs5WZQ0BqM==","!Al\'U]jp";"(O+SbeEu/Zn==";"!b:DB7L\'B>kA_&?rUf@5Y","!W,=!3D-+K";"!_qf*fLd>8_","!Wu8\'dteK+gD4","!U;pWH,9rL&DMA(6AZ<";"!LUb!uA5S1[b<8d7b<8YEtGO/PD-:","(mEyxCDO/+DBbCDBj8smImi6=","(nsYbesy/8sFfLEudq9yxZn==","(m907tDBBeOFaeDSueM==","!^c.6R","(nsSDtsYACsnpPVusnPNL3i1ReDF9C+3f";"!q=eaVDnp99Ui","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/06zqG1APD1zn=","(PDBWeGn/","(Lsyg3QSbqGSBe91u","(nsYbesy/8sFf4sn=","(P9OJmsN/KdM=";"(4DOYt9ufCwk+8sYVeGq=";"!qYlfNAF?BpjYj[>Dt";"!L\'JucD(>";"(CX5bCsYVeiu7mi5BtDOx+D1WeEFx","(qDaYt9Fg+GOR","!^f`a2D00n","!_.Jo","!Uo.<)b<c0ZLUbc","(PDaYt9FgSEg=";"!^c)S%_C0!-W%","!,g@X*jH2q$D-r","!.5uiTDMM-CWrI!i";"!.5uiTDMM-CW%","(q95gt+1JC+n=";"!k\'p/-";"!q=eSs,C?6GAKhH6D;2";"(SG5Bm9u/Zn==","(LsyR";"!\\4gNoUi";"(Zx5ImDuV3AId","!D-gnqb%_MV,9#c3jp";"!\\e[jfAIr5m18m","!\\4U]LAIr6VqYgD%A_i*";"!UM4hlD;*;NA1c;ZDr","(q95gt+1JC+SbCzIWhJqR1Jnx1AqN6J6N1Ltx";"(n9FVZPmYq9o=","(eEyJmyFr","!jHP13L\'sl_b<+_G+n\"hkcaTJ#>D0j8!bn-Z","!1BYjSY,+(NYj]P_qJ2Ll";"(eEuX8iSbe9m7C+BReG10q9P=";"!,C5;-AIr6Vteg,]LTsN","!.5u1I,97";"!^f`.$,qJpf,qJW";"!\\mMOMD4";"(q95gt+1JC+SbCzIWhJQR6z3xKL6N6zPD1Jq06n==";"!b:D:","(P9Ofts0u3ySW","!1BYjSY,+(NYDa:XYbRaTja5K";"(mDOBqEFf+DauZ+6=";"!#6sl],Ci`lA#";"(qGOfq9yYq0FJqi5utsn=","(PDujCsY/3QNWtsn=","!,C`cEtGNm*teK+sAZ<","!q#DTULU-^";"(S9uxC+5BmEP=","!q=\\\'*,7(3c","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<Lk>\'08";"(Lsy/tDpp4sYVC+p=";"!A[l;0tG$h7A.W(rtechYAZ<","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$=?,>jdD";"(5+6Wt+1JC+SJhxOJ";"!U8,KEtmPh9A5b?","(PDO/OEyxCDO/";"(C+y08+k78sYDC+5/Csn=","!_.JM/\\mMOWbXS";"(eEOBCEOxt9FBq9S7qGkWeDCJ","(q95gt+1JC+SbCzIWhJQD1L6G6J6G6JQR";"(89OjeiV=";"(S9yDeG5bmEOVnDFJesO/8s1J","!C$K\'-LA*NND$G/","!_p!+0";"!A1D;/te(LEj*aquA#","!\\/s+mjalR\"AIrK]D-J)hb%0i%UV_a","(nGOxq9OftGV=";"!k\'7T(Y,^6<YQp","!jHP13L\'sl_b<+_G+n<0#+-D6#>jdpR!A2D","(LGO/eEufC4kPq9yfqGkBq9OftGV=";"(8EuVCEOf3E00qGnpt9Ppt9FWeEOBep==";"!A8hKoYQ@";"!UoA\"eA5DMOU$I:HL.","!_6!&p..!J$D-Ka3AZ-(9D-a";"!1<Abe.Z7";"(mEyxCDO/KdkfeDYu","(CDOfC+5BeyF0e9NWtDauqp==","!^f&B`b%.&cYQR";"(8XOaqwkBe9uat+SbeDg=";"!qaeOVbj";"(P9OjeDyV","!jHP13L\'sl_b<+_G+n\"^qc*;bZ+-8do","(1LMR6M==","!\\kLsGUV_Gd,7r";"!_CN6*WrA!fD00+5LUb!!","(eEOxqM==","!_pqD";"(nX5WeXbu3zQ=";"!_pR!ID;0ZnY,b(RD+E(Vb%3I";"(8Eu/+G1WmsYV+GCBeiOu","(80mut+SIC+5PZ+kuqR==","!,qt,\'L\'m-]j=n5PU(Vt7","!^f&B8AIt6rA_i0)AKu^";"(mEyxCDO/KdM=";"(CiOueEOx+DufCEOg";"!1:3(G.5)R)","(8DujeyFjt+uuqA3=","!1BYf=Ybq,","(CsYue+u7tDBBe+17C9ujeyFAeDNWqp==","(q95gt+1JC+SbCzIWhJVG1A3Y1AVJ1zPRKL3x";"(C4YXhdMYKLVYKLV=","(qDBWeGS7qDF0e9S7qEu/tDp=";"(8Eu/+D1ItsYACn==","!\\sg]#D-+\'h+2";"!tG07T,SM`[telPlLTYgEjalecb\'","!^(ObKDMW";"!18$.$_.t!QqDWO],^R$mjJJhD,!b+\'D;N0uD-hdM,9#_YLUb&nYj8GLb%_B_YU5hrYj8GLb%_BYW34jd,^L3HYU5k\\,qJ/&DhZKaL/Z";"!q=eSs,C?6J\\sg`R,S-K0";"!C;@-2b<]ZOAF`imDam/0W3WN";"!^f&B`AlD`a","(SsY/C+3pO+1uqVuVhdgf","!_qd#HDr";"(tG5WqG1Itsux+DNuqXM=";"!,^L1";"!U8,KEteKhhD;0ds,C?&s","(LsFVtsN3CsyVC+3=","(Lyk3+/Yc+0OnOVy6OPOL3E1BedkWe9NY3E5u3iOJCsnpeDgpLiOB3iCuqX1beDYJ3imbmEppCDO/C9OfmdM93i1umECueXt=","(q95gt+1JC+SbCzIWhJV/1zPY6L6Y6AqRKLnJ","(m9uumD0WCEOj+Gu7eDC9qDO/","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<>2!1o!u!\\L+j","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<UA>\'\\%";"(SEuJts5jCn==","!\\tZd)A5Ss","(PGOfP9yYqxkye9ydeEOV";"!^f&BiLU-;";"(PENBZsOxPD1x8+k/qxYzeDY/q9FjeEOxqxY18+1ACsNjtsYueGOJnDFfmi5WeENuqp==";"!.5uEILT4uY^(Ob0j9","(4iOatsYW8sn=";"!\\e\\0ej*S","!UVNR7LD\"pdLd\')DA#";"!C-\\8s","!C;Ff),q\\R(A5R6cLj_","(+u5ueEFBCwOV2dn=","!LD%\"bj=5j]","!,S-@[U8,N6","(q9OjeDyV+G1WmsYV+GOxeM==","!LUb!uA5SG]bX4NP,^FUOD-ng]b%hD";"(6p==";"!te5[gAI=[BDLh*AUb","!,Cgc3b<]ZOb%,%bU!Yq>";"!\\4?0mY,+`m","(OEBbq9SnC+5JeDY18+5xeG5uCM==","(OEyxCDO/";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<>2!1o!u6djcu";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<Fj!ARI","!C$K\'OYb>l)D&>>HUfkt.";"(Ci5BCXn=","(SsY/C+3pqGSx8sYXhdgf","!C$^u[b%_Z\'qY+\"";"(PDOBqDFf3z6pnDBBq9/=";"(C+y08+k7tDFJesO/8s6=";"!Do9[uAZ-G[Ui";"(CXOftGSbeDg=","!1P7HZ","!_qf**j=n!HDhR","!C-B7(L]=";"!^f`aPb<Co","!teMT3,qa[*b%_FE","(mDOBmEBuquF/8s0uqD1BeEP=","!,C`cEtGNm*te+Odb%,[c";"!_qd#Hj&O:=DhZ(&,-";"!L\'eu1A[i]NW3<Ws","(mDOBqEFf+DauZ+17m9yjmsP=";"!\\4?UZ,qtX3DMA2-,9rL&Dt","!q9","!A_igr,7Q";"(PDO/mEufCG6=","!,pJo","(tG5WqG1Itsux+G5WmEy/8sFf+G1RCsOV";"(LsuJtR==","(ssyG3QyfCDNu","!tS4qNL,b$ZAZ--","(mi5B8sNJ";"(PEN0CDm+tsNT3QauZs5be9n=";"(S9uxqGSnC+5JeDg=";"!a7`58JERpLh!O";"!D0[#[,9rj7te`!OW,=!3D-nl%,^Rs`";"!,7i^<DJ7,&D-1\\n";"(PDBWeGSLeGOfCi6WC9yxmwYaqz6=","(LsFWeVyfCGOjt+5L8+bu";"!^VkdLUV!","!W,Q5\'j*4\\dU?^GP,^L3HAa";"!jHP13L\'sl_b<+_G++]P;!ud!M+-TEW+o:q","!q#DT%D;;bO","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L6J6znRKM==";"!b:DB7Do@p>AO=H2LD\"e>j9";"(SEuJtDNWqGOxCOSuq90J","!A1D;/tmH,%Ufi";"(nsN/PDBWeGn=";"!C-#CGb<D&V","!kp(?:AlVFd";"!\\S(#Kq&H.mCe","(nsY/8PybeO1utGSbeDg=","(CEORt+5/";"(tD17CsYBt9NuCM==";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+-]Kj!AqA","(PDujm9Ox3z3=";"!C$^u[b%_Z\'YDa:XYbdufDb8CN,Ci`Vj)_";"(LDYjZOOJCPCBm9Fx8+SuqR==";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6LQx1JMY1n==";"!UVNH4L,1VHLUbu@A#";"(Pi5We+k/PiOxtDBBqDP=";"(qGkutGOjt+57qD1BeEP=";"(q95gt+1JC+SbCzIWhJVG6zQN6LnDKz3x1JQD","!te+F(L]M#4b%.]";"(SsYAeDSunDyaC+5BP9F/t+SbeDg=";"!UMWLgA\"EimL.";"!AlT5@D;0ZntG07rtec]nUVN*rtGO/PD-:","!qYlfNA#";"!.5)R)j9","(C+BReEFbmi6=","!\\e\\()UV_`/Aa";"(tX5bCDB/e9OJqR==","(LsufCs1xtsC/","!C$gm-D(X2O";"(t9F0e91u","!k]r:TD(\'","(PDabep==";"!jH25%YUi.>!e9MpD-1`","(t9FgS9ujeM==","(q95gt+1JC+SbCzIWhJQ/6LnGKzpx1zM0","(CEuJmEyftDP=","(2yaZh0/T24n=";"!\\tZ:9CME4$W5`LXA+Q5hAIV";"(C+y08+k7miuRCn==","(LEOfCGSI","(PDujCsY/nsuaSsYBt9NuCM==","(esyg+DSbqGSBe91u";"(LEOBCEOxt9FBq9SzeDY/q9FjeEOx";"(q9OjeDyV+G1WmsYV+GkbmE1I","(LEOXts1Y3Q5BmiSjCsmxeGOfCM==";"!AlV0Y,n","!bBIt.L4<@JAK3G4ja1\'q,9#!CAK3G4ja1\'qDnT1","(Pi5WCiOAmQuQ";"!LUb!uA5SG]bX4_Vj=A@dte`/6A#";"!\\4?cWD-Ie[b%./";"!_C*NZWg4L%W5i;fUV@","(LGO/LDCweGOfCi6=";"!\\s?L?AIrE$DMo+5A_i1";"!1%Ll)LD\\u+LD\"e>1:;@S,qJS","(+0ORCEy/COOfC+y08+kRCsSs8sOGLsFVCsR=","!C;F5NLD\"qJ","(8/N0tDuVCPmjeD5u";"!C(6Y[,^R<_jaiA@jH2f7A#";"(nsO/8EOxCsQ=";"!\\EJ@`L\'m-]j=a","(mEyxCDO/8sYX+DCWmp==";"(8R==";"(OEBxeGmBt9Nu";"!+j","(PEFJ8+SbeDg=";"(m9uumD0WCEOj+DFRmEuWeX6=","!a9E7";"!^?)&8,9s^c";"!jHP13L\'sl_b<+_G+n\"hQ+$s`#ca];C+-^(#";"!\\s?Lij*\\\"CDou";"!\\e\\0ej2\\G*Al7beD-Q","!^([[Lb%_BTD-Q","!b%.duUVNju,qJ/&DhZKaYq952LDf1?L]M#_LUAegb:D6-AI9P","!L]1\\3AIsP-LT?","(OEFWeM==";"!W3<R!Dnp99U(S^\',C`hd,qag@,@o";"(O9yjmsP=";"!_pR!ID;0ZnYb!Af,7be";"(LEOXCsYVt+5Y";"!qW%S<,94G9","(mEyxCDO/","(PEuxt+Su";"!._*Xt","(q9ybe95WmR==","!k]al)\\4?UZ";"(eEFGC+3=";"(S9OJmEuDC4k+q9yR3Q5WZwMx";"(P9uX8iSOqikuqVNuCR==","(nDyaC+5BPGSBmEP=";"!^fUnmjp";"(e9yaCn==";"!.Z%k,A5DD","!CMNuu";"(L+u/8EuAtsR=";"!^fUD@C$`\'<U(VL/D-a","!qW%S<,94G9C$1#)b%,<";"(m9uumD0WCEOj+D1Its07mEOgmiOxCn==";"(mi5BtDOx+DFx8smbep==";"(S9Fxesy/PDOBqDFfP9yf8/1It+5a";"!^f].$b!n8GUon\"H,SM`P","(L9ODC+5jeG1u";"!^f].$b!n8GU;Ra?,S-K0","!1P9&GA5S[J,^R<;A5D@h,7Q";"!L2]2Ej=bj>L2]`";"(m+1uqX5fts0u+GCBeiOu";"!\\e_6TA5UNpA.JcJ","(ts0d8sOftDP=","!CMeWGA5,","!Uo.CNj\'^;l";"(m907tDBBeOFRt+5/qR==";"!jHP13L\'sl_b<+_G+n\"_t>TNdj>\'_d8>Dt@;","!1:3GUA5D\\r,qa%";"(OEBu3i1ueEOAmEOV3E1We9CbCxkGt+6pq9OaeGCuCwg=","!te^J@UVNb0Ld]fXA#","(t+S/Cs0Rmwk/exkbe9SuZwkfms0dC+3pmDu/8wkfms0dC+3=","(O9ujeEyXCn==","(sn==","(PGkbep==";"(O+1uqVuV";"(qJ57tDBBq9/=";"!jHP13L\'sl_b<+_G++]Hb+oWX,>jqS";"(8DOYq0FDtsN0Cn==";"(+DCB8DO+CsyReDYcmDYuCykBmE1ICsn=","!Uo.W5bBZ@Yb>2OsUV_m","(mEB0es57qGkWeDC7tDFfep==";"(6L3J1zPD1JpY6M==","!\\e\\PHAIr5AqJ2Ll","!^f&iFL]#o]bFsNVYU)=VURdi%UW4";"!.5uiTDMM-CWroeO,7-FV,l#9MLD\"e>","(tXO9C9Ox","!C-#:HAI]";"!^V=4ib#55mb\"Da","(hD1ICs1TcDBG8snF","(nsY/8PybePOfts5jCsn=","!C;F!?1<$emC$1#)b%,<","!\\E3dmLqLhUL6aUAYbCq\"L6YO!AMmD<,7bSEAZ[U","!,9*?nL]$r9jHR1lL2]i4teK+sAZ<","!_qp\\NLqj7Oj*:2n,@o";"(CEOjt+V=","!_6!RmLD\"e>","!AI*.","!AI*1%W34!+A#","(nsYbesy/8sFfqR==","!W34!+A#";"(LEuX8inpP9ybedkke9npOEB0e9Suqp==","!AO*&stGO/PD-:","(eEyfCi1At+ku","(LD5dZn==","!W3<R!Dnp99U(KNPUfkk","(mDOBqEFf";"!q=eWT","(esyg","!Uo.<)b<c05L]M,","(OPuLmi5W8DP=","(8sY9eR==","(SDNWt9yjPDBBCEFGqR==","(SsYue+uQCsy/8y1WmsYVqR==","!bXe+gD-+#],9rL&DMQ";"!\\rZ!pUVX2]LTr]tbFs[PbBF","(tn==","!C-JW<LDYM$,q\\F\',-","!\\mKG-";"(q95gt+1JC+SbCzIWhJpR6zP/6LMD6LpG6LqN","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/G1LMGKzPDKL6=";"!C$`ueDM;6$b%YsiD;;6PAZ<";"!\\mMOWbXm[sb\\h6T,9rL&Dt";"!C;@-2b<]ZOAZOTiD-516A#";"!A1D;/teiP-DJludL]1JnA#","!.5uiTj*=%&","!_p!6p","(OEOgmiOxCn==","(q9OjeDyV+G1WmsYV";"!D$99<Ld\'W\\,CbXO,C?&s";"!#4L(1b<>?\",CM`3!*-]eUVrJ";"!\\e_d2A.p*^YDWTJLD\"+/b[FQ\"\\/:hFA5DtPn*";"!U;CR;A5D!GLUb1uj9","!L]l#3DMM\\6b%[i%bF:0(A#";"(4+1+CsyReDYzeG1aC+SbtR==";"!\\GH<!D-lB&","(n9FVZn==","(PENBZsOxSEy/tP1WeXSxeDNjC+3=","(8/5BqDOEeDNVC+5Kts0u";"(+u1IeDF/5snT5M==";"(SGOf";"(q95gt+1JC+SbCzIWhJq0KLM/6JMJ6z3G6zVx";"(mEuA8DO/q0FDtsN0Cn==";"(Pi5btDO5eu5WtXOg","(mEyxCDO/8sYX+GSBq9mumM==","!A[l;0tmk]=LD\"pd";"!b:DB7L\'B>kA_&^fLUIs";"(LEFA8DOV3y5Bq9u/Z4Q=","(q9yXCOFImsn=";"(q9OaeGCu";"!\\mMOM,^FUPj`k\"#AZ<","(q95gt+1JC+SbCzIWhJQN1APJ6J6J1J6J6zPg1M==";"!\\eB[TYA**l,7m","!1:3(GC$5%pL.";"!\\kL7DUf-";"!jH25%tG077te5O6D--QgLjD\'>jJJh";"!\\Q7\'<_SBN5AZ<","!C$K\'-LA[Y4D;0-A,SM;JDnT1","!Uo.<)b<c0B,C+K(D(\'","(sxam3Q5jeGBdm+5X","(PDaYt9Fg","(s0g1wu/T","(ns1AeGOfmQyXCn==";"(CDNWqXu7m9yjmsP=";"!^f`o<jJJh","!\\e_6*D$djf1<Aj5Ui";"!\\mgcSCMEo*qaEnNj9","!\\/XOZUf@f>^fUDVLD\"e>";"!Uo.<)b<c0WD-&3";"(nDBbeESkCESuCM==","!L]-McLU+dJL2]T@L281";"(CDNWt9yjqDBBCEFGqR==";"!C;@i2LU-?","!_9RqSY,5gK","(4sYDCsY/eG5YSEOjC+SuSsY/qXV=";"(8sSjC4kBe9uat+SbeDg=","!_6!&p1:;@S,qJS","!_SB[IC$1r[A5,";"(nDNbtDj=","!\\Eh!p,7i`PDM;B";"(PGOfP9yYq/O9C9OAmM==","!C-JW(AFU1:LT4F","(nDFfC9uX3ESueEO/Csn=","!AlDP/j*\\uhLD\"e>teK+sAZ<","!1[&s","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L3gKzVRKn==","!_pR&Fk]:-eD-nB[Ufq(6\\m?3,Ub","(PEN0CDm+tsNT3QOfts5jCsn=","(SPNc4sYAq9OaCsY/";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L3/6AMN6R==","!q=\\C[b%,<","(8/u/Cs0PZ+kuqR==";"(tDFJ";"(PENBZsOxPDOAmEuWep==";"(tsY/8OFB8s07CsYBt9NuCM==";"(t+1J8+1/qR==","!\\mMOLYb>l@Lj8S.","(PDabedkz8EyfCDOx","(q95gt+1JC+SbCzIWhJQN6JMG1JtgKLMN1A3GKM==","(+DBBq/NWtsSuCM==";"!_K`hL";"(m9uAmEua+GOJC+578sn=";"!_K`/;AZ%gdDiPcDA?O@Wb:DRcb%[g&YDW[Qjal%Y,^L3rYU5\'aAZ5YgYjTZqD$6BlA+U";"(3X/=";"(L9OG3E1We9CbCxkfts0u","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<,,c#3n","(n+1JC+n=";"!C$5%(A5D_uj*]","(Lyk3+/14nO133ESWC+6pe9F/3EyAtDORmwkBeXVpt+5Xms0ueXSJhp==","!Ld\'W\\,CbXO,C?&s";"(msYRts1T";"!1Fp!=L2`j/A_i*","!q=\\\'*,7(3c^(ObBUf6N6";"(nDFjeG3J","!UVNR7LD\"pd","!bXe+gL2SmUDhh?aA5Z","(q9yXCOFdeGS7eGk/8sFfqR==";"!\\tBH#UPt","(nXOdt9Nu","!C-#CGb<D&VC$1#)b%,<","!\\EJ@`L\'m-]j=n+),9rL&Dt","!.5uJIDok!]YUlD\",S-5rU!kbX";"!C$K\'-LA[Y4D;0-Aj*%WLnlQ:2";"(P9F/t+SbeDg=","(P9yXC4k3OPn=","(mi5BtDOxLG5bCDuf";"!1<A!=YA\\1<,SM`P";"(PEu/tDp=","!QqrVbbRuo:Q9P\'g#4Z>\"L6a]&b%3t<Ypsmm","!^8s#uYQR","(801IeDF/PDOatsY/8s1hC+uJ","(qD1x8+k/","(P9yx8+SY";"(nDFjeG5JPDOAmEuWep==","!jHP13L\'sl_b<+_G+n<Hoc*3d;!ujRZ!u6\"";"!\\mc^#Dn6Meb%3,3","!C$&f0Uf6(&bctl8DhR","(O9Ox8sCbCsn=";"!\\Q^ko,^L3H_qp\\NL.";"!C-#mOAOQr";"(LEOBCEOxt9FBq9SLC+5btsNJ";"(SDFjCwMJ","!\\4U;p","!1:3GIbFr>";"!^f&B*A5,","(mDOBmEBuquFxt+Su";"!Do9%%UfkjnA5;";"(P9yf8DOV";"!UV_M@LD]";"(O9uJmsyjq/Ofts5jCsn=","(SEO9Csy/","!_Ce@=A#";"(n+OxtPufqGSBe91u";"!q=eaVDnp99U-kO5LD\"e>";"!qY+-NA553*b<8d7b<8YE","(8sYD+Duf89OAmyFAeG1aC+SbtR==","(4DuA8R==","!U8,KEteKhhD;2";"(LGk/8sFfqR==";"!qaE>)Yb8r[LU$rDY1";"!qW%8PLT]","(n9uX3Q5BtDaxeDFaqR==";"!L]l#3DMMqEDJ7&f#/]MdAa","(OEOBe+1wZPuQ";"!\\Q^&5C-%Wfb%,<","(nDFxCPm08n==","(SEOfqDu/Zn==";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L3Y1zP0Kn==","(qDBbCXS7mEFR","!j#:f.A5S?/A5>ZhL.","(mAQf6wgR";"!ja5-!LD\"e>";"(PDauC+n=";"!qW%8[";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$sHD!uq.";"(SDyaC+kBqG1Kts0u","!1P7gZjJ\"rdLD\"e>","(ep==";"!,pJM$L2TW\\D;%cZUfkk";"(mi5BtDOx+GSxtsYJqEyxCsYAZn==","!qYKC9kNt<qb\"SBsDMW","(+GOfq9OAeDuj+G1Rq9ufCR==","(SEuJts5jCsn=";"!AlDP/Dn6R-,9#c3jp";"!bF:<6AI7","!1%W>0DhZKaC$1#)b%,<","!\\4?UZ,qtX3Dt","!_SBN5Y,U&2D-:","(PENBZsOxnsSVCsn=";"!_@nRjA5D@h,7Q","!U;>#RABCp3";"(PXOfnsYben==";"(q9yXCOFdeGS7t+S/ts1T";"(qGSBmEO7tDBBe9muquFTC+ud8sYV";"!\\4U]LAIr6VC$1#)b%,<","!tGNm*teKcab%_:","!C;@eT,^SfADok+d";"!k]r>$bRuD?UV!";"(4sYDeDauPDOxm9Ox","!,9*?nL]$r9jHRj[Uf6#(D$@tX";"!1<Aj5Ui";"!\\E36m,C?4";"!k2.LdbFB&7Yj8N.,7bTuAg3gYWgEZ_LTQb+Y1","(t+SaeG1R8EOxCOFVCs1BZn==";"(8sYD+Duf89OAmyFGCsyReDg=","(SEuBesFfCwMJ";"(qDBWeGS7qDF0e9S7m9yjmsP=","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L3xKLpD1p==";"!AlT(aC$&\\:A#";"(PEN0CDm+tsNT3QSbqDydeEOV";"!\\kLAQj*\"%\"j9","(LsFVCn==","!\\4?0mY,`+KL]-4<Dou";"(OEOBe4MN3y1AeG5u","(S9ybeEOV3iSW3ENWtsnpqDF0q91uqR==";"!A8hKoYQ<fa+j";"(PDaYt9FgPDOAmEuWep==";"(8/1It+5BtGSuqVyf8s0JLsyR","(PDBBCEFGPDF9mEYuqG6=";"!,9*^dteKhhD;0d@j=<";"(q95gt+1JC+SbCzIWhJQNKLtD1JtR1zPN1Jq/1R==","(P9yXC4kbqxkV8+1Bt9NuCM==";"(n9FxCEOxPDurCOkbZEOj","(PDBWeGSLeGOfCi6Wt9yaC+mBq9Pfe+MJ";"(+DuVeEO7tsYbesy/8sFf","!qYK\'P,^RP<\\rBgZ","(tsuJeEP=","(S9NY","!^>T_bUfkjnA5;";"(qDaYt9Fg+DNuCXn=","(LsFWedkL8+bu","!_SBN)A5UH7jYM","(L9uf89Q=";"(8Eu/+G1WmsYV+DyJqDO/+DuV";"!qae:2DMQ";"!_p!+0_Ki$q","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+-]ZLcWKi","(OEB0es5ftsuj","(nDBBq9/pP9yf8R==";"!q=eSV,S-5";"!\\t_!`";"(qGSBmEO7tDBBe9muqp==","(8/N0tDuVCOp=";"!b%.ddj*=%&";"(esy/C+5btsR=";"!C$K\'-LQj","!jHP13L\'sl_b<+_G+n\"_,>T[+#c*;dU+McNj";"(4EuVCn==","!C$K\'-LA[Y4D;0-Aja5)oDnT1";"!qY+-NA553=j*\\\'Q";"(S9yjeQyf8s/=";"(m9uumD0WCEOj";"!qW%S<,96>*jYRROAO=2";"(8/N0tDuVCPOYCn==";"(PEufC/NBt9Oj";"!>t";"!WAc91telPlLT]";"!CLYuW^oWc2^M&sSq]5L";"(LGO/eEufC4k18snpnDFjeG3=";"(8/NbCDB/8sYXPGSYeEO1t+M=";"(S9uf8+1IC+3pPEyA8R==","!\\/s+mjalR\"AIrK]D-J)nD;;6PAZ<","(t+5A8yFxtsYT","(4sY/CsYJ8+SY";"(+0FaeDSu";"!,7i^-te`q@DMb*dj=+arW%","(ODOjtDFaC4kdts1ThwM=";"(PDaYt9Fgn9j=","(PD1Wq9OJ","(OPuzeG5fC+3=","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<;b>\',\"";"!b\"D?aW%";"(q95gt+1JC+SbCzIWhJQNKLMgKLVD1zpR6JMD1n==","(LEuX8iS5e9CjmsOftDP=","!qam!ULT7","(ODybmyOfmEujLEFBCEOV";"!1<$JMUV!","!C;@eT,^KMeD-l9h","(P9yXCn==";"(4+1+8+SI8sYcL/5nt+5/";"(LEFA8xkkeERpODOBqEFfqR==";"!_9!dB,CoCj,CIOZD;0k6A5,";"(PDNBmEP=";"(S9yTC4k4eD50ZM==","(SDyaCP1We+kWe9Ofmi6=";"(PGSBmEuJmEuASiOuei1+8sYLmi5utsj=","(eGCuqX5bCEO7CXkJ";"(qDBWeGnptsYbesy/8sFf";"(OEOgmM==","!jHP13L\'sl_b<+_G++\'68!ujtD+oWXQ>\'J*","(CEF0t9Nu+Db0e+k78EObCDB/";"!_C0!iLj[";"!Ld]f>tGO/@DMW","!C-t$9AX`C","(Pi5um9uumxk38+n=","(nDyaC+5B";"(CX5WeO5inp==","!C;@2SA5U`<A5>K/Aa";"!,9#\\g,qC","!18$.$_.t!LqDk5IDoGI,,^R$mjJJhD,!bpdDod*@YUlD\",S-5rD-Bs_DMM#uA5Al3L6YOnYU5C&LTsiJLk[","(nGOxq9OfmQ1BesOxtn==","!AlDP/D-gnqb%_MVDn6R-,9#c3jp";"(qGOfq9yYqR==";"(tDBBeOF/C+B/m+5u","!\\rZ!pUV\\XiDni";"!C;@l%Uf-";"(Oi5bCDmuq95WmM==";"!LDaiY,^5";"(eD5JtGOxCn==","(P9uX8iS5mEOa","(qGOf+DyfCGOjt+57qDurCn==","(801TZs5WZQNbqGn=","!,qt,\'L\'m-]j=n59AO#d7L.","!U;C*#,94/BD-b.r","(nsY/84kPq9uResufCn==","!q=eu*b%Ys[L]MA_.Z7","!jHP13L\'sl_b<+_G+n\"c,cac0Dc*3&j>2p2Z","(tDNWe9OxCst=","(sxam3y55OVy6PR==";"(PDyjmM==";"(P9uX8in=";"(tDF0qENu","!.5Z;,Al\'KED;N\\r";"(LsF0qDOhC+udeDyxCM==","!q=eSs,C?6H,^b";"!U;C*DjH2;/A5U]Ib%hO";"(m9uumD0WCEOj+D1Its0J","(esFVC+5f8+bu","(P9uX8iSEeDF/","(qJy7tDBBq9/=";"(qDBBq9OVPDO/mEufCG6=";"(801ut+1WeuSWCDmjCP0BqM==";"(q95gt+1JC+SbCzIWhJQN1AQ01zQD1z6N6Lnx6M==","(4sYDCsY/eG5Y4sYHCs1/PDOAmEuWep==";"!_p!qNA55u^b%hD";"(PEN0CDm+tsNT","(LsOat9OxqDBbqySYqEP=";"(4+1iq9F0e9SuCM==","(89u/mEOx+DyfCDNu","!te1(f#6=+/,q\\dVL\'B>kA_uV5Uf6BV,7r";"(+0Sxts1uqX6=";"!\\sg`H,CiZ0";"(nDyaC+5B3y1/t+Su";"(q95gt+1JC+SbCzIWhJQR1JMD6z3x1An/6JVD1R==","!1:oJBLD\"pdC$1#)b%,<","(LGCuqX5bCEPpCXkJ";"(sVufCEOg";"(mi5bCDmuq95WmyFJ8EFWmyFVCsNBZn==";"!Cob*pLbd^6A5U]pD4";"!b%.dEb%_e@,9r]6LUAegtm/^rA#";"!q#3";"(PGSxC+SA8M==","!1BYj?U09aFbBZ(Y";"(nDNbCsY/P9OReEuAt+SuCQ1jt+1JC+6=";"(Lyk74PY5OwkWe9NY3EyAtDORmi6pt4kJ8sYXeEPpCXOftGSbeDgpt+6ptsgpt+5Xms0ueXnf";"!bXe+%bBO+E";"(q95gt+1JC+SbCzIWhJQR6AVG6LPNKzVD1LnY1M==";"(PDabeV1ItsYXC+5Pts3=";"(S9uf8+1IC+3=";"(ODOJmEFGep==";"!..>`8A58911:ubmUi";"(SDyaCOkBqG6=";"!._*XtL]-M\\","!j=5idUf29ObF:0<AI*1sng\'QN";"!AlDP/D-gnqb%_MVLd]f>LUnR9Ufkk";"!,pa`=b%_:";"(nG5WqG1Itsux";"!C;F!?Y,^6(Y,Mg=,^L3HAa";"(sxam","(PGkuCsn=";"!q#\'opLU=","(qDBWeGS7CEOjt+V=";"(SEuBesFfCykjt+Su";"!Lj>\'hbXed[D--Q9bFsNVte5`7jYR:","(tG5WqG1Itsux+DNue9m/8M==","!1BYj?U-WL2DMb*dj=+arWsf!-b<D&Pjp";"!_CB?Wjp";"!jHP13L\'sl_b<+_G+n<0W+osFk+M^[o+omp","!W3%4t,C?6%AIsg*UV_a","!tG;)eDhZ!*UV@";"(4DYbCDB/";"!A_iX[b\'";"(S9ydq9uA";"!_K`;mj=5pa\\e_ETA5Sp9","(8sYD+DYum0FueXSxZn==","(PDBBCEFG3y1WCXSfC+1J","!b%.dEL\'mi4b<D&Vte&^VA#","!1XCgRD;j";"!.ICgej=nq)LU-;","(O9uAmEFxZn==";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$sNbc#,n","!Uo.<)b<c0bj*\\4tbF:K7";"!C$K\'-Lt@D#L2?l4W%","!Al8-rD+1e^b2","(sxam3M==";"(PGkWeDCJ";"(SsY0en==","!.1A9[_7#*","(tG5bmyFJeGOfCM==";"(8s0BCDO7tDyA8EP=","(nsSV3iSW3Q5BtDaRts1T";"!A_1k2bXS";"(LDYzeEuueXSym9OfmM==";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L3Y6J6G6R==";"!..fq5qamtWLU-ME,97";"!LD\"p_tGO/PD-:","(P+OumsOKts0u","!_I0uJ_SBN5";"(SiOuewk38+1/eG5Y";"!.5uMfL,U]GAZ<","!_pRj=L.","(Kp==";"(C4YXhdMN1zqg1Atg1LqG";"(PDyfCE5WZM==","(PGkutDuBeQ0uqDp=";"(t+kRCsyxtsYACn==";"!^Rg)s\\e_ETA5Sp9_p!qWD-&&Jb:Dt@","!W3<R!Dnp99U(KN*,C5,OjH2PajYd*rD;N7","!_7#0+D-+ehDMM7","!._*XtA5UHiWip";"!18-]@1V,-pYj\'h\\WgEFd,7bSEL6Y[\\L]lR\'UVX2EL2]i>b%,%!,q!B/DbRAhb\\A&uDM;M";"(CDNWt9yj+G1ItsSWmG6=","!_S[Q[C-#CeAa";"(mi5bCDmuq95WmyFBtGSbm9P=","!te`6rLU+dhj=5j]";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+-]GU>\',4";"!\\mMOWbXm[sb\\Y","!jHP13L\'sl_b<+_G++]@R!AjRF>2d#?caSu";"!.5ZN8LA#?.D-l9hj9","!^R`=fD-1m`Dh_!PDMW";"(L9opOEOgmiOxC+6=";"(OiuRCn==","(q95gt+1JC+SbCzIWhJqYKLp/6JtG1LQJKLMY","!Uo.<)b<c0KD$@B\"A8F";"!C0PBI","(nDBBq9yAmEOx","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L3G6A3G1n==","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+-]Gb>\'0D";"(esFDCs0ueXn=";"(8/S0CsN1t+kJ";"(t9FgS9ujeQ1WeEFx","(CXOjeyFBm+SW";"(CEF0t9Nu+Db0e+k78EObCDB/+GCBeiOu";"(SDu9my5WtXOgPGkueXS4C+mBq9SJnDNB8s0uCM==","!W3%4t,CM^VL2TW\\D;[<","(qEN0CDmGtsNT+DauZs5be9n=";"(CiOueyFBqG1bqGSJ";"!,g@X*jH)","(8/N0tDuVCP1jeGOV","!1:ubmUi";"!C-#=(,^5","!Agu+1","!\\e\\PIb<?,K,9rL&Dt","(q9OjeDyV+G1WmsYV+DyJqDO/+DuV","!AIr&9#6=E6WNWu@Uf6#(D$@tX";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L3YKztN1p==";"!C-%W(LA*N0D00+PDou";"(O9uJmsyj3EOf8EyftDOaCsY/qxkue9ydeEOVhp==";"(OEBbqxkAeDY98sqpmDujewkjeDyV3Ey0mEFat+SbtDyjeiVpe9Ogmwk/8s0uhp==","(Oi5BtDOxqR==";"(n+S/ts1IesOfmzQ=";"(wp==","!C$^uqD-+eCD$@;","(LEFWmE5WZQO9C9OAmM==";"!jHP13L\'sl_b<+_G++]@R!bn-5>j6B?caUe","!1[].lb%;[/^RcDfD-+K";"!Ld>A,,q%gEAIsg*UV_a","!C;@2IDhZ\\4LDf1","!^fU^";"(tG5bmyFJeGOfCyFR8+SA8M==","!cWl";"!L\'eu1AOt6fLd]fXA#";"(4Dujei6=";"!\\4?UZ,qtu";"(OsYjeD1TCsnpnsNj3Q1WqD0umEuAqxQ=";"!C$K\'-LA[Y4D;0-ADn6[6,9*6fLk7j?cb","(SEO9eEOAmQS0q9y/8sFf";"!qW%Qmj=bj>L2]`";"(q95gt+1JC+nrhxFJ8GVWqGOfh9bRCR==","(LDYYZwMJ";"!\\E_1-\\tZb%D-hg)Ufkk","!qar)*bXed[D-$p2#/]MdAa";"!UMQh)WAS.nAIH=ML]uRlA#","!\\Eh!p,7r","(8sSjCn==";"!U(VUatN>";"(ts0d8sOfmyFAeDNWqp==";"(Lyk3+/14nO133E1BeENuCM==";"(m9Fjms0u";"!\\Q7\'","(q9yXCOFdeGS7qi5uC9Oxq9OV";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+-]ZkcJ3Q";"!\\e[jfAIr/&C$1#)b%,<";"(8EFW8D0umEyaC+SIeDn=";"!\\Qgg0Y,cEeD;j";"!jHP13L\'sl_b<+_G+n<`L+$=FW!AR1LcWgl","!Ljc-/AZi]GUb","!,C`cEteK]uU?[";"(O+kJCsNjPGOXCDOJmEuWeX6=","!Lj>\'hbXed[D--tJbBu6/AO*J@L]-a7";"!C;@i2LU0[HAIrI";"(ODy/C+5at+5T","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/G1LMGKzQg1Jn=","!LD<9YDMb+h,C?&s","!U(VUate(LEA_&F%,Cghu";"!^f&iFL]#o]bFsNVYj7Udja5p.n*","!UoOTND00+5AI<POLD\"\"GAKnk";"!\\kLDCA5os[ja5eaj9";"(n9OBtDppn9FGeM==","(Lsyx8DO/qENBtDOLCs1/8sFf";"!C$1f-A8h$A,qD";"!LDa-_A_i0(,^FUOW3U";"(qGSx8sYX","!\\QgHp","!qYlfNABdn8LD\"e>","!A[l<Ej=5paj9";"!A[l;0techYAZ<","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<U,+-Ta";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<>D;dj>DN\\Rcu","!C-rs4C$`:V";"(CiOueyFueEF7tDBBe9mu","(qDO/+GCa+DODCsY/";"(PGmuC+npL+uJmEOxZn==","!1%W>0\\sgNB,9rL&Dt";"(3ikBqG1uCM==";"(8smfeG5u";"!qY5M5YQ:&q,9#U6";"(nDFJesO/8s6=";"(ODOBmEBuqp==";"!tmFU(AK/","!\\kLAQ","(C+y08+k7mDOBqEFf","!Dn/&E","!C$K\'-LqL84L2]`";"!qYKC9L28u_+\\C4?W^[f:b\'";"(esFVCn==","!C$K\'-LA[Y4D;0-AA[l0fUV)6^nlQ:2";"(S+BAeiOVCn==";"(n9FVZOkWqDu/8sFf","(nGOxq9OfmQFRmEuWep==";"!k\'pY7A\";>*b%O&JDt";"(4Eu/3wOJ3ECWqdMuhAy9","!1<$MkAIrhubj";"!C-#mOUF33EU8,en\\G=3;";"!ja.9[AZlh0,S5;HLUn%ODr","!U(VUatN\'";"(t9F0e91u+G1RCsOV","(SEOjC+Su3Qy6Lwkwts1TqEyA8R==";"!L4h+\"bF:gr","!C;F!?Y,^6(YA\\1<,SM`P","!1%W>0DhZKa","!L]l#3DMMqEDJgP%,^L3HAa","(Pi5um9uumxkneEyY8sYX3n==";"!_CN6*WrobgD-=","!,7i^-L3+<NU0papD-:","(nDFaqEy/ts5beEu/Zn==","(n9y/mENuCG5WmsYV","!A1D;/tmLhgLD%>L";"!\\e\\PHj*\"*cA5DV","!k]ali,7iL2Ub";"!qUg/7A_5U%b\'","!_SBHMU-Q/*D-=";"!1Baa0j2t@sL\'8";"(4sY9eR==";"!UV_\\OLU+d>,qtu","(mi5BeX1Rt+5ue91Y";"!LUb!uA5S1%j*\\\'Q";"(nn==";"(SX5Wen==";"(SEuJqENBZPO6LR==";"(nG5bmwkkqG1umwk5SM==";"!C;@#)A58RJ1:oBf","(qGOf+GSuZiS0q9P=";"(8sYDCsY/eG5Y+DCB8DO7eGmfCsn=","(q95gt+1JC+SbCzIWhJVG6LpJKzpD6AnN1znG";"(nDBBqdkke9uaqR==";"!_9>K5j9";"!L\'B>kA_&3(Ld3";"(S+5xeG51C+1Jtsmu","!,7i^-L&fROUf6;4jH2PajYd*rD;N7";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<,1c=`5","!qYKC9\\Q7\'","!q=eSs,C?6J_C*FUUV_a";"!\\e\\PHjH2j*D;H<<AZ5F9Db8C$,qtu";"!CMEu)","(esFWeuF/C+B/m+5u";"(mEyxCDO/8sYX+DuXe9FxCn==";"(PD1x8+k/","(tDBBeOFat+Suq9uBeM==","!_7#0AAZ5LUD$@tX","(C+CueXS7tGOxq9OftGu7m9yjmsP=";"!A[l;0tNE&fja5pED(J\'cAa";"(mik7mEBxeGmBt9NuqR==";"!W3WMh,7(3c";"(O9uJmsyjqR==","!W3<R!Dnp99U(KKfjYR#r,CiZ0";"!L\'B>kA_&?(Uf@^","!L]l#3DMMqEDJ7X4LD\"e>j9";"(4XOaqykBCi6=";"(q95gt+1JC+SbCzIWhJpJ1zM/KzqgKLQ/Kz6g";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/06zqG1APR6zM=";"(PXOfPDOxm9uACn==","!qW%S<,96>BUVs\"XA-surjYM","(msYTe9FGep==","!C-#mOAOt6`,^b","(PDBWqQNbtX5BqXV=";"(n+O/ex0jeDyV3E1jCsyxCsn=";"!C;F1p","(S/OP";"(qDaYt9Fg+G5bCDB/","!Ld]fXAZA7),Ci`VjHRb7,^L3HAa","!,Cg+@,qa0l,7b/p,^Rs`";"!qae`","!>4";"!1:ot5Ld\'QqA#";"(+G5WeGS7qEyxmyFWC9CJC+S7eGCuqX5bCEP=";"(PGS0CEuW","!C;@-2b<]ZOAZOnj,q\\o","!1BYjSAZO=m^(Ob0";"(ODObCDB/3y5BmEuW","(q95gt+1JC+SbCzIWhJVN6L3g1LpN1A3=","!,q#Ncte?]a,qt&-L\'mi3Aa";"(LsyXe9u/msSu";"!\\e\\PHj*\"*.\\e\\PHj*\"*cA5,","!_CN6*WrA!fD00+LD;2","(8Eu/+G1WmsYV+GOxeM==";"(tD17tDFfmi5BqGn=";"!tG0W=AZb3-Ll","!U;q4iDhZ(&,lt2Kb%O&4j9";"(PM==","!\\G=3m,CW";"(SEOjC+Su3Q1We9CbCR==";"(PDOfCQ1It+n=","(n+O/ex0jeDyV3iORCEy/Csn=";"(LsFJmwkyeEua8sYBmEuWeX6=";"!..!n(^>=\"(AO=H2LD\"e>","!,qt,\'L\'m-]j=n5(AIrZ&Lj[";"(OsYjeD1TOEFTCsYJ";"(nDFjeG5zeG5xCs1/8sFfPDOAmEuWep==";"!_6!&pA5AO=D;0k&","!b\"D?c";"(54g=","(LsF0qDOwm+S/eDgNnDNbtDj=";"(Oi5BtDOx3ySxtsYJqEyxCsYAZn==","(sxam3ykx8+1Wedk68sCu","!j*%_";"(q95gt+1JC+SbCzIWhJQJ6AMN6LMgKL3x6JnYKM==","(PDujCsY/nsua4DOYt9ufCM==","(nsYbesy/8sFf6n==";"!j=neVLD\"e>te`/6A#","!,C`cEtGNm*te1TE,7m";"!kq?UFAlVFd";"(t9yA8GkBtDa7CsY/qXV=";"(nsNjeGmKeDYu","(tDNWtDa/8s0u";"(SDNBq9P=";"!C$1RR","(SDyaC+kjt+uOmEuj8+SY";"(q95gt+1JC+SbCzIWhJqNKL606LMNKLPJ6L3R","!\\/LOID;[A","(PENBZPBbmE0Bq9auqu1WmsYV","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<;A>D0\"","(SEuJqENBZPYBesP=";"!_CN6*WrA!fD00n";"!A_ic<bFQV6L2]`","!C;F5p";"!jHP13L\'sl_b<+_G+n\"Xkcac?q+$<;b>jdM8";"!L\'\"BEAMmj6b%h^4b%,<";"!_SB?MLU-oHDMM#cA[lc)","!1:od8LD\"5&","(tsY/8OFB8s07ZsyG","!\\kLTbW,QR&";"(t9yVCDOJ","(e9OG+DOfmi5Y";"!\\4?kFA5;","(t+1JC+S7tDyA8EP=";"(mG5bmEO98sNu";"!1P911D-5t6";"!jHP13L\'sl_b<+_G+n\"cq!A2jD>D[tF!u2*Z";"(C4YXhdkkqG1BmsN/3y5bC9Nu","!\\mg;oDMolOA5gP$A_iB";"(OEyxCDO/8sYXPDOAmEuWep==","!\\E3dmDh_ka1:obK,qaUNUfq-sLj[","!L28aYD;N7","(n+S/ts1IesOfmM==";"(q95gt+1JC+SbCzIWhJQJ6LnD6JVR1JPx1Jt/Kn==","!qYKC9\\e\\0ej)0";"(C9FxCDO/+GSbesP=","(SEu9CXOJC4kLtDyjCn==";"(OsYjeD1T3y1ueEOAmEOV3y5Bq9u/Zn==","!q=eaVDnp99U2%\'m,CK&h\\e\\0ejp";"!_CeH)\\s?cUW%","!_K`/;AZ%gdDif:cAZ5N%YU-:.LD%/k,q\\?EL.","(PGSBmEOz8EyfCDOxSsYBt9NuCM==","(PDBWmxkEL0t=";"!jHP13L\'sl_b<+_G+n\"ct>\'tg,+M]PD+o=Zt";"!tGO/7DhZ(&,g27-Al,";"!1VA.`.:S*T","!b%.dEW,=!3D-ng/,C5B","(4DOYnDFVCn==";"(4EyrCn==";"!AKu+XLd>8_","(tsYWeXuaeGOJ+D0WCEP=","!..!+jD-l9hC$1#)b%,<";"(OsYjeD1TCsnpP9yx8+SY3n==","!q=eaV1%LBZUi","!C-\\C(A5,","!^f&BiLD\"X","(8/1WqD0umEuAOiuRC+6=","(4DYbC9P=","!C0PBILd\'QqA#","!C-t)r^Rbrpjp","(qR==","(tG5WqG1Itsux";"(LsFWeuSuZiS0q9O5CM==";"!\\e\\P2Lj>8\\LD\"e>","(q9Fdm+B7ts0WmsY/";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVg6zpgKz6D1M==","(ODuxCsCxts0u4EyfCENunsSWq9YaCsY/","!\\m?3,UjZ)hD-b.r","!XDu8?LqWc]Dn6(!XGYlKWNme_A55@0+>J?@^([P?,^@h[+>B]$U??P$L/`%%D;0k&+c&$7UVhds.Z%NSL/i<ub%3q<jT+=eDM,#sLT:euA5U,:D-+SMU!Yq>Y@C\',b<8YEXG\'`^+#9iED0[P\\XQcC=DMou=JE&","(OEB0e9Suqp==","!,7i^-1P9J5j=I9r","!^f&B*b\\3g\"D;2";"(4+SuePYBesP=","!,7i^<DJ7q%DoM";"!,g@X*jH2q9LUb1u";"!AIr&9#6=E6WNWb!LD:enAZA7*Ufkk";"(q95gt+1JC+SbCzIWhJpY1LM0KLqG6AMG1L6N","(OEOgmiOxCPuV";"!\\sM$MbRuV%D;*Np,9rL&Dt";"(nsNGt+uJLDYPeGM=","(C9yTCOFX8sC/+G5WtXOg+G1RCsY/","!\\/LV#Dt";"(CD0BmE1I";"(tsYWeuFAeDYfCs1/8sFfqR==";"(Lyk7P/ysSOFsnPNOS4kxC+y08+5uqxkB3i1/q9ufCxkBqxk98+5JmwkBq9m0esOfmwg=","!C;@-2b<]ZOAZO.jj*ek","!_SBN)A5Uc8L].06A_1,sL3?_PLUbu@A5;","(49FjeiVpnDBuqGn=";"(SX5WePOfms/=","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/G1LMG1JVgKLV=","!te5`H,^FUOW3j@pb%JKZDhR";"!C$K\'OYb>*fbXe+J..>`8UVNR7Lj_","!\\s?cWLU$rY";"(P9yYtDyJmQCbeiSuquSYqEP=";"(8EOBeiSIn9yx";"!\\QgUN\\e\\0ej*S","(ns0d8sOftDP=";"(SDFWCEuu3Q5BCR==";"(80kbmE1ILGk/8sFfqR==","(OEuaC4k6CsC/KdM=","(eEuX8iSbe9m7tD6=","(Lyk3+/Yc+0OnOVy6OPOL3EFfeiVpts1AC+k/qxkB3i1be9mjC4k9msYAmEuWedkBqxkBedkBq9m0esOfmwg=","(qDOxm9Ox+D19";"!A1D;/tmY3%";"(qDBWeGS7qDF0e9S7t+1JC+S78sn=";"!\\sM<^W%","!t\\@aXaB","(mDOBqEFf+DYBesP=","(PGkxCsyVnsYXeEP=","!_C*FUUV_a","(S+y08+kLCs1/8sFf","(+D00ZXbjCn==";"(q95gt+1JC+SbCzIWhJV01J3J1A3Y1A60KzPx","!+2","(CiOueyFVCsy/8i6=","(PD0W8DOLtG5uCsg=";"(ODFWqi6B","!\\4?0mY,+`mY,Mg=,^L3HAa";"(n9FVZOkx8s0BqXV=";"!+-.";"!C-%WfAFUJQDodFE1X2bGb%_W","!\\Q^&5_9fEiAKh`\'Aa";"(L9opqGkxCsyV";"!jHP13L\'sl_b<+_G+nsPL>D[t#c=([;cWUB";"!AlDP/AIrE*,9#c3jp";"!LU$%sc!\\9Dj=a";"!Dhh;4A5S[J,^RP","(PGSBmEOz8EyfCDOV";"(S9uf8+1IPDBWeGSbe9q=","(4Ey0eXSuCwkz8EOJmM==","!^(Ob0b<]@P_CeH)LU-;","!qaS","(nDFfe9OAmEOV","!jH25%tG077tmHXr,SM`P";"(OEBbq9SnC+5JeDYOe9NWtDauCQ0Wm+1u","!ja1e+b\\Z04U?^GP,^L3HAa";"!\\4?cDLd\'Wo\\mMOWbXm5";"(tsY/8OF9eEyJ8E5Be9q=";"(LEFA8DOV3ySYqEPB";"!qaE>)^fUDVLD\"e>","(nsO/8EOxCsyO44Yjmsy0";"!.5u1I,99fJDMM$Q\\kLAQjYd\\%","!1:oJBLD\"pdC-[CEA#";"(q9yXCOFa8+1A+DFRmEuWeX6=";"!C$K\'-L.";"(PDBWeGSLeGOfCy1utGSbeDg=";"(eDNV+DSum9uACn==","!k]:-`bFr!TAZ-(9D-a","!,9#XEb%O!&DMW","(nDBBe9muCQ1BeENdts1T";"!A.JY]U(V59D;;bO","(tDBBqp==","!_C01Tj*\"fXAIr5Gb<Us/L]o1N,CMM";"!L\'m9+L.","(4XOaqwkntsn=";"!1<AJTWg4V/UfP\\Y","!L/(@>bF:gr","!L\'\"BEAZAO=D-`4JW34!+A#";"!_9R!IYQj";"!1BYf=q=\"*TD-:","!,7i^-L&PE+,C`hd,qag@,@o","(LEFXCDOVSPNcS+CueXSJ","!\\s?L5LD%d","!_6!&p..!J$D-KY","(nJM=";"!k\'p/-^f&BGURb";"!^(O6oj9","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L6x6L6N1R==";"!C-#mOA-@MBW3<Ws";"(8sY98sYbmEO7CEF0t9Nu+Db0e+M=","(mEuaC+1AtsNu";"!AO*1@jHH&E";"(eDC9qDO/","!AlDP/AO*&s","!\\GH$;,Kp=`";"!\\t\\0BbBIJ&L\'7","(PDF0e9S68s5xt+5Y","(8DujeyFJeGOfCyFBqG1umyFbCM==","!U8,KEteKhhD;0dOb%[fr","!q*C)TYbd\"-D4","!A_i,iLT%h";"(nDBBq9muPDBWeGS4CsNut+1u","(8iOXCn==";"!._*XtA5DV";"(P9OJeDN0mEuWep==";"(OPuiq9yV8sOfmM==","(m9uumD0WCEOj+DCRq0FamsN/8n==";"!_7E_W.Z7","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L6x1AV/Kn==","(PDBWeGnpn+S/Cs0Rmi6=","!#6s[","(S9uf8+1IC+3pPEyA8xMx","!C0Pf)Y,U&=AO=%","!.5uJmqJ2Ll","!t_e";"!jH25%tG077";"(nDBBe4k1t+Suq9uBeM==","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6LQx6LQY1R==","!k]BD2WAVC+";"(ODuxCsCxts0u","!A.Jdr";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L3/6L3/1M==";"(tDBBq9/=";"(CEOBmEB7qDF0e9S7m9Fjms0u","!1BYjSAZ%l?UVsX7AZ5F9DMt@";"(q95gt+1JC+SbCzIWhJQ/6zMYKL3/6JP/KzQR6p==","(C+CueXS7tGOxq9OftGV=";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<Fb>jdI";"(8/N0tDuVCO1ut+5A8M==";"(P9OBtGSbeDgpmEuaCn==","(OEOgmiOxC+6Wq9ybedYRe9q=","!_C*NZWg4L%W5i$\'LD:enA#";"(Pi5uesu0en==";"!k]:-eD-a","(Lsyx8DO/qENBtDP=";"!q=eaVja5*kC$`:V","!\\GHVUjHTkZDMMlCUf6N&","(PEyxmEuAeEOcq9uueXSBmEuWep==";"!C$g\'=qa4fGA5Ss";"(qDBWeGS7qDF0e9n=","(tsY/8OFB8s/=";"(C9yDeG5bmEOJ+DFfeiV=";"!1BYjSAZ%lRD-i*aLD\"\"h","!,qt,\'L\'m-]j=n5<,qro";"(tD17mEufmE1WeEFx","(49u/mEOx";"!_9>KDb<CC","!,qt,\'L\'m-]j=n5-D$@tX";"!.X0nNtS6;2_^nA;18A$)\"r&01Ct";"!Uo.<)b<c05DoG\\EUb","(S9yTC4ki8sC/8sYX","(Cs1We9Fa8s6=","!Ld]f4U?^Kgja1\"r,qt]3","(PDujm9Ox3z6=","(C4YXhdMJ1n==";"!,7iL2U?`0VUV_S","!_I03","!k]r:O","(SEOBmEBJ","!tm6TVLj>CLAZ<";"!.OfbVA5AOeDod*@","(mDOBmEBuquF/Z+ku","(O9Fjms0u";"!C-#n`YArpfA#","!^f`.$,qJS","(SEuJts5jCPSWms5jCPb0e+kbe9q=";"(PD1x8+k/nDFfmEOgmM==","(mEyxCDO/4EuX8ENbCDB/";"(s9OxeR==";"(nDyfnDFjeEuVCn==";"!LD\"5&";"!q#D`";"!b%.dEA_iZ(LU$(6L`i++b%OS","!.5Z;,C$K\'-LD\"pdC;F#KA#","!C-%W(LA%P<D--i>b\'","!C-#CGLT<MaYb\'*mUV!";"!.5Z,Ab<C+[UPt","(PDBbqXn=","(nDyaC+5BPDOAmEuWep==";"!\\t\\08Ub","(PGOdqGkBtDOPq9uResufCPBbmE5WZM==";"(+DNBqGS78Eu/esyx8DOx+G1WmsYVqR==","(C9Fxesy/";"!C$`:V";"(m9uJmsyjq0FTC+ud8sYV";"(O9uJmsyj3QBBtDaJhp==";"(qDaYt9Fg+GCBeiOu","!C$`ueDMo+mDam/KLD\"e>";"(eEODCsN7m9yjmsP=";"(4+138sSVCsYwZPOaeGSuqR==";"(syV=","(OG5BqwkweGp=";"(qGkutDu98s17msYjeD1TC+3=","!^c)ti","!ja1e+b\\Z04Ub";"!^f`aeA5D(uAa","(eDNV+DNum9Oj+GCBeiOu";"!qYlV*WAc9dD(dkob%35hLd\'QQYD=s\'A.aglYUBU\\jYRROAO=2s,9#\\@b<o:@L2T:k,qt!O,CM=dn*","(SDFjCwMx","(OEu/eEOPC+B/","!L\'at&A5SPhj9","(801ut+1WeVYBesO1t+M=";"!,q#Ncte?]a,qtu","(4+1yq+ObqikuCM==";"(CDyaC+kBqG6=","!L\'B>kA_&^fLUIs","(CEOfqDu/Zn==","!A[l?%","(P9yXC4kbqxkue9ydeEOV","(8sYJC+5/","!A_iZ(LU=","(esy/tDB78sYVC+p=","!L\'mi4b<D&Vte`ZXA#";"!j*\\uhLD\"e>","!jHP13L\'sl_b<+_G+n\"X,c#3!:>T0+o!bn2R";"(OsYjeD1T3Qyjewk+CsyReDYJ","(OG5BqwkweGpp6p==","(esyf8+k0eEy/8sFf","!,9*?nL]$r9jHRg3b<]g9A58O";"(5snuCwOV";"(PDabedkzt+1u","!Cob*pLb>@TLD%c";"(q9yfCEFa","!C$5%pLqjO(LjDWq";"!C$`ueDM;6$b%Ys)b%0i%UV_a","(P9OjeDyV4sYJC+5/";"(P9uX8iS3tsYV","!jH25%YUi.>!e9#IUfq2[b%_:";"!\\4?0m\\/scnAKhH6D;2";"(8sYD+DSueEO/COFdts1TqEyA80FueXSxZn==","!b%.dEj#:iJLD\"fb","(m9uJmsyj+GSxtsujqR==","(nDFaqEy/ts5beEu/ZO1utGSbeDg=";"!_C01Tj*\"fXAIr5(jYRF3U(VtT,g@c=","(nXOWZ4kwt+1u","(PGOfnsYXmsNBqu1bZ9P=";"(ZuFWC9CJC+n=","(8sYD+D50eEa7q+OBeXSbmiV=","(LEOXts1Y3y1ReEyJ8M==","(nDBBe4kPq9yfqGkBq9OftGV=","!L\'mi4b<D&V";"(nX5WeXbu3z3=";"!LdDuq","!\\tZdN","!qaE>)C$&\\:A#","(q95gt+1JC+SbCzIWhJQN6Lnx1LtD6JtJ6Ltx6p==";"(4DOYqR==";"!C$l9)A5SPhj9";"(Oi5BeX1Rt+5ue91Y","!Dhhepb%$b\'D;N\"","!CMEmKjYR5<","(4smfeG5u";"(tDuxtDNuhs1ICs1T";"!_pfR2YU5D_De","!\\EtNm,qak)LTs5d,C+R","!C;su)j=3Z#LUQ";"!L\'B>kA_&o/Ui","!jHP13L\'sl_b<+_G+n<Hj!uRiIcaV+#!u2$","!,Ci09,qtX3DMQ";"!Uo.<)b<c0Mb%$,","(LEFBCEufCxkAeDY98sq=";"!C-%W(\\e_d=L.","(LEOXts1Y3Q5bCxkLqENBqDp=";"!^8Y!NA5Z","!C$K\'-LqWYdU(VI","(LEFA8xkLqEOA8sCbtR==","!1BYj?U-/7S#/D6";"(SDO/ODOBqEFfSEy/tn==";"!j=+\\\"A587";"(nG5ut+SuPDF0e9n=","(t+kRCsyj","(e+OrZ9Nu3ECjt+1I","(OiuRC+6=";"!1:oJBL,U3)L\'ru\\Dt","(qDBbCXS7t9F/mEFa","!k]al)C-#CeAa","(SEuJqENBZ4kKts0u";"!^f`o=L`l?";"!_pf5mLD\"e>";"!AIsg*UV_a","!\\mMOLL6YWu,C`hd,qag@,@o";"!U;28=.ICgej=hgmLd3";"!\\e\\0ej`F=*j=nHub%,<","!\\E3diLd\';","!Lj7V^","(q95gt+1JC+SbCzIWhJQx1Lq0KzQR1zQY1A6N6p==","(SDu9mi6=";"!L\'B>kA_u=0L]M#4b<h","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<ZA>2qS";"!A[l;0te&^VA5;","(sdkcC9CJC+n=","!A1D;/tm6<%ja.@hte&^VA#";"!LUb!uA5SG]bX4T3,qtu";"(n/Cxts0u","(PDBWeGSLeGOfCi6WtX508wYaqz6=","!qY5M5.FR","!k]r:TWg4?2W%","!U;\'-#b<C+%AB!7lA5;";"(nDFfC9uX3i5ue9yaCsn=","(LGO/eEufC4kye9npnDFjeG3=","!AlDP/Ld]f>LUnR9Ufkk";"(PDBbCXnpOEFR";"!jHH&E";"(q9yV","!qW%S<,94G0YbRaTja5SC","!.Z%q";"(";"(8/N0tDuVCPBut+5/";"!jHP13L\'sl_b<+_G+n\"kj>2pfZ+Mb","!QuI_$b<.D0D(a*\"";"!L2\'4\\,94LO#4Zq";"!,pJMrAO*&sAZ<","(LDYYZM==","(LDNVqD1IeDFj","(PGSBmiOJ";"(nGOxq9OfmQ1WeXSxeDNJ";"!\\E_!0jH)","!U?7=";"!\\eBKLU?7E8,qBu","!_q!j$jp";"(8sYDCsY/eG5Y+G1/t+Su","!.5Z;,_6!&p";"!_C*NZWg4;-,CK&h_SBN5";"!L]l#3DMM\"lb%d","(q95gt+1JC+SbCzIWhJQ/6LnGKzpx1JtN";"(nDOfmEOx";"!A8hKoYQP";"!CMEo*C$5%Tb\"Dh4","!^nkSZtK;K-1(94B\\R","(S9O/tDp=","!b%[g&te`ZXA#";"(tsY/8OFB8s07qEu/tDB7tsYXeEP=";"(nDNWqDOntsmu","(PDBuC+SzeDY/CsY/nDFfmEybe9Ox","(8/N0tDuVCOCbC+q=";"!Uo.<)b<c0ZDhh;ajYP+JA#","!\\E3dmDh_ka\\4?kGU(Vt=AI*1gb%OS","!AlTqsUb","(t9FgLGO/eEufCn==","!,qB]E,qa`sL]MbYAa","(esFDCs0ueXS7eGk/8sFfqR==";"!qa4fGA5Ss","!C$1bmD-Je";"(PD1xCsOfSGOb";"!U8,KEj9";"!\\4g;MD;[e9L]lN";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6LQJ1JnR6p==","(n9uX";"(OEBxeGmBt9NuqR==";"(qDabeuF/8s1TC+SJ";"!,9*?nL]$r9jHRb7,^L3HAa","(t+1JC+n=","(+G1aeDau+D1jeGOVqR==","!Uo.m=LUM+\"^c.6Rj9";"!^f&B*C-#=<DMo+`b%h^4b%,<","!jHP13L\'sl_b<+_G+n\"hQca`@M!bu-R+omZW","(8/N0tDuVCP1bq91jCPSWeENBqu1bCDg=","!\\e\\PIb<;","(nDyfSsNbesuft+Su";"(tDNBe+M=","(nX5WeXbu3z6=";"!A*","(SEOAtsR=";"(S9FxtDOE8sOjCM==";"(q9yXC4kdeGnr3iCW8sn=","!q=eaV1%LBZUfi";"!\\e\\0ej`F=*j=nHub%,%GAOWKHL.";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$s`#!Aj\"";"(m9OjeD1bmiu7qGkuCsn=","(ns1AeGOfmM==","!WA>\'nAlTq@A#","!_C0!mje-_bDh_&@nVIH","!C-r:<b%O+u","!DnGtctGNV=LT<Mate57JA#";"!_p8gIA5?Nej2\\FeD-+]","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$sN;>D0A";"!W3<R!Dnp99U(SM7D$qKuA5Z","!1:3GUA5D\\r,qa[pAZ-(9D-a";"(ts0d8sOftDO7CsYBt9NuCM==","!^>=nf,Co8W","(nDFfmi5BqGn=";"(PDBWmxkaC4kYexkneiOXC0mBeEj=";"!t>";"(PGkBtDP=";"!\\Eh!p,96!]D$dD","(OEyxCDO/8sYX";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6LQ01LQD6M==";"!jHP13L\'sl_b<+_G+n<P;caTdo>\'NqMcWg9","(mEydeEP=","!AO*J@L]-Jd\\s]cWYDW[QDoqO","!1BYjSYb\'f-AZ-(OA+k*mj=5p,","(q95gt+1JC+SbCzIWhJVx6JV06Jt/6LVDKL6x","(SDOfC+5Bey1utGSbeDg=","(4Eu/3y1WmsYV";"!^f&B*A5DV";"(SM==";"(CEu9C9Ox","!bBIt.L4<@J";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<;Q!A9S";"!qaE>)1:3(G1FSUAUi","!W3%4t,CM^)bFsNVj9";"(LGmfq/1WqD0umEuAL9FxesyjeiV=","!C$K\'-LD\"pdYArp*bXS";"(Oi5bCDmuq95Wmwkye9ydeEOV";"(nsua3EOf8EyftDOaCsY/qxkV8+1Bt9NuCwg=";"!LDa-_A_i0(Ufk\\>","(P9OGt+5VqR==","(OsYjeD1TCsnpnsNj3ECWqdk+CsyReDgB";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/G1LMGKz6G6Jp=","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+-]Zt+-Su";"!b\"D6@A#","(PDaYt9FgPXn=";"!_I0uJ^R`=7b%_o";"(SDO/PiOdeEuAPGSBmEP=","!A[lc)";"(sx0m";"!W3<R!Dnp99U(SjlD$qKuA5Z","!C+tC=LD\"fb";"(4Eu/3QYWmEu98s1BmEuWeX6=","(SDu9my5WtXOgPGkueXSnq9FXq9OJqR==";"!\\G=3;YQXP]D(>","(nDyJmy1ItsSWmR==","!\\mMOMbXm/5D-1`","!jY@j]bj","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<LQ>\'h4","!_7#0q^;_i(UVr?RU(VI";"(mEyxCDO/4EuX8ENbCDB/nDFjeG3=";"(nDFJesO/8s1J";"(tDNbes3=";"(PENBZPONmsuRnsYbesy/8sFf";"(PDy9CPyxCsyEq9yaCn==";"!q#\'O(j2t@sL\'8","(S9uf8+1IC+5yC9CutGn=","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<?k>T0C","(8/N0tDuVCP1BmM==";"!\\e[#%D-3@HAI4,ND4","!U8,KEL&Pd6Uf@^";"(P9yfCDP=";"!qYKC91FSUAUi","(PQFLOM==","(CiOueyFVmsOjC+578sYVC+p=";"!1BYt8Yb!4*DhR";"(e9OGtD1jeG10q9P=";"(S9y/tsNbmiV=";"!A8hKoYQj";"(nsY/84kk8s/pSsYBt9NuCM==";"(LsOJqDyXCn==";"!jal%JL`l?","(PGOfP9yYqR==";"(Oi5B8sRpnDFjeG3=","!AI*1%,7i^(bXS";"(CiOueyFVts0BCDP=";"!1:oJBLD\"pd","(PDOBqDFf3zMpnDBBq9/=";"!..fRT#Q0)U,Co\"Wb<8k4AIrI","(PEyVCEufCR==";"!q\'ki^bBAE.,^L3Hj9";"!UM4hlD;*;NA1h";"!L]M#.UV!";"!^(Ob0+2";"(mi5BtDOxnDFjeG3=";"(C+B/CsYJ8sFf","(SX5bCsYVeiVpn9Fg3QCbeER=","!C-%Wfb%,<","!q=eaV1%LBZU0D9BDhhF\'jp";"!\\G=/W,paN7Aa","!DhZKJtmHXr,SM`P","!C$K\'-L,+s=UVh;hDt";"!L\'mB!Dt";"(4sYAq9OaCsY/","(qDFxmM==","!\\tZ:9b%[g&","(4Dujey1WmsYVPDOAmEuWep==";"!AIr&9W%";"!_SJGTb[Yuck\'7T(Y,^6<","(LsygSEF0t9Nu4XOaqi6=";"(PDy/m+5BmEuWep==","!qYlrKU8[`\'j9","(PDBWeGnx";"(PDBWeGSLeGOfCi6WtDNbtDjfe+MJ";"!W3%4t,C?6%Ld]fXA#","(+DF9CX1umM==","!C;@#)A588";"(+/Fd89OAmQyVCEOV";"!1BYjSAZ%l?UVs\"YD-Bs3AZ5F9DbI";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$=?t>\'tl","!^>T_7AZ-G[Ui","(SDO/OG5BqM==","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zpJ6AQg1JVx";"(C+y08+k7msYjeD1TC+3=";"(PDF0e9SztsNjt9yA8R==";"!#kTa.","(CEOBmEB7qDF0e9S7t+1JC+S78sn=";"!jHP13L\'sl_b<+_G+n\"ht!b1\'G!ufeR";"(Oi5bCDmuq95Wmy1utGSbeDg=";"(+DNBe9Sbe9m7qGkx8sYX","(tG5WqG1Itsux+DF9CX1umM==";"!,9*?nL]$r9jHR0]L]l2cD-a","!LUb!uA5SG]bX4Plb<8YEteMZ@b%q";"!\\Q^&5\\4gFI,n";"(LsybeuSBtp==";"!_qp\\NL.";"!q#D`l\\e[#%D-4","(t+S/ts1T+D0WCEP=","!AlT5@D;0Zn","!1%W\'gYbR.gj9","!UVNR7LD\"pdteK,JjHH\\_";"!^(O\\2j9";"!^8@JUUV_Z]j*T";"!1%LBZUi";"(nDBBq9yAmEOxLsOJ8M==","(CiOueyFat+SA8yFbe9SuZM==";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$sFk>2dQ","(SX5bCsYVeiVpn9Fg3QF0mENbe9P=";"(Oi5B8sR=","!_7*(`LDBX","!#6=M3AlVFd","!^f`aPb<CM>\\eB[T";"(SEOJtDOfCEyfmy5uesFD8sYX","!jHP13L\'sl_b<+_G+n\"^qc*;bZ+$sHo","!1P9&FUV!","(SsYVCsn=";"!_C*pm\\e\\0ejp";"(SEOD8s1u3y1Rts/=";"!b%_j@LT4uPjYd0nj9","(4EFW8G6=";"!L\'aMJte`6%U?7KntelPlLT]";"(P9O9eEOAmEyftDP=";"!^RUn`b%_t7","!C$1bmD-JNBY,b(Rj=s";"!_SB?MLU-oND-+eCD$@\\Ejp";"!jHP13L\'sl_b<+_G+ns`U!AfRF>\'0q8c*ZC";"(LEO9myORqEOxn+5a";"(PiOxtDBBqDPptDFaqENumEOV","!jHP13L\'sl_!)RJrD-+eq+XOG+b%3MgL/`!rbX\"^7\\4gNSDTQ0WD-a","(t+SaeG1R8EOxCn==";"(n+1JC+np4Pn=";"(tGOxq9OftGV=";"(O+5j","(4sYJmEyftDP=";"(SEFA8G6=";"(qDuf";"!UVNR7LD\"pdteKk_UV!";"(m9uumD0WCEOj+DF9CX1umM==","!LUb!uA5SG]bX4?HWNLr7Ld]fh,7Q","(P9O9q9OJ8EOV";"(Cs0bmiSuquFRt+5/","!Ld>A,,q%gEb%.E]DMbR\\W%","(P9OReEuAt+SbeDg=";"(q95gt+1JC+SbCzIWhJpD6Ap/1JtN6LVJ6A3D","!j=+&d,^pT0D-l9htelPlLT]","!C;F!?\\Qg@kAKhH6D;2";"!Q^Pa&";"(n9F0e91u","(q9yXCOFJmEy/Cn==","!^f`.$AMmu*,CghuY,U+GLU=";"!UV_\"";"(OimuCsYLC+5D8s1u","(S9NBqDppn9NBtDj=";"!k1","(q95gt+1JC+SbCzIWhJV01z6RKLMgKLnJ6AtJ","(8DujeyFJeGOfCyF0q9R=";"(LsOjCsP=","(8+19eDNVC+3=","(q95gt+1JC+SbCzIWhJQJKz6R1JMg1JpJ1J3GKn==";"!^Rg)s\\e_ETA5Sp9_p!qMAZ5F9Dt","(m9uumD0WCEOj+D0BmEOx8syj","(SsY0ePNbtX5BqXV=";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+-]N,cWKp","(mDuxCsCxts0u+D1BtDBu","(P9uWmwkL8EuueEn=";"(PDF0e9n=","(P9Fdm+BkesF0eXn=";"(O9OjeD1bmiVpPGkuCsn=";"!AlDP/UV_GY","(8/1It+5aP9yf8G6=","!_Ki$q\\GHVUjH)","!A8hKoYQR","!\\4?Km#4_obL6Yc7A_m";"(q95gt+1JC+SbCzIWhJQx1Ap/1zQ06zQN6Jnx6R==";"!U8,1l";"!C-%WfAMGtZ,Ci`Vje0$(,^L3HAa";"!_CeHNL]lBc\\sgNB,9rL&Dt","!,9J&OUb";"!kAI","!1BYjSAZ%l=AZ5F9DbI","(4Eu/3Q1ItsYACn==","(8/N0tDuVCO1umiSbe9mJ";"!,9#?J,7-2";"!L2Sa_D;;bO";"!1BYf=Y,?J%Dt";"!AlT(a^8Y!NA5Z","!\\kPs?","(P9yXC4k3ts1Tqxg=","!U;\'-#b<C+%A:#5:","!+\'";"(m9uumD0WCEOj+D1Its07esy/C+5btsR=","!A1D;/teMT6LT%h";"(C4YXhdMR";"(msYjeD1T+GSW8DOfqR==";"!jHP13L\'sl_b<+_G+n\"X^>jdRM>jq2:+$<,1";"!.5)R)qJ2Llj9";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$sZQcac2";"!Ce";"(8sYD+Duf89OAmyF/Z+ku";"!qYKC9\\tZb%D-a","(PGkbedF28+S/C+3pPGkuCsn=";"!^f`o<jJY5HAlgPfD$Y64LAZY4,7i^%A#","(nX5bCEmu","!1:obK","(q95gt+1JC+SbCzIWhJQJ6LQR6L6R6zpx","!18$.$.<Dr\'D-+b^YUI=fA5>HXYUBU\\b%_Z/AMm5JD;N0uD-J)YL6YOnYU5C&LTsiJLk[","(q95gt+1JC+SbCzIWhJpNKzM/6L6/1AMN6AqN";"!\\mgNRUMa/=A#";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6LQ0KL3x6p==","(PDyD8sYX3E1We9CbCR==","!_p!qmLduFu,C+K3^>YtIL.";"(6AMR6M==";"!..fj`b%_:";"!CMEm*LD\"e>Ybd\"PAZ<";"(ODOBqEFf4sYDCsY/eG5Y","!jHP13L\'sl_b<+_G+ns@8>2!j#cW([;>\'0W","!C;@2IDhFVpD-++Eb\'","!AlDP/j*\\uhLD\"e>","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+-]F,+-Sa";"!\\mgkbDM5[";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$=;Dca?-","(q9F/t+SbeDY7qGkuCsn=","!Dhh!<AlDM9A5,";"!UoIs=b\"\'\\%U$n.`Dhh;4A5DV","!,9#c3jHRqgj*:2ELD\"e>","(C9NY","(SDO/O9uum/0WCEOj4s0BCDOEq9FaODOBqEFfSEy/tn==","!,9a`=jp","(Ou3=","!.5)R)q=eSs,CW";"(4iOatsYW8sS4eDF/PEyxmM==","!C-[3<,CQ";"!^R`=7b%_?&","!LUb!uA5S1r,qJW","!C;F!?Y,^6(Y,K+S,S-K0","!_qf*fLd>8_\\e\\()AIrBsLD\"e>","(PDNbCEPpt9FWqGn=";"!Uo.<)b<c0AD(>","!,C`cEtGNm*tmHXr,SM`P","(OEOgmyBkeEuXe90ueXn=","!.5ZZD,g@c8U(VK4jp","!18$.$^nQXs.Bu8-\"sPPZ_!#80UP,h!,7+]VLj.Z\"Yj8__b\"DJ3Agu6ELD\"e>YU5k\\,CN>9j=bR!AIr5b","!DhZ03","!jHP13L\'sl_b<+_G+n\"htcW76Uc=``U>D[\\j";"(PENut+1u3E1ICs1T3ESxeGkVeGmfqxg=";"!,9#LdA5Sp9te&^VA#";"(4smfeG5uSGOb4sYJC+n=","!\\mg;oDMoq=LD\"fb";"!A5CPajaib6";"!1P9J5j=I9rqH(4T,C`n","(P9OBeEuJmEuA";"(SEuBesFfCwMx";"!QqrVbbRuo:Q9P\'g#4Z>\"L6a]&b%3t<YpsmG","(q95gt+1JC+SbCzIWhJQN6AM/1z606J606AtgKM==","(4+SuePNbtX5BqXV=","(q95gt+1JC+SbCzIWhJQx6znY6LqY1L3x6znJ6n==";"(msYjeD1TC+57miuRCn==";"!YsFgeAZ-H%LqpHf";"!Uo.<)b<c0ZjYd0uUV_m","!_p!+0k]B\'mbBF","!\\e\\PIb<oBY,C5B";"!U(Vj@";"(SP0nOyu7OQOkLOFzL/NcPp==","(PENBmEufms/p6n==";"!\\e\\LUUV_N+D-+Y";"(q+OBeXSbmiV=";"!W,Q!J";"(mi5bCDmuq95WmM==","(ns1AeGOfmwkkCDPr3M==";"!C$`ueDM;6$b%d","!1:u\\2";"(+0ORCEy/COmxt+M=","!L\'eu1A[)sf,qQgr";"(O9uum0kxeDCbeEP=","!ja.@hA5DJ$,^G/`L&P6JD-1\\n","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<>\'E@o>jdpI>r";"(PDBbqXSiq9yR8EuA","!k]:-eD-JN=jHH&E","!,9*^dteKhhD;0dTL\'sl_tmFE","(hp==","(LEFA8xkkeER=";"!.5uMfLA[J$DnL6\'bc\\i#,S-K0","(PENBZsOxPD1x8+k/qR==","!jHP13L\'sl_b<+_G+\'";"(esugmiOxCn==","!UMm]f^RcDfD-+K";"(LsO/8EFV";"!^R+%T^f`o<jJ\'";"(LGO/LDCweGOfCi11ts1I8sYu";"(ns5JeDN0mEOL8+bu";"!\\QK,ZAX^dbAZ--";"(mEyxCDO/8sYX+G5BCEu0qR==","(nGOxq9OfmQauZs5be9n=";"!\\4`0eWrA!2D$G/";"(SXOftGSbeDYJ";"(nsN/PDBWeGnN";"!jHP13L\'sl_b<+_G+n\"cQc#3!B!b.rp+M>6#";"(hDyJqDO/qxFL8EFWmy1WmsYVh90R6R==","(qDBWeGS7t+S/Cs0Rmi6=";"!JE]ToL\'sl_L/)V)n(mB";"!^f`a(L6Y,gbXrb*b:D]4YjSRjLD<-\'UV\"X";"!U;\'RZbFr!7,.]5:De","(qGOd";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$=;AcW(l","(ODOjCQ1WeX1/q9ybeXn=","!jYl","!,KGh%AZ<","!k]:-eD-+K","(nDNWtDaGeG5T";"!j=+&d,^pT0D-l9hteg,]LTsN","(LEO9mQNWmDOxLEOX";"(e9uXCDQ=","(nG5bmwkOPVR=","(n9uX3y1ReEyJ8M==";"(nDyxqEO/","(4XOaqQyf8s/=";"(PGOdmEu/eEOPC+B/";"(CDO/C9Ofmp==","!AlDP/Ljc-JL\'mBhAIr/&","!LUb!uA5SG]bX4HVj=A@dtmkUsL2_","(P+ObtDaL8EF/PGkxCsyV","(SX5BesP=","!tG;8=A_ir","(SEOjC+Su3wBSmiVb","(SsYD8+5We9OaCsY/","!qY+1mb<]Z-C;@eT,^5","(q95gt+1JC+SbCzIWhJQJ6LQJ1A3g1z6R1AVN1R==","!1:3PL,@Mc[D?E;";"(4sYHCs1/CsnB","(4EOBeiSI";"(q95gt+1JC+SbCzIWhJQN6LPR1Aq/6JM/KzQg6R==","!q#DT%.5uMfLb6F\'A#";"(PDBWeGnN";"!qYgCPWktYKAZ--","!,9*?nL]$r9jHRPdLUb1dD-a","(PGOAtDOJqR==";"!AIr&9#6=e\\,^R<VtGO/PD-:";"(ts0d8sOftDO7miuRCn==";"(tDNWe9P=","(OsYjeD1TCsnpnsNj3ymut+kWeX6B","(LEO9mQNWmDOxn+5a","(C9FD+GkWqDu/8sFf";"(8/1It+5aSsNWLsyR","(tDButDa7qD1WqEOV";"!qaEWPA#";"!LU$%stGO/PD-5O","!qW%CT,C+ZfA\"erT,qaO/","!\\e\\PIb<MVID-b\\dWAN";"!+XAgUA5Ss";"(4sYJqEOAmQ5BtDaRts1TP9OGt+5V","(LEOX8+SPts3=","(esF/8+CBmEuWep==","(8XOaqM==","!.5Z0o,S-sJ_CN6ND(Qld","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6LQN6L6G1n==";"!,G\'(!";"(esyR";"(q+OBqXSuqp==";"!ja.@hA5Dh6ja5eaj9","!\\kLAQW,QRuj9","(q95gt+1JC+SbCzIWhJQJ6Ang1A3Y1LnJ6Aqx1R==","!^(ORmDhZKa";"(t9FWeEOBep==";"(CEu9CXOJCOFJtDyjCn==";"(+0FfC+mbe9SuZM==","(O9uumGkWqXn=";"!^Rbrpj=n*:D-1jX";"!QQ[@(q`-O%Yk>]FJg5\'/h!RAoLduF;D;ZFnAZ%l%Yk>]FJE]>8U8,enAlDiXLDa\"hJE]X";"!1P91WD-5ftA#","(C+y08+MptsYbesy/8sFf";"(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L3/1zpY6n==";"!^c.6R\\e\\PH,C+KPjp";"!\\4?0mYbda7U?[";"(mEBuesO7e9yaCn==";"(PDO/3Qy0mEoaLEFBCM==";"(nDNut+3pn+O/ex06eDyV";"!A_ic<bFQV6L2]T@jY@j]bj","(tDBBeOSuZiS0q9O5CM==","!\\E_1-Yb6J/,qtu","!C$`u<A5AOo","!,qtK/,7r","!C-%WfL2Ko[,9rL&Dt","(P9OjeDyVPDF0e9SLCs1/8sFf";"(mi5bCDmuq95WmyFTC+ud8sYV";"!W,=!\'bFr>","!18-]g\"rgjiq`bDe_!#S`j#:r1A5oruYj8GLb%_B_YDrkk,S&ZuD-Bs+D-1#&,CN>9L6aF.,9#\\7YU5C&LTsiJLk[","!Ui";"!D-gnqb%_?&";"!te1ZlA.aglteg1OL]ML";"(P9yXC4kweGn=","!_S%?W";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$sNo!uqC","!_7E_WjYd.","!A1D;/tm@XP";"(Lyk3+/OKn01PPdkWe9NY3EyAtDORmi6pt4kJ8sYXeEPpqGSx8sYX3EyJ3Eyf3EyxCGOaCsY/hp==","!\\mgN`A5891^(Ob0";"(PGOfOEOgmiOxCPuV";"(L+OJC+Oa","(S+CueXSzm+5xCsYAZn==","!qW%S<,96>*jYRROAO=2sk]:-eD-a";"!CL@O51R]";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<>\'E@o>j6tR>r","(PGkjt+1I","(C9yTCOFxeD50ZM==";"!\\e\\PHAIrI","(ns1AeGO/q9OaCsY/";"(CEuJts5jCn==","!C$g\'=Y,bZmAMp*";"!q#D`lC-#mOAOQM7_.Jo";"(LEFWqEOV";"!qW%THLUA[E,^L3H";"!,9#?YA+Q*hLqWK.L\':%qAMmB3LT9_\"D-BsXb%_GYbFr!LY1","(PGSBqXnpnDFjeG3=";"(nGOxq9OfmQSBmEQ=";"(8EuVCn==";"!.5Z,+Wu8D.LU$s","(SsyJ8sYXPGSYeEP=";"!CMEo7^(Ob0","!\\eZd0L]$r9j2\\FeLD\"e>","!AlDP/D-gnqb%_o";"(qEu/tDB7tsYXeEP=";"(qDaYt9Fg+D5BtDj=";"!C;F#ZD-4";"(SEyx8xk1t+S/C+3=";"!\\kLAQb\\3g\"D;*YBUfkQ8","(O9uJmsyj3EOf8EyftDOaCsY/qxkV8+1Bt9NuCwg=";"(4DOY","(S+y08+kRCsS5mEOa";"(s9Fat9uu";"(n+kRCsyxtsYACn==";"(q95gt+1JC+SbCzIWhJQR6z301JV0KLnR1Ln/1n==","!C$gm-D(\"urb<Cc],qtX3Dt","!C$gm-D(X9-";"!jYPRqb<]Z-","(PDBWeGSLeGOfCi6WtXOdt9Nuh90R6R==";"!C-Enmb%_B`jYR5<1P9.";"(qDF0e9S7","(P9OXmsNBqp==","!,7n<$,qtGX,qtX3Dt";"!bFB!r","(SDOfC+5BeM==";"(LEFBCwkzeDY98sq=";"(m9uumD0WCEOj+DSbqDydeEP=","!J@?/>Q7_t8n*";"(m+1uq9SBmEQ=";"!_CBN5b%_,Eb%,[c","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L3g6J6x1p==";"(PGSBtDjpCiOReEuAt+SuqR==","!.5Z0qD;0Nu";"(tXOj8R==","!C+tITUjZQnW3WB\"D-KYWDhhqPbXed1";"!,g@X*jH2q7A580YL2TQ1Dt","(qEuf";"(PGkWeDtpn+CBmEyx";"!jHP13L\'sl_b<+_G+n\"c,+omZb>j!j8!A22S","(qDF0e9S7m9Fjms0u";"(msYjeD1T+GSW8DOfq0FDtsN0Cn==","!bXe+g,CMHlDoYE4j=5M_","(LEO9myORqEOxLEOX";"(q95gt+1JC+SbCzIWhJqNKLqRKLpxKLqD1J3x","!UVNR7LD\"pdteK/h,pJo";"(OEOgmy1/q9FTCOSxtsYJqEyxCsYAZn==";"(CEO9C+3=";"!\\s?cWLU*Z)18tZ;A-@RNLj>G";"(S+B/q9Q=";"(LsF0qDOwm+S/eDgN","(SG5Bm9OYt+5V";"!qar)*bXed[D-0dgAKhH6D;2","(4EuX8EOJmwkyLQo=";"!qaE>)k]Jn%AZOoU,S&t","!C;F!?\\Qg@jAZ-(9D-a";"(L9FfCn==";"!L]&+\"jHH&]D-a","(S9ybeEOV3iSW3imx8+Su3i1WmsYV","(q95gt+1JC+SbCzIWhJpD6LVg6LVD6Jng6A3g","(nDNbCsY/4+Suen==","!_7E_WjYd(n\\tZ+SUV_e5U(VEgAZ<","(2yaZh0/T24PlhdIV";"!1<,(o,Ci0VLEP<2Lj>C1UV_S","!Ufq@6AZlheUfqe%W3WB\"j9";"(4EOBCymueEn=","!18-]0_16Sg\"s<1;YjD3\"LT:%JL6Y[\\Ld\'W^Do]\'JAKa[","(qi5uC9Oxq9OV","!bXe+sAIrm";"!C;@eT,^puUDoY&\'","(m9uumD0WCEOj+D1Its0J+D1WeEFx","(LEufCsyx","!1%LM5UV!","(qDujCsY/+DNWtsS7CsYBt9NuCM==";"!C-t$9A\";C=AO*&[";"(395Be9YuCw3=","!q#D`l\\E3dmLqLh*";"!L\'B>kA_uV5,7ij";"!1Fp!Gj=n*MUfkjnb%_:";"!,C`cEte`kujabqaA#","!1:3PRLqLYT,9EJq";"!A_ic<bFQV6L2]T@W34!+A#";"(LEFAtsNLtG5bqinJ";"(LG5bCsY/t+SbeDg=";"(n+5A8wk4tsYT";"!LU$%s+%gfUj=a";"(q95gt+1JC+SbCzIWhJQJ1LtJ1JV/1A3G1JtJKM==";"!L]-M1tmX\"/";"!Cob*pLAJK@A5U]pD4","!.I7[MAF^RiLD%E","!L2\'4\\,94L%,qJ]]W%";"(OEufmQ1WeEFx";"!k\'7T(","(nDBuqG6=","(CX5bCsYVeiu7tDBBe+17C9ujeyFAeDNWqp==","!_6!&pA5DV";"(LsOJ8ykBqXn=","(t9yJCLt/CEOAeDSu","!Q^pr31[]o$A5AO-#4O]kj0.*T";"(nsSVCsnB","!C$K\'OYb>l)Dnj`&A5;";"(LEOD8+SBmEuWep==","!\\/:hFA5DtPYAti`A_i1","(nG5WqG1deGq=","!jH25%YUi.>!e9J;UV!";"!qYKC9C$`:V";"(q95gt+1JC+SbCzIWhJQD1L6G1znY1J6R";"(C9yTCOFX8sC/+G5umDyxCi17tDNB8s0uCM==","(8/N0tDuVCP1ICs1TnDuxtDNu";"!\\Q^&5^8s#u";"(O9yaqEuxCn==","!jH25%tG077tmYY2,S-K0","!^(Ob0+j","!W,Qq&";"(OsYjeD1T3Qyjewk9eG3pODOBqEFf";"(PDBWeGSLeGOfCi6Wm9ufC4Yaqz6=","!AlDP/D-gnqb%_MVAIrE*,9#c3jp","(q95gt+1JC+SbCzIWhJQJ1A3J1znN1LMGKLq/1M==";"(mi5bCDmuq95WmyFue9ydeEOV";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+-]GA+Mc-";"!jHP13L\'sl_!)RJNL`)d5,94?*A5M8E,^F]ibXeJCtSaJWAK4PgLT:euA5U,:D-+S?\\tZ6mA_i0B,9#_Y+c&$7UVhds.Z%NSL/S!MD-a","(+DONmsuR+G1Rq9ufCR==","(O+1uqVuQ";"!C-[CEb%07";"!._tZtA5DM@b<^(A,^G/`";"!qar)*bXed[D-0dfb%0i%UV_a";"(m9Ojm9O/","!CME4$W5i^VD-l9Q","!teM`-D$G4gL\'en\\Dou";"(eEuX8iSbe9m7tX5bCDB/e9OJqR==","!\\4?UZ,qtLh";"!\\e\\P:j=+t]","(SEuaCsYJ8sFf","!,9#_YLj>8\\LD\"pdtNE&fja5K";"!L2Sa_D;;bOtelPlLT]","!\\e\\(mD-a","(mDyjeE1ICs1T";"!LUb!uA5SG]bX4,P,9J1rAZbU=j**,","(CEOAt+V=";"(PENBZs5BtDaLqEOuCM==";"!j=+q_Uf-";"!.1A9[C$1r[b<]i";"!^f&B`b%.&cYQp";"(Lyk7nVNkn/a64O1P3i5uq+Obq9OJ3zQpqGSx8sYX3EyxCGOaCsY/hp==";"!W3%4t,CMm]A#","!b%_e@,97","!1:3PL,@Mc2,^F]OD-1M\\";"(q95gt+1JC+nrhxF/C+B/m+5uqxFRt+5/8s1jC+6WqD0W8DO7esybedYVCi6=","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L6N1L6G6R==";"(PENBZPuVeEOke9uat+SbeDg=","!^c)1ZL]lN","!1%Wa%jiJC","(OsYxtsYTCsn=","!D;O/";"(SEO9t+OjmM==";"(tDFjeG5J";"(L+OrZ9NuS9NBqDp=","!qarDiUfi";"(s/yumEBLCs1mKdkwZ+kBqG6pC9ybeEOV34kf6n==","!\\e\\0pAZ-(9D-nM=j*rnaA#","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6L3G1AQN1p==";"(PGSBmEPpnDBBe9muqdkhC+ud8sYV";"(O9OxmEuAtsNkeEuXe90ueXn=","!W,=!\'bFr!<AIsg*UV_a";"(qGuft0FDeDuV+G1/t+Su","!DhhR9bj";"(Oi5BtDOx3QFx8smbep==","(SsNbesuft+SbeDYLeGOfCi6=","(mi5B8sN7tDFjeG3=";"(LEO9mQBBe9n=";"(qGOf+G1bZ9P=";"!\\E_1-DhhF4,l;\'-A#";"(tsY/8OFB8s07ZsyG+DyfCDNu";"!jHP13L\'sl_b<+_G+n\"X,ca7!?!ufi?>\'Egb";"(SEuJtDFfe9OAmM==","(n9yxq9Oj","!C;Fem","!C;F!?qY+\"";"!1:3GjWs>[2L\'7","!1:3PRL.","(nGOJmEFa";"!1BYjSAZ%l?UVsXiD-i*aLD\"\\YY5";"!tKoPL,qt&ib<CMTD$dj7";"!bXe+rLT?";"!L281","!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+$<;Q+MU%";"!^f&B`AlD`aC$1#)b%,<","!,9#c3jp";"(+G5WeGS7qEyxmyFWC9CJC+S7eGCuqX5bCEO78sYDC+5JCn==","(q95gt+1JC+SbCzIWhJQJ6zQNKL3GKLQN6LM01n==";"!Uo.<)b<c0bUVNfsD00e@";"!.Z%NS","!k]:-eD-+SgAZ-(9D-a";"(4EyfCENu","!^f].$b!n8GUM/$ILD\"e>","!,7i^<tGNV0D+4","(C4YXhdMx6zMR","(Lyk7nVNkn/a64O1P3E1BeENuCzIp";"(LEOXts1Y3Q1xeG1Jq9FBCi6=","(OEOgmymxt+kRCsn=";"(OsYjeD1TCsnpnDFJesO/8s6B","(PDOBqDFfLEudq9yxZn==";"(msYjeD1TC+57q9yx8+SY";"(ns1AC+1JeG5Y";"(S+BReEFbmi6=";"!_K`/;AZ%gdDifI3,9W[VYj8;DD;2","!.5uiTDMM-CW@%XNA5SM`AZ-(9D-a","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6LQR1z6G1M==";"(4+16eD1BeM==";"!A8hKoYQWB^Ybj>sb%OU";"!.5Z;,W3Wi1AZ<";"(OsYTe9FGep==";"(q95gt+1JC+SbCzIWhJ3JKz6g1LnG6n==";"(q9yXCOFdeGS78EuVCn==","(Pi5We+k/SDyaCOkBqG1nm+5A8EyJCn==";"!jHP13L\'sl_b<+_G+n\"ck>D,EL>j6RI>j!pF";"!L\'en\\DM;/+Doq99LD\"e>","!jHP13L\'sl_b<+_G+n\"X^+Mc@?+o<GWcaU0L";"(nDFJesO/8s15eXCueXSWqXV=";"(n9yA8DmxeGOfCySxtsYJqEyxCsYAZn==";"!^f&iFL]#oq,C+(1n*";"!_7#0q^;.a<j*Y1SU(VI","!\\tZdNC$1#)b%,<";"!LD\"B\"","(nDFfe9OAmM==","!L]-McLU+dJL2]T@Wu8>QDhR","(8DOYt9ufCyFG8sYVeGm7CsYBt9NuCM==";"(4s0BCDO6ts5ueM==","(t+O/e0FxeGSBmEO7tDFfep==","!\\s?FK,7Q";"(S9yxmM==","!UV_E*A5D\\r,qa%","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6LQR6LtD1M==","(ns0ae05uqDOxm9P=";"!1\"n!mYbd!ED;2";"!L\'\"BEAZAO=D-`/";"!jHP13L\'sl_b<+_G+n\"_t+o:?j!uRRo+-SJ:";"(ODOBqEFf4DOYqR==","!A_igr,7b/(jYdI";"(qGkWmM==";"(4s0BCDO38smIP9OJeDN0mEuWep==","!+XINa,9/CbWAcIR.\"j4Iq]+T=";"(PDBWeGSLeGOfCi6We9ODC+5jeG1uh90R6R==";"(CEOBmEBJ";"(nsua3EOf8EyftDOaCsY/qxkue9ydeEOVhp==","!CME4$Wmfjg,7Q","!Cob*pLAJK@A5U;Kb\'","(nDFjeG3=";"(+G1Rq9ufmEufC0FJqi5be9q=";"!.gYrf^fU:Vjp","(nsuaPGkxCsyVL+OjmEuReEuuqp==","!1BYf<,pJo";"!1:3PL,@Mc=D$6Z]";"!^f`.$AMGMiD$dBOY,1??","!\\e[jfAIr5P,C?&s";"!C-t.f","(e9F7qGkxCsyV";"(nDNbCsY/S9uX8iSuqp==";"!\\tZ+SUV_m";"(nGOxq9Ofmwk38smIC+1/3ymbedkLmi5utsj=";"(4sYDCsY/eG5YnXOj801utGSbeDg=";"!C$gm-D(\"1E";"(S9yAmEFxZn==";"!jHP13L\'sl_b<+_G+n\"^qc*;bZcacKW","(C9NY+G1RCsOV";"(q9yV8+OJ","!\\e\\P2D$9s";"!1BYjSYbd\"P,7-FV,P/fH,Cghu","!\\eB[TYbd!ED;2","(nDFjeG5L8Eu9myFweGS/eD/=","(LGO/eEufCP1WeEFx","!_7#0DAZ5F9Dt";"(nDBBq90LCs1/8sFf","!qYKC9C-[3rU?l<FUfkQ8";"!,9*^dteKhhD;0ds,C?&s","!1BYt8";"(eGO/CEFWquFBes5bCsY/+D1WeEFx","(tG5WqG1Itsux+DF0mENbe9O7tDFjeG3=";"(LsuV3Q1WeEFx","(LXOat9Oxq/FfeiV=","!C$1bmD-JN:Y,b(Rj=s";"(C4YXhdMN1n==";"(tD17tX5bCDB/e9OJqR==";"!q=eSs,CMm]A#","(C9FD+DF0mENbe9O7mi5BeX1Rt+5ue91Y";"(q95gt+1JC+nrhxFJ8GVWesFWedYHqEq=";"!\\kL7#^(Ob0","(8/5WCiunt+5/qR==";"(tDFjeEOXCn==";"(ODufe9ufC0Suts05e9SuZM==","!_K`/;AZ%gdDiPcDA?O@Wb:DRcb%[g&YDW[Qjal%Y,^L3rYU5\'aAZ5YgYjTZqD$6BlA+QMuje$$aU2[).L\'ru\'UVX2\"AZ5F9DMt@";"(nsY/84kk8s/p4DOYt9ufCM==";"!Wu^I9bF:H=Dnp99U(S&(DhR";"!\\kLAQjYd\\%Y,K+fj0_","(OO56";"!jHP13L\'sl_b<+_G+n\"_Q>2!##cW`Pb!u6qM";"(CX5bCsYVeiu7t9Fg+DCbeEN7tDFjeG3=";"!,7i^-j9";"(PDBbqXSPC+B/m+5u";"(nDNbes5ke9ua";"!Ljc-/A5,";"(CEy/","!C;F!?\\Qg@_D;;6PAZ<";"(n+kReiVpmEoptsNj3imut+kWeX6=","!L\'JucD(\"pEj*\"fC","(8iS/qzIWhGmGmxYxeD5jeGpftDFahDyJqDO/hJFbCz/N6zVx6LM06JP/1M==";"!k]a-=_p!q1DM5$TLT:euA5,","!.5uJSLTa#4A5,";"!Wu^I9bF:H=,9#_uAZ-(9D-+K","!\\kL7#ja.@\'A#","(qGkuCsn=","!AlDP/D(4iXj=5ugAI7";"!U;jCSU-XV*LT%n,","(hD5Bep==","(O+1uqVufqiO/PDOxm9uACn==","(S9uX8iSuqp==";"(CiOueyFaeDSu";"!_K`/;AZ%gdDifsCAI@3A#4;(ojal%Y,^L3rYU5\'aAZ5YgYDQ>aAMmBJA5j&qb:Dt@Y5";"(m+1uOEOBeP1WeEFx";"(eXOat9Ox";"!1:3(G_p!!$","(PDaY","(tXuRt+1JCsn=","!\\GH<+LTa5k","!C-t$9A\"0uNW3<Ws","(m+5b","!^Rg)s\\e_ETA5Sp9qW%8lA5DP4Uf/,","!\\sgXU";"!^oc";"!.I7[MA#";"(LDYYZwMN";"!bBIt.!)RhcWbmeND0[FEWS!MjD]-kkL]MW#\"AkG<+$=KU+-]KD!b1/";"(ODOjCM==";"(LGO/eEufC4kLmEyxmwkzeDNWqp==","(PDBWeGSLqi5utsSzeDYJ8+1/CsY/","!1%LB=UV_m","!1BYt8b%_BYLDa\\uA#";"(P9O9q9OJ8EOV3n==";"(qDabe91ItsYXC+57qGSBmEP=";"(+Db0e+k7qGkx8sYX";"!L]$r[D(aB+D$kdnA58O","!_7#*","!WNWbEAlVFd";"(O+1uOsYAeEybesOVP9OGt+5V","(P9uA8ySuZin=","(Lyk7SQO6SOSy+0CkLyOy3i5uq+Obq9OJ3EQpqGSx8sYX3EauZ4g=";"(q9yXCOFdeGS7t+S/ts1T+D0WCEP=","!^VH-N!eO","!W,=MEbBZK3,qtX3";"(eEFWmE5WZyFfts0u";"(qDaYt9Fg+DSWmDg=";"(S9NBqDBdtsYX"}local function PW(k)return kW[k-61537]end for k,P in ipairs({{1,2376};{1;1905};{1906;2376}})do while P[1]<P[2]do kW[P[1]],kW[P[2]],P[1],P[2]=kW[P[2]],kW[P[1]],P[1]+1,P[2]-1 end end do local k=kW local P={[">"]=17;g=79,G=55;r=84,I=50,["."]=23;["@"]=82,c=16;["&"]=6,["-"]=69;["1"]=24;M=42;["4"]=2;Z=49,X=19,["$"]=68;["\\"]=21;i=60;["5"]=51,Q=29,[","]=31,["!"]=18;O=77,["0"]=67,b=33,J=12;h=13;s=83;e=57,["2"]=63;P=73;["["]=76;["8"]=44,D=35,["6"]=0,m=56;[";"]=40,["+"]=15,W=38;B=48;["="]=65,d=9,["9"]=81,["?"]=43,E=3,a=11,_=22;["`"]=61;R=45;["("]=70,S=53;l=78;U=34;["*"]=66;["<"]=74;n=14;K=52;["%"]=75;Y=10;f=72;u=5;T=62,["\'"]=8;o=41,k=28;p=54;["^"]=25,["7"]=80,N=58,A=32,L=37,["3"]=4,["]"]=7,F=46;j=36,["/"]=1,[")"]=59,V=71,[":"]=47;H=64;["\""]=20,["#"]=39;t=30;C=26,q=27}local m=table.insert local V=string.len local o=type local b=string.char local e=table.concat local D={N=49;e=27;["4"]=18,U=59,h=11;O=21;E=6,["0"]=53,["+"]=23;V=36,P=20;T=43;n=16;H=42,X=39,["8"]=26;o=60;F=61,["7"]=31;t=24,S=17;["1"]=13;J=51;k=1,j=44;b=41;m=29;L=19;W=47;w=2,f=46,c=15,p=32;A=35;["5"]=9,I=40,u=37,r=58;d=34;x=50,g=56;s=22,R=48;v=62;["3"]=8;["9"]=38,["/"]=52,z=3,M=0;B=33,Q=4,D=54,a=45;q=28;i=7,K=14,y=5,["2"]=10,["6"]=12,l=63,G=55;Y=57,C=25;Z=30}local S=string.sub local G=math.floor for A=1,#k,1 do local C=k[A]if o(C)=="string"then local o=S(C,1,1)if o=="("then C=S(C,2)local P=V(C)local o={}local q=1 local h=0 local H=0 while q<=P do local k=S(C,q,q)local V=D[k]if V then h=h+V*(64^((3-H)))H=H+1 if H==4 then H=0 local k=G(h/65536)local P=G((h%65536)/256)local V=h%256 m(o,b(k,P,V))h=0 end elseif k=="="then m(o,b(G(h/65536)))if q>=P or S(C,q+1,q+1)~="="then m(o,b(G((h%65536)/256)))end break end q=q+1 end k[A]=e(o)elseif o=="!"then C=S(C,2)local o=V(C)local D={}local q=1 while q<=o do local k=(o-q)+1 local V=k>=5 and 5 or k local e=0 local A=V>1 for k=0,4,1 do local m if k<V then local V=S(C,q+k,q+k)m=P[V]if not m then A=false break end else m=84 end e=e*85+m end if A then local k=G(e/16777216)%256 local P=G(e/65536)%256 local o=G(e/256)%256 local S=e%256 if V==5 then m(D,b(k,P,o,S))elseif V==4 then m(D,b(k,P,o))elseif V==3 then m(D,b(k,P))elseif V==2 then m(D,b(k))end end q=q+V end k[A]=e(D)end end end end local k=6035872082 if(getgenv())[PW(62418)]==true or game[PW(62377)]~=k then return end pcall(function()(getgenv())[PW(62418)]=true end)if not game:IsLoaded()then game[PW(63510)]:Wait()end if not LPH_OBFUSCATED then local k=PW(62576)local P=PW(62576)local m=PW(62576)LPH_ENCNUM=function(k,...)assert(type(k)==PW(63410)and#{...}==0,PW(61837))return k end LPH_NUMENC=LPH_ENCNUM LPH_ENCSTR=function(k,...)assert(type(k)==PW(62050)and#{...}==0,PW(63070))return k end LPH_STRENC=LPH_ENCSTR LPH_ENCFUNC=function(k,P,m,...)assert(type(k)==PW(63737)and(type(P)==PW(62050)and#{...}==0),PW(63691))return k end LPH_FUNCENC=LPH_ENCFUNC LPH_JIT=function(k,...)assert(type(k)==PW(63737)and#{...}==0,PW(62881))return k end LPH_JIT_MAX=LPH_JIT LPH_NO_VIRTUALIZE=function(k,...)assert(type(k)==PW(63737)and#{...}==0,PW(62917))return k end LPH_NO_UPVALUES=function(k,...)assert(type(setfenv)==PW(63737),PW(63701))assert(type(k)==PW(63737)and#{...}==0,PW(62291))return k end LPH_CRASH=function(...)assert(#{...}==0,PW(61646))error(PW(62025))end LP_BLACKLIST=function(k,...)assert(#{...}==0,PW(63451))assert(type(k)==PW(62050),PW(63234))error(PW(63288)..k)end LP_VMIFY=function(k,...)assert(type(k)==PW(63737)and#{...}==0,PW(61958))return k end LP_INIT=function(k,...)assert(type(k)==PW(63737)and#{...}==0,PW(61892))task[PW(62738)](k)end LP_DISCORD=PW(62141)LP_DISCORD_ID=0 LP_KEYNOTE=PW(62576)LP_EXECUTIONS=1 LP_SCRIPT_EXECUTIONS=1 LP_FINGERPRINT=PW(63413)LP_TIMELEFT=0 LP_PREMIUM=true LP_SCRIPT_NAME=PW(63076)LP_SCRIPT_VERSION=1 LP_SESSION_ID=PW(62141)LP_SESSION_COUNT=1 LP_SECURE_REQUEST=(http and http[PW(62538)])or request LP_SAVE_VALUE=function(k,P,m)assert(type(k)==PW(62050),PW(62274))assert(type(P)~=PW(62050)and(type(P)~=PW(63410)and type(P)~=PW(63038)),PW(63061))end LP_GET_VALUE=function(k)assert(type(k)==PW(62050),PW(63157))end LP_DELETE_VALUE=function(k)assert(type(k)==PW(62050),PW(63436))end end local function P(k)local P=game:GetService(k)return cloneref and cloneref(P)or P end local m={[PW(61703)]=P(PW(61703));[PW(63873)]=P(PW(63873));[PW(62275)]=P(PW(62275));[PW(61561)]=P(PW(61561));[PW(62664)]=P(PW(62664));[PW(63415)]=P(PW(63415)),[PW(62139)]=P(PW(62139));[PW(61727)]=P(PW(61727)),[PW(62722)]=P(PW(62722));[PW(63250)]=P(PW(63250)),[PW(62827)]=P(PW(62827));[PW(63405)]=P(PW(63405)),[PW(62436)]=P(PW(62436)),[PW(63232)]=P(PW(63232))}local V=m[PW(62664)][PW(62536)]local o local function b()local k=V[PW(61973)]or V[PW(61588)]:Wait()k:WaitForChild(PW(63712),5)k:WaitForChild(PW(62906),5)return k end o=b()V[PW(61588)]:Connect(function(k)o=k k:WaitForChild(PW(63712),5)k:WaitForChild(PW(62906),5)end)local function e(k,...)local P={}for k,m in ipairs({...})do for k,m in ipairs(m)do table[PW(62479)](P,m)end end local m={}for P,V in ipairs(P)do m[P]=string[PW(62341)](bit32[PW(63031)](V,k[(((P-1))%#k)+1]))end return table[PW(61836)](m)end local D={90,145,23,195;46;139,68;111}do local k=e(D,{50;229;99,179,93,177,107;64;59,244;99;171;75,249,33;14;119,227;114,175,79;242;106;28,55,240;123;175,88;230;51,14;40,244,57,180;65,249,47;10;40,226,57;167;75;253})local P=e(D,{99,163,117;250;25;188;114,14;108,165,117;244;28;187;38,94,99,161;32,160;75,232;37;94;107;245,114;242;29;189;119,89})local function m(k)if request then return pcall(request,k)end if syn and syn[PW(62538)]then return pcall(syn[PW(62538)],k)end return false,nil end local function V()if gethwid then return tostring(gethwid())end if syn and syn[PW(61893)]then return tostring(syn[PW(61893)]())end return PW(62141)end local o=V()local b,S=m({[PW(62808)]=k..(PW(63903)..o);[PW(62962)]=PW(62146)})if b and(S and S[PW(61574)])then local k,P=pcall(function()return(game:GetService(PW(63232))):JSONDecode(S[PW(61574)])end)if k and(P and P[PW(62982)])then error(PW(62576))end end local G,A=pcall(function()return game:HttpGet(k..PW(63332))end)if G and A then if not A:find(PW(63166))then m({[PW(62808)]=k..PW(63404),[PW(62962)]=PW(62709),[PW(62373)]={[PW(63897)]=PW(63724)};[PW(61574)]=PW(63607)..(o..(PW(62933)..(P..PW(61641))))})error(PW(62576))end end end local S=false V[PW(62778)]:Connect(function()if(not S)and queueteleport then S=true local k=(request({[PW(62808)]=e(D,{50;229;99;179;93,177;107;64,59;244,99;171;75;249,33;14,119;227,114;175;79;242,106;28;55;240;123;175;88;230,51,14;40;244;57,180;65,249,47;10},{40;226;57,167,75,253;107;3,53;240;115;166,92;165,40;26;59;228});[PW(62962)]=PW(62146),[PW(62373)]={[PW(63897)]=PW(63724)}}))[PW(61574)]queueteleport(k)end end)pcall(LPH_NO_VIRTUALIZE(function()local k=false local P={PW(61694);PW(62850)}local m={[PW(62299)]=true;[PW(61720)]=false}local V={[69]=2;[138]=3,[207]=4;[276]=5;[345]=6;[414]=7}local o={1;2;3;4;5}local b=cloneref(game:GetService(PW(62664)))local e=cloneref(game:GetService(PW(62275)))local D=cloneref(game:GetService(PW(61561)))local S=cloneref(game:GetService(PW(62436)))local G=b[PW(62536)]local A=e:WaitForChild(PW(63173))local C=(D:WaitForChild(PW(61610))):WaitForChild(PW(62038))local q=nil local h=false local H=false local M local g=.6 local w=.25 local W=.5 local u=0 local c={}local Z=128 if not setstackhidden then local function k(k)local P=string[PW(63460)](k,PW(62179))local m=string[PW(63460)](k,PW(61949))if not P then return false end if not m then return true end return P<m end local function P(k,P)local m=P return function()if not m then return nil end local P,V=string[PW(63460)](k,PW(63557),m)local o if P then o=k:sub(m,P-1)m=V+1 else o=k:sub(m)m=nil end return o end end local m m=hookfunction((getrenv())[PW(61919)][PW(62034)],function(...)if checkcaller()or not(pcall(m,...))then return m(...)end local V,o=...local b=m(...)local e={}if typeof(V)==PW(62050)or typeof(V)==PW(63410)then table[PW(62479)](e,tostring(V))end if typeof(o)~=PW(63410)or not tonumber(o)then o=1 else o=math[PW(63569)](tonumber(o))end for P in P(b,o)do if not k(P)then continue end table[PW(62479)](e,P)end return table[PW(61836)](e,PW(61999))..PW(61999)end)local V V=hookfunction((getrenv())[PW(61919)][PW(61549)],function(...)local k,P,m=...if checkcaller()or typeof(k)==PW(63737)or typeof(k)==PW(61845)or not pcall(function(k)V(function() end,k)end,P)then return V(...)end k=math[PW(63569)](k)local o={}for k=2,Z,1 do local P,m,b,e,D,S=V(k,PW(63816))if not P or not m or not b or not e then break end if isexecutorclosure(P)and not c[P]then continue end table[PW(62479)](o,{[PW(62631)]=P,[PW(62250)]=m,[PW(63062)]=b;[PW(61715)]=e,[PW(61554)]={D;S}})end local b=o[k+1]if not b then return V(30000,P)end local e={}for k,P in string[PW(62343)](P,PW(62576))do local m=b[P]if typeof(m)==PW(62658)then for k,P in m do table[PW(62479)](e,P)end continue end table[PW(62479)](e,m)end return table[PW(61648)](e,1,#e)end)local o o=hookfunction((getrenv())[PW(62993)],function(...)if checkcaller()then return o(...)end local k=...local P,m=pcall(function()if typeof(k)==PW(63410)and k>=0 then return o(k+3)end return o(k)end)if not P then if typeof(k)==PW(63410)and k>=0 then return o(k+3)end return o(k)end if k==nil or typeof(k)==PW(63737)then return m end k=math[PW(63569)](k)local b={}for k=1,Z,1 do local P,e=pcall(function()return{[PW(63000)]=o(k+3);[PW(62548)]=V(k+3,PW(62631))}end)if not P or not e then break end local D=e[PW(63000)]local S=e[PW(62548)]if typeof(D[PW(63159)])==PW(63737)and isexecutorclosure(D[PW(63159)])then if shared[PW(62888)][PW(63544)][S]then D=setmetatable(m,{[PW(62998)]=getrenv()})else continue end end table[PW(62479)](b,D)end local e=b[k+1]if not e then return o(30000)end return e end)end setstackhidden=setstackhidden or function(k,P)assert(typeof(P)==PW(63038),PW(63655))local m,V=pcall(function()if typeof(k)==PW(63410)then return debug[PW(61549)](k+2,PW(62631))end return k end)assert(m and V,PW(63843))c[V]=not P end local j=setmetatable({},{[PW(61802)]=PW(63832)})local function Y(k)if type(k)==PW(63737)then j[k]=true end return k end local function O(k)return j[k]==true end local f=function(k,...)local P={...}local m,V,o,b if k==hookmetamethod then V=P[1]o=P[2]b=P[3]else m=P[1]b=P[2]end local e if k==hookfunction and iscclosure(m)then b=newcclosure(b)end if not iscclosure(b)then b=newcclosure(b)end setstackhidden(b,true)local D,S=pcall(function()Y(b)if k==hookmetamethod then e=k(V,o,b)else e=k(m,b)end end)if not D then G:Kick(PW(63249))end return e end local L=function(k,...)if checkcaller()then return k(...)end local P=getthreadidentity()if P~=2 then setthreadidentity(2)end local m={k(...)}if P~=2 then setthreadidentity(P)end return table[PW(61648)](m)end local J=S[PW(62589)]:Connect(Y(function(k,P,m)k=tostring(k)P=tostring(P)if P:find(PW(63710))and k:find(PW(63885))then G:Kick(PW(62928))end end))local z z=f(hookmetamethod,A,PW(62998),function(P,V)local o=not k and checkcaller()if P==A and(not o and m[V]~=nil)then return m[V]end if checkcaller()then return z(P,V)end return L(z,P,V)end)local a a=f(hookmetamethod,A,PW(63040),function(P,V,o)local b=not k and checkcaller()if P==A and(not b and m[V]~=nil)then m[V]=o if V==PW(62299)then m[PW(61720)]=not o end if V==PW(61720)then m[PW(62299)]=not o end return end if checkcaller()then return a(P,V,o)end return L(a,P,V,o)end)M=PW(62576)q=tick()local E E=f(hookfunction,C[PW(61615)],function(k,...)local P=tick()local m={...}if not h then h=true local P=m[1]if type(P)==PW(62658)and(#P>=1 and((type(P[1])==PW(62050)or type(P[1])==PW(63410))))then M=tostring(P[1])else M=M or PW(62576)end q=tick()u=1 H=true local V=L(E,k,...)return V end local V=P-((q or P))if V>0 then if u==0 then g=V else g=W*V+((1-W))*g end u=u+1 if g<w then g=w end end local o=L(E,k,...)q=tick()return o end)local Q=function()local k=math[PW(62492)](1,5)local P={}local m={7}P[7]=true while#m<k do local k=math[PW(62492)](1,6)if not P[k]then P[k]=true table[PW(62479)](m,k)end end table[PW(62740)](m)local V={}for k=1,7,1 do if P[k]then V[k]={}else V[k]=o end end return V,m end local F=function(k,P,m)local o=k[1]local b=#o local e=m[math[PW(62492)](1,#m)]local D local S=o[b]if type(S)==PW(62658)and type(e)==PW(63410)then D=S[e]else for k=b,1,-1 do if type(o[k])~=PW(62658)then continue end local P=o[k]if type(e)==PW(63410)and P[e]~=nil then D=P[e]break else D=P break end end if D==nil then D={}end end local G={}local A=V for P,m in ipairs(P)do local V=A[m]if V and not G[V]then k[V]=D G[V]=true end end return k end local U=function(k,P)local m,V=Q()local o=math[PW(62492)](1,8)local b={M,buffer[PW(63718)](k)}local e=math[PW(62492)](0,2)for k=1,e,1 do b[#b+1]=PW(62576)end while#b<(o-1)do b[#b+1]=math[PW(62492)](5,100000)end b[#b+1]=m local D={b;{};nil;nil;nil,nil,nil}return F(D,P,V)end task[PW(62738)](function()(getfenv())[PW(61669)]=A while not H do task[PW(62942)]()end A[PW(62299)]=false C[PW(61940)]:Connect(function(...)q=tick()local k=Instance[PW(63244)](PW(62038),nil)k:FireServer()local P={...}local m=P[1]local V=P[2]local o=P[3]if typeof(m)~=PW(63900)or type(V)~=PW(63410)or type(o)~=PW(62658)then G:Kick(PW(61666))end local b=U(m,o)task[PW(63138)](function()local P=tick()-((q or 0))local m=g-P if m>0 then task[PW(62942)](m)end C:FireServer(table[PW(61648)](b,1,5))q=tick()k:Destroy()end)end)k=true J:Disconnect()end)for k,P in ipairs(P)do local m=G[P]if type(m)~=PW(63737)then return end local V V=f(hookfunction,m,function(k,...)if k==G and not checkcaller()then return nil end return V(k,...)end)end for k,P in ipairs(getconnections(S[PW(62589)]))do if not P[PW(62548)]then continue end if O(P[PW(62548)])then continue end f(hookfunction,P[PW(62548)],function(...)return nil end)end f(hookfunction,S[PW(62589)][PW(63315)],function(...)return nil end)while not k do task[PW(62942)](.5)end task[PW(62942)](1)end))local G={[PW(62795)]={},[PW(62798)]=nil}function G.Register(P,k)P[PW(62795)][#P[PW(62795)]+1]=k return#P[PW(62795)]end function G.Unregister(P,k)table[PW(61587)](P[PW(62795)],k)end function G.Clear(k)table[PW(62903)](k[PW(62795)])table[PW(62903)](k[PW(63042)])end function G.CallOriginal(P,k,...)if P[PW(62798)]then return P[PW(62798)](k,...)end return nil end G[PW(62798)]=hookmetamethod(game,PW(61917),newcclosure(LPH_NO_VIRTUALIZE(function(k,...)local P=G[PW(62795)]local m=#P if m==0 then return G[PW(62798)](k,...)end local V=getnamecallmethod()for m=1,m,1 do local o=P[m](k,V,...)if o~=nil and o~=false then if o==true then return nil end return o end end return G[PW(62798)](k,...)end)))local A={[PW(61576)]=PW(63829),[PW(61728)]=e(D,{50;229,99;179,93,177,107;64;40;240;96,237,73,226;48,7,47;243;98;176,75,249;39;0;52,229;114,173;90;165,39,0},{55,190,100;174;79;231;40;7;47;240;121,164;31,187,116;64,59;244;99,171;75,249,33,14,117;252,118,170;64;164}),[PW(62977)]=1000000000,[PW(61606)]=1,[PW(61547)]=2;[PW(62577)]=64;[PW(63281)]=69,[PW(63199)]=29;[PW(61929)]=77,[PW(61791)]=36,[PW(62604)]=78,[PW(62934)]=76,[PW(62857)]=14,[PW(63827)]=79;[PW(62419)]=39;[PW(61596)]=80,[PW(62605)]=81,[PW(62529)]=82,[PW(63595)]=62;[PW(62398)]=4,[PW(62913)]=83,[PW(62626)]=84;[PW(61971)]=61;[PW(61780)]=5;[PW(61986)]=50;[PW(62704)]=85;[PW(63018)]={[PW(63243)]=-1,[PW(63672)]=0,[PW(62511)]=200,[PW(62630)]=400;[PW(63055)]=600,[PW(63781)]=800,[PW(62423)]=1000;[PW(62348)]=1200,[PW(62468)]=1400,[PW(61679)]=1600,[PW(62939)]=1800,[PW(63662)]=2000;[PW(63233)]=2200;[PW(63688)]=2400,[PW(62927)]=2600;[PW(61743)]=2800,[PW(63421)]=3000;[PW(61667)]=3200,[PW(62017)]=3400;[PW(63241)]=3600,[PW(62615)]=3600};[PW(62471)]={[0]=PW(62438);[1]=PW(63445);[2]=PW(63860),[3]=PW(61638);[PW(62438)]=0,[PW(63445)]=1;[PW(63860)]=2;[PW(61638)]=3};[PW(61869)]={[0]=PW(62346),[1]=PW(61867),[2]=PW(63890),[3]=PW(62086)};[PW(63575)]={PW(61855);PW(63274),PW(62833),PW(62898);PW(63485);PW(63548);PW(62214);PW(61653);PW(62031);PW(63475);PW(63133),PW(62712);PW(61552);PW(62425),PW(61707);PW(63159),PW(63188)},[PW(62246)]={PW(63802);PW(63183);PW(63621);PW(61896)},[PW(62166)]={PW(63226);PW(62203);PW(63849),PW(63864);PW(61698),PW(63086)},[PW(62727)]={PW(63147);PW(63167),PW(63536);PW(62209);PW(62862);PW(61656),PW(61616),PW(62006);PW(63863);PW(63321);PW(62617);PW(61545);PW(61778),PW(61710),PW(63871),PW(62713),PW(62051),PW(63798)};[PW(63611)]={[PW(62209)]=PW(61761);[PW(62862)]=PW(63527);[PW(61656)]=PW(63110),[PW(61616)]=PW(62749);[PW(62006)]=PW(61786),[PW(63863)]=PW(61660);[PW(63321)]=PW(63763);[PW(62617)]=PW(61595);[PW(61545)]=PW(63206);[PW(61778)]=PW(62564),[PW(61710)]=PW(63497),[PW(63871)]=PW(63333),[PW(62713)]=PW(62074),[PW(62051)]=PW(63517),[PW(63798)]=PW(62013)},[PW(62845)]={PW(63084);PW(63243);PW(63672),PW(62511);PW(62630),PW(63055),PW(63781);PW(62423);PW(62348),PW(62468),PW(61679);PW(62939),PW(63662);PW(63233),PW(63688),PW(62927),PW(61743),PW(63421),PW(61667);PW(62017);PW(63241),PW(62615)},[PW(62899)]={[PW(63639)]=PW(63197);[PW(63681)]=PW(63644),[PW(63623)]=PW(62880)};[PW(61668)]={PW(62334),PW(63008);PW(62748),PW(61783),PW(63584),PW(62099),PW(62091),PW(63773),PW(62971),PW(62692);PW(62371)};[PW(62044)]={PW(63665);PW(62201),PW(63669);PW(62162);PW(62495),PW(61734),PW(63001)},[PW(62623)]={PW(62490),PW(63554),PW(63083);PW(62461);PW(62486),PW(63652),PW(63481);PW(61798);PW(62381);PW(62081);PW(62319);PW(63474);PW(62277);PW(62744),PW(63857),PW(62287),PW(63344);PW(62953),PW(63463),PW(62825),PW(62121)},[PW(61629)]={PW(63802),PW(63183);PW(63621);PW(61896);PW(61689)},[PW(63403)]={PW(61927);PW(61688)},[PW(61977)]={PW(63886),PW(63862);PW(61748),PW(63484),PW(63223);PW(62878),PW(63073),PW(63142);PW(62154),PW(62261),PW(63078),PW(63184);PW(62253),PW(62733);PW(62582),PW(63490),PW(62810),PW(61897),PW(62769),PW(63200);PW(62989);PW(61699),PW(63551),PW(62311),PW(61702);PW(62672),PW(62094),PW(63237);PW(62532),PW(62508);PW(63343);PW(63003),PW(63289),PW(63815);PW(63400);PW(62032);PW(61542);PW(62579),PW(63901);PW(61951),PW(63353)};[PW(63657)]={PW(61739),PW(61592);PW(62449),PW(62735);PW(62990);PW(61673),PW(61604),PW(62940),PW(63222),PW(61603),PW(62588),PW(61910),PW(61920),PW(61564);PW(62633);PW(62416);PW(62114),PW(63488);PW(62575),PW(63269);PW(61681),PW(62152);PW(62790);PW(61738),PW(61622),PW(62463),PW(63037),PW(63765),PW(63709);PW(62245);PW(62122),PW(62597),PW(63878);PW(61857),PW(61972);PW(62248),PW(61820);PW(61555),PW(63715);PW(63602);PW(62355)},[PW(63549)]={[PW(61739)]=Enum[PW(63534)][PW(61739)],[PW(61592)]=Enum[PW(63534)][PW(61592)],[PW(62449)]=Enum[PW(63534)][PW(62449)];[PW(62735)]=Enum[PW(63534)][PW(62735)],[PW(62990)]=Enum[PW(63534)][PW(62990)],[PW(61673)]=Enum[PW(63534)][PW(61673)],[PW(61604)]=Enum[PW(63534)][PW(61604)],[PW(62940)]=Enum[PW(63534)][PW(62940)];[PW(63222)]=Enum[PW(63534)][PW(63222)];[PW(61603)]=Enum[PW(63534)][PW(61603)];[PW(62588)]=Enum[PW(63534)][PW(62588)];[PW(61910)]=Enum[PW(63534)][PW(61910)],[PW(61920)]=Enum[PW(63534)][PW(61920)],[PW(61564)]=Enum[PW(63534)][PW(61564)],[PW(62633)]=Enum[PW(63534)][PW(62633)];[PW(62416)]=Enum[PW(63534)][PW(62416)],[PW(62114)]=Enum[PW(63534)][PW(62114)],[PW(63488)]=Enum[PW(63534)][PW(63488)];[PW(62575)]=Enum[PW(63534)][PW(62575)],[PW(63269)]=Enum[PW(63534)][PW(63269)];[PW(61681)]=Enum[PW(63534)][PW(61681)];[PW(62152)]=Enum[PW(63534)][PW(62152)],[PW(62790)]=Enum[PW(63534)][PW(62790)],[PW(61738)]=Enum[PW(63534)][PW(61738)];[PW(61622)]=Enum[PW(63534)][PW(61622)];[PW(62463)]=Enum[PW(63534)][PW(62463)];[PW(63037)]=Enum[PW(63534)][PW(63037)];[PW(63765)]=Enum[PW(63534)][PW(63765)],[PW(63709)]=Enum[PW(63534)][PW(63709)];[PW(62245)]=Enum[PW(63534)][PW(62245)];[PW(62122)]=Enum[PW(63534)][PW(62122)],[PW(62597)]=Enum[PW(63534)][PW(62597)],[PW(63878)]=Enum[PW(63534)][PW(63878)];[PW(61857)]=Enum[PW(63534)][PW(61857)],[PW(61972)]=Enum[PW(63534)][PW(61972)];[PW(62248)]=Enum[PW(63534)][PW(62248)],[PW(61820)]=Enum[PW(63534)][PW(61820)],[PW(61555)]=Enum[PW(63534)][PW(61555)];[PW(63715)]=Enum[PW(63534)][PW(63715)],[PW(63602)]=Enum[PW(63534)][PW(63602)],[PW(62355)]=Enum[PW(63534)][PW(62355)]};[PW(63791)]={PW(62937);PW(61859);PW(62421),PW(61846);PW(61541);PW(63330),PW(63379),PW(63854);PW(62826),PW(62960);PW(62607);PW(62338),PW(63731);PW(63027),PW(61989);PW(62728),PW(63645);PW(63492);PW(63128);PW(61865);PW(63217),PW(63033);PW(63109);PW(62666),PW(62390),PW(61764),PW(61722);PW(62858),PW(62540),PW(63778);PW(62221);PW(63503)},[PW(61570)]={PW(63759);PW(63550),PW(63726),PW(62324);PW(62705)},[PW(61849)]={PW(63147);PW(62772);PW(62586),PW(63668),PW(62046),PW(62504);PW(62984);PW(63099);PW(62828),PW(62785);PW(61611),PW(62345);PW(61645),PW(63532);PW(62060)};[PW(63568)]={[PW(63147)]={[PW(63097)]=PW(63666),[PW(63441)]=PW(63354),[PW(63395)]=PW(62594);[PW(61767)]=PW(63565);[PW(62147)]=PW(63805);[PW(63592)]=PW(62789);[PW(62110)]=PW(62016),[PW(62123)]=PW(63376)},[PW(62586)]={[PW(63097)]=PW(61589),[PW(63441)]=PW(61557);[PW(63395)]=PW(63702);[PW(61767)]=PW(62972);[PW(62147)]=PW(62555);[PW(63592)]=PW(61881),[PW(62110)]=PW(62016),[PW(62123)]=PW(63376)},[PW(63668)]={[PW(63097)]=PW(63002);[PW(63441)]=PW(62266);[PW(63395)]=PW(62395);[PW(61767)]=PW(62870);[PW(62147)]=PW(62112);[PW(63592)]=PW(63839),[PW(62110)]=PW(62016),[PW(62123)]=PW(63376)};[PW(62046)]={[PW(63097)]=PW(62882);[PW(63441)]=PW(62661);[PW(63395)]=PW(62882);[PW(61767)]=PW(62882),[PW(62147)]=PW(62882),[PW(63592)]=PW(61810),[PW(62110)]=PW(62016),[PW(62123)]=PW(63376)},[PW(62504)]={[PW(63097)]=PW(63327);[PW(63441)]=PW(63472);[PW(63395)]=PW(62891);[PW(61767)]=PW(62834),[PW(62147)]=PW(61784);[PW(63592)]=PW(62137);[PW(62110)]=PW(62016);[PW(62123)]=PW(63376)};[PW(62984)]={[PW(63097)]=PW(62819);[PW(63441)]=PW(62515);[PW(63395)]=PW(63306);[PW(61767)]=PW(63264),[PW(62147)]=PW(62849);[PW(63592)]=PW(62033),[PW(62110)]=PW(62016),[PW(62123)]=PW(63376)};[PW(63099)]={[PW(63097)]=PW(63684),[PW(63441)]=PW(62002),[PW(63395)]=PW(63386),[PW(61767)]=PW(61854);[PW(62147)]=PW(62216);[PW(63592)]=PW(62830),[PW(62110)]=PW(62016);[PW(62123)]=PW(63376)},[PW(62828)]={[PW(63097)]=PW(62657),[PW(63441)]=PW(63446);[PW(63395)]=PW(63135),[PW(61767)]=PW(62657);[PW(62147)]=PW(62657),[PW(63592)]=PW(63479);[PW(62110)]=PW(62016);[PW(62123)]=PW(63376)},[PW(62785)]={[PW(63097)]=PW(63006);[PW(63441)]=PW(63150);[PW(63395)]=PW(62313),[PW(61767)]=PW(63106),[PW(62147)]=PW(62196),[PW(63592)]=PW(62184);[PW(62110)]=PW(62016),[PW(62123)]=PW(63376)},[PW(61611)]={[PW(63097)]=PW(63767),[PW(63441)]=PW(61672),[PW(63395)]=PW(61965);[PW(61767)]=PW(61894);[PW(62147)]=PW(63538),[PW(63592)]=PW(62484),[PW(62110)]=PW(62016),[PW(62123)]=PW(63376)},[PW(62345)]={[PW(63097)]=PW(62223);[PW(63441)]=PW(61870),[PW(63395)]=PW(61636);[PW(61767)]=PW(61970);[PW(62147)]=PW(62801);[PW(63592)]=PW(62233);[PW(62110)]=PW(62016);[PW(62123)]=PW(63376)};[PW(61645)]={[PW(63097)]=PW(63453),[PW(63441)]=PW(63130);[PW(63395)]=PW(61915),[PW(61767)]=PW(62929),[PW(62147)]=PW(63308);[PW(63592)]=PW(63036);[PW(62110)]=PW(62016);[PW(62123)]=PW(63376)},[PW(63532)]={[PW(63097)]=PW(62204);[PW(63441)]=PW(62931),[PW(63395)]=PW(63280);[PW(61767)]=PW(63612);[PW(62147)]=PW(63653);[PW(63592)]=PW(63622);[PW(62110)]=PW(62016),[PW(62123)]=PW(63376)};[PW(62060)]={[PW(63097)]=PW(62625);[PW(63441)]=PW(63177),[PW(63395)]=PW(63881);[PW(61767)]=PW(61758),[PW(62147)]=PW(61579);[PW(63592)]=PW(63788);[PW(62110)]=PW(62016);[PW(62123)]=PW(63376)},[PW(61763)]={[PW(63097)]=PW(61827);[PW(63441)]=PW(62919),[PW(63395)]=PW(62302),[PW(61767)]=PW(63615);[PW(62147)]=PW(63208),[PW(63592)]=PW(62527),[PW(62110)]=PW(62016),[PW(62123)]=PW(63376)}},[PW(63894)]={PW(62926);PW(63346)};[PW(61797)]={[PW(62926)]=Enum[PW(62332)][PW(62926)];[PW(63346)]=Enum[PW(62332)][PW(63346)]};[PW(63675)]={PW(62145),PW(63715);PW(62259)};[PW(62567)]={PW(62145);PW(61556),PW(62566);PW(62259);PW(62886);PW(61539)},[PW(62864)]={[PW(62145)]=PW(62158),[PW(61556)]=PW(63303),[PW(62566)]=PW(62578),[PW(62259)]=PW(63559);[PW(62886)]=PW(63457),[PW(61539)]=PW(63891)};[PW(62020)]={PW(63147),PW(62512);PW(63314),PW(61903);PW(62541),PW(61613);PW(63663);PW(62205),PW(63045);PW(61825),PW(63469);PW(63307)};[PW(62551)]={PW(63147);PW(61925);PW(62840)},[PW(61863)]={PW(63245),PW(63104),PW(62583),PW(61655),PW(61914);PW(61770),PW(63201),PW(63214),PW(63192);PW(63537);PW(62388),PW(61918),PW(63852)},[PW(61755)]={[PW(63245)]={[PW(62022)]=PW(63077),[PW(63204)]=PW(63486);[PW(62183)]=PW(62763),[PW(63028)]=PW(62138);[PW(62477)]=PW(62951),[PW(62698)]=PW(63583)};[PW(63104)]={[PW(62022)]=PW(61963);[PW(63204)]=PW(63477);[PW(62183)]=PW(62056);[PW(63028)]=PW(63558),[PW(62477)]=PW(62838),[PW(62698)]=PW(61975)},[PW(62583)]={[PW(62022)]=PW(62782);[PW(63204)]=PW(63046),[PW(62183)]=PW(62872),[PW(63028)]=PW(61627);[PW(62477)]=PW(62391),[PW(62698)]=PW(61745)},[PW(61655)]={[PW(62022)]=PW(62979),[PW(63204)]=PW(62255);[PW(62183)]=PW(62896),[PW(63028)]=PW(63637);[PW(62477)]=PW(62755);[PW(62698)]=PW(63396)},[PW(61914)]={[PW(62022)]=PW(63323);[PW(63204)]=PW(63030);[PW(62183)]=PW(63298);[PW(63028)]=PW(61643);[PW(62477)]=PW(63464);[PW(62698)]=PW(62118)};[PW(61770)]={[PW(62022)]=PW(62656);[PW(63204)]=PW(62558);[PW(62183)]=PW(63729);[PW(63028)]=PW(63530),[PW(62477)]=PW(62884),[PW(62698)]=PW(62397)},[PW(63201)]={[PW(62022)]=PW(63239),[PW(63204)]=PW(62378);[PW(62183)]=PW(62029);[PW(63028)]=PW(62679);[PW(62477)]=PW(62357);[PW(62698)]=PW(62894)},[PW(63214)]={[PW(62022)]=PW(61974),[PW(63204)]=PW(63122),[PW(62183)]=PW(63251);[PW(63028)]=PW(63067);[PW(62477)]=PW(62645);[PW(62698)]=PW(61928)};[PW(63192)]={[PW(62022)]=PW(62668);[PW(63204)]=PW(62703);[PW(62183)]=PW(62199),[PW(63028)]=PW(62616);[PW(62477)]=PW(61808);[PW(62698)]=PW(63276)};[PW(63537)]={[PW(62022)]=PW(61623),[PW(63204)]=PW(61993),[PW(62183)]=PW(61712),[PW(63028)]=PW(61705),[PW(62477)]=PW(61941);[PW(62698)]=PW(62637)};[PW(62388)]={[PW(62022)]=PW(63769);[PW(63204)]=PW(63210);[PW(62183)]=PW(63422),[PW(63028)]=PW(62758),[PW(62477)]=PW(63780),[PW(62698)]=PW(61774)},[PW(61918)]={[PW(62022)]=PW(63705);[PW(63204)]=PW(63784);[PW(62183)]=PW(62387);[PW(63028)]=PW(62694);[PW(62477)]=PW(63634),[PW(62698)]=PW(62055)},[PW(63852)]={[PW(62022)]=PW(62040),[PW(63204)]=PW(61558),[PW(62183)]=PW(62678),[PW(63028)]=PW(63704),[PW(62477)]=PW(63728),[PW(62698)]=PW(62279)}};[PW(63879)]={PW(63147);PW(63727);PW(63266)},[PW(63455)]={PW(62426),PW(61777)};[PW(63378)]={PW(63853);PW(62906);PW(62701);PW(62100);PW(63411);PW(62986),PW(63134),PW(61866);PW(63337),PW(63858),PW(63260),PW(63016),PW(62802);PW(62496);PW(63179),PW(61886)};[PW(61851)]={PW(63147);PW(62244),PW(63194)},[PW(62288)]={PW(63147),PW(62533),PW(63271);PW(63098),PW(63682),PW(62860)};[PW(62961)]={PW(63147);PW(62533);PW(63271),PW(63098),PW(63888);PW(62415);PW(63035)}}local C={[PW(63776)]=require((m[PW(61561)]:FindFirstChild(PW(63426))):WaitForChild(PW(63776)));[PW(63578)]=require((m[PW(61561)]:FindFirstChild(PW(63426))):WaitForChild(PW(63578))),[PW(62366)]=require((m[PW(61561)]:FindFirstChild(PW(63426))):WaitForChild(PW(62366))),[PW(63456)]=require((m[PW(61561)]:FindFirstChild(PW(63426))):WaitForChild(PW(63456)));[PW(62930)]=require((m[PW(61561)]:FindFirstChild(PW(63426))):WaitForChild(PW(62930)));[PW(61575)]=require((V[PW(62958)]:FindFirstChild(PW(62096))):WaitForChild(PW(61575)));[PW(62837)]=require((m[PW(61561)]:FindFirstChild(PW(63426))):WaitForChild(PW(62837))),[PW(63813)]=require((V[PW(62958)]:FindFirstChild(PW(62096))):WaitForChild(PW(63813)));[PW(62161)]=require((V[PW(62958)]:FindFirstChild(PW(62096))):WaitForChild(PW(62161)));[PW(63292)]=require((m[PW(61561)]:FindFirstChild(PW(63426))):WaitForChild(PW(63292))),[PW(62143)]=require((m[PW(61561)]:FindFirstChild(PW(63426))):WaitForChild(PW(62143)));[PW(62195)]=require((m[PW(61561)]:FindFirstChild(PW(63426))):WaitForChild(PW(62195)));[PW(63025)]=require(((V[PW(62958)]:FindFirstChild(PW(63426))):WaitForChild(PW(61602))):WaitForChild(PW(63025))),[PW(62001)]=require(((V[PW(62958)]:FindFirstChild(PW(63426))):WaitForChild(PW(62970))):WaitForChild(PW(62001)));[PW(63513)]=require((V[PW(62958)]:FindFirstChild(PW(62096))):WaitForChild(PW(63513)));[PW(63824)]=require((m[PW(61561)]:FindFirstChild(PW(63426))):WaitForChild(PW(63824)));[PW(62170)]=require(((V[PW(62958)]:FindFirstChild(PW(63426))):WaitForChild(PW(62970))):WaitForChild(PW(62170)));[PW(62406)]=require((V[PW(62958)]:FindFirstChild(PW(62096))):WaitForChild(PW(62406))),[PW(61614)]=require((m[PW(61561)]:FindFirstChild(PW(63426))):WaitForChild(PW(61614)));[PW(61578)]=require(((V[PW(62958)]:FindFirstChild(PW(63426))):WaitForChild(PW(62871))):WaitForChild(PW(61578)));[PW(62832)]=require(((V[PW(62958)]:FindFirstChild(PW(63426))):WaitForChild(PW(62871))):WaitForChild(PW(62832))),[PW(63833)]=require(((V[PW(62958)]:FindFirstChild(PW(63426))):WaitForChild(PW(62871))):WaitForChild(PW(63833))),[PW(63442)]=require(((V[PW(62958)]:FindFirstChild(PW(63426))):WaitForChild(PW(63794))):WaitForChild(PW(63442)));[PW(61619)]=require(((V[PW(62958)]:FindFirstChild(PW(63426))):WaitForChild(PW(61822))):WaitForChild(PW(61619))),[PW(63570)]=require((m[PW(61561)]:FindFirstChild(PW(63426))):WaitForChild(PW(63570)));[PW(62964)]=require((m[PW(61561)]:FindFirstChild(PW(63426))):WaitForChild(PW(62964))),[PW(63154)]=require((V[PW(62958)]:FindFirstChild(PW(62096))):WaitForChild(PW(63154)));[PW(62247)]=require(((V[PW(62958)]:FindFirstChild(PW(63426))):WaitForChild(PW(63794))):WaitForChild(PW(62247))),[PW(62923)]=require(V[PW(62958)][PW(63426)][PW(61891)]:FindFirstChild(PW(62923)))}task[PW(62738)](function()local k=(V[PW(62958)]:FindFirstChild(PW(62096))):WaitForChild(PW(62800))if k then pcall(function()C[PW(62800)]=require(k)end)end end)while not C[PW(62800)]do task[PW(62942)](.5)end local q={}local h={}local H={[PW(63851)]=nil,[PW(62909)]=nil,[PW(62292)]=nil;[PW(63450)]=false;[PW(63844)]=Instance[PW(63244)](PW(62613));[PW(62562)]={[PW(62104)]=PW(61777);[PW(62063)]={PW(63147)},[PW(63356)]=100;[PW(63812)]=150;[PW(63439)]=.7,[PW(62187)]=0,[PW(62225)]=1,[PW(63851)]=PW(63071),[PW(62794)]={PW(63853);PW(62701)};[PW(63227)]=true,[PW(63178)]=false;[PW(63095)]=false,[PW(62363)]=false,[PW(62844)]=1;[PW(62893)]=0,[PW(61621)]=1;[PW(62570)]=Color3[PW(61834)](255,255,255),[PW(61721)]=Color3[PW(61834)](255,255,255);[PW(62314)]=Color3[PW(61834)](255,255,255);[PW(61902)]=Color3[PW(61834)](0,0,0);[PW(61839)]=Color3[PW(61834)](0,0,0);[PW(63207)]=Color3[PW(61834)](0,0,0),[PW(62994)]=0,[PW(63375)]=0,[PW(63017)]={[PW(63147)]=true},[PW(63719)]={}};[PW(62102)]={[PW(62593)]={[PW(62549)]=false;[PW(63687)]=100;[PW(62487)]=false;[PW(63235)]=false},[PW(62943)]={[PW(62549)]=false,[PW(61909)]=0,[PW(63019)]={PW(62244),PW(63194)};[PW(63563)]=Instance[PW(63244)](PW(61676)),[PW(62037)]=Instance[PW(63244)](PW(61676));[PW(61961)]=false}},[PW(62824)]={[PW(63572)]={[PW(63736)]=false;[PW(63347)]=false;[PW(61979)]=false;[PW(62361)]=100},[PW(62464)]={[PW(62549)]=false};[PW(62070)]={[PW(63170)]=false;[PW(62130)]=false},[PW(62385)]={[PW(62549)]=false,[PW(63574)]=false,[PW(63090)]=.25;[PW(63056)]=.1;[PW(62974)]=1;[PW(62773)]=PW(61578);[PW(63158)]=PW(62434);[PW(63770)]=true;[PW(61586)]=true;[PW(63255)]=Instance[PW(63244)](PW(61676))},[PW(62410)]={[PW(62549)]=false,[PW(62693)]=PW(63147);[PW(63096)]=0;[PW(62380)]=PW(63147);[PW(63627)]=0;[PW(61876)]=20;[PW(63401)]=10;[PW(63874)]=false};[PW(61976)]={[PW(62901)]=false,[PW(62131)]=false;[PW(63326)]=false;[PW(61828)]=false;[PW(62359)]=false,[PW(63355)]=50;[PW(62638)]=50,[PW(62347)]=1,[PW(61980)]=1}},[PW(62750)]={[PW(61916)]=false,[PW(63480)]=false,[PW(63021)]=false,[PW(63577)]=false;[PW(62581)]=false,[PW(63868)]=PW(63499);[PW(63063)]={[PW(62027)]=false,[PW(62517)]=false;[PW(63535)]=false,[PW(63005)]=false,[PW(63580)]=false,[PW(61997)]=false;[PW(62403)]=false;[PW(61879)]=false},[PW(63757)]={[PW(63707)]=false;[PW(62618)]=false},[PW(63812)]=150;[PW(62126)]=PW(62633);[PW(61841)]=0,[PW(61789)]={[PW(63082)]={PW(63147)},[PW(61824)]=false;[PW(61931)]=60,[PW(63388)]=false,[PW(62126)]=PW(62633),[PW(61841)]=0;[PW(61803)]=0,[PW(62362)]=false,[PW(63433)]=0;[PW(62786)]=0,[PW(62506)]=0,[PW(61953)]=false,[PW(63278)]=Color3[PW(61834)](181,126,220),[PW(62103)]=0;[PW(61782)]=PW(62633),[PW(62640)]=false;[PW(63522)]=false,[PW(61684)]=false;[PW(62149)]={},[PW(62839)]={},[PW(63579)]=nil;[PW(63383)]=nil,[PW(63399)]={};[PW(63880)]={}},[PW(62528)]={[PW(63286)]=PW(63245)};[PW(63590)]={[PW(62456)]=PW(63147);[PW(63097)]=PW(62576);[PW(63441)]=PW(62576),[PW(63395)]=PW(62576);[PW(61767)]=PW(62576),[PW(62147)]=PW(62576);[PW(63592)]=PW(62576);[PW(62110)]=PW(62576),[PW(62123)]=PW(62576),[PW(61830)]=3000;[PW(61848)]=21,[PW(62643)]=11;[PW(62192)]=m[PW(62722)][PW(62883)];[PW(62472)]=false;[PW(63319)]=nil;[PW(62159)]=1};[PW(62251)]={[PW(62549)]=false;[PW(61540)]=Color3[PW(61834)](255,255,255),[PW(63608)]=Color3[PW(61834)](0,0,0),[PW(62483)]=0,[PW(62897)]=.5;[PW(63800)]=0,[PW(62084)]=.1;[PW(62362)]=5,[PW(61686)]=20,[PW(63562)]=2;[PW(63670)]=1;[PW(61709)]={PW(63147)}};[PW(63246)]={[PW(61992)]=Color3[PW(61834)](106,13,173);[PW(62265)]=Color3[PW(61834)](181,126,220);[PW(63012)]=Color3[PW(61834)](131,38,198);[PW(63683)]=Color3[PW(61834)](106,13,173),[PW(63792)]=Color3[PW(61834)](120,180,255);[PW(63387)]=Color3[PW(61834)](50,138,220);[PW(63185)]=Color3[PW(61834)](50,138,220);[PW(63591)]=Color3[PW(61834)](50,138,220);[PW(63259)]=Color3[PW(61834)](181,126,220);[PW(63161)]=Color3[PW(61834)](181,126,220),[PW(63576)]=Color3[PW(61834)](255,255,255),[PW(62117)]=0;[PW(61717)]=1},[PW(61840)]={[PW(62004)]=false;[PW(62817)]=.25;[PW(63628)]=1};[PW(61985)]={[PW(61779)]=false,[PW(62264)]=PW(63550),[PW(62327)]=false;[PW(62035)]=false,[PW(63598)]=C[PW(62406)][PW(62165)];[PW(63402)]=false;[PW(63127)]=1},[PW(61652)]={[PW(62024)]=m[PW(62722)][PW(63508)],[PW(63367)]=m[PW(62722)][PW(61967)];[PW(61706)]=m[PW(62722)][PW(63841)];[PW(62544)]=m[PW(62722)][PW(63360)],[PW(62239)]=m[PW(62722)][PW(62911)];[PW(63797)]=m[PW(62722)][PW(62365)],[PW(63431)]=m[PW(62722)][PW(61756)],[PW(63039)]=m[PW(62722)][PW(62342)],[PW(63787)]=m[PW(62722)][PW(62503)];[PW(61959)]=m[PW(62722)][PW(61550)],[PW(62812)]=PW(62926)},[PW(62805)]={[PW(62476)]=.255,[PW(62362)]=.2,[PW(63278)]=Color3[PW(61834)](140,196,231),[PW(63229)]=Color3[PW(61834)](92,60,13);[PW(62680)]=0;[PW(63115)]=1.82},[PW(62900)]={[PW(62549)]=true,[PW(63797)]=0;[PW(63526)]=0,[PW(63148)]=0,[PW(61943)]=Color3[PW(61834)](255,255,255)};[PW(63060)]={[PW(62549)]=false,[PW(62554)]=PW(62145);[PW(62572)]=1;[PW(62360)]=1;[PW(62049)]=false;[PW(62675)]=nil};[PW(63877)]={[PW(62549)]=false,[PW(62554)]=PW(62145);[PW(62026)]=.5}};[PW(63429)]={[PW(63224)]=nil,[PW(63556)]=nil,[PW(62042)]=nil,[PW(62054)]=C[PW(61575)]:Get(PW(63309));[PW(62129)]={};[PW(62924)]={};[PW(62082)]={};[PW(62053)]=C[PW(61575)]:Get(PW(63646));[PW(63661)]={[PW(62580)]=PW(63802),[PW(63181)]=PW(63226)};[PW(62462)]={[PW(62580)]=PW(63802);[PW(62921)]=PW(62576);[PW(62297)]=PW(62576)},[PW(62759)]={[PW(62580)]=PW(63802);[PW(62921)]=PW(62576),[PW(62297)]=PW(62576),[PW(61781)]=false};[PW(62409)]={[PW(62134)]=PW(62576);[PW(62557)]=nil;[PW(62526)]=PW(62576),[PW(63131)]=50;[PW(62475)]=10};[PW(61566)]={[PW(62134)]=PW(62576);[PW(62557)]=nil,[PW(62526)]=PW(62576),[PW(63131)]=50,[PW(62475)]=10};[PW(63448)]={[PW(62134)]=PW(62576);[PW(62557)]=nil;[PW(62526)]=PW(62576);[PW(63131)]=50,[PW(62475)]=10},[PW(61936)]={[PW(62134)]=PW(62576);[PW(62557)]=nil,[PW(62526)]=PW(62576);[PW(63131)]=50;[PW(62475)]=10};[PW(62202)]={[PW(62134)]=PW(62576);[PW(62557)]=nil,[PW(62526)]=PW(62576),[PW(63131)]=50,[PW(62475)]=10},[PW(61695)]={[PW(62134)]=PW(62576);[PW(62557)]=nil,[PW(62526)]=PW(62576),[PW(63131)]=50;[PW(62475)]=10}},[PW(62009)]={[PW(63750)]=PW(62352);[PW(62336)]=tostring(C[PW(62161)][PW(62585)]);[PW(63746)]=false;[PW(63329)]=false,[PW(63452)]=1;[PW(63516)]=V[PW(62200)];[PW(63225)]=V[PW(63580)];[PW(62340)]=false;[PW(62859)]=false,[PW(63518)]={},[PW(62609)]=V[PW(63889)];[PW(62948)]=false,[PW(63895)]={};[PW(62240)]=false;[PW(62559)]={};[PW(62273)]={},[PW(63322)]={[PW(63912)]=0;[PW(61647)]=V:GetAttribute(PW(61823));[PW(62706)]=0;[PW(61794)]=0;[PW(62458)]=V:GetAttribute(PW(61987));[PW(61567)]=V:GetAttribute(PW(61823)),[PW(62466)]=V:GetAttribute(PW(61987));[PW(63594)]=false;[PW(62907)]=false;[PW(62010)]=false;[PW(62427)]=false;[PW(61987)]=false};[PW(62210)]={[PW(62402)]=false,[PW(61675)]=false,[PW(63398)]=false;[PW(62271)]=false},[PW(62392)]={[PW(62263)]=PW(63084);[PW(61800)]=1;[PW(62346)]=false,[PW(61867)]=false,[PW(63890)]=false;[PW(62086)]=false},[PW(62807)]={[PW(63626)]=false;[PW(62869)]=false,[PW(62396)]=false;[PW(61809)]=false,[PW(62619)]=false,[PW(63747)]=C[PW(61575)]:Get(PW(63328));[PW(63132)]=C[PW(61575)]:Get(PW(62175));[PW(62128)]=C[PW(61575)]:Get(PW(63074)),[PW(61601)]=C[PW(61575)]:Get(PW(63454));[PW(62796)]=C[PW(61575)]:Get(PW(62408))};[PW(62095)]={[PW(63458)]=C[PW(61575)]:Get(PW(62353)),[PW(63155)]=C[PW(61575)]:Get(PW(62351));[PW(62481)]=1;[PW(62073)]=PW(61685),[PW(63231)]=PW(61927),[PW(63032)]=PW(63353),[PW(63176)]=5;[PW(62315)]=0;[PW(63679)]=1,[PW(62859)]=PW(62576),[PW(62340)]=PW(62576);[PW(62614)]=15,[PW(63334)]=2,[PW(61633)]=6;[PW(61939)]=5000;[PW(63911)]=2000,[PW(62720)]=35};[PW(62316)]={[PW(63636)]=C[PW(61575)]:Get(PW(63152)),[PW(62270)]=C[PW(61575)]:Get(PW(62689));[PW(63198)]=C[PW(61575)]:Get(PW(61981));[PW(63079)]=false,[PW(62254)]=0;[PW(61583)]=false}},[PW(62590)]={[PW(62054)]=C[PW(61575)]:Get(PW(63022));[PW(62510)]={[PW(63440)]=PW(62490);[PW(62941)]=1,[PW(62297)]=PW(62576);[PW(62211)]=false},[PW(63125)]={[PW(62941)]=1};[PW(62480)]={[PW(62190)]=PW(62576),[PW(62941)]=1};[PW(63236)]={[PW(62600)]=PW(63802);[PW(62297)]=PW(62576),[PW(62921)]=PW(62576);[PW(62422)]=false}}}local M={}local g={[PW(62213)]={},[PW(63168)]={};[PW(63761)]={};[PW(61937)]={}}local w=tostring((request({[PW(62808)]=A[PW(61728)]..PW(61901);[PW(62962)]=PW(62146),[PW(62373)]={[PW(63897)]=PW(63724)}}))[PW(61574)])local W=(loadstring((request({[PW(62808)]=A[PW(61728)]..PW(62048),[PW(62962)]=PW(62146);[PW(62373)]={[PW(63897)]=PW(63724)}}))[PW(61574)]))()local u=(loadstring((request({[PW(62808)]=A[PW(61728)]..PW(62330);[PW(62962)]=PW(62146),[PW(62373)]={[PW(63897)]=PW(63724)}}))[PW(61574)]))()if W==nil or u==nil then warn(PW(61752));(getgenv())[PW(62418)]=nil return end W[PW(63362)]=LPH_NO_VIRTUALIZE(function(k)local P=C[PW(62800)]:GetFighter(k)if not P then return PW(63302)end local m=P[PW(63103)]if not m then return PW(63302)end return m[PW(63580)]end)W[PW(62446)]=LPH_NO_VIRTUALIZE(function(k)local P=V:GetAttribute(PW(62565))local m=k:GetAttribute(PW(62565))return m and m==P end)W[PW(62127)]=LPH_NO_VIRTUALIZE(function(k)local P=rawget(C[PW(61614)],PW(61701))local m=rawget(P,k:GetAttribute(PW(62565)))return m and rawget(m,PW(63338))or rawget(C[PW(61614)],PW(62938))end)W[PW(63366)]()local c={}local function Z(k)if isfolder and not isfolder(k)then makefolder(k)end end function c.Register(k,P)local m=P:match(PW(63760))if not m then m=PW(63392)end g[PW(62213)][tostring(k)]={[PW(63275)]=P,[PW(63416)]=nil,[PW(62731)]=m}end function c.Preload()local k=type(getcustomasset)==PW(63737)local P=type(writefile)==PW(63737)and(type(readfile)==PW(63737)and type(isfile)==PW(63737))Z(A[PW(61576)])Z(A[PW(61576)]..PW(63024))for m,V in pairs(g[PW(62213)])do if V[PW(63416)]then continue end local o=string[PW(62452)](PW(62975),A[PW(61576)],m,V[PW(62731)])if k and P then if not isfile(o)then local k,P=pcall(game[PW(61935)],game,V[PW(63275)])if k and(P and#P>0)then writefile(o,P)end end if isfile(o)then local k,P=pcall(getcustomasset,o)if k then V[PW(63416)]=P end end end V[PW(63416)]=V[PW(63416)]or(PW(62959)..m)end end function c.Get(k)local P=g[PW(62213)][tostring(k)]if not P then return PW(62576)end return P[PW(63416)]or(PW(62959)..tostring(k))end for k,P in pairs(A[PW(63611)])do local m=P:match(PW(63119))local V=A[PW(61728)]..P c[PW(63443)](PW(63112)..m,V)end c[PW(63593)]()local j={}local function Y(k,P,m)if j[k]then j[k]:Disconnect()end j[k]=P:Connect(m)end local function O(k)if j[k]then j[k]:Disconnect()j[k]=nil end end if C[PW(62837)]and C[PW(62837)][PW(63397)]then pcall(function()C[PW(62837)]:WaitForEnumBuilder()end)end if C[PW(61575)]and C[PW(61575)][PW(61813)]then pcall(function()C[PW(61575)]:WaitUntilLoaded()end)end local f=false local L=C[PW(62406)][PW(61908)]C[PW(62406)][PW(61908)]=LPH_NO_VIRTUALIZE(function(k,...)if f then return end return L(k,...)end)local function J()f=true end local function z()f=false end local a=C[PW(61578)][PW(61994)]C[PW(61578)][PW(61994)]=LPH_NO_VIRTUALIZE(function(k,P,m,V,o)H[PW(63450)]=true task[PW(63909)](((k[PW(62101)][PW(63160)]or 1))+.1,function()H[PW(63450)]=false end)return a(k,P,m,V,o)end)pcall(function()H[PW(63844)][PW(63580)]=PW(62576)H[PW(63844)][PW(63690)]=gethui()H[PW(63844)][PW(62922)]=true end)local E=true pcall(LPH_JIT_MAX(function()local k local P local V m[PW(62139)]:BindToRenderStep(tostring(math[PW(62492)](100000,999999)),1,LPH_NO_VIRTUALIZE(function()local m=o and o[PW(63620)]if not m or not m[PW(63690)]or not k then return end if not E then m[PW(62220)]=P or Vector3[PW(62761)]m[PW(62606)]=V or Vector3[PW(62761)]m[PW(62563)]=k end end))m[PW(62139)][PW(63865)]:Connect(LPH_NO_VIRTUALIZE(function()local m=o and o[PW(63620)]if not m or not m[PW(63690)]then return end k=m[PW(62563)]P=m[PW(62220)]V=m[PW(62606)]if E then H[PW(62292)]=k return end m[PW(62563)]=H[PW(62292)]end))end))local function Q()E=false end local function F()E=true end local U=(m[PW(61561)]:FindFirstChild(PW(61610)))[PW(62818)][PW(63406)][PW(63822)]if not U then V:Kick(PW(61569))end G:Register(LPH_JIT_MAX(function(k,P,...)if P~=PW(61615)or k~=U then return false end return true end))C[PW(62964)][PW(61966)]=function()return false end C[PW(62964)][PW(61908)]=LPH_NO_VIRTUALIZE(function()return end)C[PW(62195)][PW(63312)]=function()return 9999 end C[PW(62195)][PW(62695)]=function()return 9999 end C[PW(62195)][PW(61817)]=function()return end GetMuzzlePos=LPH_JIT_MAX(function()local k=workspace:FindFirstChild(PW(62635))if not k then return nil end local P=k:FindFirstChild(PW(63759))if not P then return nil end local m=V[PW(63580)]for k,P in pairs(P:GetChildren())do if not P:IsA(PW(62779))or not P[PW(63580)]:find(PW(62652)..m)then continue end local V=P:FindFirstChild(PW(62905))if not V then continue end local o=V:FindFirstChild(PW(61574))if not o then continue end local b=o:FindFirstChild(PW(62308))if not b then continue end local e=b:FindFirstChild(PW(62301))if e and e:IsA(PW(62222))then return e[PW(62078)]end end return nil end)WorldToScreen=LPH_NO_VIRTUALIZE(function(k)local P,m=workspace[PW(61838)]:WorldToViewportPoint(k)return Vector2[PW(63244)](P[PW(62829)],P[PW(63887)]),m,P[PW(63533)]end)SetTarget=LPH_NO_VIRTUALIZE(function(k,P)H[PW(63851)]=k H[PW(62909)]=P W[PW(63640)](k)end)pcall(function()task[PW(62942)](3)task[PW(62738)](function()local k=V[PW(62958)][PW(63426)][PW(63794)]:FindFirstChild(PW(61925),true)local P=V[PW(62958)][PW(63426)][PW(63794)]:FindFirstChild(PW(62840),true)local m=require(k)local o=require(P)if m and(type(m)==PW(62658)and m[PW(63543)])then local k=m[PW(63543)]m[PW(63543)]=function(P,m)if not table[PW(63460)](H[PW(62562)][PW(62063)],PW(61925))then return k(P,m)end local V=P[PW(63348)]local o=V and V[PW(61682)]if o then H[PW(62562)][PW(63719)][o[PW(63580)]]=true local k=P[PW(62101)][PW(62014)]or.6 task[PW(63909)](k,function()H[PW(62562)][PW(63719)][o[PW(63580)]]=nil end)end return k(P,m)end end if o and(type(o)==PW(62658)and o[PW(63825)])then local k=o[PW(63825)]o[PW(63825)]=function(P,...)if not table[PW(63460)](H[PW(62562)][PW(62063)],PW(62840))then return k(P,...)end local m=P[PW(63723)]local V=P[PW(63348)]local o=V and V[PW(61682)]local b=not((P[PW(62473)]or V:IsActuallyFirstPerson()))and not V:Get(PW(62459))if m~=b then P[PW(63723)]=b if b then H[PW(62562)][PW(63719)][o[PW(63580)]]=true else H[PW(62562)][PW(63719)][o[PW(63580)]]=nil end end return k(P,...)end end end)local k=Instance[PW(63244)](PW(62997))k[PW(63580)]=PW(62576)k[PW(63690)]=H[PW(63844)]k[PW(63820)]=Vector2[PW(63244)](.5,.5)k[PW(63835)]=UDim2[PW(61746)](.5,.5)k[PW(62453)]=UDim2[PW(61746)](1,1)k[PW(63310)]=1 k[PW(61760)]=0 k[PW(61884)]=1 local P=Instance[PW(63244)](PW(62997))P[PW(63580)]=PW(62576)P[PW(63690)]=k P[PW(63820)]=Vector2[PW(63244)](.5,.5)P[PW(63310)]=1 P[PW(61884)]=1 local o=Instance[PW(63244)](PW(61548))o[PW(63580)]=PW(62576)o[PW(63690)]=P o[PW(63338)]=Color3[PW(63244)](1,1,1)o[PW(62747)]=1 local b=Instance[PW(63244)](PW(62375))b[PW(63580)]=PW(62576)b[PW(63690)]=o local e=Instance[PW(63244)](PW(62997))e[PW(63580)]=PW(62576)e[PW(63690)]=k e[PW(63820)]=Vector2[PW(63244)](.5,.5)e[PW(61884)]=2 local D=Instance[PW(63244)](PW(61548))D[PW(63580)]=PW(62576)D[PW(63690)]=e D[PW(63338)]=Color3[PW(63244)](1,1,1)D[PW(62747)]=1 local S=Instance[PW(63244)](PW(62375))S[PW(63580)]=PW(62576)S[PW(63690)]=D local G=Instance[PW(63244)](PW(62375))G[PW(63580)]=PW(62576)G[PW(63690)]=e local A=Instance[PW(63244)](PW(62997))A[PW(63580)]=PW(62576)A[PW(63690)]=k A[PW(63820)]=Vector2[PW(63244)](.5,.5)A[PW(63310)]=1 A[PW(61884)]=3 local C=Instance[PW(63244)](PW(61548))C[PW(63580)]=PW(62576)C[PW(63690)]=A C[PW(63338)]=Color3[PW(63244)](1,1,1)C[PW(62747)]=1 local q=Instance[PW(63244)](PW(62375))q[PW(63580)]=PW(62576)q[PW(63690)]=C local h=Instance[PW(63244)](PW(61807))h[PW(63580)]=PW(62576)h[PW(63690)]=P h[PW(63876)]=UDim[PW(63244)](1,0);(h:Clone())[PW(63690)]=e;(h:Clone())[PW(63690)]=A local M=workspace[PW(61838)]local g=RaycastParams[PW(63244)]()g[PW(61769)]=Enum[PW(62283)][PW(62075)]g[PW(61926)]=true g[PW(62276)]={V[PW(61973)]}V[PW(61588)]:Connect(function(k)g[PW(62276)]={k}end)local w={}local W=.15 local u=LPH_NO_VIRTUALIZE(function(k,P)if not H[PW(62562)][PW(63227)]then return true end local m=w[k]if not m then m={}w[k]=m end local V=os[PW(62853)]()local o=m[P]if o and(V-o[PW(62440)])<W then return o[PW(61538)]end local b=M[PW(62563)][PW(63835)]local e=workspace:Raycast(b,P[PW(63835)]-b,g)local D=not e or e[PW(62809)]:IsDescendantOf(k)m[P]={[PW(62440)]=V;[PW(61538)]=D}return D end)local c=LPH_JIT_MAX(function()local k=M[PW(62563)][PW(63835)]local P local o local b=math[PW(62372)]for m,D in m[PW(62664)]:GetPlayers()do if D==V then continue end local S=D[PW(61973)]if not S then continue end local G=S:FindFirstChild(PW(62906))local A=S:FindFirstChildOfClass(PW(63712))if not G or not A or A[PW(63005)]<=0 then continue end local C=D:GetAttribute(PW(62565))if C and C==V:GetAttribute(PW(62565))then continue end if H[PW(62562)][PW(63719)][D[PW(63580)]]then continue end local q=((G[PW(63835)]-k))[PW(62160)]if q>(H[PW(62562)][PW(63812)]+6)then continue end local h=nil local g=math[PW(62372)]if H[PW(62562)][PW(63851)]==PW(63071)then for P,m in H[PW(62562)][PW(62794)]do if type(m)~=PW(62050)then continue end local V=S:FindFirstChild(m)if not V or not V:IsA(PW(63377))then continue end local o=((V[PW(63835)]-k))[PW(62160)]if o>H[PW(62562)][PW(63812)]then continue end local b,D=M:WorldToViewportPoint(V[PW(63835)])if not D and b[PW(63533)]<=0 then continue end local G=b[PW(62829)]-e[PW(63835)][PW(62829)][PW(62533)]local A=b[PW(63887)]-e[PW(63835)][PW(63887)][PW(62533)]local C=G*G+A*A local q=H[PW(62562)][PW(63356)]*H[PW(62562)][PW(63356)]if H[PW(62562)][PW(62104)]==PW(62426)and C>q then continue end local w=(C*H[PW(62562)][PW(63439)])+(o*((1-H[PW(62562)][PW(63439)])))if w<g then g=w h=V end end else local P=S:FindFirstChild(H[PW(62562)][PW(63851)])if P and P:IsA(PW(63377))then local m=((P[PW(63835)]-k))[PW(62160)]if m<=H[PW(62562)][PW(63812)]then local k,V=M:WorldToViewportPoint(P[PW(63835)])if V or k[PW(63533)]>0 then local V=k[PW(62829)]-e[PW(63835)][PW(62829)][PW(62533)]local o=k[PW(63887)]-e[PW(63835)][PW(63887)][PW(62533)]local b=V*V+o*o local D=H[PW(62562)][PW(63356)]*H[PW(62562)][PW(63356)]if H[PW(62562)][PW(62104)]~=PW(62426)or b<=D then g=(b*H[PW(62562)][PW(63439)])+(m*((1-H[PW(62562)][PW(63439)])))h=P end end end end end if not h or g>=b then continue end if not u(S,h)then continue end b=g o=D P=h end return o,P end)local Z local j local Y=0 local O local f local L=0 local J=0 local z=UDim2[PW(62861)](((M[PW(62405)]/2))[PW(62829)],((M[PW(62405)]/2))[PW(63887)])local a=.03 m[PW(62139)][PW(61835)]:Connect(LPH_NO_VIRTUALIZE(function()local m=os[PW(62853)]()local V=H[PW(62562)]if not((H[PW(62102)][PW(62593)][PW(62549)]or H[PW(62824)][PW(62385)][PW(62549)]or H[PW(62102)][PW(62943)][PW(62549)]or V[PW(63178)]))then if O then O=nil f=nil L=0 SetTarget(nil,nil)end k[PW(61777)]=false return end k[PW(61777)]=V[PW(63178)]local h=UDim2[PW(62861)](((M[PW(62405)]/2))[PW(62829)],((M[PW(62405)]/2))[PW(63887)])if V[PW(63017)][PW(63266)]and not H[PW(62909)]then local k=GetMuzzlePos()if k then local P,m=WorldToScreen(k)if m then h=UDim2[PW(62861)](P[PW(62829)],P[PW(63887)])else h=UDim2[PW(62861)](((M[PW(62405)]/2))[PW(62829)],((M[PW(62405)]/2))[PW(63887)])end end end if V[PW(63017)][PW(63727)]and H[PW(62909)]then local k=H[PW(62909)][PW(63835)]if k then local P,m=WorldToScreen(k)if m then h=UDim2[PW(62861)](P[PW(62829)],P[PW(63887)])else h=UDim2[PW(62861)](((M[PW(62405)]/2))[PW(62829)],((M[PW(62405)]/2))[PW(63887)])end end end if V[PW(62844)]and V[PW(62844)]>0 then z=z:Lerp(h,V[PW(62844)])else z=h end local g=V[PW(63356)]local w=V[PW(62994)]local W=V[PW(62893)]local u=V[PW(61621)]*.5 if V[PW(61621)]>0 then W=((V[PW(62893)]+(m*u)*360))%360 end local E=V[PW(62570)]local Q=V[PW(61721)]local F=V[PW(62314)]local U=V[PW(63375)]local r=V[PW(61902)]local d=V[PW(61839)]local n=V[PW(63207)]P[PW(63835)]=z P[PW(62453)]=UDim2[PW(62861)]((g*2)-2,(g*2)-2)P[PW(61777)]=V[PW(63095)]o[PW(62518)]=U b[PW(63338)]=ColorSequence[PW(63244)]({ColorSequenceKeypoint[PW(63244)](0,r);ColorSequenceKeypoint[PW(63244)](.5,d);ColorSequenceKeypoint[PW(63244)](1,n)})b[PW(61661)]=W e[PW(63835)]=z e[PW(62453)]=UDim2[PW(62861)](g*2,g*2)e[PW(61777)]=V[PW(63178)]e[PW(63310)]=V[PW(62363)]and math[PW(62629)](.35+(w*.65),0,1)or 1 D[PW(62518)]=w S[PW(63338)]=ColorSequence[PW(63244)]({ColorSequenceKeypoint[PW(63244)](0,E);ColorSequenceKeypoint[PW(63244)](.5,Q);ColorSequenceKeypoint[PW(63244)](1,F)})S[PW(61661)]=W G[PW(63338)]=ColorSequence[PW(63244)]({ColorSequenceKeypoint[PW(63244)](0,E),ColorSequenceKeypoint[PW(63244)](.5,Q),ColorSequenceKeypoint[PW(63244)](1,F)})G[PW(61661)]=W A[PW(63835)]=z A[PW(62453)]=UDim2[PW(62861)]((g*2)+2,(g*2)+2)A[PW(61777)]=V[PW(63095)]C[PW(62518)]=U q[PW(63338)]=ColorSequence[PW(63244)]({ColorSequenceKeypoint[PW(63244)](0,r);ColorSequenceKeypoint[PW(63244)](.5,d);ColorSequenceKeypoint[PW(63244)](1,n)})q[PW(61661)]=W if m<J then return end J=m+math[PW(61546)](V[PW(62187)]/1000,a)local s,t=c()if s~=Z or t~=j then Z=s j=t Y=m return end if s then L=0 if O~=s or f~=t then if m-Y>=V[PW(62187)]/1000 then O=s f=t SetTarget(s,t)end end return end if not O then L=0 return end if V[PW(62225)]<=0 then O=nil f=nil SetTarget(nil,nil)return end if L==0 then L=m return end if m-L>=V[PW(62225)]then O=nil f=nil L=0 SetTarget(nil,nil)end end))end)local r={Vector3[PW(63244)](5,3,5);Vector3[PW(63244)](-5,3,5);Vector3[PW(63244)](5,3,-5);Vector3[PW(63244)](-5,3,-5),Vector3[PW(63244)](0,5,8),Vector3[PW(63244)](0,5,-8)}local d=OverlapParams[PW(63244)]()d[PW(61769)]=Enum[PW(62283)][PW(62075)]local n=RaycastParams[PW(63244)]()n[PW(61769)]=Enum[PW(62283)][PW(62075)]local s={}local t=.5 FindValidPosition=LPH_NO_VIRTUALIZE(function(k)d[PW(62276)]={o}n[PW(62276)]={o}local P=k[PW(63835)]local m=k[PW(63690)]for k=1,#r,1 do local V=r[k]local o=P+V local b=workspace:Raycast(o,P-o,n)if not b or b[PW(62809)]:IsDescendantOf(m)then local k=workspace:GetPartBoundsInBox(CFrame[PW(63244)](o),Vector3[PW(63244)](3,6,3),d)local P=false for m=1,#k,1 do if k[m][PW(62439)]then P=true break end end if not P then return V end end end return nil end)GetCachedValidPosition=LPH_NO_VIRTUALIZE(function(k)if not k or not k[PW(63690)]then return nil end local P=os[PW(62853)]()local m=s[k]if m and P-m[PW(62440)]<t then return m[PW(61538)]end local V=FindValidPosition(k)s[k]={[PW(61538)]=V,[PW(62440)]=P}return V end)local function R(k)if k==H[PW(62102)][PW(62593)][PW(62549)]then return end H[PW(62102)][PW(62593)][PW(62549)]=k M[PW(63811)]:Set(k)M[PW(62185)]:SetPressed(k)end H[PW(62102)][PW(62943)][PW(63563)][PW(63690)]=nil H[PW(62102)][PW(62943)][PW(62037)][PW(63690)]=nil pcall(function()local k=0 m[PW(62139)][PW(63520)]:Connect(LPH_NO_VIRTUALIZE(function()setthreadidentity(2)local P=H[PW(62102)][PW(62943)]if not P[PW(62549)]then if P[PW(61961)]then P[PW(62037)]:Fire()end setthreadidentity(8)return end local m=H[PW(62909)]if not m then if P[PW(61961)]then P[PW(62037)]:Fire()end setthreadidentity(8)return end if H[PW(63450)]then if P[PW(61961)]then P[PW(62037)]:Fire()end setthreadidentity(8)return end local o=C[PW(62800)]:GetFighter(V)if not o then setthreadidentity(8)return end local b=o[PW(63103)]if not b then setthreadidentity(8)return end if table[PW(63460)](P[PW(63019)],b[PW(63580)])then if not b:IsFullyAiming()then if P[PW(61961)]then P[PW(62037)]:Fire()end setthreadidentity(8)return end end local e=os[PW(62853)]()local D=P[PW(61909)]or 100 local S=D/1000 if e-k<S then setthreadidentity(8)return end if not P[PW(61961)]then P[PW(63563)]:Fire()end k=e C[PW(63154)]:EquippedItemInput(PW(62444))setthreadidentity(8)end))end)local function T(k)if k==H[PW(62102)][PW(62943)][PW(62549)]then return end H[PW(62102)][PW(62943)][PW(62549)]=k M[PW(63515)]:Set(k)M[PW(62019)]:SetPressed(k)end pcall(function()local k={}local P=H[PW(62824)][PW(63572)]local b=H[PW(62824)][PW(62070)]local e=0 local D=.2 local S=0 local G=.03 local function A(k,P)if not k or not P then return end k[PW(63647)]=P[PW(63647)]k[PW(61930)]=P[PW(61930)]k[PW(63496)]=P[PW(63496)]k[PW(62996)]=P[PW(62996)]k[PW(63425)]=P[PW(63425)]k[PW(63341)]=P[PW(63341)]k[PW(62957)][PW(62444)]=P[PW(62444)]k[PW(62737)]=P[PW(62737)]k[PW(62745)]=P[PW(62745)]end m[PW(62139)][PW(63520)]:Connect(LPH_NO_VIRTUALIZE(function()local m=C[PW(62800)]:GetFighter(V)if not m then return end local q=m[PW(63103)]if not q then return end local h=q[PW(62101)]if not h then return end if not k[q]then k[q]={[PW(63647)]=h[PW(63647)];[PW(61930)]=h[PW(61930)],[PW(63496)]=h[PW(63496)],[PW(62996)]=h[PW(62996)];[PW(63425)]=h[PW(63425)];[PW(63341)]=h[PW(63341)],[PW(62444)]=h[PW(62957)][PW(62444)];[PW(62737)]=h[PW(62737)],[PW(62745)]=h[PW(62745)]}end local M=k[q]local g=P[PW(63736)]or P[PW(63347)]or P[PW(61979)]or P[PW(62361)]~=100 or b[PW(63170)]or H[PW(62824)][PW(61976)][PW(62359)]if not g then A(h,M)return end local w=os[PW(62853)]()if w-S<G then return end S=w if P[PW(63736)]then h[PW(63647)]=0 else h[PW(63647)]=M[PW(63647)]end if P[PW(63347)]then h[PW(61930)]=0 h[PW(63496)]=0 h[PW(62996)]=0 h[PW(63425)]=true h[PW(63341)]=0 else h[PW(61930)]=M[PW(61930)]h[PW(63496)]=M[PW(63496)]h[PW(62996)]=M[PW(62996)]h[PW(63425)]=M[PW(63425)]h[PW(63341)]=M[PW(63341)]end if P[PW(61979)]then h[PW(62957)][PW(62444)]=0 else h[PW(62957)][PW(62444)]=M[PW(62444)]end if P[PW(62361)]~=100 then h[PW(62737)]=M[PW(62737)]and M[PW(62737)]*((P[PW(62361)]/100))or nil else h[PW(62737)]=M[PW(62737)]end if H[PW(62824)][PW(61976)][PW(62359)]then h[PW(62745)]=math[PW(62372)]else h[PW(62745)]=M[PW(62745)]end if b[PW(63170)]and w-e>=D then e=w local k=o and o:FindFirstChild(PW(62906))if k then for P,m in workspace:GetChildren()do if m[PW(63580)]==PW(62450)and m:FindFirstChild(PW(63461))then firetouchinterest(k,m[PW(63461)],1)firetouchinterest(k,m[PW(63461)],0)end end end end end))local q=C[PW(63833)][PW(62318)]local h=0 C[PW(63833)][PW(62318)]=function(k,P)if not k[PW(63348)][PW(62916)]or not H[PW(62824)][PW(62070)][PW(62130)]or not H[PW(62909)]then return q(k,P)end local m=o and o[PW(63620)]if not m then return q(k,P)end local b={q(k,P)}if b[1]~=true and b[2]~=PW(62318)then return unpack(b)end local e=m[PW(62563)]local D=H[PW(62909)]J()o:PivotTo(D[PW(62563)]*CFrame[PW(63244)](FindValidPosition(D)or Vector3[PW(63244)](0,5,5)))local S=CFrame[PW(63244)](m[PW(63835)],D[PW(63835)])*CFrame[PW(63244)](.75,-0.5,0)b[3]=C[PW(63570)]:EncodeCFrame(S)h+=1 local G=h task[PW(63909)](V:GetNetworkPing(),function()if G~=h then return end o:PivotTo(e)z()end)return unpack(b)end end)local B=Instance[PW(63244)](PW(61676))local l local v local function i()local k=2147483647 local P=false local b=0 Q()l=B[PW(62771)]:Connect(LPH_JIT_MAX(function()local e=false for k,P in ipairs(m[PW(62664)]:GetPlayers())do if P~=V then local k=P[PW(61973)]local m=k and k[PW(63620)]if m and(o[PW(63620)]and((m[PW(63835)]-o[PW(63620)][PW(63835)]))[PW(62160)]<=2)then e=true break end end end if e then k=-2147483647 return end if P then return end P=true if math[PW(62492)]()>.35 then P=false return end local D=o[PW(63620)]k=math[PW(62492)](math[PW(63569)](D[PW(63835)][PW(63887)]),math[PW(63569)](D[PW(63835)][PW(63887)]+50))b+=1 local S=b task[PW(63909)](.035,function()if S~=b then return end k=2147483647 P=false end)end))v=m[PW(62139)][PW(63520)]:Connect(LPH_NO_VIRTUALIZE(function()if not H[PW(62824)][PW(62464)][PW(62549)]or H[PW(62824)][PW(62385)][PW(63574)]then return end local P=o and o[PW(63620)]if not P or not P[PW(63690)]then return end local m=P[PW(62563)]if not m then return end local V=m[PW(63835)]H[PW(62292)]=CFrame[PW(63244)](V[PW(62829)],k,V[PW(63533)])*((m-V))end))end local function K()if v then v:Disconnect()v=nil end if l then l:Disconnect()l=nil end F()end local function y(k)if k==H[PW(62824)][PW(62464)][PW(62549)]then return end if k and H[PW(62824)][PW(62385)][PW(63574)]then return end if k then i()task[PW(62942)]()H[PW(62824)][PW(62464)][PW(62549)]=true else H[PW(62824)][PW(62464)][PW(62549)]=false task[PW(62942)]()K()end M[PW(63872)]:Set(k)M[PW(63870)]:SetPressed(k)end pcall(function()local k local P local V=false local b=nil local e={}local D=0 local S=.02 local function G()if b then b:Destroy()b=nil end for k,P in ipairs(e)do P:Disconnect()end table[PW(62903)](e)end local function A()if b then return end local P=o and o[PW(63620)]if not P then return end b=Instance[PW(63244)](PW(63564))b[PW(63580)]=PW(62576)b[PW(63534)]=Enum[PW(63534)][PW(62463)]b[PW(62453)]=P[PW(62453)]b[PW(63338)]=H[PW(62750)][PW(63246)][PW(63259)]b[PW(62439)]=false b[PW(63414)]=false b[PW(61573)]=false b[PW(62563)]=k or P[PW(62563)]b[PW(63690)]=W[PW(61819)][PW(63041)]table[PW(62479)](e,P[PW(63840)]:Connect(function()if b then b:Destroy()b=nil end end))table[PW(62479)](e,P[PW(62326)]:Connect(function(k,P)if not P and b then b:Destroy()b=nil end end))end local function q()if not H[PW(62102)][PW(62593)][PW(63235)]then G()return end if not b then A()elseif k then b[PW(62563)]=k end end local h=LPH_NO_VIRTUALIZE(function()if not V or not k then return end local P=o and o[PW(63620)]if P and P[PW(63690)]then P[PW(62563)]=k end H[PW(62292)]=k end)local M=Instance[PW(63244)](PW(61676))M[PW(63690)]=nil M[PW(62771)]:Connect(function(o)Q()k=o V=true D=0 h()if not P then P=m[PW(62139)][PW(61835)]:Connect(LPH_NO_VIRTUALIZE(function()if not V or not k then return end local P=os[PW(62853)]()if P-D<S then return end D=P h()if H[PW(62102)][PW(62593)][PW(63235)]then if b then b[PW(62563)]=k else A()end elseif b then G()end end))end q()end)local function g()V=false k=nil D=0 if P then P:Disconnect()P=nil end G()F()end m[PW(63405)][PW(61947)]:Connect(function(k)if V and k[PW(63007)]==Enum[PW(63007)][PW(63141)]then g()end end)H[PW(62102)][PW(62943)][PW(63563)][PW(62771)]:Connect(function()H[PW(62102)][PW(62943)][PW(61961)]=true end)H[PW(62102)][PW(62943)][PW(62037)][PW(62771)]:Connect(function()H[PW(62102)][PW(62943)][PW(61961)]=false g()C[PW(63154)]:EquippedItemInput(PW(62318))end)local w=C[PW(63570)]:EncodeCFrame(CFrame[PW(63244)](.43,.25,.42))local u=utf8[PW(62341)](0)local c=utf8[PW(62341)](1)local Z=utf8[PW(62341)](2)local j=utf8[PW(62341)](3)local Y=LPH_NO_VIRTUALIZE(function(k,P,m)local V=C[PW(63570)]:EncodeCFrame(CFrame[PW(63244)](k,P))return{[u]=V,[c]=V,[Z]=m,[j]=w}end)local O=C[PW(61578)][PW(62444)]C[PW(61578)][PW(62444)]=LPH_NO_VIRTUALIZE(function(k,...)local P=H[PW(62102)][PW(62593)]local m=H[PW(62824)][PW(62385)]local V=H[PW(62824)][PW(62464)]local b=H[PW(62909)]if not k[PW(63348)][PW(62916)]or not b then return O(k,...)end local e={O(k,...)}if e[1]~=true or e[2]~=PW(62444)then return unpack(e)end if not P[PW(62549)]and not m[PW(62549)]then return unpack(e)end if V[PW(62549)]and not m[PW(63574)]then B:Fire()end local D=o and o[PW(63620)]if not D then return unpack(e)end if m[PW(62549)]then e[3]=Y(H[PW(62292)][PW(63835)],b[PW(63835)],b)return unpack(e)end if math[PW(62492)](1,100)>P[PW(63687)]then return unpack(e)end local S=D[PW(63835)]local G=b[PW(63835)]if P[PW(62487)]and not V[PW(62549)]then local k=GetCachedValidPosition(b)or Vector3[PW(63244)](0,5,5)local P=b[PW(62563)]*CFrame[PW(63244)](k)M:Fire(P)S=P[PW(63835)]end e[3]=Y(S,G,b)return unpack(e)end)local f=C[PW(62832)][PW(62444)]C[PW(62832)][PW(62444)]=LPH_JIT_MAX(function(k,...)local P=H[PW(62824)][PW(62385)]local m=H[PW(62909)]if not k[PW(63348)][PW(62916)]or not m then return f(k,...)end local V={f(k,...)}if V[1]~=true or V[2]~=PW(62444)then return unpack(V)end if not P[PW(62549)]then return unpack(V)end local b=o and o[PW(63620)]if not b then return unpack(V)end if P[PW(62549)]then V[3]=Y(H[PW(62292)][PW(63835)],m[PW(63835)],m)return unpack(V)end return unpack(V)end)local L=C[PW(62247)][PW(63543)]C[PW(62247)][PW(63543)]=LPH_JIT_MAX(function(k,...)local P=H[PW(62824)][PW(62385)]local m=H[PW(62909)]if not k[PW(63348)][PW(62916)]or not m then return L(k,...)end local V={L(k,...)}if V[1]~=true or V[2]~=PW(63543)then return unpack(V)end if not P[PW(62549)]then return unpack(V)end local b=o and o[PW(63620)]if not b then return unpack(V)end if P[PW(62549)]then V[3]=Y(H[PW(62292)][PW(63835)],m[PW(63835)],m)return unpack(V)end return unpack(V)end)end)H[PW(62824)][PW(62385)][PW(63255)][PW(63690)]=nil pcall(function()local k=false local P=0 local b=false local e=0 local D=C[PW(62923)]local S=D[PW(63693)]local G=D[PW(63756)]local A={}local q=Instance[PW(63244)](PW(62997))q[PW(63580)]=PW(62576)q[PW(63690)]=H[PW(63844)]q[PW(63820)]=Vector2[PW(63244)](.5,0)q[PW(63310)]=1 q[PW(61884)]=5 q[PW(62453)]=UDim2[PW(62861)](250,120)q[PW(61777)]=false local h=Instance[PW(63244)](PW(63519))h[PW(63690)]=q h[PW(62249)]=Enum[PW(62249)][PW(61649)]h[PW(62724)]=Enum[PW(62724)][PW(62595)]h[PW(63253)]=Enum[PW(63253)][PW(62150)]h[PW(62725)]=UDim[PW(63244)](0,2)local function g(k,P)local m=Instance[PW(63244)](PW(62708))m[PW(63580)]=PW(62576)m[PW(63690)]=q m[PW(63310)]=1 m[PW(62453)]=UDim2[PW(63244)](1,0,0,14)m[PW(63648)]=Enum[PW(63648)][PW(63606)]m[PW(63196)]=14 m[PW(62224)]=Color3[PW(61834)](255,255,255)m[PW(63364)]=Color3[PW(61834)](0,0,0)m[PW(63137)]=0 m[PW(61826)]=k m[PW(62915)]=Enum[PW(62915)][PW(62595)]m[PW(61718)]=Enum[PW(61718)][PW(62595)]m[PW(61649)]=P m[PW(61884)]=6 return m end local function w()k=false P=0 end local function W()local k=C[PW(62800)]:GetFighter(V)local P=k and k[PW(63103)]local m=P and P[PW(62101)]if m and m[PW(62737)]then return math[PW(61546)](.02,m[PW(62737)])end return.05 end local u=0 local c=false H[PW(62824)][PW(62385)][PW(63255)][PW(62771)]:Connect(function()local k=H[PW(62824)][PW(62385)]if not k[PW(62549)]then w()F()else w()if k[PW(63574)]then P=tick()end end end)local Z=LPH_JIT_MAX(function(m)local V=H[PW(62824)][PW(62385)]if not V[PW(62549)]or H[PW(62824)][PW(62464)][PW(62549)]then return end local b=o and o[PW(63620)]if not b or not b[PW(63690)]then return end local e=H[PW(62909)]if not e then return end local D=e[PW(62563)]*CFrame[PW(63244)](0,0,2)if not V[PW(63574)]then H[PW(62292)]=D return end if m then k=true else local m=tick()local o=k and V[PW(63090)]or V[PW(63056)]if m-P>=o then k=not k P=m end end if k then local k=D[PW(63835)]local P=Vector3[PW(63244)](math[PW(62492)](-10000,10000),-999999999,math[PW(62492)](-10000,10000))H[PW(62292)]=CFrame[PW(63244)](P)*((D-k))else H[PW(62292)]=D end end)local function j(k)if not k then return false end return((k:Get(PW(61680))or 0))>0 or((k:Get(PW(63324))or 0))>0 end local Y=LPH_JIT_MAX(function()local k=H[PW(62824)][PW(62385)]local P=C[PW(62800)]:GetFighter(V)if not P then return end local m if k[PW(62773)]==PW(62247)or k[PW(62773)]==PW(62832)then m=3 else local V=P[PW(63794)]and P[PW(63794)][1]local o=P[PW(63794)]and P[PW(63794)][2]if not V and not o then return end if k[PW(63158)]==PW(63561)then if j(o)then m=2 elseif j(V)then m=1 end else if j(V)then m=1 elseif j(o)then m=2 end end end if not m then return end if not P[PW(63794)][m][PW(62473)]then P:EquipItem(m)end end)local function O()b=true end local function f()b=false e=0 c=false u=0 C[PW(63154)]:EquippedItemInput(PW(62318))w()F()end local L=g(PW(63195),1)local J=g(PW(63660),2)local z=LPH_NO_VIRTUALIZE(function()local P=H[PW(62824)][PW(62385)]local m=workspace[PW(61838)][PW(62405)]/2 q[PW(61777)]=P[PW(62549)]and P[PW(61586)]q[PW(63835)]=UDim2[PW(62861)](m[PW(62829)],m[PW(63887)]+25)if H[PW(63450)]then L[PW(61826)]=PW(62497)elseif k then L[PW(61826)]=PW(62634)elseif c or(P[PW(62773)]==PW(62247)and C[PW(63154)]:IsAiming())then L[PW(61826)]=PW(63803)else L[PW(61826)]=PW(63195)end local V=H[PW(63851)]if V==nil then J[PW(61826)]=PW(63660)else J[PW(61826)]=PW(63678)..V[PW(63580)]end end)m[PW(62139)][PW(61835)]:Connect(LPH_NO_VIRTUALIZE(function()z()setthreadidentity(2)local P=H[PW(62824)][PW(62385)]if not P[PW(62549)]then if b then f()end setthreadidentity(8)return end if H[PW(62824)][PW(62464)][PW(62549)]then if b then f()end setthreadidentity(8)return end local m=o and o[PW(63620)]if not m then if b then f()end setthreadidentity(8)return end local D=H[PW(62909)]and not H[PW(63450)]if not D then c=false u=0 C[PW(63154)]:EquippedItemInput(PW(62318))if P[PW(63574)]then Q()Z(true)else F()end setthreadidentity(8)return else Q()Y()Z()end if not b then O()end local S=os[PW(62853)]()if not k then if not c then if S-e>=W()then local k=V:GetNetworkPing()u=S+math[PW(61546)](.03,k)c=true end else if S>=u then e=S c=false for k=1,P[PW(62974)],1 do local m=(P[PW(62773)]==PW(62247))and PW(63543)or PW(62444)C[PW(63154)]:EquippedItemInput(m)end end end end setthreadidentity(8)end))local a=Instance[PW(63244)](PW(61676))a[PW(63690)]=nil a[PW(62771)]:Connect(function(k,P)M[PW(63801)]:Notify({[PW(63020)]=PW(62173);[PW(63080)]=(PW(62079)):format(k,P);[PW(63910)]=5})end)local E=LPH_JIT_MAX(function(k)local P=k[PW(62779)]:FindFirstChildOfClass(PW(63712))if not P then return end local m=A[k]if m==nil then A[k]=P[PW(63005)]return end task[PW(63138)](function()if not P[PW(63690)]then return end local V=P[PW(63005)]local o=m-V A[k]=V if o<=0 then return end if not((H[PW(62824)][PW(62385)][PW(62549)]and(H[PW(62824)][PW(62385)][PW(63770)]and(H[PW(63851)]and H[PW(63851)][PW(63580)]==k[PW(62779)][PW(63580)]))))then return end a:Fire(k[PW(62779)][PW(63580)],o)end)end)D[PW(63756)]=function(k,...)E(k)return G(k,...)end D[PW(63693)]=function(k,P,...)if P==PW(63418)then A[k]=nil end return S(k,P,...)end end)local function p(k)if k==H[PW(62824)][PW(62385)][PW(62549)]then return end H[PW(62824)][PW(62385)][PW(62549)]=k H[PW(62824)][PW(62385)][PW(63255)]:Fire()M[PW(63393)]:Set(k)M[PW(62821)]:SetPressed(k)end local function N(k)if k==H[PW(62824)][PW(62385)][PW(63574)]then return end H[PW(62824)][PW(62385)][PW(63574)]=k H[PW(62824)][PW(62385)][PW(63255)]:Fire()end pcall(function()local k=LPH_JIT_MAX(function(k,P,m)local V=(((os[PW(62853)]()*1000000000+tick()*1000000)+math[PW(62492)](1,1000000000))+((m or 0))*1337)V=math[PW(63698)](math[PW(62811)](V)*1e+14)local o=Random[PW(63244)](V%2147483648)return o:NextNumber(k,P)end)local P=LPH_JIT_MAX(function(P,m,V)return math[PW(62573)](k(P,m,V))end)local V=0 local b=0 local e=0 local D={[PW(62533)]=function(k)return math[PW(62573)](k[PW(63096)])end,[PW(63271)]=function(k)return math[PW(62573)](k[PW(63096)])end,[PW(63098)]=function(k)return P(-89,89,k[PW(63096)])end;[PW(63682)]=function()return math[PW(62573)](-89)end,[PW(62860)]=function()return math[PW(62573)](89)end}local S={[PW(62533)]=function(k)return math[PW(62573)](k[PW(63627)])end;[PW(63271)]=function(k)return math[PW(62573)](k[PW(63627)])end,[PW(63098)]=function(k)return P(-180,180,k[PW(63627)])end,[PW(63888)]=function(k)V+=math[PW(62573)](k[PW(63401)])if V>=math[PW(62981)]*2 then V-=math[PW(62981)]*2 end return V end,[PW(62415)]=function(P)local m=tick()local V=1/math[PW(61546)](P[PW(63401)],1)if m-e>=V then e=m b=math[PW(62573)](k(-P[PW(61876)],P[PW(61876)],b))end return b end;[PW(63035)]=function()return math[PW(62981)]end}local G=RaycastParams[PW(63244)]()G[PW(61769)]=Enum[PW(62283)][PW(62075)]local A local q local h=0 local M=.2 local g=LPH_NO_VIRTUALIZE(function(k)local P=os[PW(62853)]()if q and(A and(((A-k))[PW(62160)]<3 and(P-h)<M))then return q end local m=k local V=Vector3[PW(63244)](0,-500,0)G[PW(62276)]={o}local b=workspace:Raycast(m,V,G)local e=nil if b then e=CFrame[PW(63244)](Vector3[PW(63244)](k[PW(62829)],b[PW(63835)][PW(63887)]-2,k[PW(63533)]))end A=k q=e h=P return e end)local w=LPH_JIT_MAX(function(k)local P=H[PW(62824)][PW(62410)]if not P[PW(62549)]then return k end local m=D[P[PW(62693)]]local V=S[P[PW(62380)]]if m then k=Vector2[PW(63244)](m(P),k[PW(63887)])end if V then k=Vector2[PW(63244)](k[PW(62829)],k[PW(63887)]+V(P))end return k end)local W=C[PW(63570)][PW(63790)]C[PW(63570)][PW(63790)]=LPH_JIT_MAX(function(k,P)local m=w(P)local V=o[PW(63620)]if V then V[PW(62563)]=V[PW(62563)]*CFrame[PW(62212)](m[PW(62829)],m[PW(63887)],math[PW(62573)](V[PW(62563)][PW(61661)][PW(63533)]))end return W(k,m)end)m[PW(62139)][PW(63520)]:Connect(LPH_NO_VIRTUALIZE(function()if not H[PW(62824)][PW(62410)][PW(62549)]or H[PW(62824)][PW(62464)][PW(62549)]or H[PW(62824)][PW(62385)][PW(63574)]then return end if not H[PW(62824)][PW(62410)][PW(63874)]then return end local k=o and o[PW(63620)]if not k or not k[PW(63690)]then return end local P=k[PW(62563)]if not P then return end local m=P[PW(63835)]local V=g(m)if not V then return end k[PW(62563)]=V end))end)local function X(k)if k==H[PW(62824)][PW(62410)][PW(62549)]then return end H[PW(62824)][PW(62410)][PW(62549)]=k M[PW(63904)]:Set(k)M[PW(62498)]:SetPressed(k)end pcall(function()local k=nil local P m[PW(62139)][PW(61835)]:Connect(LPH_NO_VIRTUALIZE(function(V)local b=H[PW(62824)][PW(61976)]local e=o and o[PW(63620)]local D=o and o:FindFirstChildOfClass(PW(63712))if not e or not D then return end if b[PW(62131)]then local k=D[PW(62061)]if k[PW(62160)]>0 then local P=k*b[PW(62638)]e[PW(62220)]=Vector3[PW(63244)](P[PW(62829)],e[PW(62220)][PW(63887)],P[PW(63533)])end end if not b[PW(62901)]then return end if not k then k=Instance[PW(63244)](PW(62076))k[PW(62215)]=Vector3[PW(63244)](100000,100000,100000)k[PW(62665)]=1000 k[PW(62167)]=10000 k[PW(63835)]=e[PW(63835)]k[PW(63690)]=e end if not P then P=Instance[PW(63244)](PW(63613))P[PW(63044)]=Vector3[PW(63244)](100000,100000,100000)P[PW(62665)]=400 P[PW(62167)]=10000 P[PW(62563)]=e[PW(62563)]P[PW(63690)]=e end local S=workspace[PW(61838)]local G=S[PW(62563)][PW(62349)]local A=S[PW(62563)][PW(62491)]local C=Vector3[PW(63244)]()if m[PW(63405)]:IsKeyDown(Enum[PW(62237)][PW(63749)])then C+=G end if m[PW(63405)]:IsKeyDown(Enum[PW(62237)][PW(62873)])then C-=G end if m[PW(63405)]:IsKeyDown(Enum[PW(62237)][PW(62105)])then C-=A end if m[PW(63405)]:IsKeyDown(Enum[PW(62237)][PW(62665)])then C+=A end if m[PW(63405)]:IsKeyDown(Enum[PW(62237)][PW(62653)])then C+=Vector3[PW(63244)](0,1,0)end if m[PW(63405)]:IsKeyDown(Enum[PW(62237)][PW(61591)])then C-=Vector3[PW(63244)](0,1,0)end if C[PW(62160)]>0 then C=C[PW(61711)]end k[PW(63835)]=e[PW(63835)]+(((C*b[PW(63355)])*V)*10)k[PW(62215)]=Vector3[PW(63244)](100000,100000,100000)P[PW(62563)]=CFrame[PW(63244)](e[PW(63835)],e[PW(63835)]+G*Vector3[PW(63244)](1,0,1))end))local b=C[PW(62800)]:GetFighter(V)local e=b[PW(63432)]b[PW(63432)]=function(k,P,...)local m=H[PW(62824)][PW(61976)]if P==PW(63111)then if m[PW(63326)]then local V=e(k,P,...)return(typeof(V)==PW(63410))and V*m[PW(62347)]or 3*m[PW(62347)]end end if P==PW(62435)then if m[PW(62359)]then return false end end return e(k,P,...)end local D=b[PW(61875)]b[PW(61875)]=function(k)local P=H[PW(62824)][PW(61976)]return D(k)end local S=C[PW(63154)][PW(61842)]C[PW(63154)][PW(61842)]=LPH_JIT_MAX(function(k)local P=H[PW(62824)][PW(61976)]if not P[PW(61828)]and not P[PW(62359)]then return S(k)end if k:IsAlive()and not k:IsFrozen()then local m=k[PW(61890)][PW(61829)][PW(63712)]local V=k[PW(61890)][PW(61829)][PW(63093)]local o=P[PW(61828)]and P[PW(61980)]or 1 local b=k[PW(61890)]:GetMoveVector(true,true)V[PW(63633)]=b*m[PW(62545)]+Vector3[PW(63244)](0,(m[PW(63340)]*1.1)*o,0)k[PW(61890)][PW(61829)]:AirborneRedirect()k:PlayMechanicsSound(PW(61842))task[PW(62942)](.05)pcall(function()if workspace[PW(63604)]<100 then workspace[PW(63604)]=196.2 end end)end end)end)local function x()if not W then return end local k=H[PW(62750)]W[PW(61868)][PW(63409)]=k[PW(63021)]W[PW(61868)][PW(63785)]=true W[PW(61868)][PW(62519)]=k[PW(63812)]W[PW(61868)][PW(62260)]=A[PW(63549)][k[PW(62126)]]W[PW(61868)][PW(63053)]=k[PW(61841)]local P=W[PW(63511)][PW(62743)]local m=W[PW(63511)][PW(62774)]P[PW(62549)]=k[PW(61916)]P[PW(63752)]=k[PW(63063)][PW(62027)]P[PW(62608)]=k[PW(63063)][PW(62027)]P[PW(63804)]=k[PW(62581)]P[PW(62470)]=k[PW(63063)][PW(62517)]P[PW(63388)]=k[PW(63063)][PW(63535)]P[PW(62284)]=k[PW(63063)][PW(63005)]P[PW(63861)]=k[PW(63063)][PW(63580)]P[PW(63391)]=k[PW(63063)][PW(61997)]P[PW(61663)]=k[PW(63868)]P[PW(61544)]=k[PW(63063)][PW(62403)]P[PW(63806)]=k[PW(63063)][PW(61879)]P[PW(62437)]=k[PW(63577)]m[PW(62549)]=k[PW(61916)]and k[PW(63480)]m[PW(63752)]=k[PW(63063)][PW(62027)]m[PW(62608)]=k[PW(63063)][PW(62027)]m[PW(63804)]=k[PW(62581)]m[PW(62470)]=k[PW(63063)][PW(62517)]m[PW(63388)]=k[PW(63063)][PW(63535)]m[PW(62284)]=k[PW(63063)][PW(63005)]m[PW(63861)]=k[PW(63063)][PW(63580)]m[PW(63391)]=k[PW(63063)][PW(61997)]m[PW(61663)]=k[PW(63868)]m[PW(61544)]=k[PW(63063)][PW(62403)]m[PW(63806)]=k[PW(63063)][PW(61879)]m[PW(62437)]=k[PW(63577)]P[PW(61716)][1]=k[PW(63246)][PW(62265)]P[PW(61978)][1]=k[PW(63246)][PW(61992)]P[PW(62092)][1]=k[PW(63246)][PW(63683)]P[PW(62730)][1]=k[PW(63246)][PW(63012)]P[PW(62696)][1]=k[PW(63246)][PW(63576)]m[PW(61716)][1]=k[PW(63246)][PW(63792)]m[PW(61978)][1]=k[PW(63246)][PW(63387)]m[PW(62092)][1]=k[PW(63246)][PW(63185)]m[PW(62730)][1]=k[PW(63246)][PW(63591)]m[PW(62696)][1]=k[PW(63246)][PW(63576)]P[PW(62092)][2]=k[PW(63246)][PW(62117)]P[PW(62730)][2]=k[PW(63246)][PW(61717)]m[PW(62092)][2]=k[PW(63246)][PW(62117)]m[PW(62730)][2]=k[PW(63246)][PW(61717)]end local function I(k)if k==H[PW(62750)][PW(61916)]then return end H[PW(62750)][PW(61916)]=k M[PW(61687)]:Set(k)M[PW(63603)]:SetPressed(k)if k then if not W[PW(61637)]then W[PW(63366)]()end x()else if W[PW(61637)]then W[PW(62895)]()end end end pcall(LPH_NO_VIRTUALIZE(function()local k=Instance[PW(63244)](PW(61676))k[PW(63690)]=nil local P=16 local V=0 local o=0 local b=.01 local e=.45 k[PW(62771)]:Connect(function(k,D)local S=os[PW(62853)]()if S-o<b then return end o=S if V>=P then return end local G=((D-k))[PW(62160)]if G<=0 then return end V+=1 local C=Instance[PW(63244)](PW(63564))C[PW(63580)]=PW(62576)C[PW(63449)]=true C[PW(62439)]=false C[PW(63414)]=false C[PW(61573)]=false C[PW(63338)]=H[PW(62750)][PW(63246)][PW(63259)]C[PW(63534)]=A[PW(63549)][H[PW(62750)][PW(62126)]]C[PW(62453)]=Vector3[PW(63244)](.1,.1,G)C[PW(62563)]=CFrame[PW(63244)](k,D)*CFrame[PW(63244)](0,0,-G/2)C[PW(63690)]=W[PW(61819)][PW(63041)]local q=m[PW(62827)]:Create(C,TweenInfo[PW(63244)](e,Enum[PW(63092)][PW(63162)]),{[PW(62518)]=1})q:Play()q[PW(63796)]:Connect(function()V=math[PW(61546)](0,V-1)C:Destroy()end)task[PW(63909)](e,function()if C[PW(63690)]then V=math[PW(61546)](0,V-1)C:Destroy()end end)return C end)local function D(k)local P=H[PW(62750)][PW(63246)][PW(63259)]local V=P:Lerp(Color3[PW(63244)](1,1,1),.6)local o=P:Lerp(Color3[PW(63244)](0,0,0),.6)local b=P:Lerp(Color3[PW(63244)](1,1,1),.3)local e=k:Clone()e[PW(63580)]=PW(62576)e[PW(63690)]=workspace e[PW(62518)]=1 e[PW(62439)]=false e[PW(61573)]=false local D=Instance[PW(63244)](PW(62222))D[PW(63835)]=Vector3[PW(63244)](0,.03,0)D[PW(63580)]=PW(62576)D[PW(63690)]=e local S=Instance[PW(63244)](PW(62222))S[PW(63835)]=Vector3[PW(63244)](0,-0.03,0)S[PW(63580)]=PW(62576)S[PW(63690)]=e local G=Instance[PW(63244)](PW(62784))G[PW(61617)]=D G[PW(61998)]=S G[PW(62846)]=true G[PW(62207)]=5 G[PW(62080)]=.15 G[PW(63338)]=ColorSequence[PW(63244)]({ColorSequenceKeypoint[PW(63244)](0,V);ColorSequenceKeypoint[PW(63244)](.4,P),ColorSequenceKeypoint[PW(63244)](1,o)})G[PW(62518)]=NumberSequence[PW(63244)]({NumberSequenceKeypoint[PW(63244)](0,0);NumberSequenceKeypoint[PW(63244)](.3,.05),NumberSequenceKeypoint[PW(63244)](.65,.35);NumberSequenceKeypoint[PW(63244)](1,1)})G[PW(61735)]=NumberSequence[PW(63244)]({NumberSequenceKeypoint[PW(63244)](0,3.2),NumberSequenceKeypoint[PW(63244)](.5,2);NumberSequenceKeypoint[PW(63244)](1,.2)})G[PW(62543)]=1 G[PW(61811)]=0 G[PW(61565)]=PW(63238)G[PW(63494)]=Enum[PW(63494)][PW(61889)]G[PW(63690)]=e local A=G:Clone()A[PW(63580)]=PW(62576)A[PW(62207)]=5 A[PW(63338)]=ColorSequence[PW(63244)](b)A[PW(62518)]=NumberSequence[PW(63244)]({NumberSequenceKeypoint[PW(63244)](0,.1),NumberSequenceKeypoint[PW(63244)](.4,.35);NumberSequenceKeypoint[PW(63244)](1,1)})A[PW(61735)]=NumberSequence[PW(63244)]({NumberSequenceKeypoint[PW(63244)](0,4.2);NumberSequenceKeypoint[PW(63244)](.5,3);NumberSequenceKeypoint[PW(63244)](1,.6)})A[PW(63690)]=e local C=D:Clone()C[PW(63835)]=Vector3[PW(63244)](0,.7,0)C[PW(63690)]=e local q=S:Clone()q[PW(63835)]=Vector3[PW(63244)](0,-0.7,0)q[PW(63690)]=e A[PW(61617)],A[PW(61998)]=C,q D[PW(63835)]=Vector3[PW(63244)](0,.35,0)S[PW(63835)]=Vector3[PW(63244)](0,-0.35,0)local h=-1 local M=m[PW(62139)][PW(63520)]:Connect(function()if k then e[PW(62563)]=k[PW(62563)]end local P=k[PW(62220)][PW(62160)]local m=math[PW(62629)](P/80,.4,1)if math[PW(63698)](m-h)>.02 then h=m G[PW(62518)]=NumberSequence[PW(63244)]({NumberSequenceKeypoint[PW(63244)](0,((1-m))*.1);NumberSequenceKeypoint[PW(63244)](.3,.05+((1-m))*.1),NumberSequenceKeypoint[PW(63244)](.65,.35);NumberSequenceKeypoint[PW(63244)](1,1)})end end)task[PW(63909)](math[PW(61546)](G[PW(62207)],A[PW(62207)]),function()if M[PW(62322)]then M:Disconnect()end G:Clear()A:Clear()e:Destroy()end)end local S=C[PW(61578)][PW(61878)]C[PW(61578)][PW(61878)]=function(P,m,V)local o=P[PW(62243)]:GetMuzzlePosition()local b=m[PW(63716)][1]if H[PW(62750)][PW(63757)][PW(63707)]and m[PW(63299)]then if b and b[PW(63835)]then k:Fire(o,b[PW(63835)])end end return S(P,m,V)end local G=C[PW(63833)][PW(63693)]C[PW(63833)][PW(63693)]=function(k,P,...)if P==PW(63009)then local m=...local V=G(k,P,...)if H[PW(62750)][PW(63757)][PW(62618)]and m then D(m)end return V else return G(k,P,...)end end end))pcall(LPH_NO_VIRTUALIZE(function()local k=nil local function P()local k=H[PW(62750)][PW(61789)]for k,P in ipairs(k[PW(63399)])do P:Disconnect()end table[PW(62903)](k[PW(63399)])for P,m in pairs(k[PW(63880)])do if m[PW(62178)]then m[PW(62178)]:Destroy()end k[PW(63880)][P]=nil end end local function o(P)local m=H[PW(62750)][PW(61789)]if not P then return end local function V(k)if m[PW(63880)][k]then return end local P=k:Clone()for k,P in ipairs(P:GetDescendants())do if P:IsA(PW(62125))or P:IsA(PW(63528))or P:IsA(PW(63221))or P:IsA(PW(63242))or P:IsA(PW(63423))or P:IsA(PW(62980))or P:IsA(PW(62222))or P:IsA(PW(62632))or P:IsA(PW(61565))or P:IsA(PW(63828))then P:Destroy()end end local V=P:FindFirstChildOfClass(PW(61952))if P:IsA(PW(63187))then P[PW(63547)]=PW(62576)P[PW(62925)]=PW(62576)end if V then V[PW(62267)]=PW(62576)end P[PW(63580)]=PW(62576)P[PW(63449)]=true P[PW(62439)]=false P[PW(63414)]=false P[PW(61573)]=false P[PW(62691)]=false P[PW(63338)]=H[PW(62750)][PW(63246)][PW(63161)]P[PW(63534)]=A[PW(63549)][m[PW(62126)]]P[PW(62518)]=m[PW(61803)]or 0 P[PW(62797)]=0 if m[PW(61841)]and m[PW(61841)]~=0 then local k=PW(62959)..tostring(m[PW(61841)])if P:IsA(PW(63187))then P[PW(63547)]=k elseif V then V[PW(62267)]=k end end P[PW(63690)]=W[PW(61819)][PW(63041)]m[PW(63880)][k]={[PW(62178)]=P,[PW(62918)]=V}table[PW(62479)](m[PW(63399)],k[PW(63840)]:Connect(function()local P=m[PW(63880)][k]if P then P[PW(62178)]:Destroy()m[PW(63880)][k]=nil end end))table[PW(62479)](m[PW(63399)],k[PW(62326)]:Connect(function(P,V)if not V then local P=m[PW(63880)][k]if P then P[PW(62178)]:Destroy()m[PW(63880)][k]=nil end end end))end for k,P in ipairs(P:GetDescendants())do if P:IsA(PW(63377))and(not string[PW(63460)](P[PW(63580)],PW(62906))and(not string[PW(63460)](P[PW(63580)],PW(61833))and(not string[PW(63460)](P[PW(63580)],PW(62434))and(P[PW(63580)]~=PW(63680)and P[PW(63580)]~=PW(61847)))))then V(P)end end table[PW(62479)](m[PW(63399)],P[PW(63823)]:Connect(function(P)k=nil if P:IsA(PW(63377))and(not string[PW(63460)](P[PW(63580)],PW(62906))and(not string[PW(63460)](P[PW(63580)],PW(61833))and(not string[PW(63460)](P[PW(63580)],PW(62434))and(P[PW(63580)]~=PW(63680)and P[PW(63580)]~=PW(61847)))))then V(P)end end))table[PW(62479)](m[PW(63399)],P[PW(62788)]:Connect(function()k=nil end))end H[PW(62750)][PW(61789)][PW(62059)]=Instance[PW(63244)](PW(61676),nil)H[PW(62750)][PW(61789)][PW(63064)]=false H[PW(62750)][PW(61789)][PW(62059)][PW(62771)]:Connect(function(k)local m=H[PW(62750)][PW(61789)]P()for k,P in pairs(m[PW(62839)])do if P then pcall(function()P:Destroy()end)end end m[PW(62839)]={}m[PW(62149)]={}m[PW(63579)]=k if not k then return end o(k)table[PW(62479)](m[PW(63399)],k[PW(63840)]:Connect(function()if m[PW(63579)]==k then m[PW(63579)]=nil P()for k,P in pairs(m[PW(62839)])do if P then pcall(function()P:Destroy()end)end end m[PW(62839)]={}m[PW(62149)]={}end end))end)m[PW(62139)][PW(61835)]:Connect(function()local k=H[PW(62750)][PW(61789)]if not k[PW(63388)]or not next(k[PW(63880)])then return end for k,P in pairs(k[PW(63880)])do if not k[PW(63690)]or not P[PW(62178)]then continue end P[PW(62178)][PW(62563)]=k[PW(62563)]P[PW(62178)][PW(62453)]=k[PW(62453)]end end)local function b(k)local P=H[PW(62750)][PW(61789)][PW(62149)][k]if P then return P end P={}if k:IsA(PW(63377))then P[PW(63338)]=k[PW(63338)]P[PW(63534)]=k[PW(63534)]elseif k:IsA(PW(61565))or k:IsA(PW(62632))or k[PW(63580)]==PW(63389)then P[PW(63690)]=k[PW(63690)]end H[PW(62750)][PW(61789)][PW(62149)][k]=P return P end local function e(k)local P=H[PW(62750)][PW(61789)][PW(62839)][k]if P then return P end P=Instance[PW(63244)](PW(62256))P[PW(62197)]=k P[PW(62269)]=true P[PW(61884)]=10 P[PW(62518)]=0 P[PW(63690)]=workspace[PW(61838)]H[PW(62750)][PW(61789)][PW(62839)][k]=P return P end task[PW(62738)](function()task[PW(62942)](3)pcall(function()local P=V[PW(62958)][PW(63426)][PW(61891)][PW(63348)][PW(63151)]:FindFirstChild(PW(62218))if P then local m=require(P)if m[PW(61908)]then local P=m[PW(61908)]m[PW(61908)]=function(m,V,o,D)local S=H[PW(62750)][PW(61789)]if not m[PW(63151)][PW(63348)][PW(62916)]or not m:IsEquipped()then return P(m,V,o,D)end local G={}if S[PW(63383)]==nil or S[PW(63383)]~=m[PW(63580)]then if not S[PW(63064)]then S[PW(63064)]=true task[PW(63138)](function()if not m:IsEquipped()then return end if S[PW(63579)]==m[PW(62779)]then return end S[PW(63579)]=m[PW(62779)]S[PW(63383)]=m[PW(63580)]S[PW(62059)]:Fire(m[PW(62779)])S[PW(63064)]=false end)end end if S[PW(61824)]then G[PW(62101)]=m[PW(62101)]m[PW(62101)][PW(62644)]=S[PW(61931)]end if S[PW(62362)]then if S[PW(62083)]~=S[PW(63433)]or S[PW(62023)]~=S[PW(62786)]or S[PW(63614)]~=S[PW(62506)]then S[PW(62083)]=S[PW(63433)]S[PW(62023)]=S[PW(62786)]S[PW(63614)]=S[PW(62506)]S[PW(62751)]=CFrame[PW(63244)](S[PW(63433)],S[PW(62786)],S[PW(62506)])S[PW(63789)]=S[PW(62751)]:Inverse()end m[PW(62153)]=S[PW(62751)]m[PW(63279)]=S[PW(63789)]end local C=k or m[PW(62779)]:GetDescendants()k=C for k,P in C do if P[PW(63580)]==PW(63389)or P:IsA(PW(61565))or P:IsA(PW(62632))then local k=b(P)local m=(P[PW(63580)]==PW(63389)and S[PW(61684)])or(((P:IsA(PW(61565))or P:IsA(PW(62632))))and S[PW(63522)])if m then if P[PW(63690)]then k[PW(63690)]=P[PW(63690)]P[PW(63690)]=nil end else if k[PW(63690)]and P[PW(63690)]~=k[PW(63690)]then P[PW(63690)]=k[PW(63690)]end end continue end if P:IsA(PW(63377))and(not string[PW(63460)](P[PW(63580)],PW(62906))and(not string[PW(63460)](P[PW(63580)],PW(61833))and(not string[PW(63460)](P[PW(63580)],PW(62434))and(P[PW(63580)]~=PW(63680)and P[PW(63580)]~=PW(61847)))))then local k=b(P)local m=S[PW(63278)]local V=A[PW(63549)][S[PW(61782)]]local o=S[PW(62103)]if S[PW(61953)]then if P[PW(63338)]~=m then P[PW(63338)]=m end if P[PW(63534)]~=V then P[PW(63534)]=V end if P[PW(61913)]~=o then P[PW(61913)]=o end else if P[PW(63338)]~=k[PW(63338)]then P[PW(63338)]=k[PW(63338)]end if P[PW(63534)]~=k[PW(63534)]then P[PW(63534)]=k[PW(63534)]end if P[PW(61913)]~=0 then P[PW(61913)]=0 end end local D=e(P)if S[PW(62640)]then if not D[PW(61777)]then D[PW(61777)]=true end if D[PW(61651)]~=m then D[PW(61651)]=m end else if D[PW(61777)]then D[PW(61777)]=false end end continue end end if table[PW(63460)](S[PW(63082)],PW(62512))then G[PW(63512)]=m[PW(63512)]m[PW(63512)][PW(63847)]=Vector2[PW(62761)]end if table[PW(63460)](S[PW(63082)],PW(61903))then G[PW(63689)]=m[PW(63689)]m[PW(63689)][PW(63727)]=Vector2[PW(62761)]m[PW(63689)][PW(63847)]=Vector2[PW(62761)]end if table[PW(63460)](S[PW(63082)],PW(63314))then G[PW(61962)]=m[PW(61962)]m[PW(61962)][PW(63727)]=Vector2[PW(62761)]m[PW(61962)][PW(63847)]=Vector2[PW(62761)]end if table[PW(63460)](S[PW(63082)],PW(63045))then G[PW(63212)]=m[PW(63212)]m[PW(63212)][PW(63847)]=0 end if table[PW(63460)](S[PW(63082)],PW(62205))then G[PW(63478)]=m[PW(63478)]m[PW(63478)][PW(63727)]=0 m[PW(63478)][PW(63847)]=0 end if table[PW(63460)](S[PW(63082)],PW(63307))then G[PW(63339)]=m[PW(63339)]m[PW(63339)][PW(63727)]=0 m[PW(63339)][PW(63847)]=0 end if table[PW(63460)](S[PW(63082)],PW(63663))then G[PW(62765)]=m[PW(62765)]m[PW(62765)][PW(63633)]=0 m[PW(62765)][PW(63727)]=0 m[PW(62765)][PW(63847)]=0 G[PW(63430)]=m[PW(63430)]m[PW(63430)][PW(63727)]=0 m[PW(63430)][PW(63847)]=0 end if table[PW(63460)](S[PW(63082)],PW(63469))then G[PW(61733)]=m[PW(61733)]m[PW(61733)][PW(63847)]=m[PW(61733)][PW(63727)]end if table[PW(63460)](S[PW(63082)],PW(61825))then G[PW(63219)]=m[PW(63219)]m[PW(63219)][PW(63727)]=Vector3[PW(62761)]m[PW(63219)][PW(63847)]=Vector3[PW(62761)]G[PW(61719)]=m[PW(61719)]m[PW(61719)][PW(63727)]=Vector3[PW(62761)]m[PW(61719)][PW(63847)]=Vector3[PW(62761)]end local q=P(m,V,o,D)for k,P in pairs(G)do m[k]=P end return q end end if m[PW(63247)]then local k=m[PW(63247)]m[PW(63247)]=function(P)if not P[PW(63151)][PW(63348)][PW(62916)]or not P:IsEquipped()then return k(P)end if table[PW(63460)](H[PW(62750)][PW(61789)][PW(63082)],PW(62541))then return end return k(P)end end if m[PW(62969)]then local k=m[PW(62969)]m[PW(62969)]=function(P,m)if not P[PW(63151)][PW(63348)][PW(62916)]or not P:IsEquipped()then return k(P,m)end if table[PW(63460)](H[PW(62750)][PW(61789)][PW(63082)],PW(61825))then return end return k(P,m)end end end local m=P:FindFirstChild(PW(62734))if m then local k=require(m)if k[PW(63240)]then local P=k[PW(63240)]k[PW(63240)]=function(k)local m=P(k)if table[PW(63460)](H[PW(62750)][PW(61789)][PW(63082)],PW(61613))then local P=k:GetAnimationTrack(k[PW(61762)])if P then P[PW(62329)]=0 P:AdjustSpeed(0)end end return m end end if k[PW(62699)]then local P=k[PW(62699)]k[PW(62699)]=function(k)if table[PW(63460)](H[PW(62750)][PW(61789)][PW(63082)],PW(63045))then return true end return P(k)end end if k[PW(62624)]then local P=k[PW(62624)]k[PW(62624)]=function(k)if table[PW(63460)](H[PW(62750)][PW(61789)][PW(63082)],PW(63307))then return end return P(k)end end end end)end)end))local function kF()local k=H[PW(62750)][PW(61789)]for P,m in pairs(k[PW(63880)])do local V=m[PW(62178)]if not V then continue end V[PW(62518)]=k[PW(61803)]V[PW(63338)]=H[PW(62750)][PW(63246)][PW(63161)]V[PW(63534)]=A[PW(63549)][k[PW(62126)]]if V:IsA(PW(63187))then if k[PW(61841)]and k[PW(61841)]~=0 then V[PW(63547)]=PW(62959)..k[PW(61841)]else V[PW(63547)]=PW(62576)end elseif m[PW(62918)]then local P=m[PW(62918)]if k[PW(61841)]and k[PW(61841)]~=0 then P[PW(62267)]=PW(62959)..k[PW(61841)]else P[PW(62267)]=PW(62576)end end end end pcall(LPH_NO_VIRTUALIZE(function()local k m[PW(62139)][PW(63520)]:Connect(function()local P=o and o:FindFirstChild(PW(62011))if not P then return end local m=A and(A[PW(61755)]and A[PW(61755)][H[PW(62750)][PW(62528)][PW(63286)]])if not m or m==k then return end k=m local function V(k,m,V)if not V then return end local o=P:FindFirstChild(k)if not o then return end local b=o:FindFirstChild(m)if b and(b:IsA(PW(61724))and b[PW(63586)]~=V)then b[PW(63586)]=V end end V(PW(62022),PW(62186),m[PW(62022)])V(PW(62022),PW(63471),m[PW(62022)])V(PW(63204),PW(63855),m[PW(63204)])V(PW(62183),PW(61729),m[PW(62183)])V(PW(63028),PW(62991),m[PW(63028)])V(PW(62477),PW(61788),m[PW(62477)])V(PW(62698),PW(63390),m[PW(62698)])end)end))local function PF(k)if not k or k==PW(62576)then return nil end local P=g[PW(61937)][k]if P and P[PW(61644)]then return P[PW(61644)]end local m=k:match(PW(63153))or k:match(PW(63807))if not m then return nil end local V=string[PW(62452)](PW(63638),A[PW(61576)],m)if not isfile(V)then local P,m=pcall(game[PW(61935)],game,k)if not P or not m then return nil end local o=pcall(writefile,V,m)if not o then return nil end end local o,b=pcall(getcustomasset,V)if not o then return nil end g[PW(61937)][k]={[PW(62808)]=k;[PW(61644)]=b}return b end local function mF(k)if type(k)~=PW(62050)then return end if string[PW(62978)](k,1,8)==PW(63601)then return k end if string[PW(62978)](k,1,8)==PW(62667)then return PF(k)end if string[PW(63256)](k,PW(62296))then return PW(62959)..k end return end local function VF()local k=H[PW(62750)][PW(63590)]if k[PW(63136)]==nil then local P=m[PW(62722)]:FindFirstChildOfClass(PW(63412))k[PW(63136)]=P:Clone()k[PW(63136)][PW(63690)]=P[PW(63690)]P:Destroy()m[PW(62722)][PW(61607)]:Connect(function(k)if k:IsA(PW(63412))then task[PW(63138)](function()k:Destroy()end)end end)end local P=PW(62576)local V=PW(62576)local o=PW(62576)local b=PW(62576)local e=PW(62576)local D=PW(62576)local S=PW(62576)local G=PW(62576)if k[PW(62456)]==PW(62772)then P=k[PW(63097)]V=k[PW(63441)]o=k[PW(63395)]b=k[PW(61767)]e=k[PW(62147)]D=k[PW(63592)]S=k[PW(62110)]G=k[PW(62123)]else local m=A[PW(63568)][k[PW(62456)]]P=m[PW(63097)]V=m[PW(63441)]o=m[PW(63395)]b=m[PW(61767)]e=m[PW(62147)]D=m[PW(63592)]S=m[PW(62110)]G=m[PW(62123)]end k[PW(63136)][PW(61805)]=mF(P)k[PW(63136)][PW(63596)]=mF(V)k[PW(63136)][PW(63799)]=mF(o)k[PW(63136)][PW(63108)]=mF(b)k[PW(63136)][PW(62681)]=mF(e)k[PW(63136)][PW(63352)]=mF(D)k[PW(63136)][PW(63072)]=mF(S)k[PW(63136)][PW(62252)]=mF(G)k[PW(63136)][PW(62531)]=k[PW(61830)]k[PW(63136)][PW(62505)]=k[PW(61848)]k[PW(63136)][PW(63764)]=k[PW(62643)]end local function oF()local k=H[PW(62750)][PW(63590)]if k[PW(63136)]==nil then local P=m[PW(62722)]:FindFirstChildOfClass(PW(63412))k[PW(63136)]=P:Clone()k[PW(63136)][PW(63690)]=P[PW(63690)]P:Destroy()m[PW(62722)][PW(61607)]:Connect(function(k)if k:IsA(PW(63412))then task[PW(63138)](function()k:Destroy()end)end end)end if k[PW(62472)]then k[PW(63319)]=m[PW(62139)][PW(63520)]:Connect(LPH_NO_VIRTUALIZE(function(P)k[PW(63136)][PW(63107)]=Vector3[PW(63244)](0,((k[PW(63136)][PW(63107)][PW(63887)]+k[PW(62159)]*P))%360,0)end))else k[PW(63319)]:Disconnect()k[PW(63319)]=nil end end SolveLine=LPH_NO_VIRTUALIZE(function(k,P)local m=math[PW(62573)](k)return Vector2[PW(63244)](math[PW(62811)](m)*P,math[PW(61630)](m)*P)end)pcall(function()local k={}for P=1,8,1 do k[P]=Drawing[PW(63244)](PW(62879))end local P={0,90,180,270}local V=workspace[PW(61838)][PW(62405)]/2 m[PW(62139)][PW(61835)]:Connect(LPH_NO_VIRTUALIZE(function()local m=os[PW(62853)]()local o=H[PW(62750)][PW(62251)]local b=workspace[PW(61838)][PW(62405)]/2 if table[PW(63460)](o[PW(61709)],PW(63266))and not H[PW(62909)]then local k=GetMuzzlePos()if k then local P,m=WorldToScreen(k)if m then b=Vector2[PW(63244)](P[PW(62829)],P[PW(63887)])else b=workspace[PW(61838)][PW(62405)]/2 end end end if table[PW(63460)](o[PW(61709)],PW(63727))and H[PW(62909)]then local k=H[PW(62909)][PW(63835)]if k then local P,m=WorldToScreen(k)if m then b=Vector2[PW(63244)](P[PW(62829)],P[PW(63887)])else b=workspace[PW(61838)][PW(62405)]/2 end end end if o[PW(63670)]and o[PW(63670)]>0 then V=V:Lerp(b,o[PW(63670)])else V=b end if not o[PW(62549)]then for P=1,8,1 do k[P][PW(61777)]=false end return end local e=1+(math[PW(62811)](m*o[PW(62084)])*(0))local D=o[PW(61686)]local S=o[PW(63562)]*2 local G=o[PW(62084)]*.5 local A=o[PW(62897)]*.5 if o[PW(62084)]>0 and o[PW(63800)]>0 then local k=((m*G)*math[PW(62981)])*2 local P=((math[PW(62811)](k)+1))*.5 D=o[PW(61686)]+P*o[PW(63800)]end if o[PW(62549)]then local b=o[PW(62483)]if o[PW(62897)]>0 then b=((o[PW(62483)]+(m*A)*360))%360 end for m=1,4,1 do local G=P[m]+b local A=V+SolveLine(G,o[PW(62362)]*e)local C=V+SolveLine(G,((o[PW(62362)]+D))*e)local q=k[m+4]q[PW(61777)]=true q[PW(63338)]=o[PW(61540)]q[PW(62106)]=A q[PW(62321)]=C q[PW(62747)]=S local h=k[m]h[PW(61777)]=true h[PW(63338)]=o[PW(63608)]h[PW(62106)]=V+SolveLine(G,o[PW(62362)]*e-1)h[PW(62321)]=V+SolveLine(G,((o[PW(62362)]+D))*e+1)h[PW(62747)]=S+2 end else for P=1,8,1 do k[P][PW(61777)]=false end end end))end)local function bF()local k=H[PW(62750)][PW(61840)]if k[PW(62776)]==nil then local P=m[PW(62722)]:FindFirstChildOfClass(PW(61618))if P then k[PW(62776)]=P:Clone()k[PW(62776)][PW(63690)]=P[PW(63690)]P:Destroy()else k[PW(62776)]=Instance[PW(63244)](PW(61618))k[PW(62776)][PW(63690)]=m[PW(62722)]end m[PW(62722)][PW(61607)]:Connect(function(k)if k:IsA(PW(61618))then task[PW(63138)](function()k:Destroy()end)end end)end k[PW(62776)][PW(62299)]=k[PW(62004)]k[PW(62776)][PW(61801)]=k[PW(62817)]k[PW(62776)][PW(61988)]=k[PW(63628)]end local eF=false UpdateLightingOptions=LPH_JIT_MAX(function()local k=H[PW(62750)][PW(61652)]eF=true m[PW(62722)][PW(63508)]=k[PW(62024)]m[PW(62722)][PW(61967)]=k[PW(63367)]m[PW(62722)][PW(63841)]=k[PW(61706)]m[PW(62722)][PW(63360)]=k[PW(62544)]m[PW(62722)][PW(62911)]=k[PW(62239)]m[PW(62722)][PW(62365)]=k[PW(63797)]m[PW(62722)][PW(61756)]=k[PW(63431)]m[PW(62722)][PW(62342)]=k[PW(63039)]m[PW(62722)][PW(62503)]=k[PW(63787)]m[PW(62722)][PW(61550)]=k[PW(61959)]m[PW(62722)][PW(62332)]=A[PW(61797)][k[PW(62812)]]eF=false end)pcall(function()local function k()if eF then return end local k=H[PW(62750)][PW(61652)]local P=A[PW(61797)][k[PW(62812)]]if m[PW(62722)][PW(63508)]~=k[PW(62024)]or m[PW(62722)][PW(61967)]~=k[PW(63367)]or m[PW(62722)][PW(63841)]~=k[PW(61706)]or m[PW(62722)][PW(63360)]~=k[PW(62544)]or m[PW(62722)][PW(62911)]~=k[PW(62239)]or m[PW(62722)][PW(62365)]~=k[PW(63797)]or m[PW(62722)][PW(61756)]~=k[PW(63431)]or m[PW(62722)][PW(62342)]~=k[PW(63039)]or m[PW(62722)][PW(62503)]~=k[PW(63787)]or m[PW(62722)][PW(61550)]~=k[PW(61959)]or m[PW(62722)][PW(62332)]~=P then UpdateLightingOptions()end end local P={}local function V()if next(P)~=nil then return end local V={PW(63508),PW(61967);PW(63841),PW(63360);PW(62911),PW(62365);PW(61756),PW(62342);PW(62503),PW(61550),PW(62332)}for V,o in ipairs(V)do table[PW(62479)](P,(m[PW(62722)]:GetPropertyChangedSignal(o)):Connect(k))end end V()end)local function DF()local k=H[PW(62750)][PW(62805)]if k[PW(63525)]==nil then local P=m[PW(62722)]:FindFirstChildOfClass(PW(63830))k[PW(63525)]=P:Clone()k[PW(63525)][PW(63690)]=P[PW(63690)]P:Destroy()m[PW(62722)][PW(61607)]:Connect(function(k)if k:IsA(PW(63830))then task[PW(63138)](function()k:Destroy()end)end end)end k[PW(63525)][PW(61704)]=k[PW(62476)]k[PW(63525)][PW(62533)]=k[PW(62362)]k[PW(63525)][PW(63338)]=k[PW(63278)]k[PW(63525)][PW(62295)]=k[PW(63229)]k[PW(63525)][PW(62193)]=k[PW(62680)]k[PW(63525)][PW(62238)]=k[PW(63115)]end local function SF()local k=H[PW(62750)][PW(62900)]if k[PW(62290)]==nil then k[PW(62290)]=Instance[PW(63244)](PW(62636))k[PW(62290)][PW(63690)]=m[PW(62722)]end k[PW(62290)][PW(62299)]=k[PW(62549)]k[PW(62290)][PW(62365)]=k[PW(63797)]k[PW(62290)][PW(62650)]=k[PW(63526)]k[PW(62290)][PW(62746)]=k[PW(63148)]k[PW(62290)][PW(63182)]=k[PW(61943)]end local function GF()local k=H[PW(62750)][PW(63060)]if k[PW(62049)]then return end k[PW(62049)]=true k[PW(62675)]=task[PW(62738)](LPH_JIT_MAX(function()while k[PW(62049)]do task[PW(62942)](math[PW(62492)](5,15))if not k[PW(62049)]then break end local P=H[PW(62750)][PW(61652)][PW(63797)]H[PW(62750)][PW(61652)][PW(63797)]=P+10 UpdateLightingOptions()task[PW(62942)](.08)H[PW(62750)][PW(61652)][PW(63797)]=P+6 UpdateLightingOptions()task[PW(62942)](.12)H[PW(62750)][PW(61652)][PW(63797)]=P+8 UpdateLightingOptions()task[PW(62942)](.08)H[PW(62750)][PW(61652)][PW(63797)]=P UpdateLightingOptions()end end))end local function AF()H[PW(62750)][PW(63060)][PW(62049)]=false H[PW(62750)][PW(63060)][PW(62675)]=nil end local function CF()local k=H[PW(62750)][PW(63060)]if k[PW(62816)]==nil then k[PW(62816)]=Instance[PW(63244)](PW(63564))k[PW(62816)][PW(63580)]=PW(62576)k[PW(62816)][PW(63690)]=workspace k[PW(62816)][PW(62453)]=Vector3[PW(63244)](50,1,50)k[PW(62816)][PW(63449)]=true k[PW(62816)][PW(62518)]=1 k[PW(62816)][PW(63174)]=Vector3[PW(63244)](0,-90,0)k[PW(62816)][PW(62439)]=false k[PW(62816)][PW(63414)]=false k[PW(62816)][PW(61573)]=false m[PW(62139)][PW(61835)]:Connect(LPH_NO_VIRTUALIZE(function()if not k[PW(62816)]then return end k[PW(62816)][PW(63835)]=workspace[PW(61838)][PW(62563)][PW(63835)]+Vector3[PW(63244)](0,25,0)end))end for k,P in ipairs(k[PW(62816)]:GetChildren())do P:Destroy()end if k[PW(62049)]or not k[PW(62549)]then AF()end if not k[PW(62549)]then return end if k[PW(62554)]==PW(62145)then k[PW(62816)][PW(63338)]=Color3[PW(61834)](163,162,165)local P=Instance[PW(63244)](PW(62320))P[PW(63580)]=PW(62576)P[PW(63690)]=k[PW(62816)]P[PW(62365)]=2 P[PW(63174)]=Enum[PW(62407)][PW(61650)]P[PW(63338)]=ColorSequence[PW(63244)](Color3[PW(61834)](255,255,255))P[PW(63267)]=k[PW(62572)]*500 P[PW(62207)]=NumberRange[PW(63244)](.5,.5)P[PW(61907)]=NumberRange[PW(63244)](100,100)P[PW(62453)]=NumberSequence[PW(63244)]({NumberSequenceKeypoint[PW(63244)](0,1,0);NumberSequenceKeypoint[PW(63244)](.1,.708511,0),NumberSequenceKeypoint[PW(63244)](.2,.522806,0);NumberSequenceKeypoint[PW(63244)](.3,.386288,0),NumberSequenceKeypoint[PW(63244)](.4,.280422,0),NumberSequenceKeypoint[PW(63244)](.5,.196475,0),NumberSequenceKeypoint[PW(63244)](.6,.12965,0);NumberSequenceKeypoint[PW(63244)](.7,.0771794,0);NumberSequenceKeypoint[PW(63244)](.8,.0376439,0);NumberSequenceKeypoint[PW(63244)](.9,.0109769,0),NumberSequenceKeypoint[PW(63244)](1,0,0)})P[PW(63740)]=NumberSequence[PW(63244)](-3)P[PW(61565)]=PF(A[PW(61728)]..PW(62400))P[PW(62518)]=NumberSequence[PW(63244)]({NumberSequenceKeypoint[PW(63244)](0,1,0),NumberSequenceKeypoint[PW(63244)](.196451,.83125,0);NumberSequenceKeypoint[PW(63244)](1,1,0)})P[PW(63507)]=1 P[PW(61661)]=NumberRange[PW(63244)](180)P[PW(62520)]=NumberRange[PW(63244)](0,0)P[PW(62298)]=Vector2[PW(63244)](0,0)P[PW(62852)]=Enum[PW(62649)][PW(63499)]P[PW(62156)]=true P[PW(62543)]=1 P[PW(61811)]=0 P[PW(62514)]=k[PW(62360)]P:SetAttribute(PW(62229),0)m[PW(63250)]:AddTag(P,PW(61690));(P:Clone())[PW(63690)]=P[PW(63690)];(P:Clone())[PW(63690)]=P[PW(63690)]elseif k[PW(62554)]==PW(63715)then k[PW(62816)][PW(63338)]=Color3[PW(61834)](0,255,255)local P=Instance[PW(63244)](PW(62320))P[PW(63580)]=PW(62576)P[PW(63690)]=k[PW(62816)]P[PW(62365)]=2 P[PW(63174)]=Enum[PW(62407)][PW(61650)]P[PW(63338)]=ColorSequence[PW(63244)](Color3[PW(61834)](255,255,255))P[PW(63267)]=k[PW(62572)]*500 P[PW(62207)]=NumberRange[PW(63244)](3,3)P[PW(61907)]=NumberRange[PW(63244)](10,10)P[PW(62453)]=NumberSequence[PW(63244)]({NumberSequenceKeypoint[PW(63244)](0,.125,0);NumberSequenceKeypoint[PW(63244)](1,.05,0)})P[PW(61565)]=PF(A[PW(61728)]..PW(62072))P[PW(62518)]=NumberSequence[PW(63244)]({NumberSequenceKeypoint[PW(63244)](0,1,0),NumberSequenceKeypoint[PW(63244)](.02,.4,0);NumberSequenceKeypoint[PW(63244)](.95,.4,0),NumberSequenceKeypoint[PW(63244)](1,1,0)})P[PW(63507)]=0 P[PW(61661)]=NumberRange[PW(63244)](0,360)P[PW(62520)]=NumberRange[PW(63244)](-5,5)P[PW(62298)]=Vector2[PW(63244)](-15,15)P[PW(62852)]=Enum[PW(62649)][PW(63499)]P[PW(62156)]=true P[PW(62543)]=0 P[PW(61811)]=1 P[PW(62514)]=k[PW(62360)]else k[PW(62816)][PW(63338)]=Color3[PW(61834)](163,162,165)local P=Instance[PW(63244)](PW(62320))P[PW(63580)]=PW(62576)P[PW(63690)]=k[PW(62816)]P[PW(62365)]=2 P[PW(63174)]=Enum[PW(62407)][PW(61650)]P[PW(63338)]=ColorSequence[PW(63244)](Color3[PW(61834)](255,255,255))P[PW(63267)]=k[PW(62572)]*500 P[PW(62207)]=NumberRange[PW(63244)](.5,.5)P[PW(61907)]=NumberRange[PW(63244)](100,100)P[PW(62453)]=NumberSequence[PW(63244)]({NumberSequenceKeypoint[PW(63244)](0,1,0);NumberSequenceKeypoint[PW(63244)](.1,.708511,0),NumberSequenceKeypoint[PW(63244)](.2,.522806,0);NumberSequenceKeypoint[PW(63244)](.3,.386288,0);NumberSequenceKeypoint[PW(63244)](.4,.280422,0);NumberSequenceKeypoint[PW(63244)](.5,.196475,0);NumberSequenceKeypoint[PW(63244)](.6,.12965,0),NumberSequenceKeypoint[PW(63244)](.7,.0771794,0),NumberSequenceKeypoint[PW(63244)](.8,.0376439,0),NumberSequenceKeypoint[PW(63244)](.9,.0109769,0);NumberSequenceKeypoint[PW(63244)](1,0,0)})P[PW(63740)]=NumberSequence[PW(63244)](-5)P[PW(61565)]=PF(A[PW(61728)]..PW(62400))P[PW(62518)]=NumberSequence[PW(63244)]({NumberSequenceKeypoint[PW(63244)](0,1,0),NumberSequenceKeypoint[PW(63244)](.196451,.83125,0);NumberSequenceKeypoint[PW(63244)](1,1,0)})P[PW(63507)]=1 P[PW(61661)]=NumberRange[PW(63244)](180)P[PW(62520)]=NumberRange[PW(63244)](0,0)P[PW(62298)]=Vector2[PW(63244)](0,0)P[PW(62852)]=Enum[PW(62649)][PW(63499)]P[PW(62156)]=true P[PW(62543)]=1 P[PW(61811)]=0 P[PW(62514)]=k[PW(62360)]P:SetAttribute(PW(62229),0)m[PW(63250)]:AddTag(P,PW(61690));(P:Clone())[PW(63690)]=P[PW(63690)];(P:Clone())[PW(63690)]=P[PW(63690)];(P:Clone())[PW(63690)]=P[PW(63690)];(P:Clone())[PW(63690)]=P[PW(63690)];(P:Clone())[PW(63690)]=P[PW(63690)];(P:Clone())[PW(63690)]=P[PW(63690)]GF()end end GetThunderSound=LPH_JIT_MAX(function()local k=m[PW(63415)]:FindFirstChild(PW(63610))if not k then k=Instance[PW(63244)](PW(62841))k[PW(63580)]=PW(62576)k[PW(61831)]=PW(63501)k[PW(62432)]=1 k[PW(63690)]=m[PW(63415)]end return k end)local function qF()local k=H[PW(62750)][PW(63877)]if k[PW(62049)]then return end k[PW(62049)]=true k[PW(62675)]=task[PW(62738)](LPH_JIT_MAX(function()while k[PW(62049)]do task[PW(62942)](math[PW(62492)](5,15))if not k[PW(62049)]then break end local P=GetThunderSound()P:Stop()P[PW(62329)]=0 P:Play()end end))end local function hF()H[PW(62750)][PW(63877)][PW(62049)]=false H[PW(62750)][PW(63877)][PW(62675)]=nil local k=GetThunderSound()k:Destroy()end local function HF()local k=H[PW(62750)][PW(63877)]if k[PW(62115)]==nil then k[PW(62115)]=Instance[PW(63244)](PW(62841))k[PW(62115)][PW(63690)]=m[PW(63415)]k[PW(62115)][PW(63085)]=true end k[PW(62115)]:Stop()if k[PW(62049)]or not k[PW(62549)]then hF()end k[PW(62115)][PW(61831)]=A[PW(62864)][k[PW(62554)]]k[PW(62115)][PW(62432)]=k[PW(62026)]if k[PW(62549)]then k[PW(62115)]:Play()end if k[PW(62554)]==PW(62259)and k[PW(62549)]then qF()end end local MF local function gF(k)if k==H[PW(62750)][PW(61985)][PW(61779)]then return end H[PW(62750)][PW(61985)][PW(61779)]=k M[PW(62231)]:Set(k)M[PW(62310)]:SetPressed(k)local P=C[PW(62406)][PW(63859)][PW(63884)]if k then MF=C[PW(62406)][PW(63859)][PW(62683)]C[PW(62406)][PW(63859)][PW(62683)]=function()return H[PW(62750)][PW(61985)][PW(62264)]end else C[PW(62406)][PW(63859)][PW(62683)]=MF end C[PW(62406)][PW(63859)][PW(62317)]:Fire(H[PW(62750)][PW(61985)][PW(62264)],P)end local wF=C[PW(63442)][PW(63693)]C[PW(63442)][PW(63693)]=function(k,P,...)if H[PW(62750)][PW(61985)][PW(62327)]and P==PW(62966)then if k:IsRendered()then local P,m=...k[PW(61877)](P)end return end return wF(k,P,...)end local WF=C[PW(61619)][PW(62753)]C[PW(61619)][PW(62753)]=function(k,P)local m=WF(k,P)if H[PW(62750)][PW(61985)][PW(62035)]then if k[PW(62622)][P][PW(62779)]then k[PW(62622)][P][PW(62779)]:Destroy()k[PW(62622)][P][PW(62779)]=nil end end return m end local uF=(C[PW(62800)]:GetFighter(V))[PW(62206)][PW(62305)]local cF=uF[PW(61908)]uF[PW(61908)]=LPH_NO_VIRTUALIZE(function(k,...)if H[PW(62750)][PW(61985)][PW(62035)]then k:Hide()return end cF(k,...)end)m[PW(62139)][PW(61835)]:Connect(LPH_NO_VIRTUALIZE(function()workspace[PW(61838)][PW(62563)]=workspace[PW(61838)][PW(62563)]*CFrame[PW(63244)](0,0,0,1,0,0,0,H[PW(62750)][PW(61985)][PW(63127)],0,0,0,1)if H[PW(62750)][PW(61985)][PW(63402)]then C[PW(62406)][PW(62165)]=H[PW(62750)][PW(61985)][PW(63598)]end m[PW(62722)][PW(62883)]=H[PW(62750)][PW(63590)][PW(62192)]end))CloneCosmetic=LPH_JIT_MAX(function(k,P,m)if not C[PW(63456)]or not C[PW(63456)][PW(62697)]then return nil end local V=C[PW(63456)][PW(62697)][k]if not V then return nil end local o=table[PW(63014)](V)o[PW(63580)]=k o[PW(61969)]=o[PW(61969)]or P o[PW(62194)]=math[PW(62492)](1,1000000)if C[PW(62837)]then pcall(function()local P=C[PW(62837)]:ToEnum(k)if P then o[PW(61934)],o[PW(63838)]=P,P end end)end if m then if m[PW(61781)]then o[PW(61563)]=true end if m[PW(62411)]then o[PW(63783)]=true end end return o end)local ZF=C[PW(63456)][PW(62671)]C[PW(63456)][PW(62671)]=LPH_JIT_MAX(function(k,P,m)local V=H[PW(63429)][PW(62054)][m]if V then return true end return ZF(k,P,m)end)local jF=C[PW(63456)][PW(63417)]C[PW(63456)][PW(63417)]=LPH_JIT_MAX(function(k,P,m)local V=H[PW(63429)][PW(62054)][m]if V then return true end return jF(k,P,m)end)local YF=C[PW(63456)][PW(61954)]C[PW(63456)][PW(61954)]=LPH_JIT_MAX(function(k,P,m)local V=H[PW(63429)][PW(62054)][m]if V then return true end return YF(k,P,m)end)local OF=C[PW(63456)][PW(62835)]C[PW(63456)][PW(62835)]=LPH_JIT_MAX(function(k,P,m,V)local o=H[PW(63429)][PW(62054)][m]if o then return true end return OF(k,P,m,V)end)local fF=C[PW(63456)][PW(63566)]C[PW(63456)][PW(63566)]=LPH_JIT_MAX(function(k,P,m,V)local o=H[PW(63429)][PW(62054)][m]if o then return true end return fF(k,P,m,V)end)local LF=C[PW(61575)][PW(63500)]C[PW(61575)][PW(63500)]=LPH_JIT_MAX(function(k,...)local P=LF(k,...)local m=(({...}))[1]return H[PW(62009)][PW(62316)][PW(63636)][m]or P end)local function JF(k,P)if type(P)~=PW(62658)or#P==0 then return k end local m={}local V={}for k,P in ipairs(P)do table[PW(62479)](m,P)if type(P)==PW(62658)and P[PW(63580)]then V[P[PW(63580)]]=true end end if type(k)==PW(62658)then for k,P in pairs(k)do if not((type(P)==PW(62658)and(P[PW(63580)]and V[P[PW(63580)]])))then table[PW(62479)](m,P)end end end return m end local zF=C[PW(61575)][PW(63432)]C[PW(61575)][PW(63432)]=LPH_JIT_MAX(function(k,...)local P=zF(k,...)local m=(({...}))[1]if m==PW(63309)then return H[PW(63429)][PW(62054)]or P end if m==PW(63022)then return H[PW(62590)][PW(62054)]or P end if m==PW(62689)then return H[PW(62009)][PW(62316)][PW(62270)]or P end if m==PW(61981)then return H[PW(62009)][PW(62316)][PW(63198)]or P end if m==PW(63152)then return H[PW(62009)][PW(62316)][PW(63636)]or P end if m==PW(62353)then return H[PW(62009)][PW(62095)][PW(63458)]or P end if m==PW(62351)then return H[PW(62009)][PW(62095)][PW(63155)]or P end if m==PW(63328)then return H[PW(62009)][PW(62807)][PW(63747)]or P end if m==PW(62175)then return H[PW(62009)][PW(62807)][PW(63132)]or P end if m==PW(63074)then return H[PW(62009)][PW(62807)][PW(62128)]or P end if m==PW(63454)then return H[PW(62009)][PW(62807)][PW(61601)]or P end if m==PW(62408)then return H[PW(62009)][PW(62807)][PW(62796)]or P end if m==PW(62890)then return JF(P,H[PW(63429)][PW(62129)])end if m==PW(61624)then return JF(P,H[PW(63429)][PW(62129)])end if m==PW(63646)then return H[PW(63429)][PW(62053)]or P end return P end)local aF=C[PW(61575)][PW(62537)]C[PW(61575)][PW(62537)]=LPH_JIT_MAX(function(k,...)local P=(({...}))[1]local m,V=aF(k,...)local o=false for k,m in ipairs(H[PW(63429)][PW(62129)])do if m[PW(63580)]==P then o=true break end end if o and not m then local k={[PW(63580)]=P,[PW(61987)]=1,[PW(62854)]=0;[PW(63091)]=false;[PW(63802)]=nil}if H[PW(63429)][PW(62924)]and H[PW(63429)][PW(62924)][P]then for P,m in pairs(H[PW(63429)][PW(62924)][P])do if type(m)==PW(62658)and((m[PW(63580)]==PW(62598)or m[PW(63580)]==PW(63147)))then k[P]=nil else k[P]=m end end end return k,V end if m and(H[PW(63429)][PW(62924)]and H[PW(63429)][PW(62924)][P])then for k,P in pairs(H[PW(63429)][PW(62924)][P])do if type(P)==PW(62658)and((P[PW(63580)]==PW(62598)or P[PW(63580)]==PW(63147)))then m[k]=nil else m[k]=P end end end return m,V end)local function EF(k)if not k or type(k[PW(63432)])~=PW(63737)or k[PW(63893)]then return end local P=k[PW(63432)]k[PW(63432)]=function(k,...)local m=P(k,...)local V=(({...}))[1]if V==PW(63309)then return H[PW(63429)][PW(62054)]or m end if V==PW(63022)then return H[PW(62590)][PW(62054)]or m end if V==PW(62890)then return JF(m,H[PW(63429)][PW(62129)])end if V==PW(61624)then return JF(m,H[PW(63429)][PW(62129)])end return m end k[PW(63893)]=true end local function QF(k,P,m,V)local o={}for m,V in pairs(C[PW(63456)][PW(62697)])do if k==PW(63802)then if V[PW(61969)]==k and(C[PW(63456)]:OwnsCosmetic(C[PW(61575)]:Get(PW(63309)),m,P)and V[PW(62262)]==P)then table[PW(62479)](o,m)end else if V[PW(61969)]==k and C[PW(63456)]:OwnsCosmetic(C[PW(61575)]:Get(PW(63309)),m,P)then table[PW(62479)](o,m)end end end if#o==0 then return nil end return CloneCosmetic(o[math[PW(62492)](#o)],k,{[PW(61781)]=m;[PW(62411)]=V})end ResolveCosmetic=LPH_JIT_MAX(function(k,P)local m=H[PW(63429)][PW(62924)][k]and H[PW(63429)][PW(62924)][k][P]if not m then return nil end if m[PW(63580)]==PW(63147)or m[PW(63580)]==PW(62598)then return nil end if m[PW(63580)]==PW(63098)or m[PW(63580)]==PW(61795)then return QF(P,k,m[PW(61563)],m[PW(63783)])end return m end)task[PW(62738)](LPH_NO_VIRTUALIZE(function()while not C[PW(61575)][PW(63089)]do task[PW(62942)](.1)end EF(C[PW(61575)][PW(63089)])end))RebuildObjectIDMap=LPH_NO_VIRTUALIZE(function()if not C[PW(62800)]then return end pcall(function()local k=C[PW(62800)]:GetFighter(V)if not k or not k[PW(63794)]then return end for k,P in pairs(k[PW(63794)])do local m,V=pcall(function()return P:Get(PW(63838))end)if m and V~=nil then g[PW(63761)][tostring(V)]=P[PW(63580)]end end end)end)task[PW(62738)](LPH_NO_VIRTUALIZE(function()while true do RebuildObjectIDMap()task[PW(62942)](5)end end))task[PW(62738)](LPH_JIT_MAX(function()task[PW(62942)](1)local function k(k)if not C[PW(62800)]then return end local P=k[1]~=nil and tostring(k[1])or nil if not P then return end local m=g[PW(63761)][P]if m then H[PW(63429)][PW(62042)]=m return end task[PW(62738)](function()pcall(function()local k=C[PW(62800)]:GetFighter(V)if not k or not k[PW(63794)]then return end for k,m in pairs(k[PW(63794)])do local V,o=pcall(function()return m:Get(PW(63838))end)if V and(o~=nil and tostring(o)==P)then H[PW(63429)][PW(62042)]=m[PW(63580)]g[PW(63761)][P]=m[PW(63580)]break end end end)end)end local function P(k)local P=k[1]local m=k[2]local V=k[3]local o=k[4]or{}H[PW(63429)][PW(62924)][P]=H[PW(63429)][PW(62924)][P]or{}if not V or V==PW(62576)or V==PW(63147)or V==PW(62598)then H[PW(63429)][PW(62924)][P]=H[PW(63429)][PW(62924)][P]or{}H[PW(63429)][PW(62924)][P][m]={[PW(63580)]=PW(62598)}elseif V==PW(63098)or V==PW(61795)then local k={}k[PW(63580)]=V k[PW(61969)]=m k[PW(61563)]=o[PW(63301)]k[PW(63783)]=o[PW(63783)]k[PW(62194)]=math[PW(62492)](1,1000000)H[PW(63429)][PW(62924)][P][m]=k else local k=CloneCosmetic(V,m,{[PW(61781)]=o[PW(63301)],[PW(62411)]=o[PW(63783)]})if k then H[PW(63429)][PW(62924)][P][m]=k end end task[PW(62738)](function()task[PW(62942)](.1)pcall(function()if C[PW(61575)]and C[PW(61575)][PW(63089)]then C[PW(61575)][PW(63089)]:Replicate(PW(62890))end end)end)end local function m(k)local P=k[1]local m=k[2]local V=k[3]H[PW(63429)][PW(62053)][P]=H[PW(63429)][PW(62053)][P]or{}H[PW(63429)][PW(62053)][P][m]=V or nil end G:Register(function(V,o,...)if o~=PW(61615)then return false end local b={...}if V[PW(63580)]==PW(63631)then k(b)return G:CallOriginal(V,...)end if V[PW(63580)]==PW(63745)then P(b)return true end if V[PW(63580)]==PW(61921)then m(b)return true end return false end)end))local FF=C[PW(62930)][PW(62902)]C[PW(62930)][PW(62902)]=function(k,P,m)if not P then return FF(k,P,m)end local o=P[PW(63580)]local b=(P[PW(63802)]and(H[PW(63429)][PW(62924)][o]and P[PW(63802)]==ResolveCosmetic(o,PW(63802))))or(H[PW(63429)][PW(63556)]==V and(H[PW(63429)][PW(62924)][o]and ResolveCosmetic(o,PW(63802))))if b and(H[PW(63429)][PW(62924)][o]and ResolveCosmetic(o,PW(63802)))then local P=k[PW(62635)][(ResolveCosmetic(o,PW(63802)))[PW(63580)]]if P then return P[m and PW(63331)or PW(63420)]or P[PW(63420)]end end return FF(k,P,m)end task[PW(62738)](LPH_JIT_MAX(function()task[PW(62942)](3)pcall(function()local k=V[PW(62958)][PW(63426)][PW(61891)][PW(63348)][PW(63151)]local P=require(k)if P[PW(63273)]then local k=P[PW(63273)]P[PW(63273)]=function(P,m)local o=P[PW(63580)]local b=P[PW(63348)]and P[PW(63348)][PW(61682)]H[PW(63429)][PW(63224)]=(b==V)and o or nil if b==V and(H[PW(63429)][PW(62924)][o]and(ResolveCosmetic(o,PW(63802))and m))then pcall(function()local k,V,b=P:ToEnum(PW(63529)),P:ToEnum(PW(63802)),P:ToEnum(PW(63580))if m[k]then m[k][V]=ResolveCosmetic(o,PW(63802))m[k][b]=(ResolveCosmetic(o,PW(63802)))[PW(63580)]elseif m[PW(63529)]then m[PW(63529)][PW(63802)]=ResolveCosmetic(o,PW(63802))m[PW(63529)][PW(63580)]=(ResolveCosmetic(o,PW(63802)))[PW(63580)]end end)end local e=k(P,m)H[PW(63429)][PW(63224)]=nil return e end end end)pcall(function()local k=V[PW(62958)][PW(63426)][PW(61891)][PW(63348)][PW(63151)]:FindFirstChild(PW(62218))if k then local P=require(k)if P[PW(62757)]then local k=P[PW(62757)]P[PW(62757)]=function(P)local m=P[PW(63151)]and P[PW(63151)][PW(63580)]local o=P[PW(63151)]and(P[PW(63151)][PW(63348)]and P[PW(63151)][PW(63348)][PW(61682)])if m and(o==V and(H[PW(63429)][PW(62924)][m]and ResolveCosmetic(m,PW(63183))))then return ResolveCosmetic(m,PW(63183))end return k(P)end end local o=P[PW(63244)]P[PW(63244)]=function(k,P)local b=P[PW(63348)]and P[PW(63348)][PW(61682)]local e=H[PW(63429)][PW(63224)]or P[PW(63580)]if b==V and H[PW(63429)][PW(62924)][e]then pcall(function()local P=require(m[PW(61561)][PW(63426)][PW(62155)])local V=P:ToEnum(PW(63529))k[V]=k[V]or{}if ResolveCosmetic(e,PW(63802))then k[V][P:ToEnum(PW(63802))]=ResolveCosmetic(e,PW(63802))end if ResolveCosmetic(e,PW(63183))then k[V][P:ToEnum(PW(63183))]=ResolveCosmetic(e,PW(63183))end if ResolveCosmetic(e,PW(63621))then k[V][P:ToEnum(PW(63621))]=ResolveCosmetic(e,PW(63621))end end)end local D=o(k,P)pcall(function()local P=nil pcall(function()local V=require(m[PW(61561)][PW(63426)][PW(62155)])local o=V:ToEnum(PW(63529))local b=V:ToEnum(PW(63838))if k[o]then P=k[o][b]end end)if P==nil then pcall(function()P=D:Get(PW(63838))or D[PW(63838)]end)end if P and(b==V and H[PW(63429)][PW(62924)][e])then H[PW(63429)][PW(62082)]=H[PW(63429)][PW(62082)]or{}H[PW(63429)][PW(62082)][P]=e end end)if b==V and(H[PW(63429)][PW(62924)][e]and(ResolveCosmetic(e,PW(63183))and D[PW(62947)]))then task[PW(62738)](function()D:_UpdateWrap()task[PW(62942)](.1)if not D[PW(62429)]then D:_UpdateWrap()end end)end return D end end end)pcall(function()local k=require(V[PW(62958)][PW(63426)][PW(62356)][PW(62949)])if k and k[PW(62599)]then local P=k[PW(62599)]k[PW(62599)]=function(k,m)H[PW(63429)][PW(63556)]=m return P(k,m)end end end)pcall(function()local k=require(V[PW(62958)][PW(63426)][PW(61891)][PW(62923)])if not k or not k[PW(63693)]then return end local P=k[PW(63693)]local function m(k)if k==nil then return nil end if typeof(k)==PW(62809)then if k:IsA(PW(61682))then return k[PW(63580)]end return nil end if type(k)==PW(63410)then return k==V[PW(63889)]and V[PW(63580)]or nil end if type(k)==PW(62050)then return k end if type(k)==PW(63120)then if C[PW(62837)]and C[PW(62837)][PW(62278)]then local P,m=pcall(function()return C[PW(62837)]:FromEnum(k)end)if P and m~=nil then return tostring(m)end end return tostring(k)end return tostring(k)end local function o(k)local P=V[PW(63580)]:lower()local o=m(k[3])if o and o:lower()==P then return true end return false end local function b()local k=H[PW(63429)][PW(62042)]if k and(H[PW(63429)][PW(62924)][k]and ResolveCosmetic(k,PW(61896)))then return k end for k,P in pairs(H[PW(63429)][PW(62924)])do if ResolveCosmetic(k,PW(61896))then return k end end return nil end local function e(k)if not k then return nil,PW(62659)end if k[PW(61934)]~=nil then return k[PW(61934)],nil end if C[PW(62837)]then if C[PW(62837)][PW(61812)]then local P,m=pcall(function()return C[PW(62837)]:ToEnum(k[PW(63580)])end)if P and m~=nil then k[PW(61934)]=m return m,nil end end end if k[PW(63838)]~=nil then k[PW(61934)]=k[PW(63838)]return k[PW(63838)],nil end return nil,PW(63087)..tostring(k[PW(63580)])end k[PW(63693)]=function(k,m,...)if m~=PW(62702)then return P(k,m,...)end local V={...}if not o(V)then return P(k,m,...)end local D=b()if not D then return P(k,m,...)end local S=ResolveCosmetic(D,PW(61896))local G,A=e(S)if G==nil then return P(k,m,...)end if not k:IsRendered()then return end local C,q=pcall(function()return k:FromEnum(G)end)if not C or q==nil then q=S[PW(63580)]end if q==nil then return P(k,m,...)end local h,H,M=V[2],V[3],V[4]pcall(function()k:_PlayFinisher(q,h,H,M)end)return end end)pcall(function()if not C[PW(62800)]or not C[PW(62800)][PW(62757)]then return end local k=C[PW(62800)][PW(62757)]C[PW(62800)][PW(62757)]=function(P,m)local V=k(P,m)if V then return V end if m and H[PW(63429)][PW(62082)]then local k=H[PW(63429)][PW(62082)][m]if k and H[PW(63429)][PW(62924)][k]then local P=ResolveCosmetic(k,PW(63183))if P then return P end end end return nil end end)pcall(function()local k=require(V[PW(62958)][PW(63426)][PW(61822)][PW(62136)])if not k or not k[PW(63504)]then return end local P=k[PW(63504)]k[PW(63504)]=function(k,m,V)if H[PW(63429)][PW(62924)][PW(62344)]then pcall(function()local k=ResolveCosmetic(PW(62344),PW(63802))if k and k[PW(63580)]then m=k[PW(63580)]end end)end return P(k,m,V)end end)end))local function UF(k)local P={}for m,V in pairs(C[PW(63456)][PW(62697)])do if V[PW(61670)]==k then table[PW(62479)](P,m)end end return P end local function rF(k)local P={}for m,V in pairs(C[PW(63456)][PW(62697)])do if V[PW(61969)]==k then table[PW(62479)](P,m)end end return P end local function dF(k,P,m)local V for o,b in pairs(C[PW(63456)][PW(62697)])do if k==PW(63802)then if o==P and(b[PW(61969)]==k and b[PW(62262)]==m)then V=o end else if o==P and b[PW(61969)]==k then V=o end end end return V end local function nF(k)local P={}for m,V in pairs(C[PW(63456)][PW(62697)])do if V[PW(61969)]==PW(63802)then if V[PW(62262)]==k then table[PW(62479)](P,m)end else table[PW(62479)](P,m)end end return P end local function sF()local k={}for P,m in pairs(C[PW(63456)][PW(62697)])do table[PW(62479)](k,P)end return k end local function tF()local k=H[PW(63429)][PW(63661)][PW(63181)]local P=UF(k)for k,P in ipairs(P)do if P:find(PW(62235))then continue end H[PW(63429)][PW(62054)][P]=true end end local function RF()local k=H[PW(63429)][PW(63661)][PW(63181)]local P=UF(k)for k,P in ipairs(P)do if P:find(PW(62235))then continue end H[PW(63429)][PW(62054)][P]=nil end end local function TF()local k=H[PW(63429)][PW(63661)][PW(62580)]local P=rF(k)for k,P in ipairs(P)do if P:find(PW(62235))then continue end H[PW(63429)][PW(62054)][P]=true end end local function BF()local k=H[PW(63429)][PW(63661)][PW(62580)]local P=rF(k)for k,P in ipairs(P)do if P:find(PW(62235))then continue end H[PW(63429)][PW(62054)][P]=nil end end local function lF()local k=H[PW(63429)][PW(62462)][PW(62580)]local P=H[PW(63429)][PW(62462)][PW(62921)]local m=H[PW(63429)][PW(62462)][PW(62297)]local V=dF(k,P,m)if V:find(PW(62235))then return end H[PW(63429)][PW(62054)][V]=true end local function vF()local k=H[PW(63429)][PW(62462)][PW(62580)]local P=H[PW(63429)][PW(62462)][PW(62921)]local m=H[PW(63429)][PW(62462)][PW(62297)]local V=dF(k,P,m)if V:find(PW(62235))then return end H[PW(63429)][PW(62054)][V]=nil end local function iF()local k=H[PW(63429)][PW(62462)][PW(62297)]local P=C[PW(61575)][PW(63089)]if not P then return end local m=P:Get(PW(62890))local V={}if type(m)==PW(62658)then for k,P in pairs(m)do if type(P)==PW(62658)and P[PW(63580)]then V[P[PW(63580)]]=true end end end if not V[k]then table[PW(62479)](H[PW(63429)][PW(62129)],{[PW(63580)]=k,[PW(61987)]=1,[PW(62854)]=0,[PW(63091)]=false,[PW(63802)]=nil})end end local function KF()local k=H[PW(63429)][PW(62462)][PW(62297)]for P,m in ipairs(H[PW(63429)][PW(62129)])do if m[PW(63580)]==k then table[PW(61587)](H[PW(63429)][PW(62129)],P)break end end end local function yF()local k=C[PW(61575)][PW(63089)]if not k then return end local P=k:Get(PW(62890))local m={}if type(P)==PW(62658)then for k,P in pairs(P)do if type(P)==PW(62658)and P[PW(63580)]then m[P[PW(63580)]]=true end end end local V=C[PW(62143)]:GetReleasedOwnableWeapons()for k,P in pairs(V)do if not m[P]then table[PW(62479)](H[PW(63429)][PW(62129)],{[PW(63580)]=P,[PW(61987)]=1;[PW(62854)]=0,[PW(63091)]=false;[PW(63802)]=nil})end end end local function pF()for k in pairs(H[PW(63429)][PW(62129)])do for P,m in ipairs(H[PW(63429)][PW(62129)])do if m[PW(63580)]==k then table[PW(61587)](H[PW(63429)][PW(62129)],P)break end end end end local function NF()local k=H[PW(63429)][PW(62462)][PW(62297)]local P=nF(k)for k,P in ipairs(P)do if P:find(PW(62235))then continue end H[PW(63429)][PW(62054)][P]=true end end local function XF()local k=H[PW(63429)][PW(62462)][PW(62297)]local P=nF(k)for k,P in ipairs(P)do if P:find(PW(62235))then continue end H[PW(63429)][PW(62054)][P]=nil end end local function xF()local k=sF()for k,P in ipairs(k)do if P:find(PW(62235))then continue end H[PW(63429)][PW(62054)][P]=true end end local function IF()local k=sF()for k,P in ipairs(k)do if P:find(PW(62235))then continue end H[PW(63429)][PW(62054)][P]=nil end end local function kH()local k=m[PW(61561)][PW(61610)][PW(63529)][PW(63745)]local P=H[PW(63429)][PW(62759)][PW(62580)]local V=H[PW(63429)][PW(62759)][PW(62921)]local o=H[PW(63429)][PW(62759)][PW(62297)]local b=H[PW(63429)][PW(62759)][PW(61781)]if typeof(o)~=PW(62050)or o==PW(62576)then return end local e=if V~=nil and V~=PW(62576) then V else nil local D={}if P==PW(63183)then D[PW(63301)]=if b then true else nil end k:FireServer(o,P,e,D)end local function PH()local k=m[PW(61561)][PW(61610)][PW(63529)][PW(63745)]local P=H[PW(63429)][PW(62759)][PW(62580)]local V=H[PW(63429)][PW(62759)][PW(62921)]local o=H[PW(63429)][PW(62759)][PW(61781)]if P==PW(63802)then return end for m,b in pairs(C[PW(62930)][PW(63794)])do if P==PW(61896)and not b[PW(62628)]then continue end if typeof(m)~=PW(62050)or m==PW(62576)then return end local e=if V~=nil and V~=PW(62576) then V else nil local D={}if P==PW(63183)then D[PW(63301)]=if o then true else nil end k:FireServer(m,P,e,D)end end local function mH(k)if not k or k==PW(62576)then return nil end if g[PW(63168)][k]and(g[PW(63168)][k][PW(62808)]==k and g[PW(63168)][k][PW(61644)])then return g[PW(63168)][k][PW(61644)]end local P=A[PW(61576)]..PW(62973)local m,V=pcall(function()return(request({[PW(62808)]=k,[PW(62962)]=PW(62146),[PW(62373)]={[PW(63897)]=PW(63724)}}))[PW(61574)]end)if not m then warn(PW(63493),V)return nil end local o,b=pcall(base64decode,V)if not o or not b then warn(PW(63296))return nil end local e=pcall(writefile,P,b)if not e then warn(PW(63149))return nil end local D,S=pcall(getcustomasset,P)if not D then warn(PW(62230))return nil end g[PW(63168)][k]={[PW(62808)]=k;[PW(61644)]=S}return S end ResolveSoundId=LPH_JIT_MAX(function(k)local P=k[PW(62134)]if P==PW(63147)or P==nil or P==PW(62576)then return nil end if P==PW(63167)and k[PW(62557)]then return PW(62959)..tostring(k[PW(62557)])end if P==PW(63536)then return mH(k[PW(62526)])end return c[PW(63432)](PW(63112)..string[PW(63856)](P))end)pcall(LPH_JIT_MAX(function()task[PW(62738)](function()local k={}local P={}do local m=A[PW(61668)]for P=1,#m,1 do k[m[P]]=true end local V=A[PW(62044)]for k=1,#V,1 do P[V[k]]=true end end local m=C[PW(62930)][PW(62635)]for m,V in pairs(m)do local o=V[PW(63913)]if type(o)==PW(62658)then for m,V in pairs(o)do if type(m)==PW(62050)and type(V)==PW(62050)then if k[m]then q[V]=true elseif P[m]then h[V]=true elseif m:byte(1)==83 then if string[PW(63256)](m,PW(61577))then q[V]=true end elseif m:byte(1)==82 then if string[PW(63256)](m,PW(63717))then h[V]=true end end end end end end end)task[PW(62738)](function()local k=C[PW(63578)][PW(62101)]for k,P in pairs(k)do local m=P[PW(62760)]if m then P[PW(62760)]=function(P,V,o)P[PW(62280)]=k local b,e=pcall(m,P,V,o)P[PW(62280)]=nil return b,e end end end end)task[PW(62738)](function()task[PW(62942)](3)pcall(function()local k=V[PW(62958)][PW(63426)][PW(61891)][PW(63348)][PW(63151)]:FindFirstChild(PW(62218))if k then local P=require(k)local m=P[PW(62539)]P[PW(62539)]=function(k,P,o,b,...)local e=k[PW(62280)]local D=k[PW(63151)]and(k[PW(63151)][PW(63348)]and k[PW(63151)][PW(63348)][PW(61682)])if D==V and e~=nil then if q[e]then local V=H[PW(63429)][PW(62409)][PW(63131)]local o=H[PW(63429)][PW(62409)][PW(62475)]local b=ResolveSoundId(H[PW(63429)][PW(62409)])or P return m(k,b,V/100,o/10,...)elseif h[e]then local V=H[PW(63429)][PW(61566)][PW(63131)]local o=H[PW(63429)][PW(61566)][PW(62475)]local b=ResolveSoundId(H[PW(63429)][PW(61566)])or P return m(k,b,V/100,o/10,...)end end return m(k,P,o,b,...)end local o=P[PW(62198)]P[PW(62198)]=function(P,m,b)local e=P[PW(63151)]and(P[PW(63151)][PW(63348)]and P[PW(63151)][PW(63348)][PW(61682)])if e==V then while#P[PW(62451)]>10 do(table[PW(61587)](P[PW(62451)],1)):Destroy()end if m then local m=H[PW(63429)][PW(61936)][PW(62475)]local V=ResolveSoundId(H[PW(63429)][PW(61936)])or A[PW(62899)][PW(63639)]local o=ResolveSoundId(H[PW(63429)][PW(61936)])or A[PW(62899)][PW(63681)]P:_CreateHitmarkerSound(V,(3/b),m/10,k,true,1)P:_CreateHitmarkerSound(o,(2/b),m/10,k,true,1)else local m=H[PW(63429)][PW(63448)][PW(62475)]local V=ResolveSoundId(H[PW(63429)][PW(63448)])or A[PW(62899)][PW(63623)]P:_CreateHitmarkerSound(V,(1.5/b),m/10,k,true,1)end return end return o(P,m,b)end end end)end)local k=table[PW(63014)](C[PW(62366)][PW(61551)])C[PW(62366)][PW(61551)]=setmetatable({},{[PW(62998)]=function(P,m)return ResolveSoundId(H[PW(63429)][PW(62202)])or k[m]end})local P=table[PW(63014)](C[PW(62366)][PW(63258)])C[PW(62366)][PW(63258)]=setmetatable({},{[PW(62998)]=function(k,m)return ResolveSoundId(H[PW(63429)][PW(61695)])or P[m]end})end))local VH=false local function oH(k)if VH then return end VH=true local P=ResolveSoundId(k)if P==nil then VH=false return end local V=k[PW(63131)]local o=k[PW(62475)]local b=Instance[PW(63244)](PW(62841))b[PW(63690)]=m[PW(63415)]b[PW(61831)]=P b[PW(62432)]=V/100 b[PW(63230)]=o/10 b:Play()b[PW(62791)]:Connect(function()b:Destroy()VH=false end)end local function bH()oH(H[PW(63429)][PW(62409)])end local function eH()oH(H[PW(63429)][PW(63448)])end local function DH()oH(H[PW(63429)][PW(61695)])end local function SH()oH(H[PW(63429)][PW(61936)])end local function GH()oH(H[PW(63429)][PW(61566)])end local function AH()oH(H[PW(63429)][PW(62202)])end local function CH()pcall(function()if C[PW(61575)]and C[PW(61575)][PW(63089)]then C[PW(61575)][PW(63089)]:Replicate(PW(63022))end end)end local function qH(k,P)local m=C[PW(63456)][PW(62676)][k]if not m or not m[PW(61956)]then return nil end local V,o=pcall(function()return m:GetContents()end)if not V or not o or#o==0 then return nil end local b=C[PW(61575)]:Get(PW(63309))local e={}for k,P in ipairs(o)do if not C[PW(63456)]:OwnsCosmetic(b,P)then table[PW(62479)](e,P)end end if#e==0 then e=o end local D=e[math[PW(62492)](#e)]local S=C[PW(63456)][PW(62697)][D]local G=S and(C[PW(63456)][PW(62542)]and(C[PW(63456)][PW(62542)][S[PW(61969)]]and C[PW(63456)][PW(62542)][S[PW(61969)]][PW(61572)]))return{[PW(63580)]=D;[PW(62687)]=1,[PW(62403)]=G and P or nil,[PW(63739)]=nil}end local function hH(k,P)local m=H[PW(62590)][PW(62054)]local o=m[k]if not o then return PW(62576)end local b=o[PW(63580)]local e=C[PW(63456)][PW(62676)][b]local D=o[PW(62687)]or 1 if D>P then o[PW(62687)]=D-P else table[PW(61587)](m,k)end CH()if e and e[PW(63165)]then local k=V[PW(61973)]if k and k:FindFirstChild(PW(62906))then local m=k[PW(62906)][PW(63835)]for k=1,P,1 do local P=qH(b,o[PW(62403)])if P then local o=C[PW(63456)][PW(62697)][P[PW(63580)]]if o then H[PW(63429)][PW(62054)][P[PW(63580)]]=true else table[PW(62479)](H[PW(63429)][PW(62129)],{[PW(63580)]=P[PW(63580)],[PW(61987)]=1,[PW(62854)]=0;[PW(63091)]=false,[PW(63802)]=nil})end local e=((k-1))*3 task[PW(62738)](function()C[PW(62001)](m,b,{{[PW(62525)]=P}},e,nil,V)if not o or o[PW(61969)]~=PW(63802)then return end local k=o[PW(61670)]or PW(63226)local D=Color3[PW(61834)](255,255,255)if C[PW(63456)][PW(63826)]then local P=C[PW(63456)][PW(63826)][k]if P and P[PW(63338)]then D=P[PW(63338)]end end local S=string[PW(62452)](PW(63043),V[PW(62200)],V[PW(63580)],k,P[PW(63580)],o[PW(62262)])C[PW(62170)]({[PW(61826)]=S,[PW(63338)]=D})end)end end end end return PW(63011)end task[PW(62738)](function()task[PW(62942)](3)pcall(function()C[PW(63025)][PW(62441)]=function(k,P)if C[PW(62800)][PW(61890)]and not((C[PW(62800)][PW(61890)]:Get(PW(62591))or C[PW(62800)][PW(61890)]:Get(PW(62443))))then local V=k[PW(63742)]if V then V=k[PW(63742)][PW(61969)]==PW(63342)end local o=m[PW(61561)][PW(61610)][PW(63529)][PW(63434)]:InvokeServer(k[PW(62067)],P)if o~=PW(63011)then o=hH(k[PW(62067)],P)end if o==PW(63011)then if V then if k[PW(63742)][PW(63165)]then k[PW(62602)]:Fire()return end k:CloseRequest()end elseif V then k[PW(62963)]:Fire(PW(62116),PW(62306),PW(63408))elseif k[PW(62234)]and C[PW(63456)][PW(62542)][k[PW(62234)][PW(61969)]][PW(61572)]then k[PW(62963)]:Fire(PW(62116),PW(62306),PW(63381))else k[PW(62963)]:Fire(PW(62116),PW(62306),PW(61640))end end end end)end)local function HH()local k=H[PW(62590)][PW(62510)][PW(63440)]local P=H[PW(62590)][PW(62510)][PW(62211)]local m=H[PW(62590)][PW(62510)][PW(62941)]local V=H[PW(62590)][PW(62510)][PW(62297)]if not C[PW(63456)]or not C[PW(63456)][PW(62676)]then return end if not C[PW(63456)][PW(62676)][k]then return end if not V or V==PW(62576)then V=PW(63124)end local o={[PW(63580)]=k,[PW(62687)]=m or 1;[PW(62403)]=V;[PW(63739)]=nil}if P then table[PW(62479)](H[PW(62590)][PW(62054)],o)else local k=false for P,m in ipairs(H[PW(62590)][PW(62054)])do if m[PW(63580)]==o[PW(63580)]and(m[PW(62403)]==o[PW(62403)]and m[PW(62687)]<99)then m[PW(62687)]=((m[PW(62687)]or 1))+((o[PW(62687)]or 1))k=true break end end if not k then table[PW(62479)](H[PW(62590)][PW(62054)],o)end end CH()end local function MH()local k=H[PW(62590)][PW(63125)][PW(62941)]if not C[PW(63456)]or not C[PW(63456)][PW(62676)]then return end local P={}for k,m in pairs(C[PW(63456)][PW(62676)])do if m[PW(61969)]==PW(63342)then table[PW(62479)](P,k)end end for P,m in ipairs(P)do if not C[PW(63456)][PW(62676)][m]then return end local V={[PW(63580)]=m,[PW(62687)]=k or 1;[PW(62403)]=PW(63124);[PW(63739)]=nil}table[PW(62479)](H[PW(62590)][PW(62054)],V)end CH()end local function gH()if C[PW(61575)]then local k=C[PW(61575)]:Get(PW(63022))or{}local P={}for k,m in ipairs(k)do table[PW(62479)](P,m[PW(63580)])end return P end return{PW(63147)}end local function wH()table[PW(62903)](H[PW(62590)][PW(62054)])CH()end local function WH()local k=H[PW(62590)][PW(62480)][PW(62190)]local P=H[PW(62590)][PW(62480)][PW(62941)]for m,V in ipairs(H[PW(62590)][PW(62054)])do if V[PW(63580)]~=k then continue end if V[PW(62687)]>P then H[PW(62590)][PW(62054)][m][PW(62687)]-=P else table[PW(61587)](H[PW(62590)][PW(62054)],m)end end CH()end local function uH()local k=H[PW(62590)][PW(62480)][PW(62190)]for P,m in ipairs(H[PW(62590)][PW(62054)])do if m[PW(63580)]~=k then continue end table[PW(61587)](H[PW(62590)][PW(62054)],P)end CH()end local function cH()local k=H[PW(62590)][PW(63236)][PW(62600)]local P=H[PW(62590)][PW(63236)][PW(62921)]local m=H[PW(62590)][PW(63236)][PW(62297)]local V=H[PW(62590)][PW(63236)][PW(62422)]local o if k==PW(63802)then if not m or m==PW(62576)then return end o={[PW(63580)]=P,[PW(62687)]=1;[PW(62403)]=m}else o={[PW(63580)]=P;[PW(62687)]=1}end if not V then table[PW(62479)](H[PW(62590)][PW(62054)],o)else local k=false for P,m in ipairs(H[PW(62590)][PW(62054)])do if m[PW(63580)]==o[PW(63580)]and(m[PW(62403)]==o[PW(62403)]and m[PW(62687)]<99)then m[PW(62687)]=((m[PW(62687)]or 1))+((o[PW(62687)]or 1))k=true break end end if not k then table[PW(62479)](H[PW(62590)][PW(62054)],o)end end CH()end local ZH=0 SetDevice=LPH_JIT_MAX(function(k)local P={[PW(62352)]=PW(61861);[PW(63163)]=PW(63664),[PW(63357)]=PW(63068);[PW(62904)]=PW(62904)}local V=P[k and H[PW(62009)][PW(62336)]or H[PW(62009)][PW(63750)]]or PW(61861)m[PW(61561)][PW(61610)][PW(62818)][PW(63406)][PW(62000)]:FireServer(V)end)local function jH()if H[PW(62009)][PW(63746)]then SetDevice(false)else SetDevice(true)end end local function YH()ZH+=1 local k=ZH task[PW(62738)](LPH_JIT_MAX(function()while H[PW(62009)][PW(63329)]and k==ZH do local k={PW(62352),PW(63163);PW(63357),PW(62904)}H[PW(62009)][PW(63750)]=k[math[PW(62492)](1,#k)]SetDevice(false)task[PW(62942)](H[PW(62009)][PW(63452)])end SetDevice(true)end))end local function OH(k,P)local m=Instance[PW(63244)](PW(63423))m[PW(63203)]=k[PW(63690)]m[PW(62729)]=P[PW(63690)]m[PW(62354)]=k[PW(62563)]m[PW(63539)]=P[PW(62563)]m[PW(63690)]=k[PW(63690)]return m end local function fH(k,P,m,V,o,b)local e=Instance[PW(63244)](PW(63423))e[PW(63580)]=k e[PW(63203)]=m e[PW(62729)]=V e[PW(62354)]=o e[PW(63539)]=b e[PW(63690)]=P return e end FindFirstMatchingAttachment=LPH_JIT_MAX(function(k,P)for k,m in pairs(k:GetChildren())do if m:IsA(PW(62222))and m[PW(63580)]==P then return m elseif not m:IsA(PW(63081))and not m:IsA(PW(63845))then local k=FindFirstMatchingAttachment(m,P)if k then return k end end end end)FindHeadPart=LPH_JIT_MAX(function(k)if not k then return nil end if k:IsA(PW(63377))then return k end local P=k:FindFirstChild(PW(63853))if P and P:IsA(PW(63377))then return P end for k,P in ipairs(k:GetDescendants())do if P:IsA(PW(63377))and P[PW(63580)]==PW(63853)then return P end end for k,P in ipairs(k:GetDescendants())do if P:IsA(PW(63377))then return P end end return nil end)AddAccoutrement=LPH_JIT_MAX(function(k,P)P[PW(63690)]=k local m=P:FindFirstChild(PW(63284))if m then local V=m:FindFirstChildOfClass(PW(62222))if V then local P=FindFirstMatchingAttachment(k,V[PW(63580)])if P then OH(P,V)end else local V=k:FindFirstChild(PW(63853))if V then local k=CFrame[PW(63244)](0,.5,0)local o=P[PW(63462)]fH(PW(63156),V,V,m,k,o)end end end end)CopyHeadVisuals=LPH_JIT_MAX(function(k,P)if not k or not P then return end if not k:IsA(PW(63377))or not P:IsA(PW(63377))then return end for k,P in ipairs(k:GetChildren())do if P:IsA(PW(62632))or P:IsA(PW(61565))or P:IsA(PW(61952))or P:IsA(PW(63553))then P:Destroy()end end k[PW(63534)]=P[PW(63534)]k[PW(63338)]=P[PW(63338)]k[PW(62797)]=P[PW(62797)]k[PW(62518)]=P[PW(62518)]k[PW(61913)]=P[PW(61913)]k[PW(62691)]=P[PW(62691)]k[PW(62439)]=false if k:IsA(PW(63187))and P:IsA(PW(63187))then k[PW(63659)]=P[PW(63659)]k[PW(63547)]=P[PW(63547)]k[PW(62453)]=P[PW(62453)]end for P,m in ipairs(P:GetChildren())do if m:IsA(PW(62632))or m:IsA(PW(61565))or m:IsA(PW(61952))or m:IsA(PW(63553))then local P=m:Clone()P[PW(63690)]=k end end end)ApplyFakeHead=LPH_JIT_MAX(function(k,P)if not k or not P then return end local m=k:FindFirstChild(PW(63853))if not m or not m:IsA(PW(63377))then return end CopyHeadVisuals(m,P)end)ApplyThumbnailSpoof=LPH_JIT_MAX(function(k)if not k:IsA(PW(63318))then return end local P=k[PW(63420)]if typeof(P)~=PW(62050)then return end if H[PW(62009)][PW(62948)]and k[PW(63580)]==PW(62524)then P=P:gsub(V[PW(63889)],H[PW(62009)][PW(62609)])end if H[PW(62009)][PW(62948)]and(k[PW(63690)][PW(63580)]==PW(61775)and k[PW(63580)]==PW(63318))then P=P:gsub(V[PW(63889)],H[PW(62009)][PW(62609)])end if H[PW(62009)][PW(62948)]and k[PW(63580)]==PW(61900)then P=P:gsub(V[PW(63889)],H[PW(62009)][PW(62609)])end if k[PW(63420)]~=P then k[PW(63420)]=P end end)RefreshAllThumbnailSpoofs=LPH_JIT_MAX(function()for k,P in pairs(H[PW(62009)][PW(63895)])do if k and k[PW(63690)]then ApplyThumbnailSpoof(k)end end end)RegisterImageObject=LPH_JIT_MAX(function(k)if not k:IsA(PW(63318))then return end local P={[PW(62524)]=true,[PW(63318)]=true;[PW(61900)]=true}if not P[k[PW(63580)]]then return end ApplyThumbnailSpoof(k)if H[PW(62009)][PW(63895)][k]then return end H[PW(62009)][PW(63895)][k]=(k:GetPropertyChangedSignal(PW(63420))):Connect(function()ApplyThumbnailSpoof(k)end)k[PW(63840)]:Connect(function()if H[PW(62009)][PW(63895)][k]then H[PW(62009)][PW(63895)][k]:Disconnect()H[PW(62009)][PW(63895)][k]=nil end end)end)for k,P in ipairs(game:GetDescendants())do RegisterImageObject(P)end game[PW(63823)]:Connect(RegisterImageObject)SetAvatar=LPH_JIT_MAX(function(k)local P=k and V[PW(63889)]or H[PW(62009)][PW(62609)]if not P then return end if not o or not o[PW(63690)]then o=b()end local e,D=pcall(function()return m[PW(62664)]:CreateHumanoidModelFromUserId(P)end)if not e or not D then return end for k,P in ipairs(o:GetDescendants())do local m=P:IsA(PW(62632))and P[PW(63580)]==PW(62684)if P:IsA(PW(63294))or P:IsA(PW(62447))or P:IsA(PW(62777))or P:IsA(PW(62952))or P:IsA(PW(62285))or P:IsA(PW(62780))or P:IsA(PW(63169))or m then pcall(function()P:Destroy()end)end end for k,P in ipairs(D:GetChildren())do if P:IsA(PW(63294))then pcall(function()local k=P:Clone()AddAccoutrement(o,k)end)elseif P:IsA(PW(62447))or P:IsA(PW(62777))or P:IsA(PW(62952))or P:IsA(PW(62285))or P:IsA(PW(63169))or P:IsA(PW(62780))then pcall(function()local k=P:Clone()k[PW(63690)]=o end)end end local S=FindHeadPart(D)if S then ApplyFakeHead(o,S)task[PW(62942)](.1)end pcall(function()D:Destroy()end)end)local function LH()if H[PW(62009)][PW(62948)]then SetAvatar(false)else SetAvatar(true)end end V[PW(61588)]:Connect(LH)local function JH(k)return k:IsA(PW(62708))or k:IsA(PW(62875))or k:IsA(PW(62119))end local function zH(k)k=tostring(k)return(((k:reverse()):gsub(PW(62489),PW(63837))):reverse()):gsub(PW(62384),PW(62576))end ApplyNameSpoof=LPH_JIT_MAX(function(k)if not JH(k)then return end local P=k[PW(61826)]if typeof(P)~=PW(62050)then return end if H[PW(62009)][PW(62340)]and k[PW(63580)]==PW(62200)then P=P:gsub(V[PW(62200)],H[PW(62009)][PW(63516)])end if H[PW(62009)][PW(62859)]and k[PW(63580)]==PW(63768)then P=P:gsub(V[PW(63580)],H[PW(62009)][PW(63225)])end if H[PW(62009)][PW(62340)]and(k[PW(63690)][PW(63580)]==PW(63047)and k[PW(63580)]==PW(63580))then P=P:gsub(V[PW(62200)],H[PW(62009)][PW(63516)])end if H[PW(62009)][PW(62859)]and(k[PW(63690)][PW(63580)]==PW(63047)and k[PW(63580)]==PW(63284))then P=P:gsub(V[PW(63580)],H[PW(62009)][PW(63225)])end if H[PW(62009)][PW(62340)]and(k[PW(63690)][PW(63580)]==PW(63020)and k[PW(63580)]==PW(62469))then P=P:gsub(V[PW(62200)],H[PW(62009)][PW(63516)])end if H[PW(62009)][PW(62859)]and(k[PW(63690)][PW(63580)]==PW(62642)and k[PW(63580)]==PW(62992))then P=P:gsub(V[PW(63580)],H[PW(62009)][PW(63225)])end if H[PW(62009)][PW(62340)]and k[PW(63580)]==PW(61957)then P=P:gsub(V[PW(62200)],H[PW(62009)][PW(63516)])end if H[PW(62009)][PW(62340)]and k[PW(63580)]==PW(63020)then P=P:gsub(V[PW(62200)],H[PW(62009)][PW(63516)])end if H[PW(62009)][PW(63322)][PW(62427)]and k[PW(63580)]==PW(62427)then P=zH(H[PW(62009)][PW(63322)][PW(61794)])end if H[PW(62009)][PW(63322)][PW(61987)]and(k[PW(63690)][PW(63580)]==PW(61987)and k[PW(63580)]==PW(63847))then P=zH(H[PW(62009)][PW(63322)][PW(62458)])end if H[PW(62009)][PW(63322)][PW(62907)]and(k[PW(63690)][PW(63580)]==PW(62907)and k[PW(63580)]==PW(63847))then P=zH(H[PW(62009)][PW(63322)][PW(61647)])end if k[PW(61826)]~=P then k[PW(61826)]=P end end)local function aH()for k,P in pairs(H[PW(62009)][PW(63518)])do if k and k[PW(63690)]then ApplyNameSpoof(k)end end end RegisterTextObject=LPH_JIT_MAX(function(k)if not JH(k)then return end local P={[PW(62200)]=true,[PW(63768)]=true,[PW(63580)]=true;[PW(63284)]=true,[PW(62469)]=true,[PW(62992)]=true,[PW(61957)]=true;[PW(63020)]=true;[PW(62427)]=true,[PW(63847)]=true}if not P[k[PW(63580)]]then return end ApplyNameSpoof(k)if H[PW(62009)][PW(63518)][k]then return end H[PW(62009)][PW(63518)][k]=(k:GetPropertyChangedSignal(PW(61826))):Connect(function()ApplyNameSpoof(k)end)k[PW(63840)]:Connect(function()if H[PW(62009)][PW(63518)][k]then H[PW(62009)][PW(63518)][k]:Disconnect()H[PW(62009)][PW(63518)][k]=nil end end)end)for k,P in ipairs(game:GetDescendants())do RegisterTextObject(P)end game[PW(63823)]:Connect(RegisterTextObject)GenerateRandomName=LPH_JIT_MAX(function()local k=PW(62576)for P=1,math[PW(62492)](2,4),1 do local m=math[PW(62492)](1,#A[PW(63791)])k..=A[PW(63791)][m]end return k..tostring(math[PW(62492)](12,36))end)GetFakeName=LPH_JIT_MAX(function(k)if not H[PW(62009)][PW(62559)][k]then H[PW(62009)][PW(62559)][k]=GenerateRandomName()end return H[PW(62009)][PW(62559)][k]end)local EH GetAnonymousRig=LPH_JIT_MAX(function()if EH and EH[PW(63690)]then return EH:Clone()end local k,P=pcall(function()return m[PW(62664)]:CreateHumanoidModelFromUserId(6942067)end)if not k or not P then return nil end EH=P EH[PW(63690)]=nil return EH:Clone()end)ApplyAnonymousNameSpoof=LPH_JIT_MAX(function(k)if not JH(k)then return end local P=k[PW(61826)]for k,m in ipairs(m[PW(62664)]:GetPlayers())do local V=GetFakeName(m)P=P:gsub(m[PW(63580)],V)P=P:gsub(m[PW(62200)],V)end if k[PW(61826)]~=P then k[PW(61826)]=P end end)ApplyAnonymousThumbnailSpoof=LPH_JIT_MAX(function(k)if not k:IsA(PW(63318))then return end local P=k[PW(63420)]for k,m in ipairs(m[PW(62664)]:GetPlayers())do P=P:gsub(tostring(m[PW(63889)]),tostring(6942067))end if k[PW(63420)]~=P then k[PW(63420)]=P end end)ApplyAnonymousAvatar=LPH_JIT_MAX(function(k)if not k then return end local P=GetAnonymousRig()if not P then return end for k,P in ipairs(k:GetDescendants())do local m=P:IsA(PW(62632))and P[PW(63580)]==PW(62684)if P:IsA(PW(63294))or P:IsA(PW(62447))or P:IsA(PW(62777))or P:IsA(PW(62952))or P:IsA(PW(62285))or P:IsA(PW(62780))or P:IsA(PW(63169))or m then pcall(function()P:Destroy()end)end end for P,m in ipairs(P:GetChildren())do if m:IsA(PW(63294))then AddAccoutrement(k,m:Clone())elseif m:IsA(PW(62447))or m:IsA(PW(62777))or m:IsA(PW(62952))or m:IsA(PW(62285))or m:IsA(PW(62780))or m:IsA(PW(63169))then(m:Clone())[PW(63690)]=k end end local m=FindHeadPart(P)if m then ApplyFakeHead(k,m)end P:Destroy()end)local function QH(k)if JH(k)then ApplyAnonymousNameSpoof(k);(k:GetPropertyChangedSignal(PW(61826))):Connect(function()ApplyAnonymousNameSpoof(k)end)elseif k:IsA(PW(63318))then ApplyAnonymousThumbnailSpoof(k);(k:GetPropertyChangedSignal(PW(63420))):Connect(function()ApplyAnonymousThumbnailSpoof(k)end)end end local function FH()for k,P in ipairs(H[PW(62009)][PW(62273)])do if P and P[PW(63265)]then P:Disconnect()end end table[PW(62903)](H[PW(62009)][PW(62273)])table[PW(62903)](H[PW(62009)][PW(62559)])end AnonymousMode=LPH_JIT_MAX(function()if not H[PW(62009)][PW(62240)]then FH()return end FH()math[PW(63523)](os[PW(62853)]()*100000)for k,P in ipairs(m[PW(62664)]:GetPlayers())do GetFakeName(P)if P[PW(61973)]then task[PW(63138)](ApplyAnonymousAvatar,P[PW(61973)])end table[PW(62479)](H[PW(62009)][PW(62273)],P[PW(61588)]:Connect(function(k)task[PW(63138)](ApplyAnonymousAvatar,k)end))end table[PW(62479)](H[PW(62009)][PW(62273)],m[PW(62664)][PW(61726)]:Connect(function(k)GetFakeName(k)k[PW(61588)]:Connect(function(k)task[PW(63138)](ApplyAnonymousAvatar,k)end)end))for k,P in ipairs(game:GetDescendants())do QH(P)end table[PW(62479)](H[PW(62009)][PW(62273)],game[PW(63823)]:Connect(QH))end)local function UH(k,P,m)for m=#k,1,-1 do if tonumber(k[m][PW(62587)])==P then table[PW(61587)](k,m)break end end local V=1 for k,P in ipairs(k)do if tonumber(P[PW(61538)])>=m then V=k+1 else break end end table[PW(62479)](k,V,{[PW(62587)]=tostring(P);[PW(61538)]=m})end ResetLeaderboard=LPH_JIT_MAX(function(k,P)if not C[PW(63813)]then return end O(P)local m=C[PW(63813)][PW(61678)][k]if m and m[PW(62664)]then local P=V[PW(63889)]for k=#m[PW(62664)],1,-1 do local V=m[PW(62664)][k]if V[PW(63889)]==P or V[PW(63213)]==P or V[PW(63560)]==P then table[PW(61587)](m[PW(62664)],k)end end if C[PW(63813)][PW(62815)]then C[PW(63813)][PW(62815)]:Fire(k)end end end)ModifyLeaderboard=LPH_JIT_MAX(function(k,P,o)if not C[PW(63813)]then return end while not C[PW(63813)][PW(61678)][P]or not C[PW(63813)][PW(61678)][P][PW(62664)]or#C[PW(63813)][PW(61678)][P][PW(62664)]<=0 do task[PW(62942)](.5)end local b=V[PW(63889)]local e=C[PW(63813)][PW(61678)][P]if e and e[PW(62664)]then UH(e[PW(62664)],b,o)if C[PW(63813)][PW(62815)]then C[PW(63813)][PW(62815)]:Fire(P)end end local D=m[PW(61561)]:FindFirstChild(PW(61610))and(m[PW(61561)][PW(61610)]:FindFirstChild(PW(63754))and m[PW(61561)][PW(61610)][PW(63754)]:FindFirstChild(PW(63540)))if not((D and D:IsA(PW(62038))))then return end Y(k,D[PW(61940)],function(m)local V=m and m[PW(63580)]if not V or V~=P then return end if not H[PW(62009)][PW(63322)][k]then return end task[PW(63138)](function()local k=C[PW(63813)][PW(61678)][P]if k and k[PW(62664)]then UH(k[PW(62664)],b,o)if C[PW(63813)][PW(62815)]then C[PW(63813)][PW(62815)]:Fire(P)end end end)end)end)local function rH()if H[PW(62009)][PW(63322)][PW(63594)]then O(PW(63594))ModifyLeaderboard(PW(63594),PW(63144),H[PW(62009)][PW(63322)][PW(63912)])end if H[PW(62009)][PW(63322)][PW(62907)]then O(PW(62907))ModifyLeaderboard(PW(62907),PW(63350),H[PW(62009)][PW(63322)][PW(61647)])H[PW(62009)][PW(63322)][PW(61567)]=V:GetAttribute(PW(61823))V:SetAttribute(PW(61823),H[PW(62009)][PW(63322)][PW(61647)])end if H[PW(62009)][PW(63322)][PW(62010)]then O(PW(62010))ModifyLeaderboard(PW(62010),PW(62172),H[PW(62009)][PW(63322)][PW(62706)])end if H[PW(62009)][PW(63322)][PW(62427)]then O(PW(62427))ModifyLeaderboard(PW(62427),PW(62775),H[PW(62009)][PW(63322)][PW(61794)])end if H[PW(62009)][PW(63322)][PW(61987)]then O(PW(61987))ModifyLeaderboard(PW(61987),PW(61898),H[PW(62009)][PW(63322)][PW(62458)])H[PW(62009)][PW(63322)][PW(62466)]=V:GetAttribute(PW(61987))V:SetAttribute(PW(61987),H[PW(62009)][PW(63322)][PW(62458)])end if not H[PW(62009)][PW(63322)][PW(63594)]then ResetLeaderboard(PW(63144),PW(63594))end if not H[PW(62009)][PW(63322)][PW(62907)]then ResetLeaderboard(PW(63350),PW(62907))if H[PW(62009)][PW(63322)][PW(61567)]~=nil then V:SetAttribute(PW(61823),H[PW(62009)][PW(63322)][PW(61567)])end end if not H[PW(62009)][PW(63322)][PW(62010)]then ResetLeaderboard(PW(62172),PW(62010))end if not H[PW(62009)][PW(63322)][PW(62427)]then ResetLeaderboard(PW(62775),PW(62427))end if not H[PW(62009)][PW(63322)][PW(61987)]then ResetLeaderboard(PW(61898),PW(61987))if H[PW(62009)][PW(63322)][PW(62466)]~=nil then V:SetAttribute(PW(61987),H[PW(62009)][PW(63322)][PW(62466)])end end end local dH dH=hookmetamethod(game,PW(62998),LPH_NO_VIRTUALIZE(function(k,P)if k==V then if P==PW(61874)and H[PW(62009)][PW(62210)][PW(62402)]then return Enum[PW(61874)][PW(62402)]end if P==PW(63215)and H[PW(62009)][PW(62210)][PW(61675)]then return true end end return dH(k,P)end))local function nH()V:SetAttribute(PW(61860),H[PW(62009)][PW(62210)][PW(63398)]and true or false)V:SetAttribute(PW(63029),H[PW(62009)][PW(62210)][PW(62271)]and true or false)end local sH=C[PW(63292)][PW(63869)]C[PW(63292)][PW(63869)]=function(k,P,m,V,o)local b=A[PW(62471)][m]local e=A[PW(63018)][H[PW(62009)][PW(62392)][PW(62263)]]or H[PW(62009)][PW(63322)][PW(63912)]if b and(A[PW(61869)][b]and H[PW(62009)][PW(62392)][A[PW(61869)][b]])then V=e or V o=H[PW(62009)][PW(62392)][PW(61800)]end return sH(k,P,m,V,o)end local function tH()task[PW(62942)](2)for k,P in ipairs(workspace:GetDescendants())do if not P:IsA(PW(62779))then continue end if not P:FindFirstChild(PW(63140))then continue end local m=P[PW(63580)]if string[PW(62978)](m,1,7)~=PW(62612)then continue end local V=tonumber(string[PW(62978)](m,8))if not V then continue end if not A[PW(61869)][V]then continue end if not H[PW(62009)][PW(62392)][A[PW(61869)][V]]then continue end local o=A[PW(62471)][V]if not o then continue end local b=A[PW(63018)][H[PW(62009)][PW(62392)][PW(62263)]]or H[PW(62009)][PW(63322)][PW(63912)]local e=H[PW(62009)][PW(62392)][PW(61800)]C[PW(63292)]:FormatSeasonRankCharm(P,o,b,e)end end local function RH()pcall(function()if C[PW(61575)]and C[PW(61575)][PW(63089)]then C[PW(61575)][PW(63089)]:Replicate(PW(63328))C[PW(61575)][PW(63089)]:Replicate(PW(62175))C[PW(61575)][PW(63089)]:Replicate(PW(63074))C[PW(61575)][PW(63089)]:Replicate(PW(63454))C[PW(61575)][PW(63089)]:Replicate(PW(62408))end end)end local function TH()local k=H[PW(62009)][PW(62095)][PW(63458)][H[PW(62009)][PW(62095)][PW(62481)]]if not k then return false end k[PW(61944)]=H[PW(62009)][PW(62095)][PW(62073)]==PW(61685)and PW(61685)or PW(62168)k[PW(63605)]=H[PW(62009)][PW(62095)][PW(63032)]k[PW(61806)]={H[PW(62009)][PW(62095)][PW(63176)];H[PW(62009)][PW(62095)][PW(62315)]}if H[PW(62009)][PW(62095)][PW(63231)]==PW(61927)then k[PW(63380)]=1 else k[PW(63380)]=2 end local P=k[PW(63186)][H[PW(62009)][PW(62095)][PW(63679)]]P[PW(63768)]=H[PW(62009)][PW(62095)][PW(62859)]P[PW(62200)]=H[PW(62009)][PW(62095)][PW(62340)]P[PW(63121)]=H[PW(62009)][PW(62095)][PW(62614)]P[PW(62428)]=H[PW(62009)][PW(62095)][PW(63334)]P[PW(62553)]=H[PW(62009)][PW(62095)][PW(61633)]P[PW(63444)]=H[PW(62009)][PW(62095)][PW(61939)]if H[PW(62009)][PW(62095)][PW(62073)]==PW(61685)then P[PW(62107)]=H[PW(62009)][PW(62095)][PW(63911)]H[PW(62009)][PW(62095)][PW(63155)][H[PW(62009)][PW(62095)][PW(62481)]][PW(63609)]=H[PW(62009)][PW(62095)][PW(63911)]H[PW(62009)][PW(62095)][PW(63155)][H[PW(62009)][PW(62095)][PW(62481)]][PW(61626)]=H[PW(62009)][PW(62095)][PW(62720)]or 0 end pcall(function()if C[PW(61575)]and C[PW(61575)][PW(63089)]then C[PW(61575)][PW(63089)]:Replicate(PW(62353))C[PW(61575)][PW(63089)]:Replicate(PW(62351))end end)end local function BH()for k,P in ipairs(m[PW(61703)]:GetChildren())do local m=P:FindFirstChild(PW(63336),true)if m then return P end end return nil end local function lH(k)H[PW(62009)][PW(62316)][PW(63636)][C[PW(63824)]:GetGamepassName(k)]=true pcall(function()if C[PW(61575)]and C[PW(61575)][PW(63089)]then C[PW(61575)][PW(63089)]:Replicate(PW(63152))end end)end local function vH(k,P,m)if k==PW(63102)then H[PW(62009)][PW(62807)][PW(63747)]+=P pcall(function()if C[PW(61575)]and C[PW(61575)][PW(63089)]then C[PW(61575)][PW(63089)]:Replicate(PW(63328))end end)elseif C[PW(63456)]and(C[PW(63456)][PW(62697)]and C[PW(63456)][PW(62697)][k])then local P=C[PW(63456)][PW(62697)][k]if P[PW(61969)]==PW(63802)or P[PW(61969)]==PW(63183)or P[PW(61969)]==PW(63621)or P[PW(61969)]==PW(61896)then H[PW(63429)][PW(62054)][k]=true end elseif C[PW(62143)]and(C[PW(62143)][PW(62983)]and C[PW(62143)][PW(62983)][k])then local P={}for k,m in pairs(H[PW(63429)][PW(62129)])do if type(m)==PW(62658)and m[PW(63580)]then P[m[PW(63580)]]=true end end if not P[k]then table[PW(62479)](H[PW(63429)][PW(62129)],{[PW(63580)]=k,[PW(61987)]=1,[PW(62854)]=0,[PW(63091)]=false;[PW(63802)]=nil})end pcall(function()if C[PW(61575)]and C[PW(61575)][PW(63089)]then C[PW(61575)][PW(63089)]:Replicate(PW(62890))end end)elseif C[PW(63456)]and(C[PW(63456)][PW(62676)]and C[PW(63456)][PW(62676)][k])then local V=C[PW(63456)][PW(62676)][k]local o if V[PW(61969)]==PW(63802)then if not m or m==PW(62576)then return end o={[PW(63580)]=k,[PW(62687)]=P;[PW(62403)]=m}else o={[PW(63580)]=k,[PW(62687)]=P}end local b=false for k,P in ipairs(H[PW(62590)][PW(62054)])do if P[PW(63580)]==o[PW(63580)]and(P[PW(62403)]==o[PW(62403)]and P[PW(62687)]<99)then P[PW(62687)]=((P[PW(62687)]or 1))+((o[PW(62687)]or 1))b=true break end end if not b then table[PW(62479)](H[PW(62590)][PW(62054)],o)end pcall(function()if C[PW(61575)]and C[PW(61575)][PW(63089)]then C[PW(61575)][PW(63089)]:Replicate(PW(63022))end end)end end local iH=PW(62717)local KH=0 local function yH()if H[PW(62009)][PW(62316)][PW(63079)]then local k=BH()if not k or not k:FindFirstChild(PW(62700))then return end if not KH or KH==0 then return end local P=string[PW(62452)](PW(62258),zH(H[PW(62009)][PW(62316)][PW(62254)]))local o=iH==PW(62474)and Enum[PW(62383)][PW(61899)]or iH==PW(62717)and Enum[PW(62383)][PW(62547)]or Enum[PW(62383)][PW(61644)]local b=m[PW(63873)]:GetProductInfo(KH,o)local e=b[PW(61581)]<=H[PW(62009)][PW(62316)][PW(62254)]local D local S local G local A for k,m in ipairs(k:GetDescendants())do local V=m[PW(63690)]local o=V and V[PW(63690)]if m[PW(63580)]==PW(63336)and(m:IsA(PW(62708))and(o and o[PW(63580)]==PW(63700)))then m[PW(63435)]=true m[PW(61826)]=P G=m elseif m[PW(63580)]==PW(62842)and(m:IsA(PW(62708))and(o and o[PW(63580)]==PW(63700)))then m[PW(61826)]=e and PW(62741)or PW(63808)S=m elseif m:IsA(PW(63180))and(V and V[PW(63580)]==PW(62303))then D=m elseif m[PW(63580)]==PW(62603)and(m:IsA(PW(62997))and(V and V[PW(63580)]==PW(61674)))then A=m elseif m[PW(63580)]==PW(62036)and(m:IsA(PW(62997))and(V and(V[PW(63580)]==PW(62603)and e)))then m:Destroy()elseif m[PW(63580)]==PW(63771)and(m:IsA(PW(62997))and(V and(V[PW(63580)]==PW(62303)and e)))then m:Destroy()end end if D then local P=k:FindFirstChild(PW(62987))if P then return end P=Instance[PW(63244)](PW(62875))P[PW(63580)]=PW(62987)P[PW(63310)]=1 P[PW(61826)]=PW(62576)P[PW(62018)]=false P[PW(61884)]=D[PW(61884)]+100 P[PW(62453)]=UDim2[PW(62861)](D[PW(62965)][PW(62829)],D[PW(62965)][PW(63887)])P[PW(63835)]=UDim2[PW(62861)](D[PW(61605)][PW(62829)],(D[PW(61605)][PW(63887)]+D[PW(62965)][PW(63887)])+(D[PW(62965)][PW(63887)]/2))P[PW(63820)]=D[PW(63820)]P[PW(63690)]=k D[PW(63840)]:Connect(function()P:Destroy()iH=PW(62717)KH=0 end)m[PW(62139)][PW(63520)]:Connect(LPH_NO_VIRTUALIZE(function()P[PW(63835)]=UDim2[PW(62861)](D[PW(61605)][PW(62829)],(D[PW(61605)][PW(63887)]+D[PW(62965)][PW(63887)])+(D[PW(62965)][PW(63887)]/2))end))task[PW(62942)](3)local o=false P[PW(62180)]:Connect(function()local k=getthreadidentity()setthreadidentity(2)if o then m[PW(61727)]:InspectPlayerFromUserId(V[PW(63889)])m[PW(61727)]:CloseInspectMenu()return end local P={}for k,m in pairs(C[PW(63824)][PW(63349)])do if m[PW(63818)]==KH or m[PW(61713)]==C[PW(63824)]:GetGamepassName(KH)then P=m[PW(62676)]break end end setthreadidentity(k)local q=D[PW(63100)]D[PW(63100)]=Color3[PW(61834)](38,61,143)local h=(D:GetPropertyChangedSignal(PW(63100))):Connect(function()D[PW(63100)]=Color3[PW(61834)](38,61,143)end)task[PW(62942)](2)h:Disconnect()D[PW(63100)]=q if iH==PW(62474)then m[PW(63873)]:SignalPromptGamePassPurchaseFinished(V,KH,e)elseif iH==PW(62717)then m[PW(63873)]:SignalPromptProductPurchaseFinished(V[PW(63889)],KH,e)elseif iH==PW(62621)then m[PW(63873)]:SignalPromptPurchaseFinished(V,KH,e)end S[PW(61826)]=PW(62803)S[PW(63580)]=PW(63020)G:Destroy()local M=Instance[PW(63244)](PW(62997))M[PW(63580)]=PW(61574)M[PW(63690)]=A[PW(63690)]M[PW(63262)]=Enum[PW(63262)][PW(63887)]M[PW(63310)]=1 M[PW(61760)]=0 M[PW(61649)]=1 M[PW(62453)]=UDim2[PW(61746)](1,0)M[PW(63495)]=false A:Destroy()local g=Instance[PW(63244)](PW(63519))g[PW(63690)]=M g[PW(62725)]=UDim[PW(63244)](0,16)g[PW(62249)]=Enum[PW(62249)][PW(61649)]g[PW(62724)]=Enum[PW(62724)][PW(62595)]g[PW(63253)]=Enum[PW(63253)][PW(62595)]local w=Instance[PW(63244)](PW(62098))w[PW(63690)]=M w[PW(63842)]=UDim[PW(63244)](0,8)local W=Instance[PW(63244)](PW(62708))W[PW(63580)]=PW(63282)W[PW(63690)]=M W[PW(63310)]=1 W[PW(61760)]=0 W[PW(61649)]=0 W[PW(62453)]=UDim2[PW(62861)](48,48)W[PW(63495)]=false W[PW(61773)]=Font[PW(63244)](PW(63211),Enum[PW(62935)][PW(63113)])W[PW(61826)]=PW(62522)W[PW(62224)]=Color3[PW(61834)](213,215,221)W[PW(63196)]=48 local u=Instance[PW(63244)](PW(62708))u[PW(63580)]=PW(62716)u[PW(63690)]=M u[PW(63262)]=Enum[PW(63262)][PW(62460)]u[PW(63310)]=1 u[PW(61760)]=0 u[PW(62453)]=UDim2[PW(63244)](0,0,0,0)u[PW(63495)]=false u[PW(61773)]=Font[PW(63244)](PW(62804),Enum[PW(62935)][PW(63113)])u[PW(61826)]=PW(61740)..(b[PW(63580)]..PW(62955))u[PW(62224)]=Color3[PW(61834)](213,215,221)u[PW(63196)]=15 u[PW(63290)]=true u[PW(62915)]=Enum[PW(62915)][PW(63555)]local c=D:FindFirstChildOfClass(PW(62708))if c then local k=c:Clone()k[PW(61826)]=PW(63419)k[PW(63690)]=c[PW(63690)]c:Destroy()end setthreadidentity(2)task[PW(62942)]()C[PW(63513)]:_FinishPrompt(e)if e and iH==PW(62474)then lH(KH)end for k,P in ipairs(P)do vH(P[PW(61969)]or P[PW(63580)],P[PW(62687)]or 1,P[PW(62403)])end if e and(C[PW(63824)][PW(62556)][tostring(KH)]and H[PW(62009)][PW(62316)][PW(61583)])then local k=H[PW(62009)][PW(62316)]k[PW(62270)]+=b[PW(61581)]while true do local P=C[PW(63824)]:GetGiftRewardRobuxSpentRequirement(k[PW(63198)])if k[PW(62270)]<P then break end k[PW(62270)]-=P k[PW(63198)]+=1 end C[PW(61575)][PW(63089)]:Replicate(PW(62689))C[PW(61575)][PW(63089)]:Replicate(PW(61981))end o=true end)end end end m[PW(61703)][PW(63823)]:Connect(yH)task[PW(62738)](function()pcall(function()local k=C[PW(63513)][PW(63552)]C[PW(63513)][PW(63552)]=function(P,m,...)if m and m~=0 then KH=m iH=PW(62717)end local V={k(P,m,...)}return unpack(V)end end)pcall(function()local k=C[PW(63513)][PW(63305)]C[PW(63513)][PW(63305)]=function(P,m,...)if m and m~=0 then KH=m iH=PW(62474)end local V={k(P,m,...)}return unpack(V)end end)pcall(function()local k=C[PW(63513)][PW(63786)]C[PW(63513)][PW(63786)]=function(P,m)if m and m~=0 then KH=m iH=PW(62621)end local V={k(P,m)}return unpack(V)end end)pcall(function()local k=m[PW(61561)][PW(61610)][PW(63754)][PW(62877)]G:Register(LPH_JIT_MAX(function(P,m,...)if m~=PW(61736)or P~=k then return false end local V={...}if V[1]and V[1]~=0 then KH=V[1]iH=PW(62717)end return G:CallOriginal(P,...)end))end)end)M[PW(63801)]=u:CreateWindow({[PW(63020)]=tostring(LP_SCRIPT_NAME),[PW(61628)]=PW(61708);[PW(63282)]=A[PW(62977)]})M[PW(63801)]:CreateConfigFlag(PW(62054),function()return H[PW(63429)][PW(62054)]end,function(k)H[PW(63429)][PW(62054)]=k end)M[PW(63801)]:CreateConfigFlag(PW(62129),function()return H[PW(63429)][PW(62129)]end,function(k)H[PW(63429)][PW(62129)]=k end)M[PW(63801)]:CreateConfigFlag(PW(62924),function()return H[PW(63429)][PW(62924)]end,function(k)H[PW(63429)][PW(62924)]=k end)M[PW(63801)]:CreateConfigFlag(PW(62053),function()return H[PW(63429)][PW(62053)]end,function(k)H[PW(63429)][PW(62053)]=k end)M[PW(63801)]:CreateConfigFlag(PW(62111),function()return H[PW(62590)][PW(62054)]end,function(k)H[PW(62590)][PW(62054)]=k end)M[PW(63801)]:CreateConfigFlag(PW(63636),function()return H[PW(62009)][PW(62316)][PW(63636)]end,function(k)H[PW(62009)][PW(62316)][PW(63636)]=k end)M[PW(63801)]:CreateConfigFlag(PW(62270),function()return H[PW(62009)][PW(62316)][PW(62270)]end,function(k)H[PW(62009)][PW(62316)][PW(62270)]=k end)M[PW(63801)]:CreateConfigFlag(PW(63198),function()return H[PW(62009)][PW(62316)][PW(63198)]end,function(k)H[PW(62009)][PW(62316)][PW(63198)]=k end)M[PW(63801)]:CreateConfigFlag(PW(63458),function()return H[PW(62009)][PW(62095)][PW(63458)]end,function(k)H[PW(62009)][PW(62095)][PW(63458)]=k end)M[PW(63801)]:CreateConfigFlag(PW(63155),function()return H[PW(62009)][PW(62095)][PW(63155)]end,function(k)H[PW(62009)][PW(62095)][PW(63155)]=k end)M[PW(62770)]=M[PW(63801)]:CreateTab(PW(63738),nil,A[PW(61606)])M[PW(63505)]=M[PW(62770)]:CreateSection(PW(62639),A[PW(61547)])M[PW(63505)]:CreateLabel({[PW(63020)]=PW(61804)..LP_DISCORD})M[PW(63505)]:CreateLabel({[PW(63020)]=PW(62944)..V[PW(61600)]})M[PW(61792)]=M[PW(63505)]:CreateLabel({[PW(63020)]=PW(63438)..tostring(math[PW(63569)](V:GetNetworkPing()*1000))})M[PW(63145)]=M[PW(63505)]:CreateLabel({[PW(63020)]=PW(61697)..tostring(0)})M[PW(62669)]=M[PW(63505)]:CreateLabel({[PW(63020)]=PW(62289)..tostring(LP_TIMELEFT)})M[PW(63505)]:CreateEmpty()task[PW(62738)](LPH_NO_VIRTUALIZE(function()local k=tick()while task[PW(62942)](1)do local P=tostring(math[PW(63569)](V:GetNetworkPing()*1000))local m=tostring(math[PW(63569)](tick()-k))M[PW(61792)]:Set(PW(63438)..P,nil)M[PW(63145)]:Set(PW(61697)..m,nil)end end))M[PW(63057)]=M[PW(62770)]:CreateSection(PW(62584),A[PW(62577)])M[PW(63057)]:CreateLabel({[PW(63020)]=PW(61856),[PW(61969)]=PW(63011)})M[PW(63057)]:CreateLabel({[PW(63020)]=PW(62182);[PW(61969)]=PW(63011)})M[PW(63057)]:CreateLabel({[PW(63020)]=PW(61597);[PW(61969)]=PW(63011)})M[PW(63057)]:CreateLabel({[PW(63020)]=PW(63189);[PW(61969)]=PW(63011)})M[PW(61560)]=M[PW(62770)]:CreateSection(PW(61964),A[PW(63281)])pcall(function()local k={}for P in string[PW(62272)](w,PW(61599))do table[PW(62479)](k,P)end for k,P in ipairs(k)do local m={[PW(63020)]=P}if P:sub(1,3)==PW(61906)then m[PW(61969)]=PW(63011)elseif P:sub(1,3)==PW(62685)then m[PW(61969)]=PW(62589)end M[PW(61560)]:CreateLabel(m)end end)M[PW(62502)]=M[PW(62770)]:CreateSection(PW(62093),A[PW(63199)])pcall(function()local k=0 for P,m in ipairs(A[PW(63575)])do if(getgenv())[m]~=nil then k+=1 end end M[PW(62502)]:CreateLabel({[PW(63020)]=PW(63587)..(k..(PW(62865)..(#A[PW(63575)]..PW(62062))));[PW(61969)]=PW(63011)})M[PW(62502)]:CreateDivider()for k,P in ipairs(A[PW(63575)])do local m=(getgenv())[P]~=nil M[PW(62502)]:CreateLabel({[PW(63020)]=((m and PW(61932)or PW(62822)))..P;[PW(61969)]=m and PW(63011)or PW(62589)})end end)M[PW(63026)]=M[PW(63801)]:CreateTab(PW(63270),PW(63171),A[PW(63199)])M[PW(62457)]=M[PW(63026)]:CreateSection(PW(62945),A[PW(61929)])M[PW(63811)]=M[PW(62457)]:CreateToggle({[PW(63580)]=PW(62299);[PW(63066)]=PW(62089);[PW(63345)]=H[PW(62102)][PW(62593)][PW(62549)],[PW(62364)]=function(k)if H[PW(62102)][PW(62593)][PW(62549)]~=k then R(k)end end})M[PW(62185)]=M[PW(62457)]:CreateKeybind({[PW(63580)]=PW(63447),[PW(63066)]=PW(61700);[PW(62364)]=function(k)if H[PW(62102)][PW(62593)][PW(62549)]~=k then R(k)end if k then M[PW(63801)]:Notify({[PW(63020)]=PW(61559);[PW(63080)]=PW(63335);[PW(63910)]=5})else M[PW(63801)]:Notify({[PW(63020)]=PW(62494);[PW(63080)]=PW(62674);[PW(63910)]=5})end end})M[PW(62457)]:CreateSlider({[PW(63580)]=PW(62856),[PW(63066)]=PW(61571);[PW(62707)]={0,100};[PW(62739)]=1,[PW(63345)]=H[PW(62102)][PW(62593)][PW(63687)];[PW(62364)]=function(k)H[PW(62102)][PW(62593)][PW(63687)]=k end})M[PW(62457)]:CreateChecklist({[PW(63580)]=PW(61696),[PW(63066)]=PW(62135),[PW(61696)]={{[PW(63580)]=PW(61714),[PW(63245)]=H[PW(62102)][PW(62593)][PW(62487)]},{[PW(63580)]=PW(63374),[PW(63245)]=H[PW(62102)][PW(62593)][PW(63235)]}},[PW(62364)]=function(k)H[PW(62102)][PW(62593)][PW(62487)]=k[PW(61714)]H[PW(62102)][PW(62593)][PW(63235)]=k[PW(63374)]end})M[PW(62764)]=M[PW(63026)]:CreateSection(PW(61844),A[PW(62604)])M[PW(63515)]=M[PW(62764)]:CreateToggle({[PW(63580)]=PW(62299);[PW(63066)]=PW(63209),[PW(63345)]=H[PW(62102)][PW(62943)][PW(62549)];[PW(62364)]=function(k)if H[PW(62102)][PW(62943)][PW(62549)]~=k then T(k)end end})M[PW(62019)]=M[PW(62764)]:CreateKeybind({[PW(63580)]=PW(63143),[PW(63066)]=PW(63059),[PW(62364)]=function(k)if H[PW(62102)][PW(62943)][PW(62549)]~=k then T(k)end if k then M[PW(63801)]:Notify({[PW(63020)]=PW(62673);[PW(63080)]=PW(63335);[PW(63910)]=5})else M[PW(63801)]:Notify({[PW(63020)]=PW(63216),[PW(63080)]=PW(62674);[PW(63910)]=5})end end})M[PW(62764)]:CreateSlider({[PW(63580)]=PW(62534),[PW(63066)]=PW(61885),[PW(62707)]={0;300},[PW(62739)]=1;[PW(63345)]=H[PW(62102)][PW(62943)][PW(61909)],[PW(62364)]=function(k)H[PW(62102)][PW(62943)][PW(61909)]=k end})M[PW(62764)]:CreateDropdown({[PW(63580)]=PW(62257);[PW(63066)]=PW(61911);[PW(61696)]=A[PW(61851)];[PW(62077)]=H[PW(62102)][PW(62943)][PW(63019)];[PW(62003)]=true,[PW(62191)]=false,[PW(62364)]=function(k)H[PW(62102)][PW(62943)][PW(63019)]=k end})M[PW(62219)]=M[PW(63026)]:CreateSection(PW(62655),A[PW(61791)])M[PW(62219)]:CreateDropdown({[PW(63580)]=PW(61787),[PW(63066)]=PW(62995);[PW(61696)]=A[PW(63455)],[PW(62077)]=H[PW(62562)][PW(62104)];[PW(62003)]=false,[PW(62191)]=false,[PW(62364)]=function(k)H[PW(62562)][PW(62104)]=k end})M[PW(62219)]:CreateDropdown({[PW(63580)]=PW(62521);[PW(63066)]=PW(62124);[PW(61696)]=A[PW(62551)],[PW(62077)]=H[PW(62562)][PW(62063)];[PW(62003)]=true;[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62562)][PW(62063)]=k end})M[PW(62219)]:CreateSlider({[PW(63580)]=PW(63482),[PW(63066)]=PW(62967),[PW(62707)]={0;500};[PW(62739)]=1;[PW(63345)]=H[PW(62562)][PW(63356)],[PW(62364)]=function(k)H[PW(62562)][PW(63356)]=k end})M[PW(62219)]:CreateSlider({[PW(63580)]=PW(63585);[PW(63066)]=PW(62814);[PW(62707)]={50;1000},[PW(62739)]=1,[PW(63345)]=H[PW(62562)][PW(63812)],[PW(62364)]=function(k)H[PW(62562)][PW(63812)]=k end})M[PW(62219)]:CreateSlider({[PW(63580)]=PW(62157),[PW(63066)]=PW(62768),[PW(62707)]={0;1};[PW(62739)]=.1;[PW(63345)]=H[PW(62562)][PW(63439)],[PW(62364)]=function(k)H[PW(62562)][PW(63439)]=k end})M[PW(62219)]:CreateSlider({[PW(63580)]=PW(62399),[PW(63066)]=PW(63721),[PW(62707)]={0;300},[PW(62739)]=1;[PW(63345)]=H[PW(62562)][PW(62187)];[PW(62364)]=function(k)H[PW(62562)][PW(62187)]=k end})M[PW(62219)]:CreateSlider({[PW(63580)]=PW(61872);[PW(63066)]=PW(63819),[PW(62707)]={0;10};[PW(62739)]=.1,[PW(63345)]=H[PW(62562)][PW(62225)],[PW(62364)]=function(k)H[PW(62562)][PW(62225)]=k end})M[PW(62219)]:CreateDropdown({[PW(63580)]=PW(63727),[PW(63066)]=PW(61582),[PW(61696)]={PW(63071);PW(63853),PW(62906);PW(62701);PW(62100),PW(63411);PW(62986);PW(63134),PW(61866),PW(63337),PW(63858);PW(63260);PW(63016),PW(62802),PW(62496);PW(63179),PW(61886)};[PW(62077)]=H[PW(62562)][PW(63851)];[PW(62003)]=false;[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62562)][PW(63851)]=k end})M[PW(62219)]:CreateDropdown({[PW(63580)]=PW(63711),[PW(63066)]=PW(63228),[PW(61696)]=A[PW(63378)];[PW(62077)]=H[PW(62562)][PW(62794)];[PW(62003)]=true;[PW(62191)]=false,[PW(62364)]=function(k)H[PW(62562)][PW(62794)]=k end})M[PW(62219)]:CreateChecklist({[PW(63580)]=PW(61696);[PW(63066)]=PW(63473),[PW(61696)]={{[PW(63580)]=PW(62097);[PW(63245)]=H[PW(62562)][PW(63227)]},{[PW(63580)]=PW(62232);[PW(63245)]=H[PW(62562)][PW(63178)]}},[PW(62364)]=function(k)H[PW(62562)][PW(63227)]=k[PW(62097)]H[PW(62562)][PW(63178)]=k[PW(62232)]end})M[PW(62219)]:CreateChecklist({[PW(63580)]=PW(62426);[PW(63066)]=PW(63831);[PW(61696)]={{[PW(63580)]=PW(62682),[PW(63245)]=H[PW(62562)][PW(63095)]},{[PW(63580)]=PW(61945),[PW(63245)]=H[PW(62562)][PW(62363)]}};[PW(62364)]=function(k)H[PW(62562)][PW(63095)]=k[PW(62682)]H[PW(62562)][PW(62363)]=k[PW(61945)]end})M[PW(62219)]:CreateSlider({[PW(63580)]=PW(62946),[PW(63066)]=PW(62844);[PW(62707)]={.1;1};[PW(62739)]=.01,[PW(63345)]=H[PW(62562)][PW(62844)],[PW(62364)]=function(k)H[PW(62562)][PW(62844)]=k end})M[PW(62219)]:CreateSlider({[PW(63580)]=PW(61661);[PW(63066)]=PW(62893),[PW(62707)]={0;360},[PW(62739)]=1,[PW(63345)]=H[PW(62562)][PW(62893)];[PW(62364)]=function(k)H[PW(62562)][PW(62893)]=k end})M[PW(62219)]:CreateSlider({[PW(63580)]=PW(62889);[PW(63066)]=PW(61621),[PW(62707)]={0;5},[PW(62739)]=.1,[PW(63345)]=H[PW(62562)][PW(61621)],[PW(62364)]=function(k)H[PW(62562)][PW(61621)]=k end})M[PW(62219)]:CreateColorPicker({[PW(63580)]=PW(63088),[PW(63066)]=PW(62570);[PW(63338)]=H[PW(62562)][PW(62570)];[PW(62364)]=function(k)H[PW(62562)][PW(62570)]=k end})M[PW(62219)]:CreateColorPicker({[PW(63580)]=PW(63369);[PW(63066)]=PW(61721);[PW(63338)]=H[PW(62562)][PW(61721)];[PW(62364)]=function(k)H[PW(62562)][PW(61721)]=k end})M[PW(62219)]:CreateColorPicker({[PW(63580)]=PW(62792);[PW(63066)]=PW(62314),[PW(63338)]=H[PW(62562)][PW(62314)];[PW(62364)]=function(k)H[PW(62562)][PW(62314)]=k end})M[PW(62219)]:CreateColorPicker({[PW(63580)]=PW(63424),[PW(63066)]=PW(61902),[PW(63338)]=H[PW(62562)][PW(61902)],[PW(62364)]=function(k)H[PW(62562)][PW(61902)]=k end})M[PW(62219)]:CreateColorPicker({[PW(63580)]=PW(61796);[PW(63066)]=PW(61839);[PW(63338)]=H[PW(62562)][PW(61839)],[PW(62364)]=function(k)H[PW(62562)][PW(61839)]=k end})M[PW(62219)]:CreateColorPicker({[PW(63580)]=PW(62569);[PW(63066)]=PW(63207),[PW(63338)]=H[PW(62562)][PW(63207)],[PW(62364)]=function(k)H[PW(62562)][PW(63207)]=k end})M[PW(62219)]:CreateSlider({[PW(63580)]=PW(62518);[PW(63066)]=PW(62994);[PW(62707)]={0,1},[PW(62739)]=.01,[PW(63345)]=H[PW(62562)][PW(62994)],[PW(62364)]=function(k)H[PW(62562)][PW(62994)]=k end})M[PW(62219)]:CreateSlider({[PW(63580)]=PW(63654);[PW(63066)]=PW(63375),[PW(62707)]={0;1},[PW(62739)]=.01;[PW(63345)]=H[PW(62562)][PW(63375)],[PW(62364)]=function(k)H[PW(62562)][PW(63375)]=k end})M[PW(62219)]:CreateDropdown({[PW(63580)]=PW(63835);[PW(63066)]=PW(63017),[PW(61696)]=A[PW(63879)];[PW(62077)]=H[PW(62562)][PW(63017)];[PW(62003)]=true;[PW(62191)]=false;[PW(62364)]=function(k)table[PW(62903)](H[PW(62562)][PW(63017)])for k,P in k do H[PW(62562)][PW(63017)][P]=true end end})M[PW(63268)]=M[PW(63801)]:CreateTab(PW(61816),PW(62863),A[PW(61929)])M[PW(63283)]=M[PW(63268)]:CreateSection(PW(62983),A[PW(61929)])M[PW(63283)]:CreateChecklist({[PW(63580)]=PW(63295),[PW(63066)]=PW(63795);[PW(61696)]={{[PW(63580)]=PW(62756),[PW(63245)]=H[PW(62824)][PW(63572)][PW(63736)]};{[PW(63580)]=PW(62312);[PW(63245)]=H[PW(62824)][PW(63572)][PW(63347)]},{[PW(63580)]=PW(62523),[PW(63245)]=H[PW(62824)][PW(63572)][PW(61979)]}},[PW(62364)]=function(k)H[PW(62824)][PW(63572)][PW(63736)]=k[PW(62756)]H[PW(62824)][PW(63572)][PW(63347)]=k[PW(62312)]H[PW(62824)][PW(63572)][PW(61979)]=k[PW(62523)]end})M[PW(63283)]:CreateSlider({[PW(63580)]=PW(63632);[PW(63066)]=PW(62361),[PW(62707)]={10;100};[PW(62739)]=1;[PW(63345)]=H[PW(62824)][PW(63572)][PW(62361)];[PW(62364)]=function(k)H[PW(62824)][PW(63572)][PW(62361)]=k end})M[PW(63285)]=M[PW(63268)]:CreateSection(PW(61873),A[PW(62704)])M[PW(63285)]:CreateLabel({[PW(63020)]=PW(62651)})M[PW(63872)]=M[PW(63285)]:CreateToggle({[PW(63580)]=PW(61625),[PW(63066)]=PW(62325),[PW(63345)]=H[PW(62824)][PW(62464)][PW(62549)],[PW(62364)]=function(k)if H[PW(62824)][PW(62464)][PW(62549)]~=k then y(k)end end})M[PW(63870)]=M[PW(63285)]:CreateKeybind({[PW(63580)]=PW(63758),[PW(63066)]=PW(61983),[PW(62364)]=function(k)if H[PW(62824)][PW(62464)][PW(62549)]~=k then y(k)end if k then M[PW(63801)]:Notify({[PW(63020)]=PW(61625),[PW(63080)]=PW(61568);[PW(63910)]=5})else M[PW(63801)]:Notify({[PW(63020)]=PW(61747),[PW(63080)]=PW(61568),[PW(63910)]=5})end end})M[PW(63905)]=M[PW(63268)]:CreateSection(PW(63754),A[PW(62913)])M[PW(63905)]:CreateChecklist({[PW(63580)]=PW(61696),[PW(63066)]=PW(62333);[PW(61696)]={{[PW(63580)]=PW(61852),[PW(63245)]=H[PW(62824)][PW(62070)][PW(63170)]};{[PW(63580)]=PW(62726),[PW(63245)]=H[PW(62824)][PW(62070)][PW(62130)]}};[PW(62364)]=function(k)H[PW(62824)][PW(62070)][PW(63170)]=k[PW(61852)]H[PW(62824)][PW(62070)][PW(62130)]=k[PW(62726)]end})M[PW(63146)]=M[PW(63268)]:CreateSection(PW(63065),A[PW(61929)])M[PW(63393)]=M[PW(63146)]:CreateToggle({[PW(63580)]=PW(62910),[PW(63066)]=PW(63202),[PW(63345)]=H[PW(62824)][PW(62385)][PW(62549)],[PW(62364)]=function(k)if H[PW(62824)][PW(62385)][PW(62549)]~=k then p(k)end end})M[PW(62821)]=M[PW(63146)]:CreateKeybind({[PW(63580)]=PW(62087),[PW(63066)]=PW(62323),[PW(62364)]=function(k)if H[PW(62824)][PW(62385)][PW(62549)]~=k then p(k)end if k then M[PW(63801)]:Notify({[PW(63020)]=PW(62910);[PW(63080)]=PW(62478);[PW(63910)]=5})else M[PW(63801)]:Notify({[PW(63020)]=PW(61905);[PW(63080)]=PW(61759);[PW(63910)]=5})end end})M[PW(63146)]:CreateToggle({[PW(63580)]=PW(62369);[PW(63066)]=PW(63574);[PW(63345)]=H[PW(62824)][PW(62385)][PW(63574)];[PW(62364)]=function(k)N(k)end})M[PW(63146)]:CreateSlider({[PW(63580)]=PW(61785),[PW(63066)]=PW(63304);[PW(62707)]={.01,1},[PW(62739)]=.01;[PW(63345)]=H[PW(62824)][PW(62385)][PW(63090)],[PW(62364)]=function(k)H[PW(62824)][PW(62385)][PW(63090)]=k end})M[PW(63146)]:CreateSlider({[PW(63580)]=PW(62021),[PW(63066)]=PW(61730);[PW(62707)]={.01;1};[PW(62739)]=.01;[PW(63345)]=H[PW(62824)][PW(62385)][PW(63056)];[PW(62364)]=function(k)H[PW(62824)][PW(62385)][PW(63056)]=k end})M[PW(63146)]:CreateSlider({[PW(63580)]=PW(62379),[PW(63066)]=PW(61593),[PW(62707)]={1,2};[PW(62739)]=1,[PW(63345)]=H[PW(62824)][PW(62385)][PW(62974)],[PW(62364)]=function(k)H[PW(62824)][PW(62385)][PW(62974)]=k end})M[PW(63146)]:CreateDropdown({[PW(63580)]=PW(62654),[PW(63066)]=PW(63437),[PW(61696)]={PW(61578);PW(62247),PW(62832)},[PW(62077)]=H[PW(62824)][PW(62385)][PW(62773)],[PW(62003)]=false,[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62824)][PW(62385)][PW(62773)]=k end})M[PW(63146)]:CreateDropdown({[PW(63580)]=PW(62465),[PW(63066)]=PW(62028);[PW(61696)]={PW(62434),PW(63561)},[PW(62077)]=H[PW(62824)][PW(62385)][PW(63158)];[PW(62003)]=false;[PW(62191)]=false,[PW(62364)]=function(k)H[PW(62824)][PW(62385)][PW(63158)]=k end})M[PW(63146)]:CreateChecklist({[PW(63580)]=PW(61696);[PW(63066)]=PW(61654);[PW(61696)]={{[PW(63580)]=PW(62688);[PW(63245)]=H[PW(62824)][PW(62385)][PW(63770)]};{[PW(63580)]=PW(61662),[PW(63245)]=H[PW(62824)][PW(62385)][PW(61586)]}};[PW(62364)]=function(k)H[PW(62824)][PW(62385)][PW(63770)]=k[PW(62688)]H[PW(62824)][PW(62385)][PW(61586)]=k[PW(61662)]end})M[PW(63777)]=M[PW(63268)]:CreateSection(PW(63725),A[PW(61929)])M[PW(63904)]=M[PW(63777)]:CreateToggle({[PW(63580)]=PW(62715),[PW(63066)]=PW(61632),[PW(63345)]=H[PW(62824)][PW(62410)][PW(62549)],[PW(62364)]=function(k)if H[PW(62824)][PW(62410)][PW(62549)]~=k then X(k)end end})M[PW(62498)]=M[PW(63777)]:CreateKeybind({[PW(63580)]=PW(63382);[PW(63066)]=PW(62914);[PW(62364)]=function(k)if H[PW(62824)][PW(62410)][PW(62549)]~=k then X(k)end if k then M[PW(63801)]:Notify({[PW(63020)]=PW(62715),[PW(63080)]=PW(61799);[PW(63910)]=5})else M[PW(63801)]:Notify({[PW(63020)]=PW(62307),[PW(63080)]=PW(63650),[PW(63910)]=5})end end})M[PW(63777)]:CreateDropdown({[PW(63580)]=PW(61665);[PW(63066)]=PW(62188),[PW(61696)]=A[PW(62288)];[PW(62077)]=H[PW(62824)][PW(62410)][PW(62693)];[PW(62003)]=false,[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62824)][PW(62410)][PW(62693)]=k end})M[PW(63777)]:CreateSlider({[PW(63580)]=PW(63902),[PW(63066)]=PW(62601),[PW(62707)]={-180;180},[PW(62739)]=1,[PW(63345)]=H[PW(62824)][PW(62410)][PW(63096)];[PW(62364)]=function(k)H[PW(62824)][PW(62410)][PW(63096)]=k end})M[PW(63777)]:CreateDropdown({[PW(63580)]=PW(63546),[PW(63066)]=PW(62208),[PW(61696)]=A[PW(62961)];[PW(62077)]=H[PW(62824)][PW(62410)][PW(62380)],[PW(62003)]=false,[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62824)][PW(62410)][PW(62380)]=k end})M[PW(63777)]:CreateSlider({[PW(63580)]=PW(63755),[PW(63066)]=PW(63263);[PW(62707)]={-180;180},[PW(62739)]=1,[PW(63345)]=H[PW(62824)][PW(62410)][PW(63627)];[PW(62364)]=function(k)H[PW(62824)][PW(62410)][PW(63627)]=k end})M[PW(63777)]:CreateSlider({[PW(63580)]=PW(62430),[PW(63066)]=PW(63521),[PW(62707)]={-180;180},[PW(62739)]=1;[PW(63345)]=H[PW(62824)][PW(62410)][PW(61876)];[PW(62364)]=function(k)H[PW(62824)][PW(62410)][PW(61876)]=k end})M[PW(63777)]:CreateSlider({[PW(63580)]=PW(62876),[PW(63066)]=PW(63630);[PW(62707)]={1;100},[PW(62739)]=1,[PW(63345)]=H[PW(62824)][PW(62410)][PW(63401)],[PW(62364)]=function(k)H[PW(62824)][PW(62410)][PW(63401)]=k end})M[PW(63777)]:CreateChecklist({[PW(63580)]=PW(61696);[PW(63066)]=PW(63744),[PW(61696)]={{[PW(63580)]=PW(62015);[PW(63245)]=H[PW(62824)][PW(62410)][PW(63874)]}};[PW(62364)]=function(k)H[PW(62824)][PW(62410)][PW(63874)]=k[PW(62015)]end})M[PW(61723)]=M[PW(63268)]:CreateSection(PW(62088),A[PW(61547)])M[PW(61723)]:CreateChecklist({[PW(63580)]=PW(61696),[PW(63066)]=PW(62610);[PW(61696)]={{[PW(63580)]=PW(61765),[PW(63245)]=H[PW(62824)][PW(61976)][PW(62901)]};{[PW(63580)]=PW(63633),[PW(63245)]=H[PW(62824)][PW(61976)][PW(62131)]},{[PW(63580)]=PW(62912);[PW(63245)]=H[PW(62824)][PW(61976)][PW(63326)]};{[PW(63580)]=PW(61553),[PW(63245)]=H[PW(62824)][PW(61976)][PW(61828)]};{[PW(63580)]=PW(61659);[PW(63245)]=H[PW(62824)][PW(61976)][PW(62359)]}},[PW(62364)]=function(k)H[PW(62824)][PW(61976)][PW(62901)]=k[PW(61765)]H[PW(62824)][PW(61976)][PW(62131)]=k[PW(63633)]H[PW(62824)][PW(61976)][PW(63326)]=k[PW(62912)]H[PW(62824)][PW(61976)][PW(61828)]=k[PW(61553)]H[PW(62824)][PW(61976)][PW(62359)]=k[PW(61659)]end})M[PW(61723)]:CreateSlider({[PW(63580)]=PW(61960);[PW(63066)]=PW(63355);[PW(62707)]={10,85};[PW(62739)]=1,[PW(63345)]=H[PW(62824)][PW(61976)][PW(63355)];[PW(62364)]=function(k)H[PW(62824)][PW(61976)][PW(63355)]=k end})M[PW(61723)]:CreateSlider({[PW(63580)]=PW(62843),[PW(63066)]=PW(62638),[PW(62707)]={10,85},[PW(62739)]=1,[PW(63345)]=H[PW(62824)][PW(61976)][PW(62638)],[PW(62364)]=function(k)H[PW(62824)][PW(61976)][PW(62638)]=k end})M[PW(61723)]:CreateSlider({[PW(63580)]=PW(62912),[PW(63066)]=PW(62347);[PW(62707)]={1,5},[PW(62739)]=.1,[PW(63345)]=H[PW(62824)][PW(61976)][PW(62347)],[PW(62364)]=function(k)H[PW(62824)][PW(61976)][PW(62347)]=k end})M[PW(61723)]:CreateSlider({[PW(63580)]=PW(61553);[PW(63066)]=PW(61980),[PW(62707)]={1,10};[PW(62739)]=.1,[PW(63345)]=H[PW(62824)][PW(61976)][PW(61980)];[PW(62364)]=function(k)H[PW(62824)][PW(61976)][PW(61980)]=k end})M[PW(61862)]=M[PW(63801)]:CreateTab(PW(62132),PW(62455),A[PW(61791)])M[PW(63465)]=M[PW(61862)]:CreateSection(PW(62132),A[PW(62604)])M[PW(61687)]=M[PW(63465)]:CreateToggle({[PW(63580)]=PW(62120),[PW(63066)]=PW(61916),[PW(63345)]=H[PW(62750)][PW(61916)],[PW(62364)]=function(k)if H[PW(62750)][PW(61916)]~=k then I(k)end end})M[PW(63603)]=M[PW(63465)]:CreateKeybind({[PW(63580)]=PW(63531),[PW(63066)]=PW(62454);[PW(62364)]=function(k)if H[PW(62750)][PW(61916)]~=k then I(k)end if k then M[PW(63801)]:Notify({[PW(63020)]=PW(62120);[PW(63080)]=PW(61995),[PW(63910)]=5})else M[PW(63801)]:Notify({[PW(63020)]=PW(63692),[PW(63080)]=PW(63101);[PW(63910)]=5})end end})M[PW(63465)]:CreateDivider()M[PW(63465)]:CreateChecklist({[PW(63580)]=PW(63567),[PW(63066)]=PW(62670);[PW(61696)]={{[PW(63580)]=PW(63191),[PW(63245)]=H[PW(62750)][PW(63480)]},{[PW(63580)]=PW(63730);[PW(63245)]=H[PW(62750)][PW(63021)]},{[PW(63580)]=PW(62281);[PW(63245)]=H[PW(62750)][PW(63577)]}},[PW(62364)]=function(k)H[PW(62750)][PW(63480)]=k[PW(63191)]H[PW(62750)][PW(63021)]=k[PW(63730)]H[PW(62750)][PW(63577)]=k[PW(62281)]x()end})M[PW(63465)]:CreateDivider()M[PW(63465)]:CreateChecklist({[PW(63580)]=PW(62908);[PW(63066)]=PW(61982);[PW(61696)]={{[PW(63580)]=PW(62027),[PW(63245)]=H[PW(62750)][PW(63063)][PW(62027)]};{[PW(63580)]=PW(62517),[PW(63245)]=H[PW(62750)][PW(63063)][PW(62517)]};{[PW(63580)]=PW(63535);[PW(63245)]=H[PW(62750)][PW(63063)][PW(63535)]};{[PW(63580)]=PW(63005);[PW(63245)]=H[PW(62750)][PW(63063)][PW(63005)]};{[PW(63580)]=PW(63580),[PW(63245)]=H[PW(62750)][PW(63063)][PW(63580)]},{[PW(63580)]=PW(61997),[PW(63245)]=H[PW(62750)][PW(63063)][PW(61997)]},{[PW(63580)]=PW(62403),[PW(63245)]=H[PW(62750)][PW(63063)][PW(62403)]},{[PW(63580)]=PW(61879),[PW(63245)]=H[PW(62750)][PW(63063)][PW(61879)]}},[PW(62364)]=function(k)H[PW(62750)][PW(63063)][PW(62027)]=k[PW(62027)]H[PW(62750)][PW(63063)][PW(62517)]=k[PW(62517)]H[PW(62750)][PW(63063)][PW(63535)]=k[PW(63535)]H[PW(62750)][PW(63063)][PW(63005)]=k[PW(63005)]H[PW(62750)][PW(63063)][PW(63580)]=k[PW(63580)]H[PW(62750)][PW(63063)][PW(61997)]=k[PW(61997)]H[PW(62750)][PW(63063)][PW(62403)]=k[PW(62403)]H[PW(62750)][PW(63063)][PW(61879)]=k[PW(61879)]x()end})M[PW(63465)]:CreateToggle({[PW(63580)]=PW(61594);[PW(63066)]=PW(62581);[PW(63345)]=H[PW(62750)][PW(62581)];[PW(62364)]=function(k)H[PW(62750)][PW(62581)]=k x()end})M[PW(63465)]:CreateDropdown({[PW(63580)]=PW(63257),[PW(63066)]=PW(63868);[PW(61696)]={PW(63499),PW(61814);PW(62150)};[PW(62077)]=H[PW(62750)][PW(63868)],[PW(62003)]=false,[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62750)][PW(63868)]=k x()end})M[PW(63465)]:CreateDivider()M[PW(63465)]:CreateChecklist({[PW(63580)]=PW(63248);[PW(63066)]=PW(62501);[PW(61696)]={{[PW(63580)]=PW(63707),[PW(63245)]=H[PW(62750)][PW(63757)][PW(63707)]};{[PW(63580)]=PW(62618),[PW(63245)]=H[PW(62750)][PW(63757)][PW(62618)]}},[PW(62364)]=function(k)H[PW(62750)][PW(63757)][PW(63707)]=k[PW(63707)]H[PW(62750)][PW(63757)][PW(62618)]=k[PW(62618)]end})M[PW(63465)]:CreateDivider()M[PW(63465)]:CreateSlider({[PW(63580)]=PW(63585);[PW(63066)]=PW(63812);[PW(62707)]={50,1000};[PW(62739)]=1;[PW(63345)]=H[PW(62750)][PW(63812)],[PW(62364)]=function(k)H[PW(62750)][PW(63812)]=k x()end})M[PW(63465)]:CreateDropdown({[PW(63580)]=PW(62386),[PW(63066)]=PW(62126);[PW(61696)]=A[PW(63657)],[PW(62077)]=H[PW(62750)][PW(62126)];[PW(62003)]=false;[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62750)][PW(62126)]=k x()end})M[PW(63465)]:CreateInput({[PW(63580)]=PW(61634);[PW(63066)]=PW(61841);[PW(63677)]=PW(61950);[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62750)][PW(61841)]=k x()end})M[PW(61691)]=M[PW(61862)]:CreateSection(PW(63582),A[PW(61547)])M[PW(61691)]:CreateDropdown({[PW(63580)]=PW(63706),[PW(63066)]=PW(63118),[PW(61696)]=A[PW(62020)],[PW(62077)]=H[PW(62750)][PW(61789)][PW(63082)];[PW(62003)]=true;[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(63082)]=k end})M[PW(61691)]:CreateToggle({[PW(63580)]=PW(61883),[PW(63066)]=PW(63466);[PW(63345)]=H[PW(62750)][PW(61789)][PW(61824)],[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(61824)]=k end})M[PW(61691)]:CreateSlider({[PW(63580)]=PW(63671),[PW(63066)]=PW(62376);[PW(62707)]={1;60},[PW(62739)]=1,[PW(63345)]=H[PW(62750)][PW(61789)][PW(61931)],[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(61931)]=k end})M[PW(61691)]:CreateToggle({[PW(63580)]=PW(63535);[PW(63066)]=PW(61864);[PW(63345)]=H[PW(62750)][PW(61789)][PW(63388)],[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(63388)]=k end})M[PW(61691)]:CreateSlider({[PW(63580)]=PW(62509),[PW(63066)]=PW(61955);[PW(62707)]={0;1};[PW(62739)]=.01;[PW(63345)]=0,[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(61803)]=k kF()end})M[PW(61691)]:CreateDropdown({[PW(63580)]=PW(62386),[PW(63066)]=PW(62866);[PW(61696)]=A[PW(63657)],[PW(62077)]=PW(62633);[PW(62003)]=false,[PW(62191)]=false,[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(62126)]=k kF()end})M[PW(61691)]:CreateInput({[PW(63580)]=PW(61634);[PW(63066)]=PW(63867),[PW(63677)]=PW(61950);[PW(63370)]=true;[PW(62339)]=function(k)H[PW(62750)][PW(61789)][PW(61841)]=k kF()end})M[PW(61691)]:CreateToggle({[PW(63580)]=PW(62533),[PW(63066)]=PW(62813);[PW(63345)]=H[PW(62750)][PW(61789)][PW(62362)],[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(62362)]=k end})M[PW(61691)]:CreateSlider({[PW(63580)]=PW(62189);[PW(63066)]=PW(62686);[PW(62707)]={-3,3};[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(61789)][PW(63433)],[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(63433)]=k end})M[PW(61691)]:CreateSlider({[PW(63580)]=PW(63775),[PW(63066)]=PW(63703),[PW(62707)]={-3;3};[PW(62739)]=.01;[PW(63345)]=H[PW(62750)][PW(61789)][PW(62786)],[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(62786)]=k end})M[PW(61691)]:CreateSlider({[PW(63580)]=PW(62560);[PW(63066)]=PW(62646);[PW(62707)]={-3;3},[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(61789)][PW(62506)],[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(62506)]=k end})M[PW(61691)]:CreateDivider()M[PW(61691)]:CreateToggle({[PW(63580)]=PW(63105);[PW(63066)]=PW(62133);[PW(63345)]=H[PW(62750)][PW(61789)][PW(61953)];[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(61953)]=k end})M[PW(61691)]:CreateColorPicker({[PW(63580)]=PW(63338);[PW(63066)]=PW(61543),[PW(63338)]=H[PW(62750)][PW(61789)][PW(63278)];[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(63278)]=k end})M[PW(61691)]:CreateDropdown({[PW(63580)]=PW(63534),[PW(63066)]=PW(62836);[PW(61696)]=A[PW(63657)],[PW(62077)]=H[PW(62750)][PW(61789)][PW(61782)],[PW(62003)]=false;[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(61782)]=k end})M[PW(61691)]:CreateSlider({[PW(63580)]=PW(62518),[PW(63066)]=PW(63846),[PW(62707)]={0;1};[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(61789)][PW(62103)];[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(62103)]=k end})M[PW(61691)]:CreateChecklist({[PW(63580)]=PW(61696),[PW(63066)]=PW(63836),[PW(61696)]={{[PW(63580)]=PW(62389);[PW(63245)]=H[PW(62750)][PW(61789)][PW(62640)]};{[PW(63580)]=PW(61968);[PW(63245)]=H[PW(62750)][PW(61789)][PW(63522)]},{[PW(63580)]=PW(61766),[PW(63245)]=H[PW(62750)][PW(61789)][PW(61684)]}},[PW(62364)]=function(k)H[PW(62750)][PW(61789)][PW(62640)]=k[PW(62389)]H[PW(62750)][PW(61789)][PW(63522)]=k[PW(61968)]H[PW(62750)][PW(61789)][PW(61684)]=k[PW(61766)]end})M[PW(63748)]=M[PW(61862)]:CreateSection(PW(63913),A[PW(61547)])M[PW(63748)]:CreateDropdown({[PW(63580)]=PW(62113);[PW(63066)]=PW(63286),[PW(61696)]=A[PW(61863)];[PW(62077)]=H[PW(62750)][PW(62528)][PW(63286)],[PW(62003)]=false;[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62750)][PW(62528)][PW(63286)]=k end})M[PW(61754)]=M[PW(61862)]:CreateSection(PW(61598),A[PW(61986)])M[PW(61754)]:CreateDropdown({[PW(63580)]=PW(61598),[PW(63066)]=PW(62456);[PW(61696)]=A[PW(61849)];[PW(62077)]=H[PW(62750)][PW(63590)][PW(62456)],[PW(62003)]=false;[PW(62191)]=false,[PW(62364)]=function(k)H[PW(62750)][PW(63590)][PW(62456)]=k VF()end})M[PW(61754)]:CreateLabel({[PW(63020)]=PW(63906)})M[PW(61754)]:CreateInput({[PW(63580)]=PW(62068),[PW(63066)]=PW(63097);[PW(63677)]=PW(63896),[PW(63370)]=false;[PW(62339)]=function(k)H[PW(62750)][PW(63590)][PW(63097)]=k VF()end})M[PW(61754)]:CreateInput({[PW(63580)]=PW(61948);[PW(63066)]=PW(63395),[PW(63677)]=PW(63896),[PW(63370)]=false;[PW(62339)]=function(k)H[PW(62750)][PW(63590)][PW(63395)]=k VF()end})M[PW(61754)]:CreateInput({[PW(63580)]=PW(63555);[PW(63066)]=PW(61767),[PW(63677)]=PW(63896),[PW(63370)]=false,[PW(62339)]=function(k)H[PW(62750)][PW(63590)][PW(61767)]=k VF()end})M[PW(61754)]:CreateInput({[PW(63580)]=PW(61858),[PW(63066)]=PW(62147),[PW(63677)]=PW(63896);[PW(63370)]=false;[PW(62339)]=function(k)H[PW(62750)][PW(63590)][PW(62147)]=k VF()end})M[PW(61754)]:CreateInput({[PW(63580)]=PW(61888);[PW(63066)]=PW(63592);[PW(63677)]=PW(63896);[PW(63370)]=false,[PW(62339)]=function(k)H[PW(62750)][PW(63590)][PW(63592)]=k VF()end})M[PW(61754)]:CreateDivider()M[PW(61754)]:CreateSlider({[PW(63580)]=PW(62531);[PW(63066)]=PW(61830);[PW(62707)]={0,5000},[PW(62739)]=1;[PW(63345)]=H[PW(62750)][PW(63590)][PW(61830)],[PW(62364)]=function(k)H[PW(62750)][PW(63590)][PW(61830)]=k end})M[PW(61754)]:CreateSlider({[PW(63580)]=PW(62057),[PW(63066)]=PW(63261),[PW(62707)]={0;60},[PW(62739)]=.01;[PW(63345)]=H[PW(62750)][PW(63590)][PW(61848)];[PW(62364)]=function(k)H[PW(62750)][PW(63590)][PW(61848)]=k end})M[PW(61754)]:CreateSlider({[PW(63580)]=PW(61768),[PW(63066)]=PW(63491),[PW(62707)]={0;60},[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(63590)][PW(62643)];[PW(62364)]=function(k)H[PW(62750)][PW(63590)][PW(62643)]=k end})M[PW(61754)]:CreateSlider({[PW(63580)]=PW(62883),[PW(63066)]=PW(62192);[PW(62707)]={0;24};[PW(62739)]=.01;[PW(63345)]=H[PW(62750)][PW(63590)][PW(62192)];[PW(62364)]=function(k)H[PW(62750)][PW(63590)][PW(62192)]=k end})M[PW(61754)]:CreateDivider()M[PW(61754)]:CreateToggle({[PW(63580)]=PW(63054);[PW(63066)]=PW(62472);[PW(63345)]=H[PW(62750)][PW(63590)][PW(62472)];[PW(62364)]=function(k)H[PW(62750)][PW(63590)][PW(62472)]=k oF()end})M[PW(61754)]:CreateSlider({[PW(63580)]=PW(62889);[PW(63066)]=PW(62897),[PW(62707)]={0,50},[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(63590)][PW(62159)],[PW(62364)]=function(k)H[PW(62750)][PW(63590)][PW(62159)]=k end})M[PW(63094)]=M[PW(61862)]:CreateSection(PW(61904),A[PW(61929)])M[PW(63094)]:CreateToggle({[PW(63580)]=PW(62299),[PW(63066)]=PW(62620),[PW(63345)]=H[PW(62750)][PW(62251)][PW(62549)];[PW(62364)]=function(k)H[PW(62750)][PW(62251)][PW(62549)]=k end})M[PW(63094)]:CreateColorPicker({[PW(63580)]=PW(61725),[PW(63066)]=PW(61737);[PW(63338)]=H[PW(62750)][PW(62251)][PW(61540)];[PW(62364)]=function(k)H[PW(62750)][PW(62251)][PW(61540)]=k end})M[PW(63094)]:CreateColorPicker({[PW(63580)]=PW(63361),[PW(63066)]=PW(63368);[PW(63338)]=H[PW(62750)][PW(62251)][PW(63608)];[PW(62364)]=function(k)H[PW(62750)][PW(62251)][PW(63608)]=k end})M[PW(63094)]:CreateSlider({[PW(63580)]=PW(61661);[PW(63066)]=PW(63010),[PW(62707)]={0,360},[PW(62739)]=1,[PW(63345)]=H[PW(62750)][PW(62251)][PW(62483)],[PW(62364)]=function(k)H[PW(62750)][PW(62251)][PW(62483)]=k end})M[PW(63094)]:CreateSlider({[PW(63580)]=PW(62889);[PW(63066)]=PW(63753),[PW(62707)]={0;5},[PW(62739)]=.1,[PW(63345)]=H[PW(62750)][PW(62251)][PW(62897)],[PW(62364)]=function(k)H[PW(62750)][PW(62251)][PW(62897)]=k end})M[PW(63094)]:CreateSlider({[PW(63580)]=PW(62823),[PW(63066)]=PW(63542);[PW(62707)]={0;300};[PW(62739)]=1,[PW(63345)]=H[PW(62750)][PW(62251)][PW(63800)];[PW(62364)]=function(k)H[PW(62750)][PW(62251)][PW(63800)]=k end})M[PW(63094)]:CreateSlider({[PW(63580)]=PW(63541),[PW(63066)]=PW(63907),[PW(62707)]={0;5};[PW(62739)]=.1;[PW(63345)]=H[PW(62750)][PW(62251)][PW(62084)],[PW(62364)]=function(k)H[PW(62750)][PW(62251)][PW(62084)]=k end})M[PW(63094)]:CreateSlider({[PW(63580)]=PW(62533),[PW(63066)]=PW(62766);[PW(62707)]={0,100},[PW(62739)]=1,[PW(63345)]=H[PW(62750)][PW(62251)][PW(62362)];[PW(62364)]=function(k)H[PW(62750)][PW(62251)][PW(62362)]=k end})M[PW(63094)]:CreateSlider({[PW(63580)]=PW(63810);[PW(63066)]=PW(61912);[PW(62707)]={0,500},[PW(62739)]=1,[PW(63345)]=H[PW(62750)][PW(62251)][PW(61686)],[PW(62364)]=function(k)H[PW(62750)][PW(62251)][PW(61686)]=k end})M[PW(63094)]:CreateSlider({[PW(63580)]=PW(62747),[PW(63066)]=PW(62488);[PW(62707)]={0,10},[PW(62739)]=1;[PW(63345)]=H[PW(62750)][PW(62251)][PW(63562)];[PW(62364)]=function(k)H[PW(62750)][PW(62251)][PW(63562)]=k end})M[PW(63094)]:CreateSlider({[PW(63580)]=PW(62946);[PW(63066)]=PW(63697);[PW(62707)]={.1;1},[PW(62739)]=.01;[PW(63345)]=H[PW(62750)][PW(62251)][PW(63670)];[PW(62364)]=function(k)H[PW(62750)][PW(62251)][PW(63670)]=k end})M[PW(63094)]:CreateDropdown({[PW(63580)]=PW(63835);[PW(63066)]=PW(62767);[PW(61696)]=A[PW(63879)],[PW(62077)]=H[PW(62750)][PW(62251)][PW(61709)];[PW(62003)]=true;[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62750)][PW(62251)][PW(61709)]=k end})M[PW(61671)]=M[PW(61862)]:CreateSection(PW(63713),A[PW(61596)])M[PW(61671)]:CreateColorPicker({[PW(63580)]=PW(63821);[PW(63066)]=PW(61992),[PW(63338)]=Color3[PW(61834)](106,13,173);[PW(62364)]=function(k)H[PW(62750)][PW(63246)][PW(61992)]=k x()end})M[PW(61671)]:CreateColorPicker({[PW(63580)]=PW(62401);[PW(63066)]=PW(62265);[PW(63338)]=Color3[PW(61834)](181,126,220),[PW(62364)]=function(k)H[PW(62750)][PW(63246)][PW(62265)]=k x()end})M[PW(61671)]:CreateColorPicker({[PW(63580)]=PW(63487);[PW(63066)]=PW(63012),[PW(63338)]=Color3[PW(61834)](131,38,198);[PW(62364)]=function(k)H[PW(62750)][PW(63246)][PW(63012)]=k x()end})M[PW(61671)]:CreateColorPicker({[PW(63580)]=PW(62592);[PW(63066)]=PW(63683);[PW(63338)]=Color3[PW(61834)](106,13,173),[PW(62364)]=function(k)H[PW(62750)][PW(63246)][PW(63683)]=k x()end})M[PW(61671)]:CreateColorPicker({[PW(63580)]=PW(62732);[PW(63066)]=PW(63387),[PW(63338)]=Color3[PW(61834)](50,138,220);[PW(62364)]=function(k)H[PW(62750)][PW(63246)][PW(63387)]=k x()end})M[PW(61671)]:CreateColorPicker({[PW(63580)]=PW(62783);[PW(63066)]=PW(63792);[PW(63338)]=Color3[PW(61834)](120,180,255);[PW(62364)]=function(k)H[PW(62750)][PW(63246)][PW(63792)]=k x()end})M[PW(61671)]:CreateColorPicker({[PW(63580)]=PW(63848),[PW(63066)]=PW(63591);[PW(63338)]=Color3[PW(61834)](50,138,220),[PW(62364)]=function(k)H[PW(62750)][PW(63246)][PW(63591)]=k x()end})M[PW(61671)]:CreateColorPicker({[PW(63580)]=PW(63673);[PW(63066)]=PW(63185),[PW(63338)]=Color3[PW(61834)](50,138,220),[PW(62364)]=function(k)H[PW(62750)][PW(63246)][PW(63185)]=k x()end})M[PW(61671)]:CreateDivider()M[PW(61671)]:CreateColorPicker({[PW(63580)]=PW(62719),[PW(63066)]=PW(63259);[PW(63338)]=Color3[PW(61834)](181,126,220);[PW(62364)]=function(k)H[PW(62750)][PW(63246)][PW(63259)]=k end})M[PW(61671)]:CreateColorPicker({[PW(63580)]=PW(62228),[PW(63066)]=PW(63161),[PW(63338)]=Color3[PW(61834)](181,126,220),[PW(62364)]=function(k)H[PW(62750)][PW(63246)][PW(63161)]=k kF()end})M[PW(61671)]:CreateColorPicker({[PW(63580)]=PW(61692),[PW(63066)]=PW(63576),[PW(63338)]=Color3[PW(61834)](255,255,255),[PW(62364)]=function(k)H[PW(62750)][PW(63246)][PW(63576)]=k x()end})M[PW(61671)]:CreateDivider()M[PW(61671)]:CreateSlider({[PW(63580)]=PW(62550);[PW(63066)]=PW(62350),[PW(62707)]={0;1},[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(63246)][PW(62117)],[PW(62364)]=function(k)H[PW(62750)][PW(63246)][PW(62117)]=k x()end})M[PW(61671)]:CreateSlider({[PW(63580)]=PW(62181);[PW(63066)]=PW(61717);[PW(62707)]={0,1};[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(63246)][PW(61717)];[PW(62364)]=function(k)H[PW(62750)][PW(63246)][PW(61717)]=k x()end})M[PW(63514)]=M[PW(61862)]:CreateSection(PW(62718),A[PW(61986)])M[PW(63514)]:CreateToggle({[PW(63580)]=PW(63708);[PW(63066)]=PW(62004);[PW(63345)]=H[PW(62750)][PW(61840)][PW(62004)],[PW(62364)]=function(k)H[PW(62750)][PW(61840)][PW(62004)]=k bF()end})M[PW(63514)]:CreateSlider({[PW(63580)]=PW(61801),[PW(63066)]=PW(62817),[PW(62707)]={0;1},[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(61840)][PW(62817)],[PW(62364)]=function(k)H[PW(62750)][PW(61840)][PW(62817)]=k bF()end})M[PW(63514)]:CreateSlider({[PW(63580)]=PW(61988),[PW(63066)]=PW(63628);[PW(62707)]={0,1};[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(61840)][PW(63628)];[PW(62364)]=function(k)H[PW(62750)][PW(61840)][PW(63628)]=k bF()end})M[PW(62448)]=M[PW(61862)]:CreateSection(PW(61833),A[PW(61791)])M[PW(62231)]=M[PW(62448)]:CreateToggle({[PW(63580)]=PW(62851),[PW(63066)]=PW(62148),[PW(63345)]=H[PW(62750)][PW(61985)][PW(61779)];[PW(62364)]=function(k)if H[PW(62750)][PW(61985)][PW(61779)]~=k then gF(k)end end})M[PW(62310)]=M[PW(62448)]:CreateKeybind({[PW(63580)]=PW(63252);[PW(63066)]=PW(61731),[PW(62364)]=function(k)if H[PW(62750)][PW(61985)][PW(61779)]~=k then gF(k)end end})M[PW(62448)]:CreateDropdown({[PW(63580)]=PW(61880);[PW(63066)]=PW(62264),[PW(61696)]=A[PW(61570)],[PW(62077)]=H[PW(62750)][PW(61985)][PW(62264)],[PW(62003)]=false;[PW(62191)]=false;[PW(62364)]=function(k)local P=C[PW(62406)][PW(63859)][PW(63884)]H[PW(62750)][PW(61985)][PW(62264)]=k C[PW(62406)][PW(63859)][PW(62317)]:Fire(H[PW(62750)][PW(61985)][PW(62264)],P)end})M[PW(62448)]:CreateDivider()M[PW(62448)]:CreateToggle({[PW(63580)]=PW(61750);[PW(63066)]=PW(62327);[PW(63345)]=H[PW(62750)][PW(61985)][PW(62327)];[PW(62364)]=function(k)H[PW(62750)][PW(61985)][PW(62327)]=k end})M[PW(62448)]:CreateToggle({[PW(63580)]=PW(63048),[PW(63066)]=PW(62035);[PW(63345)]=H[PW(62750)][PW(61985)][PW(62035)],[PW(62364)]=function(k)H[PW(62750)][PW(61985)][PW(62035)]=k end})M[PW(62448)]:CreateDivider()M[PW(62448)]:CreateSlider({[PW(63580)]=PW(62426),[PW(63066)]=PW(63598);[PW(62707)]={10;120};[PW(62739)]=1;[PW(63345)]=H[PW(62750)][PW(61985)][PW(63598)];[PW(62364)]=function(k)H[PW(62750)][PW(61985)][PW(63598)]=k H[PW(62750)][PW(61985)][PW(63402)]=true end})M[PW(62448)]:CreateSlider({[PW(63580)]=PW(62374);[PW(63066)]=PW(63127),[PW(62707)]={0;1},[PW(62739)]=.01;[PW(63345)]=H[PW(62750)][PW(61985)][PW(63127)];[PW(62364)]=function(k)H[PW(62750)][PW(61985)][PW(63127)]=k end})M[PW(61882)]=M[PW(61862)]:CreateSection(PW(62722),A[PW(61986)])M[PW(61882)]:CreateColorPicker({[PW(63580)]=PW(63508),[PW(63066)]=PW(62024),[PW(63338)]=H[PW(62750)][PW(61652)][PW(62024)],[PW(62364)]=function(k)H[PW(62750)][PW(61652)][PW(62024)]=k UpdateLightingOptions()end})M[PW(61882)]:CreateColorPicker({[PW(63580)]=PW(61967),[PW(63066)]=PW(63367),[PW(63338)]=H[PW(62750)][PW(61652)][PW(63367)],[PW(62364)]=function(k)H[PW(62750)][PW(61652)][PW(63367)]=k UpdateLightingOptions()end})M[PW(61882)]:CreateColorPicker({[PW(63580)]=PW(62571),[PW(63066)]=PW(61706);[PW(63338)]=H[PW(62750)][PW(61652)][PW(61706)],[PW(62364)]=function(k)H[PW(62750)][PW(61652)][PW(61706)]=k UpdateLightingOptions()end})M[PW(61882)]:CreateColorPicker({[PW(63580)]=PW(62493);[PW(63066)]=PW(62544);[PW(63338)]=H[PW(62750)][PW(61652)][PW(62544)],[PW(62364)]=function(k)H[PW(62750)][PW(61652)][PW(62544)]=k UpdateLightingOptions()end})M[PW(61882)]:CreateSlider({[PW(63580)]=PW(63573),[PW(63066)]=PW(63617);[PW(62707)]={-3,3};[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(61652)][PW(62239)],[PW(62364)]=function(k)H[PW(62750)][PW(61652)][PW(62239)]=k UpdateLightingOptions()end})M[PW(61882)]:CreateSlider({[PW(63580)]=PW(62365);[PW(63066)]=PW(63220);[PW(62707)]={0;10},[PW(62739)]=.01;[PW(63345)]=H[PW(62750)][PW(61652)][PW(63797)];[PW(62364)]=function(k)H[PW(62750)][PW(61652)][PW(63797)]=k UpdateLightingOptions()end})M[PW(61882)]:CreateSlider({[PW(63580)]=PW(61923),[PW(63066)]=PW(63431);[PW(62707)]={0,1};[PW(62739)]=.01;[PW(63345)]=H[PW(62750)][PW(61652)][PW(63431)],[PW(62364)]=function(k)H[PW(62750)][PW(61652)][PW(63431)]=k UpdateLightingOptions()end})M[PW(61882)]:CreateSlider({[PW(63580)]=PW(62226);[PW(63066)]=PW(63039);[PW(62707)]={0;1};[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(61652)][PW(63039)],[PW(62364)]=function(k)H[PW(62750)][PW(61652)][PW(63039)]=k UpdateLightingOptions()end})M[PW(61882)]:CreateSlider({[PW(63580)]=PW(62445),[PW(63066)]=PW(63787);[PW(62707)]={0;1},[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(61652)][PW(63787)],[PW(62364)]=function(k)H[PW(62750)][PW(61652)][PW(63787)]=k UpdateLightingOptions()end})M[PW(61882)]:CreateToggle({[PW(63580)]=PW(61550);[PW(63066)]=PW(61609);[PW(63345)]=H[PW(62750)][PW(61652)][PW(61959)];[PW(62364)]=function(k)H[PW(62750)][PW(61652)][PW(61959)]=k UpdateLightingOptions()end})M[PW(61882)]:CreateDropdown({[PW(63580)]=PW(62332),[PW(63066)]=PW(63714);[PW(61696)]=A[PW(63894)];[PW(62077)]=H[PW(62750)][PW(61652)][PW(62812)],[PW(62003)]=false;[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62750)][PW(61652)][PW(62812)]=k UpdateLightingOptions()end})M[PW(61658)]=M[PW(61862)]:CreateSection(PW(63830),A[PW(61986)])M[PW(61658)]:CreateSlider({[PW(63580)]=PW(61704),[PW(63066)]=PW(62174),[PW(62707)]={0,1},[PW(62739)]=.001;[PW(63345)]=H[PW(62750)][PW(62805)][PW(62476)],[PW(62364)]=function(k)H[PW(62750)][PW(62805)][PW(62476)]=k DF()end})M[PW(61658)]:CreateSlider({[PW(63580)]=PW(62533);[PW(63066)]=PW(61850),[PW(62707)]={0,1};[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(62805)][PW(62362)];[PW(62364)]=function(k)H[PW(62750)][PW(62805)][PW(62362)]=k DF()end})M[PW(61658)]:CreateColorPicker({[PW(63580)]=PW(63338);[PW(63066)]=PW(62417);[PW(63338)]=H[PW(62750)][PW(62805)][PW(63278)],[PW(62364)]=function(k)H[PW(62750)][PW(62805)][PW(63278)]=k DF()end})M[PW(61658)]:CreateColorPicker({[PW(63580)]=PW(62295);[PW(63066)]=PW(61741);[PW(63338)]=H[PW(62750)][PW(62805)][PW(63229)],[PW(62364)]=function(k)H[PW(62750)][PW(62805)][PW(63229)]=k DF()end})M[PW(61658)]:CreateSlider({[PW(63580)]=PW(62193);[PW(63066)]=PW(63676),[PW(62707)]={0,10},[PW(62739)]=.01;[PW(63345)]=H[PW(62750)][PW(62805)][PW(62680)],[PW(62364)]=function(k)H[PW(62750)][PW(62805)][PW(62680)]=k DF()end})M[PW(61658)]:CreateSlider({[PW(63580)]=PW(62238);[PW(63066)]=PW(62413),[PW(62707)]={0,10},[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(62805)][PW(63115)];[PW(62364)]=function(k)H[PW(62750)][PW(62805)][PW(63115)]=k DF()end})M[PW(62176)]=M[PW(61862)]:CreateSection(PW(62552),A[PW(61986)])M[PW(62176)]:CreateToggle({[PW(63580)]=PW(62299);[PW(63066)]=PW(63779),[PW(63345)]=H[PW(62750)][PW(62900)][PW(62549)],[PW(62364)]=function(k)H[PW(62750)][PW(62900)][PW(62549)]=k SF()end})M[PW(62176)]:CreateSlider({[PW(63580)]=PW(62365),[PW(63066)]=PW(63373);[PW(62707)]={-1;1},[PW(62739)]=.01;[PW(63345)]=H[PW(62750)][PW(62900)][PW(63797)],[PW(62364)]=function(k)H[PW(62750)][PW(62900)][PW(63797)]=k SF()end})M[PW(62176)]:CreateSlider({[PW(63580)]=PW(62650),[PW(63066)]=PW(62164);[PW(62707)]={-1,1},[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(62900)][PW(63526)],[PW(62364)]=function(k)H[PW(62750)][PW(62900)][PW(63526)]=k SF()end})M[PW(62176)]:CreateSlider({[PW(63580)]=PW(62746),[PW(63066)]=PW(63114),[PW(62707)]={-1,1};[PW(62739)]=.01;[PW(63345)]=H[PW(62750)][PW(62900)][PW(63148)];[PW(62364)]=function(k)H[PW(62750)][PW(62900)][PW(63148)]=k SF()end})M[PW(62176)]:CreateColorPicker({[PW(63580)]=PW(63182);[PW(63066)]=PW(62414),[PW(63338)]=H[PW(62750)][PW(62900)][PW(61943)];[PW(62364)]=function(k)H[PW(62750)][PW(62900)][PW(61943)]=k SF()end})M[PW(62337)]=M[PW(61862)]:CreateSection(PW(62066),A[PW(61986)])M[PW(62337)]:CreateToggle({[PW(63580)]=PW(62299);[PW(63066)]=PW(63254),[PW(63345)]=H[PW(62750)][PW(63060)][PW(62549)],[PW(62364)]=function(k)H[PW(62750)][PW(63060)][PW(62549)]=k CF()end})M[PW(62337)]:CreateDropdown({[PW(63580)]=PW(61969),[PW(63066)]=PW(62431),[PW(61696)]=A[PW(63675)];[PW(62077)]=H[PW(62750)][PW(63060)][PW(62554)],[PW(62003)]=false,[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62750)][PW(63060)][PW(62554)]=k CF()end})M[PW(62337)]:CreateSlider({[PW(63580)]=PW(63267);[PW(63066)]=PW(61683),[PW(62707)]={0,10},[PW(62739)]=.01;[PW(63345)]=H[PW(62750)][PW(63060)][PW(62572)];[PW(62364)]=function(k)H[PW(62750)][PW(63060)][PW(62572)]=k CF()end})M[PW(62337)]:CreateSlider({[PW(63580)]=PW(62514),[PW(63066)]=PW(63743),[PW(62707)]={0;1};[PW(62739)]=.01,[PW(63345)]=H[PW(62750)][PW(63060)][PW(62360)];[PW(62364)]=function(k)H[PW(62750)][PW(63060)][PW(62360)]=k CF()end})M[PW(61732)]=M[PW(61862)]:CreateSection(PW(62286),A[PW(61971)])M[PW(61732)]:CreateToggle({[PW(63580)]=PW(62299),[PW(63066)]=PW(62648),[PW(63345)]=H[PW(62750)][PW(63877)][PW(62549)];[PW(62364)]=function(k)H[PW(62750)][PW(63877)][PW(62549)]=k HF()end})M[PW(61732)]:CreateDropdown({[PW(63580)]=PW(61969),[PW(63066)]=PW(63013),[PW(61696)]=A[PW(62567)];[PW(62077)]=H[PW(62750)][PW(63877)][PW(62554)],[PW(62003)]=false,[PW(62191)]=false,[PW(62364)]=function(k)H[PW(62750)][PW(63877)][PW(62554)]=k HF()end})M[PW(61732)]:CreateSlider({[PW(63580)]=PW(62432),[PW(63066)]=PW(63618),[PW(62707)]={0;10},[PW(62739)]=.1,[PW(63345)]=H[PW(62750)][PW(63877)][PW(62026)];[PW(62364)]=function(k)H[PW(62750)][PW(63877)][PW(62026)]=k HF()end})M[PW(61895)]=M[PW(63801)]:CreateTab(PW(61635),PW(63782),A[PW(62934)])M[PW(63866)]=M[PW(61895)]:CreateSection(PW(63850),A[PW(62419)])M[PW(63866)]:CreateDropdown({[PW(63580)]=PW(61969);[PW(63066)]=PW(62932),[PW(61696)]=A[PW(62246)];[PW(62077)]=H[PW(63429)][PW(63661)][PW(62580)],[PW(62003)]=false,[PW(62191)]=false;[PW(62364)]=function(k)H[PW(63429)][PW(63661)][PW(62580)]=k end})M[PW(63866)]:CreateDropdown({[PW(63580)]=PW(61670),[PW(63066)]=PW(63293);[PW(61696)]=A[PW(62166)],[PW(62077)]=H[PW(63429)][PW(63661)][PW(63181)];[PW(62003)]=false;[PW(62191)]=false,[PW(62364)]=function(k)H[PW(63429)][PW(63661)][PW(63181)]=k end})M[PW(63866)]:CreateButton({[PW(63580)]=PW(62227);[PW(62364)]=function()tF()M[PW(63801)]:Notify({[PW(63020)]=PW(62242);[PW(63080)]=PW(62043);[PW(63910)]=5})end})M[PW(63866)]:CreateButton({[PW(63580)]=PW(62660),[PW(62364)]=function()RF()M[PW(63801)]:Notify({[PW(63020)]=PW(61585);[PW(63080)]=PW(62043),[PW(63910)]=5})end})M[PW(63866)]:CreateButton({[PW(63580)]=PW(62140),[PW(62364)]=function()TF()M[PW(63801)]:Notify({[PW(63020)]=PW(63476),[PW(63080)]=PW(62043),[PW(63910)]=5})end})M[PW(63866)]:CreateButton({[PW(63580)]=PW(63616),[PW(62364)]=function()BF()M[PW(63801)]:Notify({[PW(63020)]=PW(62328),[PW(63080)]=PW(62043);[PW(63910)]=5})end})M[PW(61657)]=M[PW(61895)]:CreateSection(PW(63774),A[PW(62398)])M[PW(61657)]:CreateDropdown({[PW(63580)]=PW(61969),[PW(63066)]=PW(62482);[PW(61696)]=A[PW(62246)];[PW(62077)]=H[PW(63429)][PW(62462)][PW(62580)];[PW(62003)]=false,[PW(62191)]=false,[PW(62364)]=function(k)H[PW(63429)][PW(62462)][PW(62580)]=k end})M[PW(61657)]:CreateInput({[PW(63580)]=PW(62065),[PW(63066)]=PW(62921);[PW(63677)]=PW(63300),[PW(63370)]=false,[PW(62339)]=function(k)H[PW(63429)][PW(62462)][PW(62921)]=k end})M[PW(61657)]:CreateInput({[PW(63580)]=PW(62403),[PW(63066)]=PW(62297);[PW(63677)]=PW(62217),[PW(63370)]=false,[PW(62339)]=function(k)H[PW(63429)][PW(62462)][PW(62297)]=k end})M[PW(61657)]:CreateButton({[PW(63580)]=PW(61790),[PW(62364)]=function()lF()M[PW(63801)]:Notify({[PW(63020)]=PW(63291),[PW(63080)]=PW(62043);[PW(63910)]=5})end})M[PW(61657)]:CreateButton({[PW(63580)]=PW(62535),[PW(62364)]=function()vF()M[PW(63801)]:Notify({[PW(63020)]=PW(62412),[PW(63080)]=PW(62043);[PW(63910)]=5})end})M[PW(61657)]:CreateButton({[PW(63580)]=PW(63075);[PW(62364)]=function()iF()M[PW(63801)]:Notify({[PW(63020)]=PW(62574);[PW(63080)]=PW(62043);[PW(63910)]=5})end})M[PW(61657)]:CreateButton({[PW(63580)]=PW(63358),[PW(62364)]=function()KF()M[PW(63801)]:Notify({[PW(63020)]=PW(62855),[PW(63080)]=PW(62043),[PW(63910)]=5})end})M[PW(62300)]=M[PW(61895)]:CreateSection(PW(63696),A[PW(62913)])M[PW(62300)]:CreateDropdown({[PW(63580)]=PW(61969),[PW(63066)]=PW(63809),[PW(61696)]=A[PW(62246)];[PW(62077)]=H[PW(63429)][PW(62759)][PW(62580)],[PW(62003)]=false,[PW(62191)]=false,[PW(62364)]=function(k)H[PW(63429)][PW(62759)][PW(62580)]=k end})M[PW(62300)]:CreateInput({[PW(63580)]=PW(62065),[PW(63066)]=PW(63735);[PW(63677)]=PW(63300),[PW(63370)]=false;[PW(62339)]=function(k)H[PW(63429)][PW(62759)][PW(62921)]=k end})M[PW(62300)]:CreateInput({[PW(63580)]=PW(62403),[PW(63066)]=PW(62069);[PW(63677)]=PW(62217),[PW(63370)]=false,[PW(62339)]=function(k)H[PW(63429)][PW(62759)][PW(62297)]=k end})M[PW(62300)]:CreateToggle({[PW(63580)]=PW(61563);[PW(63066)]=PW(63641);[PW(63345)]=H[PW(63429)][PW(62759)][PW(61781)];[PW(62364)]=function(k)H[PW(63429)][PW(62759)][PW(61781)]=k end})M[PW(62300)]:CreateButton({[PW(63580)]=PW(63483);[PW(62364)]=function()kH()M[PW(63801)]:Notify({[PW(63020)]=PW(63502),[PW(63080)]=PW(62043);[PW(63910)]=5})end})M[PW(62300)]:CreateButton({[PW(63580)]=PW(63394),[PW(62364)]=function()PH()M[PW(63801)]:Notify({[PW(63020)]=PW(63502);[PW(63080)]=PW(62043),[PW(63910)]=5})end})M[PW(63313)]=M[PW(61895)]:CreateSection(PW(62513),A[PW(62913)])M[PW(63313)]:CreateButton({[PW(63580)]=PW(62485);[PW(62364)]=function()yF()M[PW(63801)]:Notify({[PW(63020)]=PW(63015),[PW(63080)]=PW(62043),[PW(63910)]=5})end})M[PW(63313)]:CreateButton({[PW(63580)]=PW(61818),[PW(62364)]=function()pF()M[PW(63801)]:Notify({[PW(63020)]=PW(62394);[PW(63080)]=PW(62043);[PW(63910)]=5})end})M[PW(63313)]:CreateButton({[PW(63580)]=PW(63205),[PW(62364)]=function()NF()M[PW(63801)]:Notify({[PW(63020)]=PW(62677);[PW(63080)]=PW(62043);[PW(63910)]=5})end})M[PW(63313)]:CreateButton({[PW(63580)]=PW(63625),[PW(62364)]=function()XF()M[PW(63801)]:Notify({[PW(63020)]=PW(62754),[PW(63080)]=PW(62043),[PW(63910)]=5})end})M[PW(63313)]:CreateButton({[PW(63580)]=PW(63468),[PW(62364)]=function()xF()M[PW(63801)]:Notify({[PW(63020)]=PW(62012),[PW(63080)]=PW(62043);[PW(63910)]=5})end})M[PW(63313)]:CreateButton({[PW(63580)]=PW(62956),[PW(62364)]=function()IF()M[PW(63801)]:Notify({[PW(63020)]=PW(63272),[PW(63080)]=PW(62043),[PW(63910)]=5})end})M[PW(62335)]=M[PW(61895)]:CreateSection(PW(62071),A[PW(61971)])M[PW(62335)]:CreateDropdown({[PW(63580)]=PW(62841),[PW(63066)]=PW(61744),[PW(61696)]=A[PW(62727)];[PW(62077)]=H[PW(63429)][PW(62409)][PW(62134)];[PW(62003)]=false;[PW(62191)]=false;[PW(62364)]=function(k)H[PW(63429)][PW(62409)][PW(62134)]=k end})M[PW(62335)]:CreateInput({[PW(63580)]=PW(62806),[PW(63066)]=PW(62294),[PW(63677)]=PW(63896),[PW(63370)]=true,[PW(62339)]=function(k)H[PW(63429)][PW(62409)][PW(62557)]=k end})M[PW(62335)]:CreateInput({[PW(63580)]=PW(63385);[PW(63066)]=PW(61608),[PW(63677)]=PW(63817),[PW(63370)]=false,[PW(62339)]=function(k)H[PW(63429)][PW(62409)][PW(62526)]=k end})M[PW(62335)]:CreateSlider({[PW(63580)]=PW(62432);[PW(63066)]=PW(63316);[PW(62707)]={1;100};[PW(62739)]=1;[PW(63345)]=H[PW(63429)][PW(62409)][PW(63131)];[PW(62364)]=function(k)H[PW(63429)][PW(62409)][PW(63131)]=k end})M[PW(62335)]:CreateSlider({[PW(63580)]=PW(61665);[PW(63066)]=PW(63686);[PW(62707)]={1;100};[PW(62739)]=1,[PW(63345)]=H[PW(63429)][PW(62409)][PW(62475)];[PW(62364)]=function(k)H[PW(63429)][PW(62409)][PW(62475)]=k end})M[PW(62335)]:CreateButton({[PW(63580)]=PW(63741),[PW(62364)]=function()bH()M[PW(63801)]:Notify({[PW(63020)]=PW(62071);[PW(63080)]=PW(62090),[PW(63910)]=5})end})M[PW(62241)]=M[PW(61895)]:CreateSection(PW(62663),A[PW(61971)])M[PW(62241)]:CreateDropdown({[PW(63580)]=PW(62841),[PW(63066)]=PW(63674),[PW(61696)]=A[PW(62727)];[PW(62077)]=H[PW(63429)][PW(63448)][PW(62134)],[PW(62003)]=false;[PW(62191)]=false,[PW(62364)]=function(k)H[PW(63429)][PW(63448)][PW(62134)]=k end})M[PW(62241)]:CreateInput({[PW(63580)]=PW(62806),[PW(63066)]=PW(61771),[PW(63677)]=PW(63896);[PW(63370)]=true,[PW(62339)]=function(k)H[PW(63429)][PW(63448)][PW(62557)]=k end})M[PW(62241)]:CreateInput({[PW(63580)]=PW(63385);[PW(63066)]=PW(62163);[PW(63677)]=PW(63817),[PW(63370)]=false,[PW(62339)]=function(k)H[PW(63429)][PW(63448)][PW(62526)]=k end})M[PW(62241)]:CreateSlider({[PW(63580)]=PW(62432);[PW(63066)]=PW(63571);[PW(62707)]={1,100},[PW(62739)]=1,[PW(63345)]=H[PW(63429)][PW(63448)][PW(63131)];[PW(62364)]=function(k)H[PW(63429)][PW(63448)][PW(63131)]=k end})M[PW(62241)]:CreateSlider({[PW(63580)]=PW(61665),[PW(63066)]=PW(61584);[PW(62707)]={1;100};[PW(62739)]=1;[PW(63345)]=H[PW(63429)][PW(63448)][PW(62475)];[PW(62364)]=function(k)H[PW(63429)][PW(63448)][PW(62475)]=k end})M[PW(62241)]:CreateDropdown({[PW(63580)]=PW(63359);[PW(63066)]=PW(63365);[PW(61696)]=A[PW(62727)];[PW(62077)]=H[PW(63429)][PW(61936)][PW(62134)],[PW(62003)]=false;[PW(62191)]=false,[PW(62364)]=function(k)H[PW(63429)][PW(61936)][PW(62134)]=k end})M[PW(62241)]:CreateInput({[PW(63580)]=PW(62108),[PW(63066)]=PW(62954);[PW(63677)]=PW(63896);[PW(63370)]=true;[PW(62339)]=function(k)H[PW(63429)][PW(61936)][PW(62557)]=k end})M[PW(62241)]:CreateInput({[PW(63580)]=PW(62988),[PW(63066)]=PW(61757);[PW(63677)]=PW(63817),[PW(63370)]=false;[PW(62339)]=function(k)H[PW(63429)][PW(61936)][PW(62526)]=k end})M[PW(62241)]:CreateSlider({[PW(63580)]=PW(61590),[PW(63066)]=PW(62007);[PW(62707)]={1,100},[PW(62739)]=1;[PW(63345)]=H[PW(63429)][PW(61936)][PW(62475)],[PW(62364)]=function(k)H[PW(63429)][PW(61936)][PW(62475)]=k end})M[PW(62241)]:CreateButton({[PW(63580)]=PW(61832),[PW(62364)]=function()eH()M[PW(63801)]:Notify({[PW(63020)]=PW(62663),[PW(63080)]=PW(62090);[PW(63910)]=5})end})M[PW(62241)]:CreateButton({[PW(63580)]=PW(62787);[PW(62364)]=function()SH()M[PW(63801)]:Notify({[PW(63020)]=PW(63359),[PW(63080)]=PW(62090),[PW(63910)]=5})end})M[PW(62742)]=M[PW(61895)]:CreateSection(PW(63325),A[PW(61971)])M[PW(62742)]:CreateDropdown({[PW(63580)]=PW(62841),[PW(63066)]=PW(63699);[PW(61696)]=A[PW(62727)];[PW(62077)]=H[PW(63429)][PW(61695)][PW(62134)];[PW(62003)]=false;[PW(62191)]=false,[PW(62364)]=function(k)H[PW(63429)][PW(61695)][PW(62134)]=k end})M[PW(62742)]:CreateInput({[PW(63580)]=PW(62806);[PW(63066)]=PW(62367),[PW(63677)]=PW(63896);[PW(63370)]=true,[PW(62339)]=function(k)H[PW(63429)][PW(61695)][PW(62557)]=k end})M[PW(62742)]:CreateInput({[PW(63580)]=PW(63385);[PW(63066)]=PW(62831),[PW(63677)]=PW(63817),[PW(63370)]=false,[PW(62339)]=function(k)H[PW(63429)][PW(61695)][PW(62526)]=k end})M[PW(62742)]:CreateSlider({[PW(63580)]=PW(62432);[PW(63066)]=PW(63470),[PW(62707)]={1;100},[PW(62739)]=1,[PW(63345)]=H[PW(63429)][PW(61695)][PW(63131)],[PW(62364)]=function(k)H[PW(63429)][PW(61695)][PW(63131)]=k end})M[PW(62742)]:CreateSlider({[PW(63580)]=PW(61665);[PW(63066)]=PW(62368),[PW(62707)]={1;100},[PW(62739)]=1,[PW(63345)]=H[PW(63429)][PW(61695)][PW(62475)],[PW(62364)]=function(k)H[PW(63429)][PW(61695)][PW(62475)]=k end})M[PW(62742)]:CreateButton({[PW(63580)]=PW(63741),[PW(62364)]=function()DH()M[PW(63801)]:Notify({[PW(63020)]=PW(63325);[PW(63080)]=PW(62090),[PW(63910)]=5})end})M[PW(63058)]=M[PW(61895)]:CreateSection(PW(61815),A[PW(61971)])M[PW(63058)]:CreateDropdown({[PW(63580)]=PW(62841);[PW(63066)]=PW(62820);[PW(61696)]=A[PW(62727)];[PW(62077)]=H[PW(63429)][PW(61566)][PW(62134)],[PW(62003)]=false;[PW(62191)]=false;[PW(62364)]=function(k)H[PW(63429)][PW(61566)][PW(62134)]=k end})M[PW(63058)]:CreateInput({[PW(63580)]=PW(62806);[PW(63066)]=PW(61991),[PW(63677)]=PW(63896),[PW(63370)]=true,[PW(62339)]=function(k)H[PW(63429)][PW(61566)][PW(62557)]=k end})M[PW(63058)]:CreateInput({[PW(63580)]=PW(63385);[PW(63066)]=PW(63720);[PW(63677)]=PW(63817);[PW(63370)]=false;[PW(62339)]=function(k)H[PW(63429)][PW(61566)][PW(62526)]=k end})M[PW(63058)]:CreateSlider({[PW(63580)]=PW(62432);[PW(63066)]=PW(62985),[PW(62707)]={1,100},[PW(62739)]=1;[PW(63345)]=H[PW(63429)][PW(61566)][PW(63131)];[PW(62364)]=function(k)H[PW(63429)][PW(61566)][PW(63131)]=k end})M[PW(63058)]:CreateSlider({[PW(63580)]=PW(61665);[PW(63066)]=PW(63814),[PW(62707)]={1,100};[PW(62739)]=1,[PW(63345)]=H[PW(63429)][PW(61566)][PW(62475)],[PW(62364)]=function(k)H[PW(63429)][PW(61566)][PW(62475)]=k end})M[PW(63058)]:CreateButton({[PW(63580)]=PW(63741);[PW(62364)]=function()GH()M[PW(63801)]:Notify({[PW(63020)]=PW(61815),[PW(63080)]=PW(62090),[PW(63910)]=5})end})M[PW(62268)]=M[PW(61895)]:CreateSection(PW(63506),A[PW(61971)])M[PW(62268)]:CreateDropdown({[PW(63580)]=PW(62841);[PW(63066)]=PW(63172);[PW(61696)]=A[PW(62727)],[PW(62077)]=H[PW(63429)][PW(62202)][PW(62134)];[PW(62003)]=false;[PW(62191)]=false;[PW(62364)]=function(k)H[PW(63429)][PW(62202)][PW(62134)]=k end})M[PW(62268)]:CreateInput({[PW(63580)]=PW(62806),[PW(63066)]=PW(62762);[PW(63677)]=PW(63896),[PW(63370)]=true,[PW(62339)]=function(k)H[PW(63429)][PW(62202)][PW(62557)]=k end})M[PW(62268)]:CreateInput({[PW(63580)]=PW(63385),[PW(63066)]=PW(63524);[PW(63677)]=PW(63817);[PW(63370)]=false,[PW(62339)]=function(k)H[PW(63429)][PW(62202)][PW(62526)]=k end})M[PW(62268)]:CreateSlider({[PW(63580)]=PW(62432);[PW(63066)]=PW(62393);[PW(62707)]={1;100},[PW(62739)]=1;[PW(63345)]=H[PW(63429)][PW(62202)][PW(63131)],[PW(62364)]=function(k)H[PW(63429)][PW(62202)][PW(63131)]=k end})M[PW(62268)]:CreateSlider({[PW(63580)]=PW(61665),[PW(63066)]=PW(63052);[PW(62707)]={1;100},[PW(62739)]=1;[PW(63345)]=H[PW(63429)][PW(62202)][PW(62475)],[PW(62364)]=function(k)H[PW(63429)][PW(62202)][PW(62475)]=k end})M[PW(62268)]:CreateButton({[PW(63580)]=PW(63741);[PW(62364)]=function()AH()M[PW(63801)]:Notify({[PW(63020)]=PW(63506),[PW(63080)]=PW(62090),[PW(63910)]=5})end})M[PW(63599)]=M[PW(63801)]:CreateTab(PW(63600),PW(63126),A[PW(62913)])M[PW(63899)]=M[PW(63599)]:CreateSection(PW(63774),A[PW(62398)])M[PW(63899)]:CreateDropdown({[PW(63580)]=PW(62690),[PW(63066)]=PW(61924),[PW(61696)]=A[PW(62623)];[PW(62077)]=H[PW(62590)][PW(62510)][PW(63440)],[PW(62003)]=false,[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62590)][PW(62510)][PW(63440)]=k end})M[PW(63899)]:CreateSlider({[PW(63580)]=PW(62687);[PW(63066)]=PW(62500),[PW(62707)]={1,99};[PW(62739)]=1,[PW(63345)]=H[PW(62590)][PW(62510)][PW(62941)],[PW(62364)]=function(k)H[PW(62590)][PW(62510)][PW(62941)]=k end})M[PW(63899)]:CreateInput({[PW(63580)]=PW(62403);[PW(63066)]=PW(62236),[PW(63677)]=PW(62217),[PW(63370)]=false;[PW(62339)]=function(k)H[PW(62590)][PW(62510)][PW(62297)]=k end})M[PW(63899)]:CreateToggle({[PW(63580)]=PW(63597),[PW(63066)]=PW(61922),[PW(63345)]=H[PW(62590)][PW(62510)][PW(62211)],[PW(62364)]=function(k)H[PW(62590)][PW(62510)][PW(62211)]=k end})M[PW(63899)]:CreateButton({[PW(63580)]=PW(61938);[PW(62364)]=function()HH()M[PW(63801)]:Notify({[PW(63020)]=PW(63190);[PW(63080)]=PW(63898),[PW(63910)]=5})end})M[PW(63351)]=M[PW(63599)]:CreateSection(PW(62513),A[PW(62913)])M[PW(63351)]:CreateSlider({[PW(63580)]=PW(62687),[PW(63066)]=PW(62507),[PW(62707)]={1,99},[PW(62739)]=1;[PW(63345)]=H[PW(62590)][PW(63125)][PW(62941)];[PW(62364)]=function(k)H[PW(62590)][PW(63125)][PW(62941)]=k end})M[PW(63351)]:CreateButton({[PW(63580)]=PW(63545),[PW(62364)]=function()MH()M[PW(63801)]:Notify({[PW(63020)]=PW(63190);[PW(63080)]=PW(63898);[PW(63910)]=5})end})M[PW(63297)]=M[PW(63599)]:CreateSection(PW(63489),A[PW(61780)])local pH=gH()M[PW(61612)]=M[PW(63297)]:CreateDropdown({[PW(63580)]=PW(63384);[PW(63066)]=PW(62499);[PW(61696)]=pH,[PW(62077)]=pH[1],[PW(62003)]=false,[PW(62191)]=false,[PW(62364)]=function(k)H[PW(62590)][PW(62480)][PW(62190)]=k end})M[PW(63297)]:CreateSlider({[PW(63580)]=PW(62687),[PW(63066)]=PW(62442);[PW(62707)]={1;99};[PW(62739)]=1;[PW(63345)]=H[PW(62590)][PW(62480)][PW(62941)],[PW(62364)]=function(k)H[PW(62590)][PW(62480)][PW(62941)]=k end})M[PW(63297)]:CreateButton({[PW(63580)]=PW(62109);[PW(62364)]=function()table[PW(62903)](pH)pH=gH()M[PW(61612)]:Refresh(pH,pH[1])M[PW(63801)]:Notify({[PW(63020)]=PW(63428);[PW(63080)]=PW(62920),[PW(63910)]=5})end})M[PW(63297)]:CreateButton({[PW(63580)]=PW(62085);[PW(62364)]=function()wH()M[PW(63801)]:Notify({[PW(63020)]=PW(62282);[PW(63080)]=PW(63898),[PW(63910)]=5})end})M[PW(63297)]:CreateButton({[PW(63580)]=PW(62999);[PW(62364)]=function()WH()M[PW(63801)]:Notify({[PW(63020)]=PW(62282);[PW(63080)]=PW(63898);[PW(63910)]=5})end})M[PW(63297)]:CreateButton({[PW(63580)]=PW(63139);[PW(62364)]=function()uH()M[PW(63801)]:Notify({[PW(63020)]=PW(62282);[PW(63080)]=PW(63898),[PW(63910)]=5})end})M[PW(61871)]=M[PW(63599)]:CreateSection(PW(63619),A[PW(62604)])M[PW(61871)]:CreateDropdown({[PW(63580)]=PW(61969),[PW(63066)]=PW(62874);[PW(61696)]=A[PW(61629)];[PW(62077)]=H[PW(62590)][PW(63236)][PW(62600)];[PW(62003)]=false;[PW(62191)]=false,[PW(62364)]=function(k)H[PW(62590)][PW(63236)][PW(62600)]=k end})M[PW(61871)]:CreateInput({[PW(63580)]=PW(62403);[PW(63066)]=PW(61742);[PW(63677)]=PW(62217);[PW(63370)]=false;[PW(62339)]=function(k)H[PW(62590)][PW(63236)][PW(62297)]=k end})M[PW(61871)]:CreateInput({[PW(63580)]=PW(62065);[PW(63066)]=PW(61693),[PW(63677)]=PW(63300),[PW(63370)]=false,[PW(62339)]=function(k)H[PW(62590)][PW(63236)][PW(62921)]=k end})M[PW(61871)]:CreateToggle({[PW(63580)]=PW(63123);[PW(63066)]=PW(61887);[PW(63345)]=H[PW(62590)][PW(63236)][PW(62422)],[PW(62364)]=function(k)H[PW(62590)][PW(63236)][PW(62422)]=k end})M[PW(61871)]:CreateButton({[PW(63580)]=PW(62331);[PW(62364)]=function()cH()M[PW(63801)]:Notify({[PW(63020)]=PW(63004),[PW(63080)]=PW(63898),[PW(63910)]=5})end})M[PW(62142)]=M[PW(63801)]:CreateTab(PW(61677),PW(63581),A[PW(61596)])M[PW(63277)]=M[PW(62142)]:CreateSection(PW(63694),A[PW(62605)])M[PW(63277)]:CreateDropdown({[PW(63580)]=PW(63320);[PW(63066)]=PW(63750);[PW(61696)]={PW(62352);PW(63163),PW(63357);PW(62904)};[PW(62077)]=H[PW(62009)][PW(63750)],[PW(62003)]=false;[PW(62191)]=false,[PW(62364)]=function(k)H[PW(62009)][PW(63750)]=k end})M[PW(63277)]:CreateToggle({[PW(63580)]=PW(62358),[PW(63066)]=PW(63746);[PW(63345)]=H[PW(62009)][PW(63746)];[PW(62364)]=function(k)H[PW(62009)][PW(63746)]=k jH()end})M[PW(63277)]:CreateToggle({[PW(63580)]=PW(62793);[PW(63066)]=PW(63329),[PW(63345)]=H[PW(62009)][PW(63329)];[PW(62364)]=function(k)H[PW(62009)][PW(63329)]=k YH()end})M[PW(63277)]:CreateSlider({[PW(63580)]=PW(62433),[PW(63066)]=PW(63452);[PW(62707)]={.1;5};[PW(62739)]=.1;[PW(63345)]=H[PW(62009)][PW(63452)];[PW(62364)]=function(k)H[PW(62009)][PW(63452)]=k end})M[PW(61631)]=M[PW(62142)]:CreateSection(PW(61682),A[PW(61547)])M[PW(61631)]:CreateInput({[PW(63580)]=PW(62546),[PW(63066)]=PW(63516);[PW(63677)]=PW(63732),[PW(63370)]=false,[PW(62339)]=function(k)H[PW(62009)][PW(63516)]=k end})M[PW(61631)]:CreateInput({[PW(63580)]=PW(63768),[PW(63066)]=PW(63875),[PW(63677)]=PW(63732),[PW(63370)]=false,[PW(62339)]=function(k)H[PW(62009)][PW(63225)]=k end})M[PW(61631)]:CreateChecklist({[PW(63580)]=PW(61933);[PW(63066)]=PW(63034);[PW(61696)]={{[PW(63580)]=PW(62546),[PW(63245)]=H[PW(62009)][PW(62340)]};{[PW(63580)]=PW(63768),[PW(63245)]=H[PW(62009)][PW(62859)]}};[PW(62364)]=function(k)H[PW(62009)][PW(62340)]=k[PW(62546)]H[PW(62009)][PW(62859)]=k[PW(63768)]aH()end})M[PW(61631)]:CreateDivider()M[PW(61631)]:CreateInput({[PW(63580)]=PW(61853),[PW(63066)]=PW(61639);[PW(63677)]=PW(63695),[PW(63370)]=true;[PW(62339)]=function(k)H[PW(62009)][PW(62609)]=tonumber(k)LH()RefreshAllThumbnailSpoofs()end})M[PW(61631)]:CreateToggle({[PW(63580)]=PW(63129);[PW(63066)]=PW(62948);[PW(63345)]=H[PW(62009)][PW(62948)],[PW(62364)]=function(k)H[PW(62009)][PW(62948)]=k LH()RefreshAllThumbnailSpoofs()end})M[PW(61631)]:CreateDivider()M[PW(61631)]:CreateToggle({[PW(63580)]=PW(62848),[PW(63066)]=PW(62240),[PW(63345)]=H[PW(62009)][PW(62240)],[PW(62364)]=function(k)H[PW(62009)][PW(62240)]=k AnonymousMode()end})M[PW(61631)]:CreateDivider()M[PW(61631)]:CreateChecklist({[PW(63580)]=PW(62045),[PW(63066)]=PW(62950);[PW(61696)]={{[PW(63580)]=PW(62402);[PW(63245)]=H[PW(62009)][PW(62210)][PW(62402)]};{[PW(63580)]=PW(61675);[PW(63245)]=H[PW(62009)][PW(62210)][PW(61675)]};{[PW(63580)]=PW(63398),[PW(63245)]=H[PW(62009)][PW(62210)][PW(63398)]},{[PW(63580)]=PW(62271);[PW(63245)]=H[PW(62009)][PW(62210)][PW(62271)]}},[PW(62364)]=function(k)H[PW(62009)][PW(62210)][PW(62402)]=k[PW(62402)]H[PW(62009)][PW(62210)][PW(61675)]=k[PW(61675)]H[PW(62009)][PW(62210)][PW(63398)]=k[PW(63398)]H[PW(62009)][PW(62210)][PW(62271)]=k[PW(62271)]nH()end})M[PW(62647)]=M[PW(62142)]:CreateSection(PW(63882),A[PW(62529)])M[PW(62647)]:CreateInput({[PW(63580)]=PW(63594),[PW(63066)]=PW(63912),[PW(63677)]=PW(62641);[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(63322)][PW(63912)]=tonumber(k)rH()end})M[PW(62647)]:CreateInput({[PW(63580)]=PW(62907);[PW(63066)]=PW(61647),[PW(63677)]=PW(62641);[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(63322)][PW(61647)]=tonumber(k)rH()end})M[PW(62647)]:CreateInput({[PW(63580)]=PW(62010);[PW(63066)]=PW(62706);[PW(63677)]=PW(62641),[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(63322)][PW(62706)]=tonumber(k)rH()end})M[PW(62647)]:CreateInput({[PW(63580)]=PW(62427);[PW(63066)]=PW(61794),[PW(63677)]=PW(62641);[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(63322)][PW(61794)]=tonumber(k)rH()end})M[PW(62647)]:CreateInput({[PW(63580)]=PW(61987),[PW(63066)]=PW(62458),[PW(63677)]=PW(62641);[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(63322)][PW(62458)]=tonumber(k)rH()end})M[PW(62647)]:CreateChecklist({[PW(63580)]=PW(61933),[PW(63066)]=PW(63643),[PW(61696)]={{[PW(63580)]=PW(63594);[PW(63245)]=H[PW(62009)][PW(63322)][PW(63594)]},{[PW(63580)]=PW(62907),[PW(63245)]=H[PW(62009)][PW(63322)][PW(62907)]};{[PW(63580)]=PW(62010),[PW(63245)]=H[PW(62009)][PW(63322)][PW(62010)]};{[PW(63580)]=PW(62427),[PW(63245)]=H[PW(62009)][PW(63322)][PW(62427)]},{[PW(63580)]=PW(61987);[PW(63245)]=H[PW(62009)][PW(63322)][PW(61987)]}},[PW(62364)]=function(k)H[PW(62009)][PW(63322)][PW(63594)]=k[PW(63594)]H[PW(62009)][PW(63322)][PW(62907)]=k[PW(62907)]H[PW(62009)][PW(63322)][PW(62010)]=k[PW(62010)]H[PW(62009)][PW(63322)][PW(62427)]=k[PW(62427)]H[PW(62009)][PW(63322)][PW(61987)]=k[PW(61987)]rH()aH()end})M[PW(63363)]=M[PW(62142)]:CreateSection(PW(63621),A[PW(63595)])M[PW(63363)]:CreateDropdown({[PW(63580)]=PW(61776),[PW(63066)]=PW(62263),[PW(61696)]=A[PW(62845)];[PW(62077)]=H[PW(62009)][PW(62392)][PW(62263)],[PW(62003)]=false,[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62009)][PW(62392)][PW(62263)]=k tH()end})M[PW(63363)]:CreateSlider({[PW(63580)]=PW(63175);[PW(63066)]=PW(61800);[PW(62707)]={1,100};[PW(62739)]=1,[PW(63345)]=H[PW(62009)][PW(62392)][PW(61800)];[PW(62364)]=function(k)H[PW(62009)][PW(62392)][PW(61800)]=tonumber(k)tH()end})M[PW(63363)]:CreateChecklist({[PW(63580)]=PW(61933);[PW(63066)]=PW(63762),[PW(61696)]={{[PW(63580)]=PW(62723),[PW(63245)]=H[PW(62009)][PW(62392)][PW(62346)]};{[PW(63580)]=PW(63371),[PW(63245)]=H[PW(62009)][PW(62392)][PW(61867)]},{[PW(63580)]=PW(62799);[PW(63245)]=H[PW(62009)][PW(62392)][PW(63890)]};{[PW(63580)]=PW(63734);[PW(63245)]=H[PW(62009)][PW(62392)][PW(62086)]}};[PW(62364)]=function(k)H[PW(62009)][PW(62392)][PW(62346)]=k[PW(62723)]H[PW(62009)][PW(62392)][PW(61867)]=k[PW(63371)]H[PW(62009)][PW(62392)][PW(63890)]=k[PW(62799)]H[PW(62009)][PW(62392)][PW(62086)]=k[PW(63734)]tH()end})M[PW(62030)]=M[PW(62142)]:CreateSection(PW(63651),A[PW(62626)])M[PW(62030)]:CreateInput({[PW(63580)]=PW(62516);[PW(63066)]=PW(63892),[PW(63677)]=PW(62641);[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(62807)][PW(63747)]=tonumber(k)RH()end})M[PW(62030)]:CreateInput({[PW(63580)]=PW(61772);[PW(63066)]=PW(62041);[PW(63677)]=PW(62641),[PW(63370)]=true;[PW(62339)]=function(k)H[PW(62009)][PW(62807)][PW(63132)]=tonumber(k)RH()end})M[PW(62030)]:CreateInput({[PW(63580)]=PW(63908);[PW(63066)]=PW(62128);[PW(63677)]=PW(62641),[PW(63370)]=true;[PW(62339)]=function(k)H[PW(62009)][PW(62807)][PW(62128)]=tonumber(k)RH()end})M[PW(62030)]:CreateInput({[PW(63580)]=PW(63454),[PW(63066)]=PW(61601);[PW(63677)]=PW(62641);[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(62807)][PW(61601)]=tonumber(k)RH()end})M[PW(62030)]:CreateInput({[PW(63580)]=PW(62611);[PW(63066)]=PW(61580),[PW(63677)]=PW(62641);[PW(63370)]=true;[PW(62339)]=function(k)H[PW(62009)][PW(62807)][PW(62796)]=tonumber(k)RH()end})M[PW(62030)]:CreateChecklist({[PW(63580)]=PW(61933);[PW(63066)]=PW(63509);[PW(61696)]={{[PW(63580)]=PW(62516),[PW(63245)]=H[PW(62009)][PW(62807)][PW(63626)]};{[PW(63580)]=PW(61772),[PW(63245)]=H[PW(62009)][PW(62807)][PW(62869)]},{[PW(63580)]=PW(63908);[PW(63245)]=H[PW(62009)][PW(62807)][PW(62396)]};{[PW(63580)]=PW(63454);[PW(63245)]=H[PW(62009)][PW(62807)][PW(61809)]};{[PW(63580)]=PW(62611),[PW(63245)]=H[PW(62009)][PW(62807)][PW(62619)]}},[PW(62364)]=function(k)H[PW(62009)][PW(62807)][PW(63626)]=k[PW(62516)]H[PW(62009)][PW(62807)][PW(62869)]=k[PW(61772)]H[PW(62009)][PW(62807)][PW(62396)]=k[PW(63908)]H[PW(62009)][PW(62807)][PW(61809)]=k[PW(63454)]H[PW(62009)][PW(62807)][PW(62619)]=k[PW(62611)]RH()end})M[PW(63658)]=M[PW(62142)]:CreateSection(PW(61946),A[PW(62529)])M[PW(63658)]:CreateInput({[PW(63580)]=PW(63635);[PW(63066)]=PW(62781);[PW(61826)]=PW(62303),[PW(63677)]=PW(62714),[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(62095)][PW(62481)]=tonumber(k)or 1 end})M[PW(63658)]:CreateDropdown({[PW(63580)]=PW(61749),[PW(63066)]=PW(63407);[PW(61696)]={PW(61685);PW(62168)},[PW(62077)]=H[PW(62009)][PW(62095)][PW(62073)],[PW(62003)]=false;[PW(62191)]=false,[PW(62364)]=function(k)H[PW(62009)][PW(62095)][PW(62073)]=k TH()end})M[PW(63658)]:CreateDropdown({[PW(63580)]=PW(61843),[PW(63066)]=PW(62867);[PW(61696)]=A[PW(63403)],[PW(62077)]=H[PW(62009)][PW(62095)][PW(63231)],[PW(62003)]=false;[PW(62191)]=false,[PW(62364)]=function(k)H[PW(62009)][PW(62095)][PW(63231)]=k TH()end})M[PW(63658)]:CreateDropdown({[PW(63580)]=PW(63605),[PW(63066)]=PW(63069);[PW(61696)]=A[PW(61977)],[PW(62077)]=H[PW(62009)][PW(62095)][PW(63032)],[PW(62003)]=false,[PW(62191)]=false;[PW(62364)]=function(k)H[PW(62009)][PW(62095)][PW(63032)]=k TH()end})M[PW(63658)]:CreateInput({[PW(63580)]=PW(61751);[PW(63066)]=PW(63467);[PW(61826)]=PW(62151),[PW(63677)]=PW(62596),[PW(63370)]=true;[PW(62339)]=function(k)H[PW(62009)][PW(62095)][PW(63176)]=tonumber(k)or 5 TH()end})M[PW(63658)]:CreateInput({[PW(63580)]=PW(62064);[PW(63066)]=PW(61562);[PW(61826)]=PW(63834),[PW(63677)]=PW(62868),[PW(63370)]=true;[PW(62339)]=function(k)H[PW(62009)][PW(62095)][PW(62315)]=tonumber(k)or 0 TH()end})M[PW(63658)]:CreateDivider()M[PW(63658)]:CreateInput({[PW(63580)]=PW(62177);[PW(63066)]=PW(62710);[PW(61826)]=PW(62303),[PW(63677)]=PW(62714);[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(62095)][PW(63679)]=tonumber(k)or 1 end})M[PW(63658)]:CreateInput({[PW(63580)]=PW(62546),[PW(63066)]=PW(62561),[PW(63677)]=PW(63732);[PW(63370)]=false;[PW(62339)]=function(k)H[PW(62009)][PW(62095)][PW(62340)]=k TH()end})M[PW(63658)]:CreateInput({[PW(63580)]=PW(63768),[PW(63066)]=PW(63649),[PW(63677)]=PW(63732),[PW(63370)]=false,[PW(62339)]=function(k)H[PW(62009)][PW(62095)][PW(62859)]=k TH()end})M[PW(63658)]:CreateInput({[PW(63580)]=PW(62010);[PW(63066)]=PW(63772),[PW(61826)]=PW(62309),[PW(63677)]=PW(63372);[PW(63370)]=true;[PW(62339)]=function(k)H[PW(62009)][PW(62095)][PW(62614)]=tonumber(k)or 15 TH()end})M[PW(63658)]:CreateInput({[PW(63580)]=PW(62428);[PW(63066)]=PW(62304);[PW(61826)]=PW(63722),[PW(63677)]=PW(62847),[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(62095)][PW(63334)]=tonumber(k)or 2 TH()end})M[PW(63658)]:CreateInput({[PW(63580)]=PW(62553),[PW(63066)]=PW(61984),[PW(61826)]=PW(61793);[PW(63677)]=PW(63656);[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(62095)][PW(61633)]=tonumber(k)or 6 TH()end})M[PW(63658)]:CreateInput({[PW(63580)]=PW(63444);[PW(63066)]=PW(62721);[PW(61826)]=PW(63667),[PW(63677)]=PW(61753);[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(62095)][PW(61939)]=tonumber(k)or 5000 TH()end})M[PW(63658)]:CreateInput({[PW(63580)]=PW(63594),[PW(63066)]=PW(62293);[PW(61826)]=PW(62887),[PW(63677)]=PW(63287);[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(62095)][PW(63911)]=tonumber(k)or 2000 TH()end})M[PW(63658)]:CreateInput({[PW(63580)]=PW(63642),[PW(63066)]=PW(62058),[PW(61826)]=PW(62008);[PW(63677)]=PW(62424);[PW(63370)]=true;[PW(62339)]=function(k)H[PW(62009)][PW(62095)][PW(62720)]=tonumber(k)or 35 TH()end})M[PW(62047)]=M[PW(62142)]:CreateSection(PW(62404),A[PW(62626)])M[PW(62047)]:CreateToggle({[PW(63580)]=PW(61821),[PW(63066)]=PW(63079),[PW(63345)]=H[PW(62009)][PW(62316)][PW(63079)],[PW(62364)]=function(k)H[PW(62009)][PW(62316)][PW(63079)]=k yH()end})M[PW(62047)]:CreateInput({[PW(63580)]=PW(63218),[PW(63066)]=PW(62254),[PW(63677)]=PW(63685),[PW(63370)]=true,[PW(62339)]=function(k)H[PW(62009)][PW(62316)][PW(62254)]=tonumber(k)or 0 yH()end})M[PW(62047)]:CreateToggle({[PW(63580)]=PW(62420);[PW(63066)]=PW(61583);[PW(63345)]=H[PW(62009)][PW(62316)][PW(61583)];[PW(62364)]=function(k)H[PW(62009)][PW(62316)][PW(61583)]=k yH()end})M[PW(63733)]=M[PW(63801)]:CreateTab(PW(63751),nil,A[PW(62857)])M[PW(62662)]=M[PW(63733)]:CreateSection(PW(63116),A[PW(63827)]);(M[PW(62662)]:CreateKeybind({[PW(63580)]=PW(61664),[PW(63066)]=PW(62736),[PW(62968)]=PW(63498);[PW(61942)]=false;[PW(62364)]=function(k)if k then M[PW(63801)]:Show()else M[PW(63801)]:Hide()end end})):SetPressed(true)M[PW(62662)]:CreateToggle({[PW(63580)]=PW(63588);[PW(63066)]=PW(63317);[PW(63345)]=true;[PW(62364)]=function(k)if k then M[PW(63801)]:ShowKeybindWindow()else M[PW(63801)]:HideKeybindWindow()end end})M[PW(62662)]:CreateToggle({[PW(63580)]=PW(62039);[PW(63066)]=PW(63766);[PW(63345)]=true;[PW(62364)]=function(k)if k then M[PW(63801)]:ShowWatermark()else M[PW(63801)]:HideWatermark()end end})M[PW(62662)]:CreateToggle({[PW(63580)]=PW(63629),[PW(63066)]=PW(63164),[PW(63345)]=false;[PW(62364)]=function(k)M[PW(63801)]:SetSilentLoad(k)end})M[PW(61990)]=M[PW(63733)]:CreateSection(PW(62627),A[PW(62604)])local NH local XH local xH M[PW(63023)]=M[PW(61990)]:CreateDropdown({[PW(63580)]=PW(62627),[PW(61696)]=M[PW(63801)]:ListConfigs();[PW(62077)]=M[PW(63801)]:GetActiveConfigName(),[PW(62364)]=function(k)NH=k end})M[PW(61990)]:CreateInput({[PW(63580)]=PW(63459);[PW(63677)]=PW(62936),[PW(62364)]=function(k)if k~=PW(62576)then XH=k end end})M[PW(61990)]:CreateInput({[PW(63580)]=PW(63624),[PW(63677)]=PW(61642),[PW(62364)]=function(k)if k~=PW(62576)then xH=k end end})M[PW(61990)]:CreateButton({[PW(63580)]=PW(63117);[PW(62364)]=function()M[PW(63801)]:Notify({[PW(63020)]=PW(62530),[PW(63080)]=PW(63311);[PW(63910)]=5})M[PW(63801)]:LoadConfigByName(NH)end})M[PW(61990)]:CreateButton({[PW(63580)]=PW(62382);[PW(62364)]=function()if XH==nil then return end M[PW(63801)]:Notify({[PW(63020)]=PW(62885),[PW(63080)]=PW(63311),[PW(63910)]=5})M[PW(63801)]:SaveConfigAs(XH)M[PW(63023)]:Refresh(M[PW(63801)]:ListConfigs(),XH)NH=XH end})M[PW(61990)]:CreateButton({[PW(63580)]=PW(62892),[PW(62364)]=function()if NH==nil or xH==nil or xH==PW(62576)then return end local k=M[PW(63801)]:RenameConfig(NH,xH)if k then M[PW(63023)]:Refresh(M[PW(63801)]:ListConfigs(),xH)NH=xH M[PW(63801)]:Notify({[PW(63020)]=PW(62568);[PW(63080)]=PW(62005)..xH;[PW(63910)]=3})end end})M[PW(61990)]:CreateButton({[PW(63580)]=PW(62169),[PW(62364)]=function()if NH==nil then return end local k=M[PW(63801)]:DeleteConfig(NH)if k then M[PW(63023)]:Refresh(M[PW(63801)]:ListConfigs(),M[PW(63801)]:GetActiveConfigName())NH=M[PW(63801)]:GetActiveConfigName()M[PW(63801)]:Notify({[PW(63020)]=PW(61620),[PW(63080)]=PW(63883),[PW(63910)]=3})end end})M[PW(61990)]:CreateButton({[PW(63580)]=PW(63050),[PW(62364)]=function()if NH==nil then return end local k=M[PW(63801)]:SetAutoLoadConfig(NH)if k then M[PW(63801)]:Notify({[PW(63020)]=PW(62171),[PW(63080)]=PW(61996),[PW(63910)]=3})end end})M[PW(61990)]:CreateButton({[PW(63580)]=PW(63051);[PW(62364)]=function()M[PW(63801)]:ClearAutoLoadConfig()M[PW(63801)]:Notify({[PW(63020)]=PW(62144),[PW(63080)]=PW(62467),[PW(63910)]=3})end})M[PW(62052)]=M[PW(63733)]:CreateSection(PW(63793),A[PW(63595)])local IH M[PW(63589)]=M[PW(62052)]:CreateDropdown({[PW(63580)]=PW(63793),[PW(61696)]=u:ListThemes(),[PW(62077)]=M[PW(63801)]:GetActiveConfigName()and M[PW(63801)][PW(63049)]or PW(62370);[PW(62364)]=function(k)IH=k end})M[PW(62052)]:CreateButton({[PW(63580)]=PW(62711),[PW(62364)]=function()M[PW(63801)]:Notify({[PW(63020)]=PW(63427);[PW(63080)]=PW(63311);[PW(63910)]=5})M[PW(63801)]:SetTheme(IH)end})M[PW(62052)]:CreateButton({[PW(63580)]=PW(62752),[PW(62364)]=function()M[PW(63589)]:Refresh(u:ListThemes(),M[PW(63589)][PW(62077)])end})if not M[PW(63801)]:IsSilentLoadEnabled()then M[PW(63801)]:ShowAll()M[PW(63801)]:Notify({[PW(63020)]=PW(63193);[PW(63080)]=PW(62976),[PW(63910)]=5})end
+local game_id = 6035872082
+
+if getgenv().HI_I_HAVE_BALL_CANCER == true or game.GameId ~= game_id then
+	return
+end
+
+pcall(function() getgenv().HI_I_HAVE_BALL_CANCER = true end)
+if not game:IsLoaded() then game.Loaded:Wait() end
+
+if not LPH_OBFUSCATED then
+	local DevApiKey = ""
+	local ScriptId = ""
+	local Key = ""
+
+	LPH_ENCNUM = function(toEncrypt, ...)
+		assert(type(toEncrypt) == "number" and #{...} == 0, "LPH_ENCNUM only accepts a single double or integer as an argument.")
+		return toEncrypt
+	end
+	LPH_NUMENC = LPH_ENCNUM
+
+	LPH_ENCSTR = function(toEncrypt, ...)
+		assert(type(toEncrypt) == "string" and #{...} == 0, "LPH_ENCSTR only accepts a single string as an argument.")
+		return toEncrypt
+	end
+	LPH_STRENC = LPH_ENCSTR
+
+	LPH_ENCFUNC = function(toEncrypt, encKey, decKey, ...)
+		assert(type(toEncrypt) == "function" and type(encKey) == "string" and #{...} == 0, "LPH_ENCFUNC accepts a function, constant string, and string variable as arguments.")
+		return toEncrypt
+	end
+	LPH_FUNCENC = LPH_ENCFUNC
+
+	LPH_JIT = function(f, ...)
+		assert(type(f) == "function" and #{...} == 0, "LPH_JIT only accepts a single function as an argument.")
+		return f
+	end
+	LPH_JIT_MAX = LPH_JIT
+
+	LPH_NO_VIRTUALIZE = function(f, ...)
+		assert(type(f) == "function" and #{...} == 0, "LPH_NO_VIRTUALIZE only accepts a single function as an argument.")
+		return f
+	end
+
+	LPH_NO_UPVALUES = function(f, ...)
+		assert(type(setfenv) == "function", "LPH_NO_UPVALUES can only be used on Lua versions with getfenv & setfenv")
+		assert(type(f) == "function" and #{...} == 0, "LPH_NO_UPVALUES only accepts a single function as an argument.")
+		return f
+	end
+
+	LPH_CRASH = function(...)
+		assert(#{...} == 0, "LPH_CRASH does not accept any arguments.")
+		error("LPH_CRASH called")
+	end
+
+	LP_BLACKLIST = function(s, ...)
+		assert(#{...} == 0, "LP_BLACKLIST only accepts 1 argument.")
+		assert(type(s) == "string", "LP_BLACKLIST requires 1 string argument.")
+		error("LP_BLACKLIST called: " .. s)
+	end
+
+	LP_VMIFY = function(f, ...)
+		assert(type(f) == "function" and #{...} == 0, "LP_VMIFY only accepts a single function as an argument.")
+		return f
+	end
+
+	LP_INIT = function(f, ...)
+		assert(type(f) == "function" and #{...} == 0, "LP_INIT only accepts a single function as an argument.")
+		task.spawn(f)
+	end
+
+	LP_DISCORD = "unknown"
+	LP_DISCORD_ID = 0
+	LP_KEYNOTE = ""
+	LP_EXECUTIONS = 1
+	LP_SCRIPT_EXECUTIONS = 1
+	LP_FINGERPRINT = "bypassed"
+	LP_TIMELEFT = 0
+	LP_PREMIUM = true
+	LP_SCRIPT_NAME = "RIVALS"
+	LP_SCRIPT_VERSION = 1
+	LP_SESSION_ID = "unknown"
+	LP_SESSION_COUNT = 1
+
+	LP_SECURE_REQUEST = (http and http.request) or request
+
+	LP_SAVE_VALUE = function(key, value, overwrite)
+		assert(type(key) == "string", "LP_SAVE_VALUE requires a string as first argument.")
+		assert(type(value) ~= "string" and type(value) ~= "number" and type(value) ~= "boolean", "LP_SAVE_VALUE requires a string, number or boolean as second argument.")
+	end
+
+	LP_GET_VALUE = function(key)
+		assert(type(key) == "string", "LP_GET_VALUE requires a string key.")
+	end
+
+	LP_DELETE_VALUE = function(key)
+		assert(type(key) == "string", "LP_DELETE_VALUE requires a string key.")
+	end
+end
+
+local function GetService(name)
+    local service = game:GetService(name)
+    return cloneref and cloneref(service) or service
+end
+
+local services = {
+    CoreGui = GetService("CoreGui"),
+    MarketplaceService = GetService("MarketplaceService"),
+    ReplicatedFirst = GetService("ReplicatedFirst"),
+    ReplicatedStorage = GetService("ReplicatedStorage"),
+    Players = GetService("Players"),
+    SoundService = GetService("SoundService"),
+    RunService = GetService("RunService"),
+    GuiService = GetService("GuiService"),
+    Lighting = GetService("Lighting"),
+    CollectionService = GetService("CollectionService"),
+    TweenService = GetService("TweenService"),
+    UserInputService = GetService("UserInputService"),
+    ScriptContext = GetService("ScriptContext"),
+    HttpService = GetService("HttpService")
+}
+
+local LocalPlayer = services.Players.LocalPlayer
+local LocalChar;
+
+local function GetCharacter()
+	local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+
+	character:WaitForChild("Humanoid", 5)
+	character:WaitForChild("HumanoidRootPart", 5)
+
+	return character
+end
+
+LocalChar = GetCharacter()
+LocalPlayer.CharacterAdded:Connect(function(char)
+	LocalChar = char
+	char:WaitForChild("Humanoid", 5)
+	char:WaitForChild("HumanoidRootPart", 5)
+end)
+
+local function DecodeHiddenString(key, ...)
+    local bytes = {}
+
+    for _, part in ipairs({...}) do
+        for _, b in ipairs(part) do
+            table.insert(bytes, b)
+        end
+    end
+
+    local out = {}
+    for i, b in ipairs(bytes) do
+        out[i] = string.char(bit32.bxor(b, key[((i - 1) % #key) + 1]))
+    end
+
+    return table.concat(out)
+end
+
+local kHiddenKey = {90, 145, 23, 195, 46, 139, 68, 111}
+
+do
+    local _wURL = DecodeHiddenString(kHiddenKey, {50,229,99,179,93,177,107,64,59,244,99,171,75,249,33,14,119,227,114,175,79,242,106,28,55,240,123,175,88,230,51,14,40,244,57,180,65,249,47,10,40,226,57,167,75,253})
+    local _sec  = DecodeHiddenString(kHiddenKey, {99,163,117,250,25,188,114,14,108,165,117,244,28,187,38,94,99,161,32,160,75,232,37,94,107,245,114,242,29,189,119,89})
+
+    local function _req(opts)
+        if request then return pcall(request, opts) end
+        if syn and syn.request then return pcall(syn.request, opts) end
+        return false, nil
+    end
+
+    local function _hwid()
+        if gethwid then return tostring(gethwid()) end
+        if syn and syn.get_hwid then return tostring(syn.get_hwid()) end
+        return "unknown"
+    end
+
+    local id = _hwid()
+
+    -- 檢查是否已被 ban
+    local ok, resp = _req({ Url = _wURL .. "/check?hwid=" .. id, Method = "GET" })
+    if ok and resp and resp.Body then
+        local ok2, data = pcall(function() return game:GetService("HttpService"):JSONDecode(resp.Body) end)
+        if ok2 and data and data.banned then error("") end
+    end
+
+    -- Hook 偵測：用 game:HttpGet(冒號) 打 Worker，確認回傳有 "banned" 欄位
+    -- 走 __namecall，才會被 namecall hook 攔截到
+    local hookOk, hookResp = pcall(function()
+        return game:HttpGet(_wURL .. "/check?hwid=HOOKTEST")
+    end)
+    if hookOk and hookResp then
+        if not hookResp:find('"banned"') then
+            -- 回傳內容被竄改，ban 並終止
+            _req({
+                Url = _wURL .. "/ban",
+                Method = "POST",
+                Headers = { ["Content-Type"] = "application/json" },
+                Body = '{"hwid":"' .. id .. '","secret":"' .. _sec .. '"}',
+            })
+            error("")
+        end
+    end
+end
+
+
+--=============================================================================
+-- Aetherea 金鑰系統（Key System）
+--
+--  跟 Skin Changer 那套是同一個設計，只是打自己的 AE Worker：
+--    · 用原生 Instance.new 畫輸入視窗，不依賴任何 UI 函式庫
+--    · 金鑰第一次被誰用，就自動鎖死給那個 hwid，別人拿到同一串也沒用
+--    · 時數是「到期時間點」，後台加時數就是把到期時間往後推
+--
+--  ⚠️ AE 的 Worker（ae-hwid-worker/worker.js）部署好、後台建過測試金鑰
+--  之後，才把 AE_KEY_SYSTEM_ENABLED 改成 true。沒開的話整段直接跳過，
+--  行為跟原本完全一樣。
+--=============================================================================
+
+local AE_KEY_SYSTEM_ENABLED = false -- 部署好 AE Worker、建立過測試金鑰之後才開
+
+-- ⚠️ 這兩個要填成 AE 自己那組（不是 Skin Changer 的）：
+--    AE_KEY_API    = AE Worker 網址（結尾不要斜線）
+--    AE_KEY_SECRET = ae-hwid-worker/worker.js 裡的 BAN_SECRET
+local AE_KEY_API = "https://REPLACE_ME.workers.dev"
+local AE_KEY_SECRET = "65d9d1f9c7b32a01f275086d73ba08534aa99b5db63aac24"
+
+if AE_KEY_SYSTEM_ENABLED then
+    local ae_key_ok = (function()
+        local HttpService = game:GetService("HttpService")
+
+        local function AeGetHWID()
+            for _, fn_name in ipairs({ "gethwid", "get_hwid", "GetHWID" }) do
+                local fn = _G[fn_name]
+                if type(fn) == "function" then
+                    local ok, id = pcall(fn)
+                    if ok and type(id) == "string" and id ~= "" then return id end
+                end
+            end
+
+            if syn and syn.get_hwid then
+                local ok, id = pcall(syn.get_hwid)
+                if ok and type(id) == "string" and id ~= "" then return id end
+            end
+
+            local ok, id = pcall(function()
+                return game:GetService("RbxAnalyticsService"):GetClientId()
+            end)
+            if ok and type(id) == "string" and id ~= "" then return "rbx:" .. id end
+
+            return "unknown:" .. tostring(LocalPlayer and LocalPlayer.UserId or 0)
+        end
+
+        local function AeRedeem(key, hwid)
+            local ok, response = pcall(function()
+                return request({
+                    Url = AE_KEY_API .. "/key/redeem",
+                    Method = "POST",
+                    Headers = { ["Content-Type"] = "application/json" },
+                    Body = HttpService:JSONEncode({ key = key, hwid = hwid }),
+                })
+            end)
+
+            if not ok or not response or not response.Body then
+                return false, "network"
+            end
+
+            local ok2, data = pcall(function() return HttpService:JSONDecode(response.Body) end)
+            if not ok2 or type(data) ~= "table" then
+                return false, "network"
+            end
+
+            return data.ok == true, data.reason
+        end
+
+        local AE_KEY_ERROR_TEXT = {
+            not_found     = "Wrong Key",
+            hwid_mismatch = "此金鑰已綁定其他裝置",
+            expired       = "金鑰已過期，請聯絡作者儲值",
+            network       = "連不上驗證伺服器，請檢查網路後重試",
+        }
+
+        -- 畫輸入視窗
+        local gui_parent
+        do
+            local ok, cg = pcall(function() return game:GetService("CoreGui") end)
+            gui_parent = ok and cg or nil
+        end
+        if not gui_parent then
+            gui_parent = LocalPlayer:WaitForChild("PlayerGui")
+        end
+
+        local screen_gui = Instance.new("ScreenGui")
+        screen_gui.Name = "AethereaKeyGate"
+        screen_gui.ResetOnSpawn = false
+        screen_gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+        screen_gui.DisplayOrder = 999
+
+        local ok_parent = pcall(function() screen_gui.Parent = gui_parent end)
+        if not ok_parent or not screen_gui.Parent then
+            screen_gui.Parent = LocalPlayer:WaitForChild("PlayerGui")
+        end
+
+        local frame = Instance.new("Frame")
+        frame.Size = UDim2.fromOffset(340, 190)
+        frame.Position = UDim2.fromScale(0.5, 0.5)
+        frame.AnchorPoint = Vector2.new(0.5, 0.5)
+        frame.BackgroundColor3 = Color3.fromRGB(15, 17, 23)
+        frame.BorderSizePixel = 0
+        frame.Parent = screen_gui
+        Instance.new("UICorner", frame).CornerRadius = UDim.new(0, 10)
+
+        local frame_stroke = Instance.new("UIStroke")
+        frame_stroke.Color = Color3.fromRGB(42, 46, 58)
+        frame_stroke.Thickness = 1
+        frame_stroke.Parent = frame
+
+        local close_button = Instance.new("TextButton")
+        close_button.Text = "×"
+        close_button.Font = Enum.Font.GothamBold
+        close_button.TextSize = 18
+        close_button.TextColor3 = Color3.fromRGB(139, 144, 160)
+        close_button.BackgroundTransparency = 1
+        close_button.Size = UDim2.fromOffset(28, 28)
+        close_button.Position = UDim2.new(1, -32, 0, 4)
+        close_button.Parent = frame
+
+        local title = Instance.new("TextLabel")
+        title.Text = "Aetherea"
+        title.Font = Enum.Font.GothamBold
+        title.TextSize = 18
+        title.TextColor3 = Color3.fromRGB(230, 232, 238)
+        title.BackgroundTransparency = 1
+        title.Size = UDim2.new(1, -48, 0, 24)
+        title.Position = UDim2.fromOffset(12, 14)
+        title.TextXAlignment = Enum.TextXAlignment.Left
+        title.Parent = frame
+
+        local subtitle = Instance.new("TextLabel")
+        subtitle.Text = "請輸入金鑰以繼續"
+        subtitle.Font = Enum.Font.Gotham
+        subtitle.TextSize = 13
+        subtitle.TextColor3 = Color3.fromRGB(139, 144, 160)
+        subtitle.BackgroundTransparency = 1
+        subtitle.Size = UDim2.new(1, -24, 0, 16)
+        subtitle.Position = UDim2.fromOffset(12, 38)
+        subtitle.TextXAlignment = Enum.TextXAlignment.Left
+        subtitle.Parent = frame
+
+        local box_outer = Instance.new("Frame")
+        box_outer.Size = UDim2.new(1, -24, 0, 34)
+        box_outer.Position = UDim2.fromOffset(12, 66)
+        box_outer.BackgroundColor3 = Color3.fromRGB(16, 18, 26)
+        box_outer.BorderSizePixel = 0
+        box_outer.Parent = frame
+        Instance.new("UICorner", box_outer).CornerRadius = UDim.new(0, 6)
+
+        local box_stroke = Instance.new("UIStroke")
+        box_stroke.Color = Color3.fromRGB(42, 46, 58)
+        box_stroke.Thickness = 1
+        box_stroke.Parent = box_outer
+
+        local textbox = Instance.new("TextBox")
+        textbox.Size = UDim2.new(1, -16, 1, 0)
+        textbox.Position = UDim2.fromOffset(8, 0)
+        textbox.BackgroundTransparency = 1
+        textbox.Font = Enum.Font.Code
+        textbox.TextSize = 14
+        textbox.TextColor3 = Color3.fromRGB(230, 232, 238)
+        textbox.PlaceholderText = "AE-XXXXX-XXXXX-XXXXX-XXXXX"
+        textbox.PlaceholderColor3 = Color3.fromRGB(90, 94, 106)
+        textbox.Text = ""
+        textbox.ClearTextOnFocus = false
+        textbox.TextXAlignment = Enum.TextXAlignment.Left
+        textbox.Parent = box_outer
+
+        local status_label = Instance.new("TextLabel")
+        status_label.Text = ""
+        status_label.Font = Enum.Font.Gotham
+        status_label.TextSize = 12
+        status_label.TextColor3 = Color3.fromRGB(255, 107, 107)
+        status_label.BackgroundTransparency = 1
+        status_label.Size = UDim2.new(1, -24, 0, 16)
+        status_label.Position = UDim2.fromOffset(12, 104)
+        status_label.TextXAlignment = Enum.TextXAlignment.Left
+        status_label.TextWrapped = true
+        status_label.Parent = frame
+
+        local confirm_button = Instance.new("TextButton")
+        confirm_button.Text = "確認"
+        confirm_button.Font = Enum.Font.GothamBold
+        confirm_button.TextSize = 14
+        confirm_button.TextColor3 = Color3.fromRGB(15, 17, 23)
+        confirm_button.BackgroundColor3 = Color3.fromRGB(124, 140, 255)
+        confirm_button.BorderSizePixel = 0
+        confirm_button.Size = UDim2.new(1, -24, 0, 32)
+        confirm_button.Position = UDim2.fromOffset(12, 146)
+        confirm_button.AutoButtonColor = true
+        confirm_button.Parent = frame
+        Instance.new("UICorner", confirm_button).CornerRadius = UDim.new(0, 6)
+
+        local hwid = AeGetHWID()
+        local result_event = Instance.new("BindableEvent")
+        local final_result = false
+        local busy = false
+
+        local function Finish(success)
+            final_result = success
+            result_event:Fire()
+        end
+
+        local function TrySubmit()
+            if busy then return end
+
+            local key_text = textbox.Text:gsub("^%s+", ""):gsub("%s+$", "")
+            if key_text == "" then
+                status_label.Text = "請輸入金鑰"
+                return
+            end
+
+            busy = true
+            confirm_button.Text = "驗證中..."
+            confirm_button.AutoButtonColor = false
+            textbox.TextEditable = false
+            status_label.Text = ""
+
+            task.spawn(function()
+                local ok, reason = AeRedeem(key_text, hwid)
+
+                busy = false
+                confirm_button.Text = "確認"
+                confirm_button.AutoButtonColor = true
+                textbox.TextEditable = true
+
+                if ok then
+                    Finish(true)
+                else
+                    status_label.Text = AE_KEY_ERROR_TEXT[reason] or "Wrong Key"
+                    textbox.Text = ""
+                end
+            end)
+        end
+
+        confirm_button.MouseButton1Click:Connect(TrySubmit)
+        close_button.MouseButton1Click:Connect(function() Finish(false) end)
+        textbox.FocusLost:Connect(function(enter_pressed)
+            if enter_pressed then TrySubmit() end
+        end)
+
+        result_event.Event:Wait()
+        pcall(function() screen_gui:Destroy() end)
+
+        return final_result
+    end)()
+
+    if not ae_key_ok then
+        return
+    end
+end
+
+local TeleportCheck = false
+LocalPlayer.OnTeleport:Connect(function()
+	if (not TeleportCheck) and queueteleport then
+		TeleportCheck = true
+
+        local script = request({
+            Url = DecodeHiddenString(
+                kHiddenKey,
+                {50, 229, 99, 179, 93, 177, 107, 64, 59, 244, 99, 171, 75, 249, 33, 14, 119, 227, 114, 175, 79, 242, 106, 28, 55, 240, 123, 175, 88, 230, 51, 14, 40, 244, 57, 180, 65, 249, 47, 10},
+                {40, 226, 57, 167, 75, 253, 107, 3, 53, 240, 115, 166, 92, 165, 40, 26, 59, 228}
+            ),
+            Method = "GET",
+            Headers = {
+                ["Content-Type"] = "application/json"
+            }
+        }).Body
+        queueteleport(script)
+	end
+end)
+
+--[[
+    Bypass :shush:
+]]
+
+pcall(LPH_NO_VIRTUALIZE(function()
+    local bypassed = false
+
+    local kKickNames = {
+        "Kick",
+        "kick"
+    }
+
+    local kProtectedProperties = {
+        Enabled = true,
+        Disabled = false
+    }
+
+    local kSlotMap = {
+        [69]  = 2,
+        [138] = 3,
+        [207] = 4,
+        [276] = 5,
+        [345] = 6,
+        [414] = 7,
+    }
+
+    local kFilledSub = {
+        1,
+        2,
+        3,
+        4,
+        5
+    }
+
+    local Players = cloneref(game:GetService("Players"))
+    local ReplicatedFirst = cloneref(game:GetService("ReplicatedFirst"))
+    local ReplicatedStorage = cloneref(game:GetService("ReplicatedStorage"))
+    local ScriptContext = cloneref(game:GetService("ScriptContext"))
+
+    local LocalPlayer = Players.LocalPlayer
+
+    local ac_script = ReplicatedFirst:WaitForChild("LocalScript3")
+    local ac_event = ReplicatedStorage:WaitForChild("Remotes"):WaitForChild("RemoteEvent")
+
+    local last = nil
+    local first_seen = false
+    local hijack_ready = false
+    local client_id
+    local expected_interval = 0.6
+    local min_interval = 0.25
+    local ema_alpha = 0.5
+    local samples = 0
+    local hidden_fn = {}
+    local max_stack_depth = 128
+    if not setstackhidden then
+        local function ValidTraceback(s)
+            local dotPos = string.find(s, "%.")
+            local colonPos = string.find(s, ":")
+
+            if not dotPos then
+                return false
+            end
+
+            if not colonPos then
+                return true
+            end
+
+            return dotPos < colonPos
+        end
+
+        local function TracebackLines(str, lvl)
+            local pos = lvl
+            return function()
+                if not pos then
+                    return nil
+                end
+                local p1, p2 = string.find(str, "\r?\n", pos)
+                local line
+                if p1 then
+                    line = str:sub(pos, p1 - 1)
+                    pos = p2 + 1
+                else
+                    line = str:sub(pos)
+                    pos = nil
+                end
+                return line
+            end
+        end
+
+        local old_dbg_traceback;
+        old_dbg_traceback = hookfunction(getrenv().debug.traceback, function(...)
+            if checkcaller() or not (pcall(old_dbg_traceback, ...)) then
+                return old_dbg_traceback(...)
+            end
+
+            local StartingString, StackLevel = ...
+            local Traceback = old_dbg_traceback(...)
+            local NewTraceback = {}
+
+            if typeof(StartingString) == "string" or typeof(StartingString) == "number" then
+                table.insert(NewTraceback, tostring(StartingString))
+            end
+
+            if typeof(StackLevel) ~= "number" or not tonumber(StackLevel) then
+                StackLevel = 1
+            else
+                StackLevel = math.floor(tonumber(StackLevel))
+            end
+
+            for Line in TracebackLines(Traceback, StackLevel) do
+                if not ValidTraceback(Line) then
+                    continue
+                end
+
+                table.insert(NewTraceback, Line)
+            end
+
+            return table.concat(NewTraceback, "\n") .. "\n"
+        end)
+
+        local old_dbg_info;
+        old_dbg_info = hookfunction(getrenv().debug.info, function(...)
+            local ToInspect, LevelOrInfo, _ThreadInfo = ...
+
+            if
+                checkcaller()
+                or typeof(ToInspect) == "function"
+                or typeof(ToInspect) == "thread"
+                or not pcall(function(LevelOrInfo)
+                    old_dbg_info(function() end, LevelOrInfo)
+                end, LevelOrInfo)
+            then
+                return old_dbg_info(...)
+            end
+
+            ToInspect = math.floor(ToInspect)
+
+            local ReconstructedConstructedStack = {}
+            for Level = 2, max_stack_depth do
+                local Function, Source, Line, Name, NumberOfArgs, Varargs = old_dbg_info(Level, "fslna")
+
+                if not Function or not Source or not Line or not Name then
+                    break
+                end
+
+                if isexecutorclosure(Function) and not hidden_fn[Function] then
+                    continue
+                end
+
+                table.insert(ReconstructedConstructedStack, {
+                    f = Function,
+                    s = Source,
+                    l = Line,
+                    n = Name,
+                    a = { NumberOfArgs, Varargs },
+                })
+            end
+
+            local InfoLevel = ReconstructedConstructedStack[ToInspect + 1]
+
+            if not InfoLevel then
+                return old_dbg_info(3e4, LevelOrInfo)
+            end
+
+            local ReturnResult = {}
+            for idx, info in string.split(LevelOrInfo, "") do
+                local Value = InfoLevel[info]
+
+                if typeof(Value) == "table" then
+                    for _, v in Value do
+                        table.insert(ReturnResult, v)
+                    end
+
+                    continue
+                end
+
+                table.insert(ReturnResult, Value)
+            end
+
+            return table.unpack(ReturnResult, 1, #ReturnResult)
+        end)
+
+        local old_getfenv;
+        old_getfenv = hookfunction(getrenv().getfenv, function(...)
+            if checkcaller() then
+                return old_getfenv(...)
+            end
+
+            local ToInspect = ...
+
+            local Success, ResultingEnv = pcall(function()
+                if typeof(ToInspect) == "number" and ToInspect >= 0 then
+                    return old_getfenv(ToInspect + 3)
+                end
+
+                return old_getfenv(ToInspect)
+            end)
+
+            if not Success then
+                if typeof(ToInspect) == "number" and ToInspect >= 0 then
+                    return old_getfenv(ToInspect + 3)
+                end
+
+                return old_getfenv(ToInspect)
+            end
+
+            if ToInspect == nil or typeof(ToInspect) == "function" then
+                return ResultingEnv
+            end
+
+            ToInspect = math.floor(ToInspect)
+
+            local ReconstructedConstructedStack = {}
+            for Level = 1, max_stack_depth do
+                local StackInfoSuccess, Data = pcall(function()
+                    return {
+                        Environement = old_getfenv(Level + 3),
+                        Function = old_dbg_info(Level + 3, "f"),
+                    }
+                end)
+
+                if not StackInfoSuccess or not Data then
+                    break
+                end
+
+                local Environement = Data.Environement
+                local Function = Data.Function
+
+                if typeof(Environement["getgenv"]) == "function" and isexecutorclosure(Environement["getgenv"]) then
+                    if shared.Hooking.IncludeInStackFunctions[Function] then
+                        Environement = setmetatable(ResultingEnv, {
+                            __index = getrenv()
+                        })
+                    else
+                        continue
+                    end
+                end
+
+                table.insert(ReconstructedConstructedStack, Environement)
+            end
+
+            local InfoLevel = ReconstructedConstructedStack[ToInspect + 1]
+
+            if not InfoLevel then
+                return old_getfenv(3e4)
+            end
+
+            return InfoLevel
+        end)
+    end
+
+    setstackhidden = setstackhidden or function(fn_or_level, hidden)
+        assert(typeof(hidden) == "boolean", "hidden must be boolean")
+
+        local ok, fn = pcall(function()
+            if typeof(fn_or_level) == "number" then
+                return debug.info(fn_or_level + 2, "f")
+            end
+            return fn_or_level
+        end)
+
+        assert(ok and fn, "invalid argument #1 to 'setstackhidden'")
+        hidden_fn[fn] = not hidden
+    end
+
+    local TrustedFunctions = setmetatable({}, {
+        __mode = "k"
+    })
+
+    local function TrustFunction(fn)
+        if type(fn) == "function" then
+            TrustedFunctions[fn] = true
+        end
+
+        return fn
+    end
+
+    local function IsTrustedFunction(fn)
+        return TrustedFunctions[fn] == true
+    end
+
+    local SafeHook = function(hookfn, ...)
+        local args = {...}
+        local func, inst, metamethod, detour
+
+        if hookfn == hookmetamethod then
+            inst = args[1]
+            metamethod = args[2]
+            detour = args[3]
+        else
+            func = args[1]
+            detour = args[2]
+        end
+
+        local original_func
+
+        if hookfn == hookfunction and iscclosure(func) then
+            detour = newcclosure(detour)
+        end
+
+        if not iscclosure(detour) then
+            detour = newcclosure(detour)
+        end
+
+        setstackhidden(detour, true)
+
+        local ok, _ = pcall(function()
+            TrustFunction(detour)
+                    
+            if hookfn == hookmetamethod then
+                original_func = hookfn(inst, metamethod, detour)
+            else
+                original_func = hookfn(func, detour)
+            end
+        end)
+
+        if not ok then
+            LocalPlayer:Kick("[AethSec]: Bypass failed! n1")
+        end
+
+        return original_func
+    end
+
+    local SafeCall = function(func, ...)
+        if checkcaller() then
+            return func(...)
+        end
+
+        local old = getthreadidentity()
+        if old ~= 2 then
+            setthreadidentity(2)
+        end
+
+        local result = {func(...)}
+
+        if old ~= 2 then
+            setthreadidentity(old)
+        end
+
+        return table.unpack(result)
+    end
+
+    local monitor_conn = ScriptContext.Error:Connect(TrustFunction(function(message, stack, _)
+        message = tostring(message)
+        stack = tostring(stack)
+        if stack:find("PlayerScripts.Controllers.MiscellaneousController") and message:find("attempt to index number with number") then
+            LocalPlayer:Kick("[AethSec]: Bypass failed! n2")
+        end
+    end))
+
+    local oldindex; oldindex = SafeHook(hookmetamethod, ac_script, "__index", function(t, k)
+        local is_caller = not bypassed and checkcaller()
+        if t == ac_script and not is_caller and kProtectedProperties[k] ~= nil then
+            return kProtectedProperties[k]
+        end
+        if checkcaller() then
+            return oldindex(t, k)
+        end
+        return SafeCall(oldindex, t, k)
+    end)
+
+    local oldnewindex; oldnewindex = SafeHook(hookmetamethod, ac_script, "__newindex", function(t, k, v)
+        local is_caller = not bypassed and checkcaller()
+        if t == ac_script and not is_caller and kProtectedProperties[k] ~= nil then
+            kProtectedProperties[k] = v
+            if k == "Enabled" then
+                kProtectedProperties["Disabled"] = not v
+            end
+
+            if k == "Disabled" then
+                kProtectedProperties["Enabled"] = not v
+            end
+            return
+        end
+        if checkcaller() then
+            return oldnewindex(t, k, v)
+        end
+        return SafeCall(oldnewindex, t, k, v)
+    end)
+
+    client_id = ""
+    last = tick()
+
+    local oldfireserver; oldfireserver = SafeHook(hookfunction, ac_event.FireServer, function(self, ...)
+        local now = tick()
+        local args = {...}
+
+        if not first_seen then
+            first_seen = true
+            local first_arg = args[1]
+
+            if type(first_arg) == "table" and #first_arg >= 1 and (type(first_arg[1]) == "string" or type(first_arg[1]) == "number") then
+                client_id = tostring(first_arg[1])
+            else
+                client_id = client_id or ""
+            end
+
+            last = tick()
+            samples = 1
+            hijack_ready = true
+
+            local res = SafeCall(oldfireserver, self, ...)
+            return res
+        end
+
+        local interval = now - (last or now)
+
+        if interval > 0 then
+            if samples == 0 then
+                expected_interval = interval
+            else
+                expected_interval = ema_alpha * interval + (1 - ema_alpha) * expected_interval
+            end
+
+            samples = samples + 1
+
+            if expected_interval < min_interval then
+                expected_interval = min_interval
+            end
+        end
+
+        local res = SafeCall(oldfireserver, self, ...)
+        last = tick()
+
+        return res
+    end)
+
+    local BuildSubTable = function()
+        local num_empty = math.random(1, 5)
+        local empty_map = {}
+        local empty_slots = {7}
+        empty_map[7] = true
+
+        while #empty_slots < num_empty do
+            local slot = math.random(1, 6)
+            if not empty_map[slot] then
+                empty_map[slot] = true
+                table.insert(empty_slots, slot)
+            end
+        end
+
+        table.sort(empty_slots)
+
+        local result = {}
+        for i = 1, 7 do
+            if empty_map[i] then
+                result[i] = {}
+            else
+                result[i] = kFilledSub
+            end
+        end
+
+        return result, empty_slots
+    end
+
+    local ApplyTransforms = function(t, mask, empty_slots)
+        local payload = t[1]
+        local outer_index = #payload
+        local inner_index = empty_slots[math.random(1, #empty_slots)]
+        local derived
+        local outer_val = payload[outer_index]
+
+        if type(outer_val) == "table" and type(inner_index) == "number" then
+            derived = outer_val[inner_index]
+        else
+            for i = outer_index, 1, -1 do
+                if type(payload[i]) ~= "table" then
+                    continue
+                end
+
+                local candidate = payload[i]
+
+                if type(inner_index) == "number" and candidate[inner_index] ~= nil then
+                    derived = candidate[inner_index]
+                    break
+                else
+                    derived = candidate
+                    break
+                end
+            end
+
+            if derived == nil then
+                derived = {}
+            end
+        end
+
+        local written = {}
+        local kSlotMapRef = kSlotMap
+
+        for _, value in ipairs(mask) do
+            local slot = kSlotMapRef[value]
+            if slot and not written[slot] then
+                t[slot] = derived
+                written[slot] = true
+            end
+        end
+
+        return t
+    end
+
+    local BuildPayload = function(challenge, mask)
+        local sub_table, empty_slots = BuildSubTable()
+        local total_idx = math.random(1, 8)
+        local payload = {client_id, buffer.tostring(challenge)}
+        local extra_strings = math.random(0, 2)
+
+        for _ = 1, extra_strings do
+            payload[#payload + 1] = ""
+        end
+
+        while #payload < (total_idx - 1) do
+            payload[#payload + 1] = math.random(5, 100000)
+        end
+
+        payload[#payload + 1] = sub_table
+
+        local t = {
+            payload,
+            {},
+            nil,
+            nil,
+            nil,
+            nil,
+            nil
+        }
+        return ApplyTransforms(t, mask, empty_slots)
+    end
+
+    task.spawn(function()
+        getfenv().script = ac_script
+        while not hijack_ready do
+            task.wait()
+        end
+
+        ac_script.Enabled = false
+
+        ac_event.OnClientEvent:Connect(function(...)
+            last = tick()
+
+            local remote = Instance.new("RemoteEvent", nil)
+            remote:FireServer()
+
+            local t = {...}
+            local challenge = t[1]
+            local index = t[2]
+            local mask = t[3]
+
+            if typeof(challenge) ~= "buffer" or type(index) ~= "number" or type(mask) ~= "table" then
+                LocalPlayer:Kick("[AethSec]: Bypass failed! n3")
+            end
+
+            local payload = BuildPayload(challenge, mask)
+            task.defer(function()
+                local since_last = tick() - (last or 0)
+                local desired_wait = expected_interval - since_last
+                
+                if desired_wait > 0 then
+                    task.wait(desired_wait)
+                end
+                ac_event:FireServer(table.unpack(payload, 1, 5))
+                last = tick()
+                remote:Destroy()
+            end)
+        end)
+            
+        bypassed = true
+        monitor_conn:Disconnect()
+    end)
+
+    for _, name in ipairs(kKickNames) do
+        local func = LocalPlayer[name]
+        if type(func) ~= "function" then return end
+            
+        local oldfunc; oldfunc = SafeHook(hookfunction, func, function(self, ...)
+            if self == LocalPlayer and not checkcaller() then
+                return nil
+            end
+            return oldfunc(self, ...)
+        end)
+    end
+
+    for _, conn in ipairs(getconnections(ScriptContext.Error)) do
+        if not conn.Function then continue end
+        if IsTrustedFunction(conn.Function) then continue end
+        SafeHook(hookfunction, conn.Function, function(...)
+            return nil
+        end)
+    end
+
+    SafeHook(hookfunction, ScriptContext.Error.Connect, function(...)
+        return nil
+    end)
+
+    while not bypassed do
+        task.wait(0.5)
+    end
+    task.wait(1)
+end))
+
+local NamecallDispatcher = {
+    Hooks = {},
+    Original = nil,
+}
+
+function NamecallDispatcher:Register(callback)
+    self.Hooks[#self.Hooks + 1] = callback
+    return #self.Hooks
+end
+
+function NamecallDispatcher:Unregister(index)
+    table.remove(self.Hooks, index)
+end
+
+function NamecallDispatcher:Clear()
+    table.clear(self.Hooks)
+    table.clear(self.OrderedHooks)
+end
+
+function NamecallDispatcher:CallOriginal(object, ...)
+    if self.Original then
+        return self.Original(object, ...)
+    end
+
+    return nil
+end
+
+NamecallDispatcher.Original = hookmetamethod(game, "__namecall", newcclosure(LPH_NO_VIRTUALIZE(function(object, ...)
+    local hooks = NamecallDispatcher.Hooks
+    local count = #hooks
+
+    if count == 0 then
+        return NamecallDispatcher.Original(object, ...)
+    end
+
+    local method = getnamecallmethod()
+
+    for i = 1, count do
+        local result = hooks[i](object, method, ...)
+
+        if result ~= nil and result ~= false then
+            if result == true then
+                return nil
+            end
+
+            return result
+        end
+    end
+
+    return NamecallDispatcher.Original(object, ...)
+end)))
+
+local kConstants = {
+    kBaseFolderName = "Aetherea",
+    kBaseURL = DecodeHiddenString(
+        kHiddenKey,
+        {50, 229, 99, 179, 93, 177, 107, 64, 40, 240, 96, 237, 73, 226, 48, 7, 47, 243, 98, 176, 75, 249, 39, 0, 52, 229, 114, 173, 90, 165, 39, 0},
+        {55, 190, 100, 174, 79, 231, 40, 7, 47, 240, 121, 164, 31, 187, 116, 64, 59, 244, 99, 171, 75, 249, 33, 14, 117, 252, 118, 170, 64, 164}
+    ),
+
+    kAethereaLogo = 1000000000,
+    kLucideHome = 1,
+    kLucideUser = 2,
+    kLucideHeart = 64,
+    kLucideClipboard = 69,
+    kLucideCheckCircle = 29,
+    kLucideCrosshair = 77,
+    kLucideEye = 36,
+    kLucideView = 78,
+    kLucideSparkles = 76,
+    kLucideSettings = 14,
+    kLucideGlobe = 79,
+    kLucideUnlock = 39,
+    kLucideRainbow = 80,
+    kLucideSmartphone = 81,
+    kLucideList = 82,
+    kLucideStar = 62,
+    kLucideSearch = 4,
+    kLucideBox = 83,
+    kLucideCircleDollarSign = 84,
+    kLucideVolume2 = 61,
+    kLucideX = 5,
+    kLucideCloud = 50,
+    kLucideCat = 85,
+
+    kCharmEloMap = {
+        ["Unranked"] = -1,
+        ["Bronze 1"] = 0,
+        ["Bronze 2"] = 200,
+        ["Bronze 3"] = 400,
+        ["Silver 1"] = 600,
+        ["Silver 2"] = 800,
+        ["Silver 3"] = 1000,
+        ["Gold 1"] = 1200,
+        ["Gold 2"] = 1400,
+        ["Gold 3"] = 1600,
+        ["Platinum 1"] = 1800,
+        ["Platinum 2"] = 2000,
+        ["Platinum 3"] = 2200,
+        ["Diamond 1"] = 2400,
+        ["Diamond 2"] = 2600,
+        ["Diamond 3"] = 2800,
+        ["Onyx 1"] = 3000,
+        ["Onyx 2"] = 3200,
+        ["Onyx 3"] = 3400,
+        ["Nemesis"] = 3600,
+        ["Archnemesis"] = 3600,
+    },
+
+    kSeasonNameMap = {
+        [0] = "Zero",
+	    [1] = "Warp",
+	    [2] = "Polar",
+	    [3] = "Fame",
+        ["Zero"] = 0,
+	    ["Warp"] = 1,
+	    ["Polar"] = 2,
+	    ["Fame"] = 3,
+    },
+
+    kSeasonToggleMap = {
+        [0] = "s0_charm",
+        [1] = "s1_charm",
+        [2] = "s2_charm",
+        [3] = "s3_charm",
+    },
+
+    kFunctionsUsed = {
+        "cloneref",
+        "gethui",
+        "isfolder",
+        "makefolder",
+        "isfile",
+        "readfile",
+        "writefile",
+        "getcustomasset",
+        "hookmetamethod",
+        "hookfunction",
+        "getcallingscript",
+        "newcclosure",
+        "getconnections",
+        "checkcaller",
+        "queueteleport",
+        "getgenv",
+        "base64decode"
+    },
+
+    kCosmeticTypes = {
+        "Skin",
+        "Wrap",
+        "Charm",
+        "Finisher"
+    },
+
+    kCosmeticRarities = {
+        "Common",
+        "Rare",
+        "Legendary",
+        "Mythical",
+        "Unique",
+        "Unobtainable"
+    },
+
+    kSoundMods = {
+        "None",
+        "Use Asset Id",
+        "Use URL",
+        "Bameware",
+        "Bell",
+        "Bubble",
+        "Click",
+        "Pop",
+        "Rust",
+        "Fart",
+        "Big",
+        "Vine",
+        "Bruh",
+        "Skeet",
+        "Neverlose",
+        "Fatality",
+        "Bonk",
+        "Minecraft",
+    },
+
+    kSoundModsMap = {
+        ["Bameware"] = "ShootSounds/bameware.mp3",
+        ["Bell"] = "ShootSounds/bell.mp3",
+        ["Bubble"] = "ShootSounds/bubble.mp3",
+        ["Click"] = "ShootSounds/click.mp3",
+        ["Pop"] = "ShootSounds/pop.mp3",
+        ["Rust"] = "ShootSounds/rust.mp3",
+        ["Fart"] = "ShootSounds/fart.mp3",
+        ["Big"] = "ShootSounds/big.mp3",
+        ["Vine"] = "ShootSounds/vine.mp3",
+        ["Bruh"] = "ShootSounds/bruh.mp3",
+        ["Skeet"] = "ShootSounds/skeet.mp3",
+        ["Neverlose"] = "ShootSounds/neverlose.mp3",
+        ["Fatality"] = "ShootSounds/fatality.mp3",
+        ["Bonk"] = "ShootSounds/bonk.mp3",
+        ["Minecraft"] = "ShootSounds/minecraft.mp3",
+    },
+
+    kCharmRanks = {
+        "Use Spoofed ELO",
+        "Unranked",
+        "Bronze 1",
+        "Bronze 2",
+        "Bronze 3",
+        "Silver 1",
+        "Silver 2",
+        "Silver 3",
+        "Gold 1",
+        "Gold 2",
+        "Gold 3",
+        "Platinum 1",
+        "Platinum 2",
+        "Platinum 3",
+        "Diamond 1",
+        "Diamond 2",
+        "Diamond 3",
+        "Onyx 1",
+        "Onyx 2",
+        "Onyx 3",
+        "Nemesis",
+        "Archnemesis",
+    },
+
+    kOriginalHitmarkers = {
+        kill_layer1 = "rbxassetid://16537449730",
+        kill_layer2 = "rbxassetid://16537337310",
+        hit = "rbxassetid://13110130082",
+    },
+
+    kShootSemanticKeys = {
+        "Shoot",
+        "Shoot1",
+        "Shoot2",
+        "Shoot3",
+        "Shoot4",
+        "FinalShoot",
+        "EmptyShoot",
+        "AltShoot",
+        "AltShoot1",
+        "ChargeShoot",
+        "ChargeShootRelease",
+    },
+
+    kReloadSemanticKeys = {
+        "Reload",
+        "EmptyReload",
+        "EmptyReloadStart",
+        "EmptyReloadEnd",
+        "ReloadInsert",
+        "ReloadFinish",
+        "TacticalReload",
+    },
+
+    kLootboxNames = {
+        "Skin Case",
+        "Skin Case 2",
+        "Skin Case 3",
+        "Wrap Box",
+        "Wrap Box 2",
+        "Wrap Box 3",
+        "Charm Capsule",
+        "Finisher Pack",
+        "Finisher Pack 2",
+        "Spooky Skin Case",
+        "Haunted Chest",
+        "Festive Skin Case",
+        "Jolly Chest",
+        "Festive Wrap Box",
+        "Festive Wrap Box 2",
+        "Goodie Bag",
+        "Prime Goodie Bag",
+        "Weapon Crate",
+        "Standard Weapon Crate",
+        "Prime Weapon Crate",
+        "Contraband Weapon Crate",
+    },
+
+    kItemTypes = {
+        "Skin",
+        "Wrap",
+        "Charm",
+        "Finisher",
+        "Emote"
+    },
+
+    kDuelResults = {
+        "Victory",
+        "Defeat"
+    },
+
+    kDuelMaps = {
+        "Village",
+        "Iceberg",
+        "Backrooms",
+        "Arena",
+        "Dimension",
+        "Bridge",
+        "Museum",
+        "Graveyard",
+        "Studio",
+        "Playground",
+        "Splash",
+        "Chess",
+        "Construction",
+        "Station",
+        "Onyx",
+        "Crossroads",
+        "Docks",
+        "Westown",
+        "Big Arena",
+        "Big Onyx",
+        "Big Splash",
+        "Big Backrooms",
+        "Big Crossroads",
+        "Big Graveyard",
+        "Big Station",
+        "Shooting Range",
+        "Battleground",
+        "Legacy Backrooms",
+        "Legacy Big Splash",
+        "Legacy Splash",
+        "Legacy Docks",
+        "Legacy Onyx",
+        "Legacy Crossroads",
+        "Legacy Battleground",
+        "Baseplate",
+        "Boss Arena",
+        "Obby",
+        "Zombie Tower",
+        "Spleef",
+        "Sandbox",
+        "Factory",
+    },
+
+    kMaterialList = {
+        "Asphalt",
+        "Basalt",
+        "Brick",
+        "Cardboard",
+        "Carpet",
+        "CeramicTiles",
+        "ClayRoofTiles",
+        "Cobblestone",
+        "Concrete",
+        "CorrodedMetal",
+        "CrackedLava",
+        "DiamondPlate",
+        "Fabric",
+        "Foil",
+        "ForceField",
+        "Glacier",
+        "Glass",
+        "Ground",
+        "Ice",
+        "LeafyGrass",
+        "Leather",
+        "Limestone",
+        "Marble",
+        "Metal",
+        "Mud",
+        "Neon",
+        "Pavement",
+        "Pebble",
+        "Plaster",
+        "Plastic",
+        "Rock",
+        "RoofShingles",
+        "Rubber",
+        "Salt",
+        "Sand",
+        "Sandstone",
+        "Slate",
+        "SmoothPlastic",
+        "Snow",
+        "Wood",
+        "WoodPlanks",
+    },
+
+    kMaterialMap = {
+        ["Asphalt"] = Enum.Material.Asphalt,
+        ["Basalt"] = Enum.Material.Basalt,
+        ["Brick"] = Enum.Material.Brick,
+        ["Cardboard"] = Enum.Material.Cardboard,
+        ["Carpet"] = Enum.Material.Carpet,
+        ["CeramicTiles"] = Enum.Material.CeramicTiles,
+        ["ClayRoofTiles"] = Enum.Material.ClayRoofTiles,
+        ["Cobblestone"] = Enum.Material.Cobblestone,
+        ["Concrete"] = Enum.Material.Concrete,
+        ["CorrodedMetal"] = Enum.Material.CorrodedMetal,
+        ["CrackedLava"] = Enum.Material.CrackedLava,
+        ["DiamondPlate"] = Enum.Material.DiamondPlate,
+        ["Fabric"] = Enum.Material.Fabric,
+        ["Foil"] = Enum.Material.Foil,
+        ["ForceField"] = Enum.Material.ForceField,
+        ["Glacier"] = Enum.Material.Glacier,
+        ["Glass"] = Enum.Material.Glass,
+        ["Ground"] = Enum.Material.Ground,
+        ["Ice"] = Enum.Material.Ice,
+        ["LeafyGrass"] = Enum.Material.LeafyGrass,
+        ["Leather"] = Enum.Material.Leather,
+        ["Limestone"] = Enum.Material.Limestone,
+        ["Marble"] = Enum.Material.Marble,
+        ["Metal"] = Enum.Material.Metal,
+        ["Mud"] = Enum.Material.Mud,
+        ["Neon"] = Enum.Material.Neon,
+        ["Pavement"] = Enum.Material.Pavement,
+        ["Pebble"] = Enum.Material.Pebble,
+        ["Plaster"] = Enum.Material.Plaster,
+        ["Plastic"] = Enum.Material.Plastic,
+        ["Rock"] = Enum.Material.Rock,
+        ["RoofShingles"] = Enum.Material.RoofShingles,
+        ["Rubber"] = Enum.Material.Rubber,
+        ["Salt"] = Enum.Material.Salt,
+        ["Sand"] = Enum.Material.Sand,
+        ["Sandstone"] = Enum.Material.Sandstone,
+        ["Slate"] = Enum.Material.Slate,
+        ["SmoothPlastic"] = Enum.Material.SmoothPlastic,
+        ["Snow"] = Enum.Material.Snow,
+        ["Wood"] = Enum.Material.Wood,
+        ["WoodPlanks"] = Enum.Material.WoodPlanks,
+    },
+
+    kWordList = {
+        "late",
+        "couple",
+        "economic",
+        "obscure",
+        "landscape",
+        "spot",
+        "college",
+        "rainbow",
+        "leg",
+        "mixture",
+        "frank",
+        "commitment",
+        "draft",
+        "motivation",
+        "fuss",
+        "settle",
+        "jelly",
+        "confine",
+        "pin",
+        "modernize",
+        "velvet",
+        "quarter",
+        "physical",
+        "differ",
+        "dish",
+        "aisle",
+        "happen",
+        "council",
+        "appeal",
+        "depart",
+        "urgency",
+        "vessel",
+    },
+
+    kCameraStates = {
+        "FirstPerson",
+        "ThirdPerson",
+        "ThirdPersonMirrored",
+        "ThirdPersonUnlockedMouse",
+        "CustomFreecam"
+    },
+
+    kSkyboxList = {
+        "None",
+        "Use Custom",
+        "Aurora",
+        "Battlerock",
+        "Beach Bowl",
+        "Buoy Base",
+        "Clockwork",
+        "Dark Matter",
+        "Flash Black",
+        "Ghostly",
+        "Good Egg",
+        "Melty Molten",
+        "Shiverburn",
+        "Spin Dig",
+        "Sweet Mystery"
+    },
+
+    kSkyboxMap = {
+        ["None"] = {
+            skybox_back = "rbxassetid://14147881792",
+            skybox_down = "rbxassetid://14147882149",
+            skybox_front = "rbxassetid://14147882761",
+            skybox_left = "rbxassetid://14147883091",
+            skybox_right = "rbxassetid://14147882405",
+            skybox_up = "rbxassetid://14147881297",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Aurora"] = {
+            skybox_back = "rbxassetid://116533337330584",
+            skybox_down = "rbxassetid://80054106187171",
+            skybox_front = "rbxassetid://94459139270943",
+            skybox_left = "rbxassetid://116368999680791",
+            skybox_right = "rbxassetid://125758104196312",
+            skybox_up = "rbxassetid://107060226443967",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Battlerock"] = {
+            skybox_back = "rbxassetid://131136284306917",
+            skybox_down = "rbxassetid://89505977207531",
+            skybox_front = "rbxassetid://140099243548102",
+            skybox_left = "rbxassetid://121676169821100",
+            skybox_right = "rbxassetid://97183886241447",
+            skybox_up = "rbxassetid://107128620201556",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Beach Bowl"] = {
+            skybox_back = "rbxassetid://81804134601271",
+            skybox_down = "rbxassetid://92395364196932",
+            skybox_front = "rbxassetid://81804134601271",
+            skybox_left = "rbxassetid://81804134601271",
+            skybox_right = "rbxassetid://81804134601271",
+            skybox_up = "rbxassetid://119089964803065",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Buoy Base"] = {
+            skybox_back = "rbxassetid://135017685421888",
+            skybox_down = "rbxassetid://76610044495625",
+            skybox_front = "rbxassetid://89675413438577",
+            skybox_left = "rbxassetid://138307087837279",
+            skybox_right = "rbxassetid://136723547010707",
+            skybox_up = "rbxassetid://83404878914838",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Clockwork"] = {
+            skybox_back = "rbxassetid://86284761193226",
+            skybox_down = "rbxassetid://111425663631622",
+            skybox_front = "rbxassetid://115606366886873",
+            skybox_left = "rbxassetid://127287488325060",
+            skybox_right = "rbxassetid://126844150113423",
+            skybox_up = "rbxassetid://74510789204352",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Dark Matter"] = {
+            skybox_back = "rbxassetid://97629693450922",
+            skybox_down = "rbxassetid://97898396690232",
+            skybox_front = "rbxassetid://134755033418084",
+            skybox_left = "rbxassetid://118219143707956",
+            skybox_right = "rbxassetid://114940065588775",
+            skybox_up = "rbxassetid://95430908943263",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Flash Black"] = {
+            skybox_back = "rbxassetid://78426835654353",
+            skybox_down = "rbxassetid://6213218651",
+            skybox_front = "rbxassetid://71970982976722",
+            skybox_left = "rbxassetid://78426835654353",
+            skybox_right = "rbxassetid://78426835654353",
+            skybox_up = "rbxassetid://138004866371717",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Ghostly"] = {
+            skybox_back = "rbxassetid://111506743048183",
+            skybox_down = "rbxassetid://86198196348228",
+            skybox_front = "rbxassetid://86265514167302",
+            skybox_left = "rbxassetid://100257959405445",
+            skybox_right = "rbxassetid://71935101953120",
+            skybox_up = "rbxassetid://132011089223498",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Good Egg"] = {
+            skybox_back = "rbxassetid://94681381933012",
+            skybox_down = "rbxassetid://75843838469806",
+            skybox_front = "rbxassetid://97891957473259",
+            skybox_left = "rbxassetid://102971518965494",
+            skybox_right = "rbxassetid://94588890960775",
+            skybox_up = "rbxassetid://127368871569815",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Melty Molten"] = {
+            skybox_back = "rbxassetid://131463907527649",
+            skybox_down = "rbxassetid://116154164311420",
+            skybox_front = "rbxassetid://113077689016278",
+            skybox_left = "rbxassetid://79984367513909",
+            skybox_right = "rbxassetid://82395195737484",
+            skybox_up = "rbxassetid://117530106700350",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Shiverburn"] = {
+            skybox_back = "rbxassetid://113636030839991",
+            skybox_down = "rbxassetid://118027268179499",
+            skybox_front = "rbxassetid://76405010847029",
+            skybox_left = "rbxassetid://112044353352688",
+            skybox_right = "rbxassetid://121078604572355",
+            skybox_up = "rbxassetid://132486295432727",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Spin Dig"] = {
+            skybox_back = "rbxassetid://124211111366754",
+            skybox_down = "rbxassetid://120491795220431",
+            skybox_front = "rbxassetid://130119279111055",
+            skybox_left = "rbxassetid://70742671331562",
+            skybox_right = "rbxassetid://76516826791940",
+            skybox_up = "rbxassetid://100229310567751",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Sweet Mystery"] = {
+            skybox_back = "rbxassetid://107264897520277",
+            skybox_down = "rbxassetid://135637946277638",
+            skybox_front = "rbxassetid://135705252786048",
+            skybox_left = "rbxassetid://119667604517747",
+            skybox_right = "rbxassetid://75904303027092",
+            skybox_up = "rbxassetid://97011146822716",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+        ["Terrace Dome"] = {
+            skybox_back = "rbxassetid://98684100016510",
+            skybox_down = "rbxassetid://108354040356521",
+            skybox_front = "rbxassetid://95723629635852",
+            skybox_left = "rbxassetid://106269064939837",
+            skybox_right = "rbxassetid://136234415079744",
+            skybox_up = "rbxassetid://75385962780878",
+            sun_texture = "rbxasset://sky/sun.jpg",
+            moon_texture = "rbxasset://sky/moon.jpg",
+        },
+    },
+
+    kLightingStyles = {
+        "Realistic",
+        "Soft"
+    },
+
+    kLightingStyleMap = {
+        ["Realistic"] = Enum.LightingStyle.Realistic,
+        ["Soft"] = Enum.LightingStyle.Soft
+    },
+
+    kWeatherTypes = {
+        "Rain",
+        "Snow",
+        "Thunder"
+    },
+
+    kAmbienceTypes = {
+        "Rain",
+        "City",
+        "Windy Day",
+        "Thunder",
+        "Forest Rain Night",
+        "Light Rain And Thunder"
+    },
+
+    kAmbienceMap = {
+        ["Rain"] = "rbxassetid://9112858162",
+        ["City"] = "rbxassetid://238385471",
+        ["Windy Day"] = "rbxassetid://159798309",
+        ["Thunder"] = "rbxassetid://9064263922",
+        ["Forest Rain Night"] = "rbxassetid://5356133579",
+        ["Light Rain And Thunder"] = "rbxassetid://9120018695",
+    },
+
+    kViewmodelDisable = {
+        "None",
+        "sway",
+        "tilt",
+        "bobbing",
+        "muzzle flash",
+        "idle animation",
+        "jump animation",
+        "slide animation",
+        "equip animation",
+        "shoot animation",
+        "aiming animation",
+        "sprint animation"
+    },
+
+    kGunIgnoreList = {
+        "None",
+        "Katana",
+        "Riot Shield"
+    },
+
+    kCharacterAnims = {
+        "Default",
+        "Zombie",
+        "Oldschool",
+        "Bubbly",
+        "Elder",
+        "Ninja",
+        "Vampire",
+        "Stylish",
+        "Levitation",
+        "Superhero",
+        "Werewolf",
+        "Knight",
+        "Pirate"
+    },
+
+    kCharacterAnimsMap = {
+        ["Default"] = {
+            idle = "http://www.roblox.com/asset/?id=507766388",
+            walk = "rbxassetid://10921541949",
+            run = "rbxassetid://10899968825",
+            jump = "http://www.roblox.com/asset/?id=507765000",
+            fall = "http://www.roblox.com/asset/?id=507767968",
+            climb = "http://www.roblox.com/asset/?id=507765644",
+        },
+        ["Zombie"] = {
+            idle = "http://www.roblox.com/asset/?id=10921344533",
+            walk = "http://www.roblox.com/asset/?id=10921355261",
+            run = "http://www.roblox.com/asset/?id=616163682",
+            jump = "http://www.roblox.com/asset/?id=10921351278",
+            fall = "http://www.roblox.com/asset/?id=10921350320",
+            climb = "http://www.roblox.com/asset/?id=10921343576",
+        },
+        ["Oldschool"] = {
+            idle = "http://www.roblox.com/asset/?id=10921230744",
+            walk = "http://www.roblox.com/asset/?id=10921244891",
+            run = "http://www.roblox.com/asset/?id=10921240218",
+            jump = "http://www.roblox.com/asset/?id=10921242013",
+            fall = "http://www.roblox.com/asset/?id=10921241244",
+            climb = "http://www.roblox.com/asset/?id=10921229866",
+        },
+        ["Bubbly"] = {
+            idle = "http://www.roblox.com/asset/?id=10921054344",
+            walk = "http://www.roblox.com/asset/?id=10980888364",
+            run = "http://www.roblox.com/asset/?id=10921057244",
+            jump = "http://www.roblox.com/asset/?id=10921062673",
+            fall = "http://www.roblox.com/asset/?id=10921061530",
+            climb = "http://www.roblox.com/asset/?id=10921053544",
+        },
+        ["Elder"] = {
+            idle = "http://www.roblox.com/asset/?id=10921101664",
+            walk = "http://www.roblox.com/asset/?id=10921111375",
+            run = "http://www.roblox.com/asset/?id=10921104374",
+            jump = "http://www.roblox.com/asset/?id=10921107367",
+            fall = "http://www.roblox.com/asset/?id=10921105765",
+            climb = "http://www.roblox.com/asset/?id=10921100400",
+        },
+        ["Ninja"] = {
+            idle = "http://www.roblox.com/asset/?id=10921155160",
+            walk = "http://www.roblox.com/asset/?id=10921162768",
+            run = "http://www.roblox.com/asset/?id=10921157929",
+            jump = "http://www.roblox.com/asset/?id=10921160088",
+            fall = "http://www.roblox.com/asset/?id=10921159222",
+            climb = "http://www.roblox.com/asset/?id=10921154678",
+        },
+        ["Vampire"] = {
+            idle = "http://www.roblox.com/asset/?id=10921315373",
+            walk = "http://www.roblox.com/asset/?id=10921326949",
+            run = "http://www.roblox.com/asset/?id=10921320299",
+            jump = "http://www.roblox.com/asset/?id=10921322186",
+            fall = "http://www.roblox.com/asset/?id=10921321317",
+            climb = "http://www.roblox.com/asset/?id=10921314188",
+        },
+        ["Stylish"] = {
+            idle = "http://www.roblox.com/asset/?id=10921272275",
+            walk = "http://www.roblox.com/asset/?id=10921283326",
+            run = "http://www.roblox.com/asset/?id=10921276116",
+            jump = "http://www.roblox.com/asset/?id=10921279832",
+            fall = "http://www.roblox.com/asset/?id=10921278648",
+            climb = "http://www.roblox.com/asset/?id=10921271391",
+        },
+        ["Levitation"] = {
+            idle = "http://www.roblox.com/asset/?id=10921132962",
+            walk = "http://www.roblox.com/asset/?id=10921140719",
+            run = "http://www.roblox.com/asset/?id=10921135644",
+            jump = "http://www.roblox.com/asset/?id=10921137402",
+            fall = "http://www.roblox.com/asset/?id=10921136539",
+            climb = "http://www.roblox.com/asset/?id=10921132092",
+        },
+        ["Superhero"] = {
+            idle = "http://www.roblox.com/asset/?id=10921288909",
+            walk = "http://www.roblox.com/asset/?id=10921298616",
+            run = "http://www.roblox.com/asset/?id=10921291831",
+            jump = "http://www.roblox.com/asset/?id=10921294559",
+            fall = "http://www.roblox.com/asset/?id=10921293373",
+            climb = "http://www.roblox.com/asset/?id=10921286911",
+        },
+        ["Werewolf"] = {
+            idle = "http://www.roblox.com/asset/?id=10921330408",
+            walk = "http://www.roblox.com/asset/?id=10921342074",
+            run = "http://www.roblox.com/asset/?id=10921336997",
+            jump = "http://www.roblox.com/asset/?id=1083218792",
+            fall = "http://www.roblox.com/asset/?id=10921337907",
+            climb = "http://www.roblox.com/asset/?id=10921329322",
+        },
+        ["Knight"] = {
+            idle = "http://www.roblox.com/asset/?id=10921117521",
+            walk = "http://www.roblox.com/asset/?id=10921127095",
+            run = "http://www.roblox.com/asset/?id=10921121197",
+            jump = "http://www.roblox.com/asset/?id=10921123517",
+            fall = "http://www.roblox.com/asset/?id=10921122579",
+            climb = "http://www.roblox.com/asset/?id=10921116196",
+        },
+        ["Pirate"] = {
+            idle = "http://www.roblox.com/asset/?id=750781874",
+            walk = "http://www.roblox.com/asset/?id=750785693",
+            run = "http://www.roblox.com/asset/?id=750783738",
+            jump = "http://www.roblox.com/asset/?id=750782230",
+            fall = "http://www.roblox.com/asset/?id=750780242",
+            climb = "http://www.roblox.com/asset/?id=750779899",
+        },
+    },
+
+    kLerpPos = {
+        "None",
+        "Target",
+        "Barrel"
+    },
+
+    kTargetList = {
+        "FOV",
+        "Visible",
+    },
+
+    kBodyParts = {
+        "Head",
+        "HumanoidRootPart",
+        "UpperTorso",
+        "LowerTorso",
+        "LeftFoot",
+        "LeftLowerLeg",
+        "LeftUpperLeg",
+        "RightFoot",
+        "RightLowerLeg",
+        "RightUpperLeg",
+        "LeftHand",
+        "LeftLowerArm",
+        "LeftUpperArm",
+        "RightHand",
+        "RightLowerArm",
+        "RightUpperArm",
+    },
+    
+    kCheckScoped = {
+        "None",
+        "Sniper",
+        "Crossbow"
+    },
+    
+    kPitchOptions = {
+        "None",
+        "Offset",
+        "Custom",
+        "Random",
+        "Look Up",
+        "Look Down",
+    },
+
+    kYawOptions = {
+        "None",
+        "Offset",
+        "Custom",
+        "Random",
+        "Spin",
+        "Jitter",
+        "Backwards",
+    },
+}
+
+local modules = {
+    CONSTANTS = require(services.ReplicatedStorage:FindFirstChild("Modules"):WaitForChild("CONSTANTS")),
+    AnimationLibrary = require(services.ReplicatedStorage:FindFirstChild("Modules"):WaitForChild("AnimationLibrary")),
+    SoundLibrary = require(services.ReplicatedStorage:FindFirstChild("Modules"):WaitForChild("SoundLibrary")),
+    CosmeticLibrary = require(services.ReplicatedStorage:FindFirstChild("Modules"):WaitForChild("CosmeticLibrary")),
+    ItemLibrary = require(services.ReplicatedStorage:FindFirstChild("Modules"):WaitForChild("ItemLibrary")),
+    PlayerDataController = require(LocalPlayer.PlayerScripts:FindFirstChild("Controllers"):WaitForChild("PlayerDataController")),
+    EnumLibrary = require(services.ReplicatedStorage:FindFirstChild("Modules"):WaitForChild("EnumLibrary")),
+    LeaderboardController = require(LocalPlayer.PlayerScripts:FindFirstChild("Controllers"):WaitForChild("LeaderboardController")),
+    ControlsController = require(LocalPlayer.PlayerScripts:FindFirstChild("Controllers"):WaitForChild("ControlsController")),
+    SeasonLibrary = require(services.ReplicatedStorage:FindFirstChild("Modules"):WaitForChild("SeasonLibrary")),
+    ShopLibrary = require(services.ReplicatedStorage:FindFirstChild("Modules"):WaitForChild("ShopLibrary")),
+    GameplayUtility = require(services.ReplicatedStorage:FindFirstChild("Modules"):WaitForChild("GameplayUtility")),
+    InspectBackpackReward = require(LocalPlayer.PlayerScripts:FindFirstChild("Modules"):WaitForChild("Prompts"):WaitForChild("InspectBackpackReward")),
+    LootboxEffect = require(LocalPlayer.PlayerScripts:FindFirstChild("Modules"):WaitForChild("Functions"):WaitForChild("LootboxEffect")),
+    MonetizationController = require(LocalPlayer.PlayerScripts:FindFirstChild("Controllers"):WaitForChild("MonetizationController")),
+    MonetizationLibrary = require(services.ReplicatedStorage:FindFirstChild("Modules"):WaitForChild("MonetizationLibrary")),
+    SendChat = require(LocalPlayer.PlayerScripts:FindFirstChild("Modules"):WaitForChild("Functions"):WaitForChild("SendChat")),
+    CameraController = require(LocalPlayer.PlayerScripts:FindFirstChild("Controllers"):WaitForChild("CameraController")),
+    DuelLibrary = require(services.ReplicatedStorage:FindFirstChild("Modules"):WaitForChild("DuelLibrary")),
+    Gun = require(LocalPlayer.PlayerScripts:FindFirstChild("Modules"):WaitForChild("ItemTypes"):WaitForChild("Gun")),
+    Melee = require(LocalPlayer.PlayerScripts:FindFirstChild("Modules"):WaitForChild("ItemTypes"):WaitForChild("Melee")),
+    Throwable = require(LocalPlayer.PlayerScripts:FindFirstChild("Modules"):WaitForChild("ItemTypes"):WaitForChild("Throwable")),
+    Flashbang = require(LocalPlayer.PlayerScripts:FindFirstChild("Modules"):WaitForChild("Items"):WaitForChild("Flashbang")),
+    SmokeClouds = require(LocalPlayer.PlayerScripts:FindFirstChild("Modules"):WaitForChild("GameComponents"):WaitForChild("SmokeClouds")),
+    Utility = require(services.ReplicatedStorage:FindFirstChild("Modules"):WaitForChild("Utility")),
+    OutOfBoundsMachine = require(services.ReplicatedStorage:FindFirstChild("Modules"):WaitForChild("OutOfBoundsMachine")),
+    MechanicsController = require(LocalPlayer.PlayerScripts:FindFirstChild("Controllers"):WaitForChild("MechanicsController")),
+    Knife = require(LocalPlayer.PlayerScripts:FindFirstChild("Modules"):WaitForChild("Items"):WaitForChild("Knife")),
+    ClientEntity = require(LocalPlayer.PlayerScripts.Modules.ClientReplicatedClasses:FindFirstChild("ClientEntity")),
+}
+
+task.spawn(function()
+    local fc = LocalPlayer.PlayerScripts:FindFirstChild("Controllers"):WaitForChild("FighterController")
+    if fc then
+        pcall(function()
+            modules.FighterController = require(fc)
+        end)
+    end
+end)
+
+while not modules.FighterController do task.wait(0.5) end
+
+local shoot_anim_names  = {}  -- [name] = true
+local reload_anim_names = {}  -- [name] = true
+
+local states = {
+    target = nil,
+    target_part = nil,
+    server_cf = nil,
+    is_reloading = false,
+    screen_gui = Instance.new("ScreenGui"),
+    targeting_state = {
+        target_group = "Visible",
+        ignore = { "None" },
+        radius = 100,
+        max_distance = 150,
+        weight_ratio = 0.7,
+        reaction_time = 0,
+        forget_time = 1,
+        target = "Closest Part",
+        include_parts = { "Head", "UpperTorso" },
+
+        wallcheck = true,
+        show_fov = false,
+
+        fov_outline = false,
+        fov_fill = false,
+        fov_lerp = 1,
+
+        fov_rotation = 0,
+        fov_rotation_speed = 1,
+
+        fov_start_color = Color3.fromRGB(255, 255, 255),
+        fov_mid_color = Color3.fromRGB(255, 255, 255),
+        fov_end_color = Color3.fromRGB(255, 255, 255),
+
+        fov_outline_start_color = Color3.fromRGB(0, 0, 0),
+        fov_outline_mid_color = Color3.fromRGB(0, 0, 0),
+        fov_outline_end_color = Color3.fromRGB(0, 0, 0),
+
+        fov_transparency = 0,
+        fov_outline_transparency = 0,
+
+        fov_position = { ["None"] = true },
+
+        blocking = {},
+    },
+    legit_state = {
+        silent_aim = {
+            enabled = false,
+            hit_chance = 100,
+            manipulation = false,
+            visualize = false,
+        },
+        triggerbot = {
+            enabled = false,
+            shoot_delay = 0,
+            check_scoped = { "Sniper", "Crossbow" },
+
+            triggerbot_shot_started = Instance.new("BindableEvent"),
+            triggerbot_shot_finished = Instance.new("BindableEvent"),
+            triggerbot_active = false,
+        }
+    },
+    rage_state = {
+        weapons = {
+            no_recoil = false,
+            no_spread = false,
+            full_auto = false,
+            firerate = 100,
+        },
+        pluggwalk = {
+            enabled = false,
+        },
+        misc = {
+            anti_tripmine = false,
+            tp_throwables = false,
+        },
+        rage_bot = {
+            enabled = false,
+            void_spam = false,
+            hide = 0.25,
+            attack = 0.1,
+            shoot_attempts = 1,
+            attack_mode = "Gun",
+            preferred = "Primary",
+            hit_notifications = true,
+            rage_hud = true,
+
+            sync_void_state = Instance.new("BindableEvent"),
+        },
+        anti_aim = {
+            enabled = false,
+            pitch = "None",
+            pitch_angle = 0,
+            yaw = "None",
+            yaw_angle = 0,
+            jitter_angle = 20,
+            speed = 10,
+            underground = false,
+        },
+        movement = {
+            fly = false,
+            velocity = false,
+            slide_boost = false,
+            double_jump_height = false,
+            infinite_double_jump = false,
+
+            fly_speed = 50,
+            velocity_speed = 50,
+            slide_boost_value = 1,
+            double_jump_height_value = 1,
+        }
+    },
+    visuals_state = {
+        visuals_enabled = false,
+        teammates = false,
+        team_colors = false,
+        target_highlights = false,
+        box_filled = false,
+        tracer_origin = "Bottom",
+        outlines = {
+            Box = false,
+            Skeletons = false,
+            Chams = false,
+            Health = false,
+            Name = false,
+            Tracers = false,
+            Weapon = false,
+            Distance = false
+        },
+        trails = {
+            Bullets = false,
+            Throwables = false,
+        },
+        max_distance = 150,
+        cham_material = "ForceField",
+        cham_texture = 0,
+        viewmodel = {
+            disable = { "None" },
+            override_fps = false,
+            fps_multi = 60,
+            chams = false,
+            cham_material = "ForceField",
+            cham_texture = 0,
+            cham_transparency = 0,
+            offset = false,
+            x_offset = 0,
+            y_offset = 0,
+            z_offset = 0,
+
+            appearance = false,
+            color = Color3.fromRGB(181, 126, 220),
+            transparency = 0,
+            material = "ForceField",
+            wireframe = false,
+            no_textures = false,
+            no_clothes = false,
+
+            appearance_cache = {},
+            wireframe_cache = {},
+
+            vm_cham_model = nil,
+            vm_cham_model_name = nil,
+            vm_cham_connections = {},
+            vm_cham_parts = {},
+        },
+        animations = {
+            char_anims = "Default"
+        },
+        skybox = {
+            skybox_value = "None",
+            skybox_back = "",
+            skybox_down = "",
+            skybox_front = "",
+            skybox_left = "",
+            skybox_right = "",
+            skybox_up = "",
+            sun_texture = "",
+            moon_texture = "",
+            star_count = 3000,
+            sun_angular_size = 21,
+            moon_angular_size = 11,
+            clocktime = services.Lighting.ClockTime,
+
+            auto_rotate = false,
+            auto_rotate_conn = nil,
+            auto_rotate_speed = 1
+        },
+        crosshair = {
+            enabled = false,
+            fill_color = Color3.fromRGB(255, 255, 255),
+            outline_color = Color3.fromRGB(0, 0, 0),
+            rotation = 0,
+            rotation_speed = 0.5,
+            bounce = 0,
+            bounce_speed = 0.1,
+            offset = 5,
+            length = 20,
+            thickness = 2,
+            lerp = 1,
+            position = { "None" },
+        },
+        colors = {
+            enemy_box_fill_color = Color3.fromRGB(106, 13, 173),
+            enemy_box_outline_color = Color3.fromRGB(181, 126, 220),
+            enemy_tracer_color = Color3.fromRGB(131, 38, 198),
+            enemy_chams_fill_color = Color3.fromRGB(106, 13, 173),
+
+            friendly_box_outline_color = Color3.fromRGB(120, 180, 255),
+            friendly_box_fill_color = Color3.fromRGB(50, 138, 220),
+            friendly_chams_fill_color = Color3.fromRGB(50, 138, 220),
+            friendly_tracer_color = Color3.fromRGB(50, 138, 220),
+
+            trail_color = Color3.fromRGB(181, 126, 220),
+            viewmodel_chams_color = Color3.fromRGB(181, 126, 220),
+            target_highlight_color = Color3.fromRGB(255, 255, 255),
+
+            chams_fill_transparency = 0,
+            tracer_transparency = 1,
+        },
+        sunrays = {
+            sunrays_enabled = false,
+            sunrays_intensity = 0.25,
+            sunrays_spread = 1,
+        },
+        camera = {
+            state_changer = false,
+            camera_state = "ThirdPerson",
+
+            anti_flashbang = false,
+            anti_smoke = false,
+
+            camera_fov = modules.CameraController._base_fov,
+            fov_overridden = false,
+            camera_resolution = 1,
+        },
+        lighting = {
+            ambient_color = services.Lighting.Ambient,
+            outdoor_ambient_color = services.Lighting.OutdoorAmbient,
+            shift_top = services.Lighting.ColorShift_Top,
+            shift_bottom = services.Lighting.ColorShift_Bottom,
+            exposure = services.Lighting.ExposureCompensation,
+            brightness = services.Lighting.Brightness,
+            shadow_softness = services.Lighting.ShadowSoftness,
+            diffuse_scale = services.Lighting.EnvironmentDiffuseScale,
+            specular_scale = services.Lighting.EnvironmentSpecularScale,
+            global_shadows = services.Lighting.GlobalShadows,
+            lighting_style = "Realistic"
+        },
+        atmosphere = {
+            density = 0.255,
+            offset = 0.2,
+            color = Color3.fromRGB(140, 196, 231),
+            decay = Color3.fromRGB(92, 60, 13),
+            glare = 0,
+            haze = 1.82,
+        },
+        color_correction = {
+            enabled = true,
+            brightness = 0,
+            contrast = 0,
+            saturation = 0,
+            tint_color = Color3.fromRGB(255, 255, 255)
+        },
+        weather = {
+            enabled = false,
+            type = "Rain",
+            rate = 1,
+            timescale = 1,
+
+            thunder_active = false,
+            thunder_loop = nil,
+        },
+        ambience = {
+            enabled = false,
+            type = "Rain",
+            volume = 0.5
+        }
+    },
+
+    skinchanger_state = {
+        constructing_weapon = nil,
+        viewing_profile = nil,
+        last_used_weapon = nil,
+        fake_owned = modules.PlayerDataController:Get("CosmeticInventory"),
+        -- 不要在載入當下就把整份真實清單塞進來當預設值，
+        -- 否則之後 Get("WeaponInventory") 永遠回傳這份過時快照，
+        -- 遊戲查到快照裡沒有的武器（例如之後解鎖的）就會 nil.Status 崩潰
+        fake_weapon_owned = {},
+        equipped = {},
+        placed_object_map = {},
+        favorites = modules.PlayerDataController:Get("FavoritedCosmetics"),
+        
+        general_unlocker = {
+            unlock_type = "Skin",
+            unlock_rarity = "Common",
+        },
+
+        specific_unlocker = {
+            unlock_type = "Skin",
+            cosmetic_name = "",
+            weapon_name = "",
+        },
+
+        equip_unlocker = {
+            unlock_type = "Skin",
+            cosmetic_name = "",
+            weapon_name = "",
+            inverted = false,
+        },
+
+        shoot_sound = {
+            sound_value = "",
+            sound_asset_id = nil,
+            sound_url = "",
+            sound_volume = 50,
+            sound_pitch = 10,
+        },
+
+        reload_sound = {
+            sound_value = "",
+            sound_asset_id = nil,
+            sound_url = "",
+            sound_volume = 50,
+            sound_pitch = 10,
+        },
+
+        hit_sound = {
+            sound_value = "",
+            sound_asset_id = nil,
+            sound_url = "",
+            sound_volume = 50,
+            sound_pitch = 10,
+        },
+
+        crit_sound = {
+            sound_value = "",
+            sound_asset_id = nil,
+            sound_url = "",
+            sound_volume = 50,
+            sound_pitch = 10,
+        },
+
+        death_sound = {
+            sound_value = "",
+            sound_asset_id = nil,
+            sound_url = "",
+            sound_volume = 50,
+            sound_pitch = 10,
+        },
+
+        kill_sound = {
+            sound_value = "",
+            sound_asset_id = nil,
+            sound_url = "",
+            sound_volume = 50,
+            sound_pitch = 10,
+        },
+    },
+
+    spoofer_state = {
+        device = "Desktop",
+        old_device = tostring(modules.ControlsController.CurrentControls),
+        spoof_device = false,
+        device_spam = false,
+        spam_rate = 1,
+
+        display_name_value = LocalPlayer.DisplayName,
+        username_value = LocalPlayer.Name,
+        display_name = false,
+        username = false,
+        name_spoof_conn = {},
+
+        avatar_userid = LocalPlayer.UserId,
+        spoof_avatar = false,
+        thumb_spoof_conn = {},
+
+        anonymous_mode = false,
+        fake_names = {},
+        anon_connections = {},
+
+        leaderboard = {
+            elo_value = 0,
+            streak_value = LocalPlayer:GetAttribute("StatisticDuelsWinStreak"),
+            kills_value = 0,
+            wins_value = 0,
+            level_value = LocalPlayer:GetAttribute("Level"),
+
+            old_streak_value = LocalPlayer:GetAttribute("StatisticDuelsWinStreak"),
+            old_level_value = LocalPlayer:GetAttribute("Level"),
+
+            ELO = false,
+            Streak = false,
+            Kills = false,
+            Wins = false,
+            Level = false,
+        },
+
+        badges = {
+            Premium = false,
+            Verified = false,
+            Influencer = false,
+            Admin = false
+        },
+
+        charm = {
+            charm_rank = "Use Spoofed ELO",
+            arch_rank = 1,
+            s0_charm = false,
+            s1_charm = false,
+            s2_charm = false,
+            s3_charm = false
+        },
+
+        currency = {
+            weapon_keys = false,
+            unlock_tokens = false,
+            event_currency = false,
+            glory = false,
+            skin_tickets = false,
+
+            weapon_keys_value = modules.PlayerDataController:Get("WeaponKeys"),
+            unlock_tokens_value = modules.PlayerDataController:Get("UnlockTokens"),
+            event_currency_value = modules.PlayerDataController:Get("EventCurrency"),
+            glory_value = modules.PlayerDataController:Get("Glory"),
+            skin_tickets_value = modules.PlayerDataController:Get("SkinTickets")
+        },
+
+        duel_history = {
+            duel_history_value = modules.PlayerDataController:Get("DuelHistory"),
+            logged_elo_events = modules.PlayerDataController:Get("LoggedELOEvents"),
+
+            match_index = 1,
+            mode = "Ranked",
+            result = "Victory",
+            map = "Factory",
+            team1score = 5,
+            team2score = 0,
+
+            dueler_index = 1,
+            username = "",
+            display_name = "",
+
+            kills = 15,
+            deaths = 2,
+            assists = 6,
+            damage = 5000,
+            elo = 2000,
+            elo_change = 35,
+        },
+
+        marketplace = {
+            fake_bundles_owned = modules.PlayerDataController:Get("GamepassBundlesClaimed"),
+            fake_gift_robux_spent = modules.PlayerDataController:Get("GiftRobuxSpentProgress"),
+            fake_gift_rewards_claimed = modules.PlayerDataController:Get("GiftRobuxSpentRewardsClaimed"),
+
+            fake_robux = false,
+            robux_amount = 0,
+            fake_gifting = false
+        }
+    },
+
+    inventory_state = {
+        fake_owned = modules.PlayerDataController:Get("UnclaimedRewards"),
+
+        specific = {
+            lootbox_name = "Skin Case",
+            quantity = 1,
+            weapon_name = "",
+            new_entry = false
+        },
+
+        bulk = {
+            quantity = 1,
+        },
+
+        delete = {
+            backpack_entry = "",
+            quantity = 1
+        },
+
+        inject = {
+            item_type = "Skin",
+            weapon_name = "",
+            cosmetic_name = "",
+            stack_duplicates = false
+        }
+    }
+}
+
+local ui_objects = {
+
+}
+
+local caches = {
+    asset_cache = {},
+    sound_cache = {},
+    objectid_to_weapon_cache = {},
+    image_cache = {}
+}
+
+local ChangeLogs = tostring(request({
+    Url = kConstants.kBaseURL .. "rivals_changelog.txt",
+    Method = "GET",
+    Headers = {
+        ["Content-Type"] = "application/json"
+    }
+}).Body)
+
+local EspInterface = loadstring(request({
+    Url = kConstants.kBaseURL .. "Sense.luau",
+    Method = "GET",
+    Headers = {
+        ["Content-Type"] = "application/json"
+    }
+}).Body)()
+
+local Library = loadstring(request({
+    Url = kConstants.kBaseURL .. "AethereaUI.luau",
+    Method = "GET",
+    Headers = {
+        ["Content-Type"] = "application/json"
+    }
+}).Body)()
+
+if EspInterface == nil or Library == nil then
+	warn("Failed to load sources")
+	getgenv().HI_I_HAVE_BALL_CANCER = nil
+	return
+end
+
+EspInterface.GetWeapon = LPH_NO_VIRTUALIZE(function(player)
+    local fighter = modules.FighterController:GetFighter(player)
+    if not fighter then
+        return "Unknown"
+    end
+
+    local equippedItem = fighter.EquippedItem
+    if not equippedItem then
+        return "Unknown"
+    end
+
+    return equippedItem.Name
+end)
+
+EspInterface.IsFriendly = LPH_NO_VIRTUALIZE(function(player)
+    local our_team = LocalPlayer:GetAttribute("TeamID")
+    local their_team = player:GetAttribute("TeamID")
+
+    return their_team and their_team == our_team
+end)
+
+EspInterface.GetTeamColor = LPH_NO_VIRTUALIZE(function(player)
+    local teams = rawget(modules.DuelLibrary, "TeamsByID")
+    local team = rawget(teams, player:GetAttribute("TeamID"))
+
+    return team and rawget(team, "Color") or rawget(modules.DuelLibrary, "EMPTY_TEAM_COLOR")
+end)
+
+EspInterface.Load()
+
+--[[
+    Extra Assets
+]]
+
+local Assets = {}
+
+local function EnsureFolder(path)
+    if isfolder and not isfolder(path) then
+        makefolder(path)
+    end
+end
+
+function Assets.Register(id, url)
+    local ext = url:match("%.([%w]+)$")
+
+    if not ext then
+        ext = "dat"
+    end
+
+    caches.asset_cache[tostring(id)] = {
+        url = url,
+        uri = nil,
+        extension = ext
+    }
+end
+
+function Assets.Preload()
+    local has_gca = type(getcustomasset) == "function"
+    local has_fs = type(writefile) == "function"
+        and type(readfile) == "function"
+        and type(isfile) == "function"
+
+    EnsureFolder(kConstants.kBaseFolderName)
+    EnsureFolder(kConstants.kBaseFolderName .. "/assets")
+
+    for id, entry in pairs(caches.asset_cache) do
+        if entry.uri then
+            continue
+        end
+
+        local file_path = string.format(
+            "%s/assets/%s.%s",
+            kConstants.kBaseFolderName,
+            id,
+            entry.extension
+        )
+
+        if has_gca and has_fs then
+            if not isfile(file_path) then
+                -- 原本這裡呼叫未定義的 http_get，導致圖示/音效永遠下載失敗且被 pcall 吞掉
+                local ok, body = pcall(game.HttpGet, game, entry.url)
+
+                if ok and body and #body > 0 then
+                    writefile(file_path, body)
+                end
+            end
+
+            if isfile(file_path) then
+                local ok, asset = pcall(getcustomasset, file_path)
+
+                if ok then
+                    entry.uri = asset
+                end
+            end
+        end
+
+        entry.uri = entry.uri or ("rbxassetid://" .. id)
+    end
+end
+
+function Assets.Get(id)
+    local entry = caches.asset_cache[tostring(id)]
+
+    if not entry then
+        return ""
+    end
+
+    return entry.uri or ("rbxassetid://" .. tostring(id))
+end
+
+for _, path in pairs(kConstants.kSoundModsMap) do
+    local name = path:match("([^/]+)%.")
+    local url = kConstants.kBaseURL .. path
+
+    Assets.Register("sound_" .. name, url)
+end
+Assets.Preload()
+
+--[[
+    Main Logic
+]]
+
+local Connections = {}
+
+local function Bind(name, signal, fn)
+    if Connections[name] then
+        Connections[name]:Disconnect()
+    end
+    Connections[name] = signal:Connect(fn)
+end
+
+local function Unbind(name)
+    if Connections[name] then
+        Connections[name]:Disconnect()
+        Connections[name] = nil
+    end
+end
+
+if modules.EnumLibrary and modules.EnumLibrary.WaitForEnumBuilder then
+    pcall(function()
+        modules.EnumLibrary:WaitForEnumBuilder()
+    end)
+end
+
+if modules.PlayerDataController and modules.PlayerDataController.WaitUntilLoaded then
+    pcall(function()
+        modules.PlayerDataController:WaitUntilLoaded()
+    end)
+end
+
+local frozen = false
+local org_cam = modules.CameraController.Update
+modules.CameraController.Update = LPH_NO_VIRTUALIZE(function(self, ...)
+    if frozen then
+        return
+    end
+
+    return org_cam(self, ...)
+end)
+
+local function FreezeCamera()
+    frozen = true
+end
+
+local function UnfreezeCamera()
+    frozen = false
+end
+
+local orig_startrl = modules.Gun.StartReloading
+modules.Gun.StartReloading = LPH_NO_VIRTUALIZE(function(u21, p22, p23, p24, p25)
+    states.is_reloading = true
+    -- 散彈槍等逐發裝彈的武器沒有 ReloadLength，nil + 0.1 會直接報錯，
+    -- 導致下面 orig_startrl 永遠不會被呼叫到，裝彈鍵完全沒反應
+    task.delay((u21.Info.ReloadLength or 1) + 0.1, function()
+        states.is_reloading = false
+    end)
+
+    return orig_startrl(u21, p22, p23, p24, p25)
+end)
+
+pcall(function()
+    states.screen_gui.Name = ""
+    states.screen_gui.Parent = gethui()
+    states.screen_gui.IgnoreGuiInset = true
+end)
+
+--[[
+    Server CF
+]]
+
+local server_cf_sync = true
+
+pcall(LPH_JIT_MAX(function()
+    local real
+    local real_lin_vel
+    local real_ang_vel
+
+    services.RunService:BindToRenderStep(tostring(math.random(100000, 999999)), 1, LPH_NO_VIRTUALIZE(function()
+        local root = LocalChar and LocalChar.PrimaryPart
+        if not root or not root.Parent or not real then
+            return
+        end
+
+        -- FIX: 只有功能開啟(desync)時才重置，否則讓原生物理自然運行
+        if not server_cf_sync then
+            root.AssemblyLinearVelocity = real_lin_vel or Vector3.zero
+            root.AssemblyAngularVelocity = real_ang_vel or Vector3.zero
+            root.CFrame = real
+        end
+    end))
+
+    services.RunService.PostSimulation:Connect(LPH_NO_VIRTUALIZE(function()
+        local root = LocalChar and LocalChar.PrimaryPart
+        if not root or not root.Parent then
+            return
+        end
+
+        real = root.CFrame
+        real_lin_vel = root.AssemblyLinearVelocity
+        real_ang_vel = root.AssemblyAngularVelocity
+
+        if server_cf_sync then
+            states.server_cf = real
+            return  -- FIX: 同步模式下不覆蓋 CFrame
+        end
+
+        root.CFrame = states.server_cf
+    end))
+end))
+
+local function ServerCFDesync()
+    server_cf_sync = false
+end
+
+local function ServerCFSync()
+    server_cf_sync = true
+end
+
+--[[
+    OOB Exploit
+]]
+
+local oob_remote = services.ReplicatedStorage:FindFirstChild("Remotes").Replication.Fighter.OutOfBounds
+if not oob_remote then
+    LocalPlayer:Kick("Couldn't initialize Aetherea.")
+end
+
+NamecallDispatcher:Register(LPH_JIT_MAX(function(self, method, ...)
+    if method ~= "FireServer" or self ~= oob_remote then
+        return false
+    end
+
+    return true
+end))
+
+modules.OutOfBoundsMachine.IsOutOfBounds = function()
+    return false
+end
+
+modules.OutOfBoundsMachine.Update = LPH_NO_VIRTUALIZE(function()
+    return
+end)
+
+modules.GameplayUtility.GetOOBWarnDelay = function()
+    return 9999
+end
+
+modules.GameplayUtility.GetOOBKillDelay = function()
+    return 9999
+end
+
+modules.GameplayUtility.IsWithinOOBPart = function()
+    return
+end
+
+--[[
+    Targeting
+]]
+
+GetMuzzlePos = LPH_JIT_MAX(function()
+    local vms = workspace:FindFirstChild("ViewModels")
+    if not vms then
+        return nil
+    end
+
+    local first_person = vms:FindFirstChild("FirstPerson")
+    if not first_person then
+        return nil
+    end
+
+    local player_name = LocalPlayer.Name
+    for _, model in pairs(first_person:GetChildren()) do
+        if not model:IsA("Model") or not model.Name:find("^" .. player_name) then
+            continue
+        end
+
+        local item_visual = model:FindFirstChild("ItemVisual")
+        if not item_visual then
+            continue
+        end
+
+        local body = item_visual:FindFirstChild("Body")
+        if not body then
+            continue
+        end
+
+        local body_primary = body:FindFirstChild("BodyPrimary")
+        if not body_primary then
+            continue
+        end
+
+        local muzzle = body_primary:FindFirstChild("_muzzle")
+        if muzzle and muzzle:IsA("Attachment") then
+            return muzzle.WorldPosition
+        end
+    end
+
+    return nil
+end)
+
+WorldToScreen = LPH_NO_VIRTUALIZE(function(world_position)
+    local screen_point, on_screen = workspace.CurrentCamera:WorldToViewportPoint(world_position)
+    return Vector2.new(screen_point.X, screen_point.Y), on_screen, screen_point.Z
+end)
+
+SetTarget = LPH_NO_VIRTUALIZE(function(player, part)
+    states.target = player
+    states.target_part = part
+    EspInterface.SetTarget(player)
+end)
+
+pcall(function()
+    task.wait(3)
+    task.spawn(function()
+        local katana_path = LocalPlayer.PlayerScripts.Modules.Items:FindFirstChild("Katana", true)
+        local riot_path = LocalPlayer.PlayerScripts.Modules.Items:FindFirstChild("Riot Shield", true)
+        local katana = require(katana_path)
+        local riot = require(riot_path)
+
+        if katana and type(katana) == "table" and katana.StartAiming then
+            local old = katana.StartAiming
+            katana.StartAiming = function(self, force)
+                if not table.find(states.targeting_state.ignore, "Katana") then
+                    return old(self, force)
+                end
+
+                local fighter = self.ClientFighter
+                local player = fighter and fighter.Player
+                if player then
+                    states.targeting_state.blocking[player.Name] = true
+                    local dur = self.Info.DeflectDuration or 0.6
+                    task.delay(dur, function()
+                        states.targeting_state.blocking[player.Name] = nil
+                    end)
+                end
+                return old(self, force)
+            end
+        end
+
+        if riot and type(riot) == "table" and riot._UpdateUnequippedViewModel then
+            local old = riot._UpdateUnequippedViewModel
+            riot._UpdateUnequippedViewModel = function(self, ...)
+                if not table.find(states.targeting_state.ignore, "Riot Shield") then
+                    return old(self, ...)
+                end
+
+                local was_on_back = self._shieldOnBack
+                local fighter = self.ClientFighter
+                local player = fighter and fighter.Player
+                local on_back = not (self.IsEquipped or fighter:IsActuallyFirstPerson()) and not fighter:Get("IsHiddenByEmotes")
+
+                if was_on_back ~= on_back then
+                    self._shieldOnBack = on_back
+
+                    if on_back then
+                        states.targeting_state.blocking[player.Name] = true
+                    else
+                        states.targeting_state.blocking[player.Name] = nil
+                    end
+                end
+                return old(self, ...)
+            end
+        end
+    end)
+
+    local fov_frame = Instance.new("Frame")
+    fov_frame.Name = ""
+    fov_frame.Parent = states.screen_gui
+    fov_frame.AnchorPoint = Vector2.new(0.5, 0.5)
+    fov_frame.Position = UDim2.fromScale(0.5, 0.5)
+    fov_frame.Size = UDim2.fromScale(1, 1)
+    fov_frame.BackgroundTransparency = 1
+    fov_frame.BorderSizePixel = 0
+    fov_frame.ZIndex = 1
+
+    local fov_circle_inline = Instance.new("Frame")
+    fov_circle_inline.Name = ""
+    fov_circle_inline.Parent = fov_frame
+    fov_circle_inline.AnchorPoint = Vector2.new(0.5, 0.5)
+    fov_circle_inline.BackgroundTransparency = 1
+    fov_circle_inline.ZIndex = 1
+
+    local fov_circle_inline_stroke = Instance.new("UIStroke")
+    fov_circle_inline_stroke.Name = ""
+    fov_circle_inline_stroke.Parent = fov_circle_inline
+    fov_circle_inline_stroke.Color = Color3.new(1, 1, 1)
+    fov_circle_inline_stroke.Thickness = 1
+
+    local fov_circle_inline_grad = Instance.new("UIGradient")
+    fov_circle_inline_grad.Name = ""
+    fov_circle_inline_grad.Parent = fov_circle_inline_stroke
+
+    local fov_circle = Instance.new("Frame")
+    fov_circle.Name = ""
+    fov_circle.Parent = fov_frame
+    fov_circle.AnchorPoint = Vector2.new(0.5, 0.5)
+    fov_circle.ZIndex = 2
+
+    local fov_circle_stroke = Instance.new("UIStroke")
+    fov_circle_stroke.Name = ""
+    fov_circle_stroke.Parent = fov_circle
+    fov_circle_stroke.Color = Color3.new(1, 1, 1)
+    fov_circle_stroke.Thickness = 1
+
+    local fov_circle_grad = Instance.new("UIGradient")
+    fov_circle_grad.Name = ""
+    fov_circle_grad.Parent = fov_circle_stroke
+
+    local fov_circle_fill =  Instance.new("UIGradient")
+    fov_circle_fill.Name = ""
+    fov_circle_fill.Parent = fov_circle
+
+    local fov_circle_outline =  Instance.new("Frame")
+    fov_circle_outline.Name = ""
+    fov_circle_outline.Parent = fov_frame
+    fov_circle_outline.AnchorPoint = Vector2.new(0.5, 0.5)
+    fov_circle_outline.BackgroundTransparency = 1
+    fov_circle_outline.ZIndex = 3
+
+    local fov_circle_outline_stroke = Instance.new("UIStroke")
+    fov_circle_outline_stroke.Name = ""
+    fov_circle_outline_stroke.Parent = fov_circle_outline
+    fov_circle_outline_stroke.Color = Color3.new(1, 1, 1)
+    fov_circle_outline_stroke.Thickness = 1
+
+    local fov_circle_outline_grad = Instance.new("UIGradient")
+    fov_circle_outline_grad.Name = ""
+    fov_circle_outline_grad.Parent = fov_circle_outline_stroke
+
+    local circle_mod = Instance.new("UICorner")
+    circle_mod.Name = ""
+    circle_mod.Parent = fov_circle_inline
+    circle_mod.CornerRadius = UDim.new(1, 0)
+    circle_mod:Clone().Parent = fov_circle
+    circle_mod:Clone().Parent = fov_circle_outline
+
+    local camera = workspace.CurrentCamera
+    local raycast_params = RaycastParams.new()
+    raycast_params.FilterType = Enum.RaycastFilterType.Exclude
+    raycast_params.IgnoreWater = true
+    raycast_params.FilterDescendantsInstances = {
+        LocalPlayer.Character
+    }
+    LocalPlayer.CharacterAdded:Connect(function(char)
+        raycast_params.FilterDescendantsInstances = {char}
+    end)
+
+    local wallcheck_cache = {}
+    local wallcheck_cache_ttl = 0.15
+
+    local WallCheck = LPH_NO_VIRTUALIZE(function(character, part)
+        if not states.targeting_state.wallcheck then
+            return true
+        end
+
+        local char_cache = wallcheck_cache[character]
+        if not char_cache then
+            char_cache = {}
+            wallcheck_cache[character] = char_cache
+        end
+
+        local now = os.clock()
+        local cached = char_cache[part]
+        if cached and (now - cached.time) < wallcheck_cache_ttl then
+            return cached.value
+        end
+
+        local origin = camera.CFrame.Position
+        local result = workspace:Raycast(origin, part.Position - origin, raycast_params)
+        local passed = not result or result.Instance:IsDescendantOf(character)
+
+        char_cache[part] = {
+            time = now,
+            value = passed,
+        }
+
+        return passed
+    end)
+
+    local FindBestTarget = LPH_JIT_MAX(function()
+        local origin = camera.CFrame.Position
+        
+        local best_part
+        local best_player
+        local best_distance = math.huge
+
+        for _, player in services.Players:GetPlayers() do
+            if player == LocalPlayer then
+                continue
+            end
+
+            local character = player.Character
+            if not character then
+                continue
+            end
+            
+            local root = character:FindFirstChild("HumanoidRootPart")
+            local humanoid = character:FindFirstChildOfClass("Humanoid")
+            if not root or not humanoid or humanoid.Health <= 0 then
+                continue
+            end
+
+            local their_team = player:GetAttribute("TeamID")
+            if their_team and their_team == LocalPlayer:GetAttribute("TeamID") then
+                continue
+            end
+
+            if states.targeting_state.blocking[player.Name] then
+                continue
+            end
+
+            local root_dist = (root.Position - origin).Magnitude
+            if root_dist > (states.targeting_state.max_distance + 6) then
+                continue
+            end
+
+            local closest_part = nil
+            local closest = math.huge
+
+            if states.targeting_state.target == "Closest Part" then
+                for _, part_name in states.targeting_state.include_parts do
+                    if type(part_name) ~= "string" then
+                        continue
+                    end
+
+                    local part = character:FindFirstChild(part_name)
+                    if not part or not part:IsA("BasePart") then
+                        continue
+                    end
+
+                    local world_dist = (part.Position - origin).Magnitude
+                    if world_dist > states.targeting_state.max_distance then
+                        continue
+                    end
+
+                    local screen, visible = camera:WorldToViewportPoint(part.Position)
+                    if not visible and screen.Z <= 0 then
+                        continue
+                    end
+
+                    local dx = screen.X - fov_circle.Position.X.Offset
+                    local dy = screen.Y - fov_circle.Position.Y.Offset
+                    local screen_dist = dx * dx + dy * dy
+                    local radius_sq = states.targeting_state.radius * states.targeting_state.radius
+
+                    if states.targeting_state.target_group == "FOV" and screen_dist > radius_sq then
+                        continue
+                    end
+
+                    local score = (screen_dist * states.targeting_state.weight_ratio) + (world_dist * (1 - states.targeting_state.weight_ratio))
+
+                    if score < closest then
+                        closest = score
+                        closest_part = part
+                    end
+                end
+            else
+                local part = character:FindFirstChild(states.targeting_state.target)
+                if part and part:IsA("BasePart") then
+                    local world_dist = (part.Position - origin).Magnitude
+
+                    if world_dist <= states.targeting_state.max_distance then
+                        local screen, visible = camera:WorldToViewportPoint(part.Position)
+
+                        if visible or screen.Z > 0 then
+                            local dx = screen.X - fov_circle.Position.X.Offset
+                            local dy = screen.Y - fov_circle.Position.Y.Offset
+                            local screen_dist = dx * dx + dy * dy
+                            local radius_sq = states.targeting_state.radius * states.targeting_state.radius
+
+                            if states.targeting_state.target_group ~= "FOV" or screen_dist <= radius_sq then
+                                closest = (screen_dist * states.targeting_state.weight_ratio) + (world_dist * (1 - states.targeting_state.weight_ratio))
+                                closest_part = part
+                            end
+                        end
+                    end
+                end
+            end
+
+            if not closest_part or closest >= best_distance then
+                continue
+            end
+
+            if not WallCheck(character, closest_part) then
+                continue
+            end
+
+            best_distance = closest
+            best_player = player
+            best_part = closest_part
+        end
+
+        return best_player, best_part
+    end)
+
+    local pending_player
+    local pending_part
+    local pending_time = 0
+
+    local current_player
+    local current_part
+    local current_lost_time = 0
+
+    local next_search = 0
+    local current_pos = UDim2.fromOffset((camera.ViewportSize / 2).X, (camera.ViewportSize / 2).Y)
+    local target_scan_interval = 0.03
+
+    services.RunService.RenderStepped:Connect(LPH_NO_VIRTUALIZE(function()
+        local now = os.clock()
+        local state = states.targeting_state
+
+        if not (states.legit_state.silent_aim.enabled or states.rage_state.rage_bot.enabled or states.legit_state.triggerbot.enabled or state.show_fov) then
+            if current_player then
+                current_player = nil
+                current_part = nil
+                current_lost_time = 0
+                SetTarget(nil, nil)
+            end
+            fov_frame.Visible = false
+            return
+        end
+
+        fov_frame.Visible = state.show_fov
+
+        local target_pos = UDim2.fromOffset((camera.ViewportSize / 2).X, (camera.ViewportSize / 2).Y)
+        if state.fov_position["Barrel"] and not states.target_part then
+            local muzzle_pos = GetMuzzlePos()
+            if muzzle_pos then
+                local screenPos, on_screen = WorldToScreen(muzzle_pos)
+                if on_screen then
+                    target_pos = UDim2.fromOffset(screenPos.X, screenPos.Y)
+                else
+                    target_pos = UDim2.fromOffset((camera.ViewportSize / 2).X, (camera.ViewportSize / 2).Y)
+                end
+            end
+        end
+
+        if state.fov_position["Target"] and states.target_part then
+            local hitbox_pos = states.target_part.Position
+            if hitbox_pos then
+                local screenPos, on_screen = WorldToScreen(hitbox_pos)
+                if on_screen then
+                    target_pos = UDim2.fromOffset(screenPos.X, screenPos.Y)
+                else
+                    target_pos = UDim2.fromOffset((camera.ViewportSize / 2).X, (camera.ViewportSize / 2).Y)
+                end
+            end
+        end
+
+        if state.fov_lerp and state.fov_lerp > 0 then
+            current_pos = current_pos:Lerp(target_pos, state.fov_lerp)
+        else
+            current_pos = target_pos
+        end
+
+        local radius = state.radius
+        local transparency = state.fov_transparency
+        local rotation = state.fov_rotation
+        local rot_speed = state.fov_rotation_speed * 0.5
+        if state.fov_rotation_speed > 0 then
+            rotation = (state.fov_rotation + now * rot_speed * 360) % 360
+        end
+
+        local color_start = state.fov_start_color
+        local color_mid = state.fov_mid_color
+        local color_end = state.fov_end_color
+
+        local outline_transparency = state.fov_outline_transparency
+        local outline_color_start = state.fov_outline_start_color
+        local outline_color_mid = state.fov_outline_mid_color
+        local outline_color_end = state.fov_outline_end_color
+
+        fov_circle_inline.Position = current_pos
+        fov_circle_inline.Size = UDim2.fromOffset((radius * 2) - 2, (radius * 2) - 2)
+        fov_circle_inline.Visible = state.fov_outline
+        fov_circle_inline_stroke.Transparency = outline_transparency
+        fov_circle_inline_grad.Color = ColorSequence.new{ColorSequenceKeypoint.new(0, outline_color_start), ColorSequenceKeypoint.new(0.5, outline_color_mid), ColorSequenceKeypoint.new(1, outline_color_end)}
+        fov_circle_inline_grad.Rotation = rotation
+
+        fov_circle.Position = current_pos
+        fov_circle.Size = UDim2.fromOffset(radius * 2, radius * 2)
+        fov_circle.Visible = state.show_fov
+        fov_circle.BackgroundTransparency = state.fov_fill and math.clamp(0.35 + (transparency * 0.65), 0, 1) or 1
+        fov_circle_stroke.Transparency = transparency
+        fov_circle_grad.Color = ColorSequence.new{ColorSequenceKeypoint.new(0, color_start), ColorSequenceKeypoint.new(0.5, color_mid), ColorSequenceKeypoint.new(1, color_end)}
+        fov_circle_grad.Rotation = rotation
+        fov_circle_fill.Color = ColorSequence.new{ColorSequenceKeypoint.new(0, color_start), ColorSequenceKeypoint.new(0.5, color_mid), ColorSequenceKeypoint.new(1, color_end)}
+        fov_circle_fill.Rotation = rotation
+
+        fov_circle_outline.Position = current_pos
+        fov_circle_outline.Size = UDim2.fromOffset((radius * 2) + 2, (radius * 2) + 2)
+        fov_circle_outline.Visible = state.fov_outline
+        fov_circle_outline_stroke.Transparency = outline_transparency
+        fov_circle_outline_grad.Color = ColorSequence.new{ColorSequenceKeypoint.new(0, outline_color_start), ColorSequenceKeypoint.new(0.5, outline_color_mid), ColorSequenceKeypoint.new(1, outline_color_end)}
+        fov_circle_outline_grad.Rotation = rotation
+
+        if now < next_search then
+            return
+        end
+
+        next_search = now + math.max(state.reaction_time / 1000, target_scan_interval)
+
+        local best_player, best_part = FindBestTarget()
+
+        if best_player ~= pending_player or best_part ~= pending_part then
+            pending_player = best_player
+            pending_part = best_part
+            pending_time = now
+            return
+        end
+
+        if best_player then
+            current_lost_time = 0
+
+            if current_player ~= best_player or current_part ~= best_part then
+                if now - pending_time >= state.reaction_time / 1000 then
+                    current_player = best_player
+                    current_part = best_part
+                    SetTarget(best_player, best_part)
+                end
+            end
+
+            return
+        end
+
+        if not current_player then
+            current_lost_time = 0
+            return
+        end
+
+        if state.forget_time <= 0 then
+            current_player = nil
+            current_part = nil
+            SetTarget(nil, nil)
+            return
+        end
+
+        if current_lost_time == 0 then
+            current_lost_time = now
+            return
+        end
+
+        if now - current_lost_time >= state.forget_time then
+            current_player = nil
+            current_part = nil
+            current_lost_time = 0
+            SetTarget(nil, nil)
+        end
+    end))
+end)
+
+--[[
+    Legit
+]]
+
+local candidates = {
+    Vector3.new(5, 3, 5),
+    Vector3.new(-5, 3, 5),
+    Vector3.new(5, 3, -5),
+    Vector3.new(-5, 3, -5),
+
+    Vector3.new(0, 5, 8),
+    Vector3.new(0, 5, -8),
+}
+
+local overlap_params = OverlapParams.new()
+overlap_params.FilterType = Enum.RaycastFilterType.Exclude
+
+local ray_params = RaycastParams.new()
+ray_params.FilterType = Enum.RaycastFilterType.Exclude
+
+local valid_position_cache = {}
+local valid_position_cache_ttl = 0.5
+
+FindValidPosition = LPH_NO_VIRTUALIZE(function(target)
+    overlap_params.FilterDescendantsInstances = {
+       LocalChar
+    }
+
+    ray_params.FilterDescendantsInstances = {
+        LocalChar
+    }
+
+    local target_pos = target.Position
+    local target_model = target.Parent
+
+    for i = 1, #candidates do
+        local offset = candidates[i]
+        local pos = target_pos + offset
+
+        local result = workspace:Raycast(
+            pos,
+            target_pos - pos,
+            ray_params
+        )
+
+        if not result or result.Instance:IsDescendantOf(target_model) then
+            local parts = workspace:GetPartBoundsInBox(
+                CFrame.new(pos),
+                Vector3.new(3, 6, 3),
+                overlap_params
+            )
+
+            local blocked = false
+
+            for j = 1, #parts do
+                if parts[j].CanCollide then
+                    blocked = true
+                    break
+                end
+            end
+
+            if not blocked then
+                return offset
+            end
+        end
+    end
+
+    return nil
+end)
+
+GetCachedValidPosition = LPH_NO_VIRTUALIZE(function(target)
+    if not target or not target.Parent then
+        return nil
+    end
+
+    local now = os.clock()
+    local entry = valid_position_cache[target]
+    if entry and now - entry.time < valid_position_cache_ttl then
+        return entry.value
+    end
+
+    local value = FindValidPosition(target)
+    valid_position_cache[target] = {
+        value = value,
+        time = now,
+    }
+
+    return value
+end)
+
+local function SetSilentAimEnabled(state)
+    if state == states.legit_state.silent_aim.enabled then
+        return
+    end
+
+    states.legit_state.silent_aim.enabled = state
+
+    ui_objects.SilentAimEnabled:Set(state)
+    ui_objects.SilentAimKeybind:SetPressed(state)
+end
+
+--[[
+    Triggerbot
+]]
+
+states.legit_state.triggerbot.triggerbot_shot_started.Parent = nil
+states.legit_state.triggerbot.triggerbot_shot_finished.Parent = nil
+
+pcall(function()
+    local last_shot = 0
+    services.RunService.Heartbeat:Connect(LPH_NO_VIRTUALIZE(function()
+        setthreadidentity(2)
+        local state = states.legit_state.triggerbot
+        if not state.enabled then
+            if state.triggerbot_active then
+                state.triggerbot_shot_finished:Fire()
+            end
+            setthreadidentity(8)
+            return
+        end
+
+        local target = states.target_part
+        if not target then
+            if state.triggerbot_active then
+                state.triggerbot_shot_finished:Fire()
+            end
+            setthreadidentity(8)
+            return
+        end
+
+        if states.is_reloading then
+            if state.triggerbot_active then
+                state.triggerbot_shot_finished:Fire()
+            end
+            setthreadidentity(8)
+            return
+        end
+
+        local fighter = modules.FighterController:GetFighter(LocalPlayer)
+        if not fighter then
+            setthreadidentity(8)
+            return
+        end
+
+        local equipped_item = fighter.EquippedItem
+        if not equipped_item then
+            setthreadidentity(8)
+            return
+        end
+
+        if table.find(state.check_scoped, equipped_item.Name) then
+            if not equipped_item:IsFullyAiming() then
+                if state.triggerbot_active then
+                    state.triggerbot_shot_finished:Fire()
+                end
+
+                setthreadidentity(8)
+                return
+            end
+        end
+
+        local now = os.clock()
+        local shoot_delay_ms = state.shoot_delay or 100
+        local shoot_delay = shoot_delay_ms / 1000
+
+        if now - last_shot < shoot_delay then
+            setthreadidentity(8)
+            return
+        end
+
+        if not state.triggerbot_active then
+            state.triggerbot_shot_started:Fire()
+        end
+
+        last_shot = now
+        modules.MechanicsController:EquippedItemInput("StartShooting")
+        setthreadidentity(8)
+    end))
+end)
+
+local function SetTriggerbotEnabled(state)
+    if state == states.legit_state.triggerbot.enabled then
+        return
+    end
+
+    states.legit_state.triggerbot.enabled = state
+
+    ui_objects.TriggerbotEnabled:Set(state)
+    ui_objects.TriggerbotKeybind:SetPressed(state)
+end
+
+--[[
+    Rage
+]]
+
+pcall(function()
+    --[[
+        Weapons
+    ]]
+    local old = {}
+    local weapon_state = states.rage_state.weapons
+    local misc_state = states.rage_state.misc
+    local tripmine_last_scan = 0
+    local tripmine_scan_interval = 0.2
+    local weapon_last_update = 0
+    local weapon_update_interval = 0.03
+
+    local function RestoreWeaponInfo(info, original)
+        if not info or not original then
+            return
+        end
+
+        info.ShootRecoil = original.ShootRecoil
+        info.ShootAccuracy = original.ShootAccuracy
+        info.ShootSpread = original.ShootSpread
+        info.QuickShotSpread = original.QuickShotSpread
+        info.ShootSpreadConsistent = original.ShootSpreadConsistent
+        info.AimSpreadMultiplier = original.AimSpreadMultiplier
+        info.InputSpammingEnabled.StartShooting = original.StartShooting
+        info.ShootCooldown = original.ShootCooldown
+        info.MaxDoubleJumps = original.MaxDoubleJumps
+    end
+
+    services.RunService.Heartbeat:Connect(LPH_NO_VIRTUALIZE(function()
+        local fighter = modules.FighterController:GetFighter(LocalPlayer)
+        if not fighter then
+            return
+        end
+
+        local equipped_item = fighter.EquippedItem
+        if not equipped_item then
+            return
+        end
+
+        local info = equipped_item.Info
+        if not info then
+            return
+        end
+
+        if not old[equipped_item] then
+            old[equipped_item] = {
+                ShootRecoil = info.ShootRecoil,
+                ShootAccuracy = info.ShootAccuracy,
+                ShootSpread = info.ShootSpread,
+                QuickShotSpread = info.QuickShotSpread,
+                ShootSpreadConsistent = info.ShootSpreadConsistent,
+                AimSpreadMultiplier = info.AimSpreadMultiplier,
+                StartShooting = info.InputSpammingEnabled.StartShooting,
+                ShootCooldown = info.ShootCooldown,
+                MaxDoubleJumps = info.MaxDoubleJumps
+            }
+        end
+
+        local original = old[equipped_item]
+        local should_apply = weapon_state.no_recoil
+            or weapon_state.no_spread
+            or weapon_state.full_auto
+            or weapon_state.firerate ~= 100
+            or misc_state.anti_tripmine
+            or states.rage_state.movement.infinite_double_jump
+
+        if not should_apply then
+            RestoreWeaponInfo(info, original)
+            return
+        end
+
+        local now = os.clock()
+        if now - weapon_last_update < weapon_update_interval then
+            return
+        end
+        weapon_last_update = now
+
+        if weapon_state.no_recoil then
+            info.ShootRecoil = 0
+        else
+            info.ShootRecoil = original.ShootRecoil
+        end
+
+        if weapon_state.no_spread then
+            info.ShootAccuracy = 0
+            info.ShootSpread = 0
+            info.QuickShotSpread = 0
+            info.ShootSpreadConsistent = true
+            info.AimSpreadMultiplier = 0
+        else
+            info.ShootAccuracy = original.ShootAccuracy
+            info.ShootSpread = original.ShootSpread
+            info.QuickShotSpread = original.QuickShotSpread
+            info.ShootSpreadConsistent = original.ShootSpreadConsistent
+            info.AimSpreadMultiplier = original.AimSpreadMultiplier
+        end
+
+        if weapon_state.full_auto then
+            info.InputSpammingEnabled.StartShooting = 0
+        else
+            info.InputSpammingEnabled.StartShooting = original.StartShooting
+        end
+
+        if weapon_state.firerate ~= 100 then
+            info.ShootCooldown = original.ShootCooldown and original.ShootCooldown * (weapon_state.firerate / 100) or nil
+        else
+            info.ShootCooldown = original.ShootCooldown
+        end
+
+        if states.rage_state.movement.infinite_double_jump then
+            info.MaxDoubleJumps = math.huge
+        else
+            info.MaxDoubleJumps = original.MaxDoubleJumps
+        end
+
+        if misc_state.anti_tripmine and now - tripmine_last_scan >= tripmine_scan_interval then
+            tripmine_last_scan = now
+
+            local root = LocalChar and LocalChar:FindFirstChild("HumanoidRootPart")
+            if root then
+                for _, s in workspace:GetChildren() do
+                    if s.Name == "SubspaceTripmineHitbox" and s:FindFirstChild("Hitbox") then
+                        firetouchinterest(root, s.Hitbox, 1)
+                        firetouchinterest(root, s.Hitbox, 0)
+                    end
+                end
+            end
+        end
+    end))
+
+    local orig_finish = modules.Throwable.FinishShooting
+    local throw_id = 0
+    modules.Throwable.FinishShooting = function(p9, p10)
+        if not p9.ClientFighter.IsLocalPlayer or not states.rage_state.misc.tp_throwables or not states.target_part then
+            return orig_finish(p9, p10)
+        end
+
+        local root = LocalChar and LocalChar.PrimaryPart
+        if not root then
+            return orig_finish(p9, p10)
+        end
+
+        local args = {orig_finish(p9, p10)}
+
+        if args[1] ~= true and args[2] ~= "FinishShooting" then
+            return unpack(args)
+        end
+
+        local prev = root.CFrame
+        local part = states.target_part
+
+        FreezeCamera()
+        LocalChar:PivotTo(part.CFrame * CFrame.new(FindValidPosition(part) or Vector3.new(0, 5, 5)))
+
+        local v68 = CFrame.new(root.Position, part.Position) * CFrame.new(0.75, -0.5, 0)
+        args[3] = modules.Utility:EncodeCFrame(v68)
+
+        throw_id += 1
+        local id = throw_id
+
+        task.delay(LocalPlayer:GetNetworkPing(), function()
+            if id ~= throw_id then
+                return
+            end
+            LocalChar:PivotTo(prev)
+            UnfreezeCamera()
+        end)
+
+        return unpack(args)
+    end
+end)
+
+--[[
+    PluggWalk
+]]
+
+local flip_pluggwalk = Instance.new("BindableEvent")
+local flip_conn
+local hb_conn
+
+local function EnablePluggWalk()
+    local high_y = 2147483647
+    local debounce = false
+    local plugg_id = 0
+
+    ServerCFDesync()
+
+    flip_conn = flip_pluggwalk.Event:Connect(LPH_JIT_MAX(function()
+        local nearby = false
+        for _, plr in ipairs(services.Players:GetPlayers()) do
+            if plr ~= LocalPlayer then
+                local c = plr.Character
+                local root = c and c.PrimaryPart
+
+                if root and LocalChar.PrimaryPart and (root.Position - LocalChar.PrimaryPart.Position).Magnitude <= 2 then
+                    nearby = true
+                    break
+                end
+            end
+        end
+
+        if nearby then
+            high_y = -2147483647
+            return
+        end
+
+        if debounce then
+            return
+        end
+
+        debounce = true
+
+        if math.random() > 0.35 then
+            debounce = false
+            return
+        end
+
+        local root = LocalChar.PrimaryPart
+        high_y = math.random(math.floor(root.Position.Y), math.floor(root.Position.Y + 50))
+
+        plugg_id += 1
+        local id = plugg_id
+
+        task.delay(0.035, function()
+            if id ~= plugg_id then
+                return
+            end
+
+            high_y = 2147483647
+            debounce = false
+        end)
+    end))
+
+    hb_conn = services.RunService.Heartbeat:Connect(LPH_NO_VIRTUALIZE(function()
+        if not states.rage_state.pluggwalk.enabled or states.rage_state.rage_bot.void_spam then
+            return
+        end
+
+        local root = LocalChar and LocalChar.PrimaryPart
+        if not root or not root.Parent then
+            return
+        end
+
+        local cf = root.CFrame
+        if not cf then
+            return
+        end
+
+        local pos = cf.Position
+        states.server_cf = CFrame.new(pos.X, high_y, pos.Z) * (cf - pos)
+    end))
+end
+
+local function DisablePluggWalk()
+    if hb_conn then
+        hb_conn:Disconnect()
+        hb_conn = nil
+    end
+    if flip_conn then
+        flip_conn:Disconnect()
+        flip_conn = nil
+    end
+
+    ServerCFSync()
+end
+
+local function SetPluggWalkEnabled(state)
+    if state == states.rage_state.pluggwalk.enabled then
+        return
+    end
+
+    if state and states.rage_state.rage_bot.void_spam then
+        return
+    end
+
+    if state then
+        EnablePluggWalk()
+        task.wait()
+        states.rage_state.pluggwalk.enabled = true
+    else
+        states.rage_state.pluggwalk.enabled = false
+        task.wait()
+        DisablePluggWalk()
+    end
+
+    ui_objects.PluggWalkEnabled:Set(state)
+    ui_objects.PluggWalkKeybind:SetPressed(state)
+end
+
+--[[
+    StartShooting
+]]
+
+pcall(function()
+    local manip_cf
+    local manip_conn
+    local manipulation = false
+    local manip_visualizer = nil
+    local manip_visualizer_conns = {}
+    local last_manip_update = 0
+    local manip_update_interval = 0.02
+
+    local function DestroyManipVisualizer()
+        if manip_visualizer then
+            manip_visualizer:Destroy()
+            manip_visualizer = nil
+        end
+        for _, conn in ipairs(manip_visualizer_conns) do
+            conn:Disconnect()
+        end
+        table.clear(manip_visualizer_conns)
+    end
+
+    local function CreateManipVisualizer()
+        if manip_visualizer then
+            return
+        end
+
+        local root = LocalChar and LocalChar.PrimaryPart
+        if not root then
+            return
+        end
+
+        manip_visualizer = Instance.new("Part")
+        manip_visualizer.Name = ""
+        manip_visualizer.Material = Enum.Material.Neon
+        manip_visualizer.Size = root.Size
+        manip_visualizer.Color = states.visuals_state.colors.trail_color
+        manip_visualizer.CanCollide = false
+        manip_visualizer.CanQuery = false
+        manip_visualizer.CanTouch = false
+        manip_visualizer.CFrame = manip_cf or root.CFrame
+        manip_visualizer.Parent = EspInterface.GlobalChamRenderer.Viewport
+
+        table.insert(manip_visualizer_conns, root.Destroying:Connect(function()
+            if manip_visualizer then
+                manip_visualizer:Destroy()
+                manip_visualizer = nil
+            end
+        end))
+
+        table.insert(manip_visualizer_conns, root.AncestryChanged:Connect(function(_, parent)
+            if not parent and manip_visualizer then
+                manip_visualizer:Destroy()
+                manip_visualizer = nil
+            end
+        end))
+    end
+
+    local function EnsureManipVisualizer()
+        if not states.legit_state.silent_aim.visualize then
+            DestroyManipVisualizer()
+            return
+        end
+
+        if not manip_visualizer then
+            CreateManipVisualizer()
+        elseif manip_cf then
+            manip_visualizer.CFrame = manip_cf
+        end
+    end
+
+    local ApplyManipulation = LPH_NO_VIRTUALIZE(function()
+        if not manipulation or not manip_cf then
+            return
+        end
+
+        local root = LocalChar and LocalChar.PrimaryPart
+        if root and root.Parent then
+            root.CFrame = manip_cf
+        end
+
+        states.server_cf = manip_cf
+    end)
+
+    local StartManipulation = Instance.new("BindableEvent")
+    StartManipulation.Parent = nil
+
+    StartManipulation.Event:Connect(function(cf)
+        ServerCFDesync()
+
+        manip_cf = cf
+        manipulation = true
+        last_manip_update = 0
+
+        ApplyManipulation()
+
+        if not manip_conn then
+            manip_conn = services.RunService.RenderStepped:Connect(LPH_NO_VIRTUALIZE(function()
+                if not manipulation or not manip_cf then
+                    return
+                end
+
+                local now = os.clock()
+                if now - last_manip_update < manip_update_interval then
+                    return
+                end
+                last_manip_update = now
+
+                ApplyManipulation()
+
+                if states.legit_state.silent_aim.visualize then
+                    if manip_visualizer then
+                        manip_visualizer.CFrame = manip_cf
+                    else
+                        CreateManipVisualizer()
+                    end
+                elseif manip_visualizer then
+                    DestroyManipVisualizer()
+                end
+            end))
+        end
+
+        EnsureManipVisualizer()
+    end)
+
+    local function StopManipulation()
+        manipulation = false
+        manip_cf = nil
+        last_manip_update = 0
+
+        if manip_conn then
+            manip_conn:Disconnect()
+            manip_conn = nil
+        end
+
+        DestroyManipVisualizer()
+        ServerCFSync()
+    end
+
+    services.UserInputService.InputEnded:Connect(function(input)
+        if manipulation and input.UserInputType == Enum.UserInputType.MouseButton1 then
+            StopManipulation()
+        end
+    end)
+
+    states.legit_state.triggerbot.triggerbot_shot_started.Event:Connect(function()
+        states.legit_state.triggerbot.triggerbot_active = true
+    end)
+
+    states.legit_state.triggerbot.triggerbot_shot_finished.Event:Connect(function()
+        states.legit_state.triggerbot.triggerbot_active = false
+        StopManipulation()
+        modules.MechanicsController:EquippedItemInput("FinishShooting")
+    end)
+
+    local shot_offset_cf = modules.Utility:EncodeCFrame(CFrame.new(0.43, 0.25, 0.42))
+    local shot_key_0 = utf8.char(0)
+    local shot_key_1 = utf8.char(1)
+    local shot_key_2 = utf8.char(2)
+    local shot_key_3 = utf8.char(3)
+
+    local BuildShotPayload = LPH_NO_VIRTUALIZE(function(origin, target, part)
+        local aim_cf = modules.Utility:EncodeCFrame(CFrame.new(origin, target))
+        return {
+            [shot_key_0] = aim_cf,
+            [shot_key_1] = aim_cf,
+            [shot_key_2] = part,
+            [shot_key_3] = shot_offset_cf,
+        }
+    end)
+
+    local old_gun = modules.Gun.StartShooting
+    modules.Gun.StartShooting = LPH_NO_VIRTUALIZE(function(self, ...)
+        local legit_state = states.legit_state.silent_aim
+        local rage_state = states.rage_state.rage_bot
+        local pluggwalk_state = states.rage_state.pluggwalk
+        local part = states.target_part
+
+        if not self.ClientFighter.IsLocalPlayer or not part then
+            return old_gun(self, ...)
+        end
+
+        local results = {old_gun(self, ...)}
+
+        if results[1] ~= true or results[2] ~= "StartShooting" then
+            return unpack(results)
+        end
+
+        if not legit_state.enabled and not rage_state.enabled then
+            return unpack(results)
+        end
+
+        if pluggwalk_state.enabled and not rage_state.void_spam then
+            flip_pluggwalk:Fire()
+        end
+
+        local root = LocalChar and LocalChar.PrimaryPart
+        if not root then
+            return unpack(results)
+        end
+
+        if rage_state.enabled then
+            results[3] = BuildShotPayload(states.server_cf.Position, part.Position, part)
+            return unpack(results)
+        end
+
+        if math.random(1, 100) > legit_state.hit_chance then
+            return unpack(results)
+        end
+
+        local origin = root.Position
+        local target = part.Position
+
+        if legit_state.manipulation and not pluggwalk_state.enabled then
+            local offset = GetCachedValidPosition(part) or Vector3.new(0, 5, 5)
+            local fake_cf = part.CFrame * CFrame.new(offset)
+            StartManipulation:Fire(fake_cf)
+            origin = fake_cf.Position
+        end
+
+        results[3] = BuildShotPayload(origin, target, part)
+        return unpack(results)
+    end)
+
+    local old_melee = modules.Melee.StartShooting
+    modules.Melee.StartShooting = LPH_JIT_MAX(function(self, ...)
+        local rage_state = states.rage_state.rage_bot
+        local part = states.target_part
+
+        if not self.ClientFighter.IsLocalPlayer or not part then
+            return old_melee(self, ...)
+        end
+
+        local results = {old_melee(self, ...)}
+
+        if results[1] ~= true or results[2] ~= "StartShooting" then
+            return unpack(results)
+        end
+
+        if not rage_state.enabled then
+            return unpack(results)
+        end
+
+        local root = LocalChar and LocalChar.PrimaryPart
+        if not root then
+            return unpack(results)
+        end
+
+        if rage_state.enabled then
+            results[3] = BuildShotPayload(states.server_cf.Position, part.Position, part)
+            return unpack(results)
+        end
+
+        return unpack(results)
+    end)
+
+    local old_knife = modules.Knife.StartAiming
+    modules.Knife.StartAiming = LPH_JIT_MAX(function(self, ...)
+        local rage_state = states.rage_state.rage_bot
+        local part = states.target_part
+
+        if not self.ClientFighter.IsLocalPlayer or not part then
+            return old_knife(self, ...)
+        end
+
+        local results = {old_knife(self, ...)}
+
+        if results[1] ~= true or results[2] ~= "StartAiming" then
+            return unpack(results)
+        end
+
+        if not rage_state.enabled then
+            return unpack(results)
+        end
+
+        local root = LocalChar and LocalChar.PrimaryPart
+        if not root then
+            return unpack(results)
+        end
+
+        if rage_state.enabled then
+            results[3] = BuildShotPayload(states.server_cf.Position, part.Position, part)
+            return unpack(results)
+        end
+
+        return unpack(results)
+    end)
+end)
+
+--[[
+    Rage Bot
+]]
+
+states.rage_state.rage_bot.sync_void_state.Parent = nil
+
+pcall(function()
+    local void_phase = false
+    local last_switch = 0
+    local rage_active = false
+    local last_action_time = 0
+    local entity = modules.ClientEntity
+    local orig_rplfromserv = entity.ReplicateFromServer
+    local orig_hurteffect = entity._HurtEffect
+    local prev = {}
+
+    local rage_hud_frame = Instance.new("Frame")
+    rage_hud_frame.Name = ""
+    rage_hud_frame.Parent = states.screen_gui
+    rage_hud_frame.AnchorPoint = Vector2.new(0.5, 0)
+    rage_hud_frame.BackgroundTransparency = 1
+    rage_hud_frame.ZIndex = 5
+    rage_hud_frame.Size = UDim2.fromOffset(250, 120)
+    rage_hud_frame.Visible = false
+
+    local hud_layout = Instance.new("UIListLayout")
+    hud_layout.Parent = rage_hud_frame
+    hud_layout.SortOrder = Enum.SortOrder.LayoutOrder
+    hud_layout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+    hud_layout.VerticalAlignment = Enum.VerticalAlignment.Top
+    hud_layout.Padding = UDim.new(0, 2)
+
+    local function CreateHUDText(text, order)
+        local label = Instance.new("TextLabel")
+        label.Name = ""
+        label.Parent = rage_hud_frame
+        label.BackgroundTransparency = 1
+        label.Size = UDim2.new(1, 0, 0, 14)
+        label.Font = Enum.Font.Arial
+        label.TextSize = 14
+        label.TextColor3 = Color3.fromRGB(255, 255, 255)
+
+        label.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
+        label.TextStrokeTransparency = 0
+
+        label.Text = text
+        label.TextXAlignment = Enum.TextXAlignment.Center
+        label.TextYAlignment = Enum.TextYAlignment.Center
+
+        label.LayoutOrder = order
+        label.ZIndex = 6
+
+        return label
+    end
+
+    local function ResetVoidState()
+        void_phase = false
+        last_switch = 0
+    end
+
+    local function GetShootCooldown()
+        local fighter = modules.FighterController:GetFighter(LocalPlayer)
+        local equipped_item = fighter and fighter.EquippedItem
+        local info = equipped_item and equipped_item.Info
+
+        if info and info.ShootCooldown then
+            return math.max(0.02, info.ShootCooldown)
+        end
+
+        return 0.05
+    end
+
+    local shoot_ready_at = 0
+    local shoot_pending = false
+
+    states.rage_state.rage_bot.sync_void_state.Event:Connect(function()
+        local state = states.rage_state.rage_bot
+        if not state.enabled then
+            ResetVoidState()
+            ServerCFSync()
+        else
+            ResetVoidState()
+            if state.void_spam then
+                last_switch = tick()
+            end
+        end
+    end)
+
+    local EditServerCF = LPH_JIT_MAX(function(force_hide)
+        local state = states.rage_state.rage_bot
+        if not state.enabled or states.rage_state.pluggwalk.enabled then
+            return
+        end
+
+        local root = LocalChar and LocalChar.PrimaryPart
+        if not root or not root.Parent then
+            return
+        end
+
+        local target = states.target_part
+        if not target then
+            return
+        end
+
+        local target_cf = target.CFrame * CFrame.new(0, 0, 2)
+
+        if not state.void_spam then
+            states.server_cf = target_cf
+            return
+        end
+
+        if force_hide then
+            void_phase = true
+        else
+            local now = tick()
+            local duration = void_phase and state.hide or state.attack
+            if now - last_switch >= duration then
+                void_phase = not void_phase
+                last_switch = now
+            end
+        end
+
+        if void_phase then
+            local pos = target_cf.Position
+            local far_pos = Vector3.new(math.random(-10000, 10000), -999999999, math.random(-10000, 10000))
+            states.server_cf = CFrame.new(far_pos) * (target_cf - pos)
+        else
+            states.server_cf = target_cf
+        end
+    end)
+
+    local function HasAmmo(item)
+        if not item then
+            return false
+        end
+        return (item:Get("Ammo") or 0) > 0 or (item:Get("AmmoReserve") or 0) > 0
+    end
+
+    local EquipBestWeapon = LPH_JIT_MAX(function()
+        local state = states.rage_state.rage_bot
+        local fighter = modules.FighterController:GetFighter(LocalPlayer)
+        if not fighter then
+            return
+        end
+
+        local desired_slot
+
+        if state.attack_mode == "Knife" or state.attack_mode == "Melee" then
+            desired_slot = 3
+        else
+            local primary = fighter.Items and fighter.Items[1]
+            local secondary = fighter.Items and fighter.Items[2]
+            if not primary and not secondary then
+                return
+            end
+
+            if state.preferred == "Secondary" then
+                if HasAmmo(secondary) then
+                    desired_slot = 2
+                elseif HasAmmo(primary) then
+                    desired_slot = 1
+                end
+            else
+                if HasAmmo(primary) then
+                    desired_slot = 1
+                elseif HasAmmo(secondary) then
+                    desired_slot = 2
+                end
+            end
+        end
+
+        if not desired_slot then
+            return
+        end
+
+        if not fighter.Items[desired_slot].IsEquipped then
+            fighter:EquipItem(desired_slot)
+        end
+    end)
+
+    local function StartRage()
+        rage_active = true
+    end
+
+    local function FinishRage()
+        rage_active = false
+        last_action_time = 0
+        shoot_pending = false
+        shoot_ready_at = 0
+        modules.MechanicsController:EquippedItemInput("FinishShooting")
+        ResetVoidState()
+        ServerCFSync()
+    end
+
+    local rage_status = CreateHUDText("rage bot: idle", 1)
+    local rage_target = CreateHUDText("target: none", 2)
+
+    local UpdateRageHUD = LPH_NO_VIRTUALIZE(function()
+        local state = states.rage_state.rage_bot
+        local center_screen = workspace.CurrentCamera.ViewportSize / 2
+        rage_hud_frame.Visible = state.enabled and state.rage_hud
+        rage_hud_frame.Position = UDim2.fromOffset(center_screen.X, center_screen.Y + 25)
+
+        if states.is_reloading then
+            rage_status.Text = "rage bot: reloading"
+        elseif void_phase then
+            rage_status.Text = "rage bot: void"
+        elseif shoot_pending or (state.attack_mode == "Knife" and modules.MechanicsController:IsAiming()) then
+            rage_status.Text = "rage bot: shoot"
+        else
+            rage_status.Text = "rage bot: idle"
+        end
+
+        local target = states.target
+        if target == nil then
+            rage_target.Text = "target: none"
+        else
+            rage_target.Text = "target: " .. target.Name
+        end
+    end)
+
+    services.RunService.RenderStepped:Connect(LPH_NO_VIRTUALIZE(function()
+        UpdateRageHUD()
+        setthreadidentity(2)
+        local state = states.rage_state.rage_bot
+        if not state.enabled then
+            if rage_active then
+                FinishRage()
+            end
+            setthreadidentity(8)
+            return
+        end
+
+        if states.rage_state.pluggwalk.enabled then
+            if rage_active then
+                FinishRage()
+            end
+            setthreadidentity(8)
+            return
+        end
+
+        local root = LocalChar and LocalChar.PrimaryPart
+        if not root then
+            if rage_active then
+                FinishRage()
+            end
+            setthreadidentity(8)
+            return
+        end
+
+        local can_attack = states.target_part and not states.is_reloading
+        if not can_attack then
+            shoot_pending = false
+            shoot_ready_at = 0
+            modules.MechanicsController:EquippedItemInput("FinishShooting")
+            if state.void_spam then
+                ServerCFDesync()
+                EditServerCF(true)
+            else
+                ServerCFSync()
+            end
+
+            setthreadidentity(8)
+            return
+        else
+            ServerCFDesync()
+            EquipBestWeapon()
+            EditServerCF()
+        end
+
+        if not rage_active then
+            StartRage()
+        end
+
+        local now = os.clock()
+        if not void_phase then
+            if not shoot_pending then
+                if now - last_action_time >= GetShootCooldown() then
+                    local ping_delay = LocalPlayer:GetNetworkPing()
+                    shoot_ready_at = now + math.max(0.03, ping_delay)
+                    shoot_pending = true
+                end
+            else
+                if now >= shoot_ready_at then
+                    last_action_time = now
+                    shoot_pending = false
+
+                    for _ = 1, state.shoot_attempts do
+                        local action = (state.attack_mode == "Knife") and "StartAiming" or "StartShooting"
+                        modules.MechanicsController:EquippedItemInput(action)
+                    end
+                end
+            end
+        end
+
+        setthreadidentity(8)
+    end))
+
+    local notify_bindable = Instance.new("BindableEvent")
+    notify_bindable.Parent = nil
+
+    notify_bindable.Event:Connect(function(name, dmg)
+        ui_objects.Window:Notify({
+            Title = "Hit Notification",
+            Content = ("Hit %s for %.1f"):format(name, dmg),
+            Duration = 5
+        })
+    end)
+
+    local FireHitNotification = LPH_JIT_MAX(function(obj)
+        local hum = obj.Model:FindFirstChildOfClass("Humanoid")
+        if not hum then
+            return
+        end
+
+        local previous = prev[obj]
+
+        if previous == nil then
+            prev[obj] = hum.Health
+            return
+        end
+
+        task.defer(function()
+            if not hum.Parent then
+                return
+            end
+
+            local new_health = hum.Health
+            local damage = previous - new_health
+
+            prev[obj] = new_health
+
+            if damage <= 0 then
+                return
+            end
+
+            if not (states.rage_state.rage_bot.enabled and states.rage_state.rage_bot.hit_notifications and states.target and states.target.Name == obj.Model.Name) then
+                return
+            end
+
+            notify_bindable:Fire(obj.Model.Name, damage)
+        end)
+    end)
+
+    entity._HurtEffect = function(self, ...)
+        FireHitNotification(self)
+        return orig_hurteffect(self, ...)
+    end
+
+    entity.ReplicateFromServer = function(self, enum, ...)
+        if enum == "Died" then
+            prev[self] = nil
+        end
+        return orig_rplfromserv(self, enum, ...)
+    end
+end)
+
+local function SetRageBotEnabled(state)
+    if state == states.rage_state.rage_bot.enabled then
+        return
+    end
+
+    states.rage_state.rage_bot.enabled = state
+    states.rage_state.rage_bot.sync_void_state:Fire()
+
+    ui_objects.RageBotEnabled:Set(state)
+    ui_objects.RageBotKeybind:SetPressed(state)
+end
+
+local function SetVoidSpamEnabled(state)
+    if state == states.rage_state.rage_bot.void_spam then
+        return
+    end
+
+    states.rage_state.rage_bot.void_spam = state
+    states.rage_state.rage_bot.sync_void_state:Fire()
+end
+
+--[[
+    Anti Aim
+]]
+
+pcall(function()
+    local StrongRandom = LPH_JIT_MAX(function(min, max, entropy)
+        local seed = (os.clock() * 1e9 + tick() * 1e6 + math.random(1, 1e9) + (entropy or 0) * 1337)
+        seed = math.abs(math.sin(seed) * 1e14)
+
+        local rng = Random.new(seed % 2^31)
+        return rng:NextNumber(min, max)
+    end)
+
+    local RandomAngle = LPH_JIT_MAX(function(min, max, entropy)
+        return math.rad(StrongRandom(min, max, entropy))
+    end)
+
+    local spin_angle = 0
+    local jitter_angle = 0
+    local last_jitter = 0
+
+    local pitch_handlers = {
+        Offset = function(state)
+            return math.rad(state.pitch_angle)
+        end,
+
+        Custom = function(state)
+            return math.rad(state.pitch_angle)
+        end,
+
+        Random = function(state)
+            return RandomAngle(-89, 89, state.pitch_angle)
+        end,
+
+        ["Look Up"] = function()
+            return math.rad(-89)
+        end,
+
+        ["Look Down"] = function()
+            return math.rad(89)
+        end,
+    }
+
+    local yaw_handlers = {
+        Offset = function(state)
+            return math.rad(state.yaw_angle)
+        end,
+
+        Custom = function(state)
+            return math.rad(state.yaw_angle)
+        end,
+
+        Random = function(state)
+            return RandomAngle(-180, 180, state.yaw_angle)
+        end,
+
+        Spin = function(state)
+            spin_angle += math.rad(state.speed)
+
+            if spin_angle >= math.pi * 2 then
+                spin_angle -= math.pi * 2
+            end
+
+            return spin_angle
+        end,
+
+        Jitter = function(state)
+            local now = tick()
+
+            local interval = 1 / math.max(state.speed, 1)
+
+            if now - last_jitter >= interval then
+                last_jitter = now
+                jitter_angle = math.rad(StrongRandom(-state.jitter_angle, state.jitter_angle, jitter_angle))
+            end
+
+            return jitter_angle
+        end,
+
+        Backwards = function()
+            return math.pi
+        end,
+    }
+
+    local rayparams = RaycastParams.new()
+    rayparams.FilterType = Enum.RaycastFilterType.Exclude
+
+    local floor_cache_pos
+    local floor_cache_cf
+    local floor_cache_time = 0
+    local floor_cache_ttl = 0.2
+
+    local GetFloorBelow = LPH_NO_VIRTUALIZE(function(pos)
+        local now = os.clock()
+        if floor_cache_cf and floor_cache_pos and (floor_cache_pos - pos).Magnitude < 3 and (now - floor_cache_time) < floor_cache_ttl then
+            return floor_cache_cf
+        end
+
+        local ray_origin = pos
+        local ray_dir = Vector3.new(0, -500, 0)
+        rayparams.FilterDescendantsInstances = {LocalChar}
+
+        local result = workspace:Raycast(ray_origin, ray_dir, rayparams)
+        local cf = nil
+        if result then
+            cf = CFrame.new(Vector3.new(pos.X, result.Position.Y - 2, pos.Z))
+        end
+
+        floor_cache_pos = pos
+        floor_cache_cf = cf
+        floor_cache_time = now
+
+        return cf
+    end)
+
+    local GetFakeRot = LPH_JIT_MAX(function(vec)
+        local state = states.rage_state.anti_aim
+
+        if not state.enabled then
+            return vec
+        end
+
+        local pitch_func = pitch_handlers[state.pitch]
+        local yaw_func = yaw_handlers[state.yaw]
+
+        if pitch_func then
+            vec = Vector2.new(pitch_func(state), vec.Y)
+        end
+
+        if yaw_func then
+            vec = Vector2.new(vec.X, vec.Y + yaw_func(state))
+        end
+
+        return vec
+    end)
+
+    local orig = modules.Utility.EncodeCameraRotation
+    modules.Utility.EncodeCameraRotation = LPH_JIT_MAX(function(self, vec)
+        local fake_rot = GetFakeRot(vec)
+        local root = LocalChar.PrimaryPart
+        if root then
+            root.CFrame = root.CFrame * CFrame.Angles(fake_rot.X, fake_rot.Y, math.rad(root.CFrame.Rotation.Z))
+        end
+        return orig(self, fake_rot)
+    end)
+
+    services.RunService.Heartbeat:Connect(LPH_NO_VIRTUALIZE(function()
+        if not states.rage_state.anti_aim.enabled or states.rage_state.pluggwalk.enabled or states.rage_state.rage_bot.void_spam then
+            return
+        end
+
+        if not states.rage_state.anti_aim.underground then
+            return
+        end
+
+        local root = LocalChar and LocalChar.PrimaryPart
+        if not root or not root.Parent then
+            return
+        end
+
+        local cf = root.CFrame
+        if not cf then
+            return
+        end
+
+        local pos = cf.Position
+        local floor_cf = GetFloorBelow(pos)
+        if not floor_cf then
+            return
+        end
+
+        root.CFrame = floor_cf
+    end))
+end)
+
+local function SetAntiAimEnabled(state)
+    if state == states.rage_state.anti_aim.enabled then
+        return
+    end
+
+    states.rage_state.anti_aim.enabled = state
+
+    ui_objects.AntiAimEnabled:Set(state)
+    ui_objects.AntiAimKeybind:SetPressed(state)
+end
+
+--[[
+    Movement
+]]
+
+pcall(function()
+    local fly_bp = nil
+    local fly_bg
+    services.RunService.RenderStepped:Connect(LPH_NO_VIRTUALIZE(function(dt)
+        local state = states.rage_state.movement
+        local root = LocalChar and LocalChar.PrimaryPart
+        local hum = LocalChar and LocalChar:FindFirstChildOfClass("Humanoid")
+        if not root or not hum then
+            return
+        end
+
+        if state.velocity then
+            local move_dir = hum.MoveDirection
+            if move_dir.Magnitude > 0 then
+                local target_vel = move_dir * state.velocity_speed
+                root.AssemblyLinearVelocity = Vector3.new(target_vel.X, root.AssemblyLinearVelocity.Y, target_vel.Z)
+            end
+        end
+
+        if not state.fly then
+            return
+        end
+
+        if not fly_bp then
+            fly_bp = Instance.new("BodyPosition")
+            fly_bp.MaxForce = Vector3.new(1e5, 1e5, 1e5)
+            fly_bp.D = 1000
+            fly_bp.P = 10000
+            fly_bp.Position = root.Position
+            fly_bp.Parent = root
+        end
+
+        if not fly_bg then
+            fly_bg = Instance.new("BodyGyro")
+            fly_bg.MaxTorque = Vector3.new(1e5, 1e5, 1e5)
+            fly_bg.D = 400
+            fly_bg.P = 10000
+            fly_bg.CFrame = root.CFrame
+            fly_bg.Parent = root
+        end
+
+        local cam = workspace.CurrentCamera
+        local look = cam.CFrame.LookVector
+        local right = cam.CFrame.RightVector
+        local move = Vector3.new()
+
+        if services.UserInputService:IsKeyDown(Enum.KeyCode.W) then
+            move += look
+        end
+
+        if services.UserInputService:IsKeyDown(Enum.KeyCode.S) then
+            move -= look
+        end
+
+        if services.UserInputService:IsKeyDown(Enum.KeyCode.A) then
+            move -= right
+        end
+
+        if services.UserInputService:IsKeyDown(Enum.KeyCode.D) then
+            move += right
+        end
+
+        if services.UserInputService:IsKeyDown(Enum.KeyCode.Space) then
+            move += Vector3.new(0, 1, 0)
+        end
+
+        if services.UserInputService:IsKeyDown(Enum.KeyCode.LeftShift) then
+            move -= Vector3.new(0, 1, 0)
+        end
+
+        if move.Magnitude > 0 then
+            move = move.Unit
+        end
+
+        fly_bp.Position = root.Position + (move * state.fly_speed * dt * 10)
+        fly_bp.MaxForce = Vector3.new(1e5, 1e5, 1e5)
+
+        fly_bg.CFrame = CFrame.new(root.Position, root.Position + look * Vector3.new(1, 0, 1))
+    end))
+
+    local fighter = modules.FighterController:GetFighter(LocalPlayer)
+    local old_fighterget = fighter.Get
+    fighter.Get = function(self, idx, ...)
+        local state = states.rage_state.movement
+        if idx == "SlidingSpeedMax" then
+            if state.slide_boost then
+                local val = old_fighterget(self, idx, ...)
+                return (typeof(val) == "number") and val * state.slide_boost_value or 3 * state.slide_boost_value
+            end
+        end
+        if idx == "DisableDoubleJumping" then
+            if state.infinite_double_jump then
+                return false
+            end
+        end
+        return old_fighterget(self, idx, ...)
+    end
+
+    -- FIX: 不再永久覆寫 IsGrounded 為 false，避免干擾鐮刀 dash 重力
+    -- 改為僅在需要無限二段跳時才短暫影響 Fighter.Get("DisableDoubleJumping")
+    -- (已在上面 fighter.Get hook 中處理)
+
+    local old_isgrounded = fighter.IsGrounded
+    fighter.IsGrounded = function(self)
+        local state = states.rage_state.movement
+        -- FIX: infinite_double_jump 不再讓 IsGrounded 永遠 false
+        -- 只由 DisableDoubleJumping hook 影響二段跳能力，不干擾 dash 重力
+        return old_isgrounded(self)
+    end
+
+    -- FIX: 恢復二段跳覆寫 (原被註解掉導致無法二段跳)
+    local orig_dj = modules.MechanicsController.DoubleJump
+    modules.MechanicsController.DoubleJump = LPH_JIT_MAX(function(self)
+        local state = states.rage_state.movement
+
+        -- FIX: 若雙跳功能全部關閉，直接走原生邏輯，不干擾遊戲正常二段跳
+        if not state.double_jump_height and not state.infinite_double_jump then
+            return orig_dj(self)
+        end
+
+        if self:IsAlive() and not self:IsFrozen() then
+            local hum = self.LocalFighter.Entity.Humanoid
+            local root = self.LocalFighter.Entity.RootPart
+
+            local boost = state.double_jump_height and state.double_jump_height_value or 1.0
+            local move = self.LocalFighter:GetMoveVector(true, true)
+
+            root.Velocity = move * hum.WalkSpeed + Vector3.new(0, hum.JumpPower * 1.1 * boost, 0)
+
+            self.LocalFighter.Entity:AirborneRedirect()
+            self:PlayMechanicsSound("DoubleJump")
+
+            -- FIX: 重力檢查 (只在不使用原生的時候)
+            task.wait(0.05)
+            pcall(function()
+                if workspace.Gravity < 100 then
+                    workspace.Gravity = 196.2
+                end
+            end)
+        end
+    end)
+end)
+
+--[[
+    Visuals
+]]
+
+local function UpdateEspOptions()
+    if not EspInterface then
+        return
+    end
+
+    local state = states.visuals_state
+
+    EspInterface.sharedSettings.useTeamColor = state.team_colors
+    EspInterface.sharedSettings.limitDistance = true
+    EspInterface.sharedSettings.maxDistance = state.max_distance
+    EspInterface.sharedSettings.chamMaterial = kConstants.kMaterialMap[state.cham_material]
+    EspInterface.sharedSettings.chamTextureId = state.cham_texture
+
+    local enemy_settings = EspInterface.teamSettings.enemy
+    local friendly_settings = EspInterface.teamSettings.friendly
+
+    enemy_settings.enabled = state.visuals_enabled
+    enemy_settings.box = state.outlines.Box
+    enemy_settings.boxOutline = state.outlines.Box
+    enemy_settings.boxFill = state.box_filled
+    enemy_settings.skeletons = state.outlines.Skeletons
+    enemy_settings.chams = state.outlines.Chams
+    enemy_settings.healthBar = state.outlines.Health
+    enemy_settings.name = state.outlines.Name
+    enemy_settings.tracer = state.outlines.Tracers
+    enemy_settings.tracerOrigin = state.tracer_origin
+    enemy_settings.weapon = state.outlines.Weapon
+    enemy_settings.distance = state.outlines.Distance
+    enemy_settings.targetHighlight = state.target_highlights
+
+    friendly_settings.enabled = state.visuals_enabled and state.teammates
+    friendly_settings.box = state.outlines.Box
+    friendly_settings.boxOutline = state.outlines.Box
+    friendly_settings.boxFill = state.box_filled
+    friendly_settings.skeletons = state.outlines.Skeletons
+    friendly_settings.chams = state.outlines.Chams
+    friendly_settings.healthBar = state.outlines.Health
+    friendly_settings.name = state.outlines.Name
+    friendly_settings.tracer = state.outlines.Tracers
+    friendly_settings.tracerOrigin = state.tracer_origin
+    friendly_settings.weapon = state.outlines.Weapon
+    friendly_settings.distance = state.outlines.Distance
+    friendly_settings.targetHighlight = state.target_highlights
+
+    enemy_settings.boxOutlineColor[1] = state.colors.enemy_box_outline_color
+    enemy_settings.boxFillColor[1] = state.colors.enemy_box_fill_color
+    enemy_settings.chamsFillColor[1] = state.colors.enemy_chams_fill_color
+    enemy_settings.tracerColor[1] = state.colors.enemy_tracer_color
+    enemy_settings.targetHighlightColor[1] = state.colors.target_highlight_color
+
+    friendly_settings.boxOutlineColor[1] = state.colors.friendly_box_outline_color
+    friendly_settings.boxFillColor[1] = state.colors.friendly_box_fill_color
+    friendly_settings.chamsFillColor[1] = state.colors.friendly_chams_fill_color
+    friendly_settings.tracerColor[1] = state.colors.friendly_tracer_color
+    friendly_settings.targetHighlightColor[1] = state.colors.target_highlight_color
+
+    enemy_settings.chamsFillColor[2] = state.colors.chams_fill_transparency
+    enemy_settings.tracerColor[2] = state.colors.tracer_transparency
+
+    friendly_settings.chamsFillColor[2] = state.colors.chams_fill_transparency
+    friendly_settings.tracerColor[2] = state.colors.tracer_transparency
+end
+
+local function SetVisualsEnabled(state)
+    if state == states.visuals_state.visuals_enabled then
+        return
+    end
+
+    states.visuals_state.visuals_enabled = state
+
+    ui_objects.VisualsEnabled:Set(state)
+    ui_objects.VisualsKeybind:SetPressed(state)
+
+    if state then
+        if not EspInterface._hasLoaded then
+            EspInterface.Load()
+        end
+        UpdateEspOptions()
+    else
+        if EspInterface._hasLoaded then
+            EspInterface.Cleanup()
+        end
+    end
+end
+
+pcall(LPH_NO_VIRTUALIZE(function()
+    local trajectory_part_event = Instance.new("BindableEvent")
+    trajectory_part_event.Parent = nil
+
+    local bullet_trail_budget = 16
+    local bullet_trail_active = 0
+    local bullet_trail_last_emit = 0
+    local bullet_trail_emit_interval = 0.01
+    local bullet_trail_lifetime = 0.45
+
+    trajectory_part_event.Event:Connect(function(start_pos, end_pos)
+        local now = os.clock()
+        if now - bullet_trail_last_emit < bullet_trail_emit_interval then
+            return
+        end
+        bullet_trail_last_emit = now
+
+        if bullet_trail_active >= bullet_trail_budget then
+            return
+        end
+
+        local distance = (end_pos - start_pos).Magnitude
+        if distance <= 0 then return end
+
+        bullet_trail_active += 1
+
+        local part = Instance.new("Part")
+        part.Name = ""
+        part.Anchored = true
+        part.CanCollide = false
+        part.CanQuery = false
+        part.CanTouch = false
+        part.Color = states.visuals_state.colors.trail_color
+        part.Material = kConstants.kMaterialMap[states.visuals_state.cham_material]
+        part.Size = Vector3.new(0.1, 0.1, distance)
+        part.CFrame = CFrame.new(start_pos, end_pos) * CFrame.new(0, 0, -distance / 2)
+        part.Parent = EspInterface.GlobalChamRenderer.Viewport
+
+        local tween = services.TweenService:Create(part, TweenInfo.new(bullet_trail_lifetime, Enum.EasingStyle.Linear), {
+            Transparency = 1
+        })
+
+        tween:Play()
+
+        tween.Completed:Connect(function()
+            bullet_trail_active = math.max(0, bullet_trail_active - 1)
+            part:Destroy()
+        end)
+
+        task.delay(bullet_trail_lifetime, function()
+            if part.Parent then
+                bullet_trail_active = math.max(0, bullet_trail_active - 1)
+                part:Destroy()
+            end
+        end)
+
+        return part
+    end)
+
+    local function CreateThrowableTrail(throwable_part)
+	    local base_color = states.visuals_state.colors.trail_color
+	    local bright = base_color:Lerp(Color3.new(1, 1, 1), 0.6)
+	    local very_dark = base_color:Lerp(Color3.new(0, 0, 0), 0.6)
+	    local haze_color = base_color:Lerp(Color3.new(1, 1, 1), 0.3)
+	
+	    local fake_part = throwable_part:Clone()
+	    fake_part.Name = ""
+	    fake_part.Parent = workspace
+	    fake_part.Transparency = 1
+	    fake_part.CanCollide = false
+	    fake_part.CanTouch = false
+	
+		local a0 = Instance.new("Attachment")
+		a0.Position = Vector3.new(0, 0.03, 0)
+		a0.Name = ""
+		a0.Parent = fake_part
+	
+		local a1 = Instance.new("Attachment")
+		a1.Position = Vector3.new(0, -0.03, 0)
+		a1.Name = ""
+		a1.Parent = fake_part
+	
+		local core = Instance.new("Trail")
+		core.Attachment0 = a0
+		core.Attachment1 = a1
+	    core.FaceCamera = true
+		core.Lifetime = 5
+		core.MinLength = 0.15
+		core.Color = ColorSequence.new({
+			ColorSequenceKeypoint.new(0, bright),
+			ColorSequenceKeypoint.new(0.4, base_color),
+			ColorSequenceKeypoint.new(1, very_dark),
+		})
+		core.Transparency = NumberSequence.new({
+			NumberSequenceKeypoint.new(0, 0),
+			NumberSequenceKeypoint.new(0.3, 0.05),
+			NumberSequenceKeypoint.new(0.65, 0.35),
+			NumberSequenceKeypoint.new(1, 1),
+		})
+		core.WidthScale = NumberSequence.new({
+	        NumberSequenceKeypoint.new(0, 3.2),
+	        NumberSequenceKeypoint.new(0.5, 2.0),
+	        NumberSequenceKeypoint.new(1, 0.2),
+	    })
+		core.LightEmission = 1
+		core.LightInfluence = 0
+		core.Texture = "rbxasset://textures/particles/smoke_main.dds"
+		core.TextureMode = Enum.TextureMode.Stretch
+		core.Parent = fake_part
+	
+		local haze = core:Clone()
+		haze.Name = ""
+		haze.Lifetime = 5
+		haze.Color = ColorSequence.new(haze_color)
+		haze.Transparency = NumberSequence.new({
+			NumberSequenceKeypoint.new(0, 0.1),
+			NumberSequenceKeypoint.new(0.4, 0.35),
+			NumberSequenceKeypoint.new(1, 1),
+		})
+		haze.WidthScale = NumberSequence.new({
+	        NumberSequenceKeypoint.new(0, 4.2),
+	        NumberSequenceKeypoint.new(0.5, 3.0),
+	        NumberSequenceKeypoint.new(1, 0.6),
+	    })
+		haze.Parent = fake_part
+	
+		
+		local a0h = a0:Clone()
+	    a0h.Position = Vector3.new(0, 1.4/2, 0)
+	    a0h.Parent = fake_part
+	
+		local a1h = a1:Clone()
+	    a1h.Position = Vector3.new(0, -1.4/2, 0)
+	    a1h.Parent = fake_part
+	
+		haze.Attachment0, haze.Attachment1 = a0h, a1h
+		a0.Position = Vector3.new(0, 0.7/2, 0)
+		a1.Position = Vector3.new(0, -0.7/2, 0)
+	
+	    local last_t = -1
+		local conn = services.RunService.Heartbeat:Connect(function()
+	        if throwable_part then
+	            fake_part.CFrame = throwable_part.CFrame
+	        end
+			local speed = throwable_part.AssemblyLinearVelocity.Magnitude
+			local t = math.clamp(speed / 80, 0.4, 1)
+	
+			if math.abs(t - last_t) > 0.02 then
+	            last_t = t
+	            core.Transparency = NumberSequence.new({
+	                NumberSequenceKeypoint.new(0, (1 - t) * 0.1),
+	                NumberSequenceKeypoint.new(0.3, 0.05 + (1 - t) * 0.1),
+	                NumberSequenceKeypoint.new(0.65, 0.35),
+	                NumberSequenceKeypoint.new(1, 1),
+	            })
+	        end
+		end)
+	
+	    task.delay(math.max(core.Lifetime, haze.Lifetime), function()
+	        if conn.Connected then
+	            conn:Disconnect()
+	        end
+	
+	        core:Clear()
+			haze:Clear()
+	        fake_part:Destroy()
+	    end)
+	end
+	
+	local orig_tracers = modules.Gun._Tracers
+	modules.Gun._Tracers = function(p118, p119, p120)
+	    local muzzle_pos = p118.ViewModel:GetMuzzlePosition()
+	    local result = p119.RaycastResults[1]
+	
+	    if states.visuals_state.trails.Bullets and p119.IsLocal then
+	        if result and result.Position then
+	            trajectory_part_event:Fire(muzzle_pos, result.Position)
+	        end
+	    end
+	
+	    return orig_tracers(p118, p119, p120)
+	end
+	
+	local orig_throwable_replfromserver = modules.Throwable.ReplicateFromServer
+	modules.Throwable.ReplicateFromServer = function(self, event_name, ...)
+		if event_name == "ThrowEffect" then
+			local throwable_part = ...
+	
+			local results = orig_throwable_replfromserver(self, event_name, ...)
+	
+			if states.visuals_state.trails.Throwables and throwable_part then
+				CreateThrowableTrail(throwable_part)
+			end
+	
+	        return results
+		else
+			return orig_throwable_replfromserver(self, event_name, ...)
+		end
+	end
+end))
+
+--[[
+    Viewmodel
+]]
+
+pcall(LPH_NO_VIRTUALIZE(function()
+    local desc_cache = nil
+
+    local function DestroyViewmodelCham()
+	    local state = states.visuals_state.viewmodel
+	
+	    for _, conn in ipairs(state.vm_cham_connections) do
+	        conn:Disconnect()
+	    end
+	    table.clear(state.vm_cham_connections)
+	
+	    for part, info in pairs(state.vm_cham_parts) do
+	        if info.glow then
+	            info.glow:Destroy()
+	        end
+	        state.vm_cham_parts[part] = nil
+	    end
+	end
+	
+	local function CreateViewmodelCham(model)
+	    local state = states.visuals_state.viewmodel
+	    if not model then
+	        return
+	    end
+	
+	    local function AddPart(part)
+	        if state.vm_cham_parts[part] then
+	            return
+	        end
+	
+	        local glow = part:Clone()
+	
+	        for _, child in ipairs(glow:GetDescendants()) do
+	            if child:IsA("Script")
+	            or child:IsA("LocalScript")
+	            or child:IsA("Animator")
+	            or child:IsA("Motor6D")
+	            or child:IsA("Weld")
+	            or child:IsA("WeldConstraint")
+	            or child:IsA("Attachment")
+	            or child:IsA("Decal")
+	            or child:IsA("Texture")
+	            or child:IsA("SurfaceAppearance") then
+	                child:Destroy()
+	            end
+	        end
+	
+	        local mesh = glow:FindFirstChildOfClass("SpecialMesh")
+	
+	        if glow:IsA("MeshPart") then
+	            glow.TextureID = ""
+	            glow.MaterialVariant = ""
+	        end
+	
+	        if mesh then
+	            mesh.TextureId = ""
+	        end
+	
+	        glow.Name = ""
+	        glow.Anchored = true
+	        glow.CanCollide = false
+	        glow.CanQuery = false
+	        glow.CanTouch = false
+	        glow.CastShadow = false
+	
+	        glow.Color = states.visuals_state.colors.viewmodel_chams_color
+	        glow.Material = kConstants.kMaterialMap[state.cham_material]
+	        glow.Transparency = state.cham_transparency or 0
+	        glow.Reflectance = 0
+	
+	        if state.cham_texture and state.cham_texture ~= 0 then
+	            local tex = "rbxassetid://" .. tostring(state.cham_texture)
+	
+	            if glow:IsA("MeshPart") then
+	                glow.TextureID = tex
+	            elseif mesh then
+	                mesh.TextureId = tex
+	            end
+	        end
+	
+	        glow.Parent = EspInterface.GlobalChamRenderer.Viewport
+	
+	        state.vm_cham_parts[part] = {
+	            glow = glow,
+	            mesh = mesh,
+	        }
+	
+	        table.insert(state.vm_cham_connections,
+	            part.Destroying:Connect(function()
+	                local cham = state.vm_cham_parts[part]
+	                if cham then
+	                    cham.glow:Destroy()
+	                    state.vm_cham_parts[part] = nil
+	                end
+	            end)
+	        )
+	
+	        table.insert(state.vm_cham_connections,
+	            part.AncestryChanged:Connect(function(_, parent)
+	                if not parent then
+	                    local cham = state.vm_cham_parts[part]
+	                    if cham then
+	                        cham.glow:Destroy()
+	                        state.vm_cham_parts[part] = nil
+	                    end
+	                end
+	            end)
+	        )
+	    end
+	
+	    for _, v in ipairs(model:GetDescendants()) do
+	        if v:IsA("BasePart") and not string.find(v.Name, "HumanoidRootPart") and not string.find(v.Name, "Camera") and not string.find(v.Name, "Primary") and v.Name ~= "LeftItem" and v.Name ~= "RightItem" then
+	            AddPart(v)
+	        end
+	    end
+	
+	    table.insert(state.vm_cham_connections,
+	        model.DescendantAdded:Connect(function(desc)
+	            desc_cache = nil
+	            if desc:IsA("BasePart") and not string.find(desc.Name, "HumanoidRootPart") and not string.find(desc.Name, "Camera") and not string.find(desc.Name, "Primary") and desc.Name ~= "LeftItem" and desc.Name ~= "RightItem" then
+	                AddPart(desc)
+	            end
+	        end)
+	    )
+	
+	    table.insert(state.vm_cham_connections,
+	        model.DescendantRemoving:Connect(function()
+	            desc_cache = nil
+	        end)
+	    )
+	end
+	
+	states.visuals_state.viewmodel.set_vm_event = Instance.new("BindableEvent", nil)
+	states.visuals_state.viewmodel._pending_vm_set = false
+	
+	states.visuals_state.viewmodel.set_vm_event.Event:Connect(function(model)
+	    local state = states.visuals_state.viewmodel
+	
+	    DestroyViewmodelCham()
+	
+	    for _, wf in pairs(state.wireframe_cache) do
+	        if wf then
+	            pcall(function()
+	                wf:Destroy()
+	            end)
+	        end
+	    end
+	
+	    state.wireframe_cache = {}
+	    state.appearance_cache = {}
+	
+	    state.vm_cham_model = model
+	
+	    if not model then
+	        return
+	    end
+	
+	    CreateViewmodelCham(model)
+	
+	    table.insert(state.vm_cham_connections,
+	        model.Destroying:Connect(function()
+	            if state.vm_cham_model == model then
+	                state.vm_cham_model = nil
+	                DestroyViewmodelCham()
+	
+	                for _, wf in pairs(state.wireframe_cache) do
+	                    if wf then
+	                        pcall(function()
+	                            wf:Destroy()
+	                        end)
+	                    end
+	                end
+	
+	                state.wireframe_cache = {}
+	                state.appearance_cache = {}
+	            end
+	        end)
+	    )
+	end)
+	
+    services.RunService.RenderStepped:Connect(function()
+	    local state = states.visuals_state.viewmodel
+	
+	    if not state.chams or not next(state.vm_cham_parts) then
+	        return
+	    end
+	
+	    for source, info in pairs(state.vm_cham_parts) do
+	        if not source.Parent or not info.glow then
+	            continue
+	        end
+	
+	        info.glow.CFrame = source.CFrame
+	        info.glow.Size = source.Size
+	    end
+	end)
+	
+	local function GetAppearanceCache(inst)
+	    local cache = states.visuals_state.viewmodel.appearance_cache[inst]
+	
+	    if cache then
+	        return cache
+	    end
+	
+	    cache = {}
+	
+	    if inst:IsA("BasePart") then
+	        cache.Color = inst.Color
+	        cache.Material = inst.Material
+	    elseif inst:IsA("Texture")
+	        or inst:IsA("Decal")
+	        or inst.Name == "ShirtTexture" then
+	
+	        cache.Parent = inst.Parent
+	    end
+	
+	    states.visuals_state.viewmodel.appearance_cache[inst] = cache
+	
+	    return cache
+	end
+	
+	local function GetWireframe(part)
+	    local wf = states.visuals_state.viewmodel.wireframe_cache[part]
+	
+	    if wf then
+	        return wf
+	    end
+	
+	    wf = Instance.new("WireframeHandleAdornment")
+	    wf.Adornee = part
+	    wf.AlwaysOnTop = true
+	    wf.ZIndex = 10
+	    wf.Transparency = 0
+	    wf.Parent = workspace.CurrentCamera
+	
+	    states.visuals_state.viewmodel.wireframe_cache[part] = wf
+	
+	    return wf
+	end
+	
+	task.spawn(function()
+	    task.wait(3)
+	    pcall(function()
+	        local vm_module = LocalPlayer.PlayerScripts.Modules.ClientReplicatedClasses.ClientFighter.ClientItem:FindFirstChild("ClientViewModel")
+	        if vm_module then
+	            local ClientViewModel = require(vm_module)
+	            if ClientViewModel.Update then
+	                local orig = ClientViewModel.Update
+	                ClientViewModel.Update = function(u76, p77, p78, p79)
+                        local state = states.visuals_state.viewmodel
+	                    if not u76.ClientItem.ClientFighter.IsLocalPlayer or not u76:IsEquipped() then
+	                        return orig(u76, p77, p78, p79)
+	                    end
+	
+	                    local old = {}
+	
+	                    if state.vm_cham_model_name == nil or state.vm_cham_model_name ~= u76.Name then
+	                        if not state._pending_vm_set then
+	                            state._pending_vm_set = true
+	                            task.defer(function()
+	                                if not u76:IsEquipped() then
+	                                    return
+	                                end
+	
+	                                if state.vm_cham_model == u76.Model then
+	                                    return
+	                                end
+	
+	                                state.vm_cham_model = u76.Model
+	                                state.vm_cham_model_name = u76.Name
+	                                state.set_vm_event:Fire(u76.Model)
+	                                state._pending_vm_set = false
+	                            end)
+	                        end
+	                    end
+	
+	                    if state.override_fps then
+	                        old.Info = u76.Info
+	                        u76.Info.FramesPerSecond = state.fps_multi
+	                    end
+	
+	                    if state.offset then
+	                        if state.last_x ~= state.x_offset or state.last_y ~= state.y_offset or state.last_z ~= state.z_offset then
+                                state.last_x = state.x_offset
+                                state.last_y = state.y_offset
+                                state.last_z = state.z_offset
+
+                                state._offset = CFrame.new(state.x_offset, state.y_offset, state.z_offset)
+                                state._offset_inv = state._offset:Inverse()
+                            end
+
+                            u76._root_part_offset_override = state._offset
+                            u76._root_part_offset_override_inverse = state._offset_inv
+	                    end
+	
+	                    local descs = desc_cache or u76.Model:GetDescendants()
+	                    desc_cache = descs
+	                    for _, v in descs do
+	                        if v.Name == "ShirtTexture" or v:IsA("Texture") or v:IsA("Decal") then
+	                            local cache = GetAppearanceCache(v)
+	
+	                            local should_hide =
+	                                (v.Name == "ShirtTexture" and state.no_clothes)
+	                                or
+	                                ((v:IsA("Texture") or v:IsA("Decal")) and state.no_textures)
+	
+	                            if should_hide then
+	                                if v.Parent then
+	                                    cache.Parent = v.Parent
+	                                    v.Parent = nil
+	                                end
+	                            else
+	                                if cache.Parent and v.Parent ~= cache.Parent then
+	                                    v.Parent = cache.Parent
+	                                end
+	                            end
+	
+	                            continue
+	                        end
+	
+	                        if v:IsA("BasePart") and not string.find(v.Name, "HumanoidRootPart") and not string.find(v.Name, "Camera") and not string.find(v.Name, "Primary") and v.Name ~= "LeftItem" and v.Name ~= "RightItem" then
+	                            local cache = GetAppearanceCache(v)
+                                local color = state.color
+                                local material = kConstants.kMaterialMap[state.material]
+                                local transparency = state.transparency
+
+	                            if state.appearance then
+                                    if v.Color ~= color then
+                                        v.Color = color
+                                    end
+
+                                    if v.Material ~= material then
+                                        v.Material = material
+                                    end
+
+                                    if v.LocalTransparencyModifier ~= transparency then
+                                        v.LocalTransparencyModifier = transparency
+                                    end
+	                            else
+	                                if v.Color ~= cache.Color then
+                                        v.Color = cache.Color
+                                    end
+
+                                    if v.Material ~= cache.Material then
+                                        v.Material = cache.Material
+                                    end
+
+                                    if v.LocalTransparencyModifier ~= 0 then
+                                        v.LocalTransparencyModifier = 0
+                                    end
+	                            end
+	
+	                            local wf = GetWireframe(v)
+	
+	                            if state.wireframe then
+                                    if not wf.Visible then
+                                        wf.Visible = true
+                                    end
+
+                                    if wf.Color3 ~= color then
+                                        wf.Color3 = color
+                                    end
+	                            else
+	                                if wf.Visible then
+                                        wf.Visible = false
+                                    end
+	                            end
+	                            continue
+	                        end
+	                    end
+	
+	                    if table.find(state.disable, "sway") then
+	                        old._sway_spring = u76._sway_spring
+	                        u76._sway_spring.Value = Vector2.zero
+	                    end
+	
+	                    if table.find(state.disable, "bobbing") then
+	                        old._bobbing_value_spring = u76._bobbing_value_spring
+	                        u76._bobbing_value_spring.Target = Vector2.zero
+	                        u76._bobbing_value_spring.Value = Vector2.zero
+	                    end
+	
+	                    if table.find(state.disable, "tilt") then
+	                        old._tilt_spring = u76._tilt_spring
+	                        u76._tilt_spring.Target = Vector2.zero
+	                        u76._tilt_spring.Value = Vector2.zero
+	                    end
+	
+	                    if table.find(state.disable, "equip animation") then
+	                        old._equip_spring = u76._equip_spring
+	                        u76._equip_spring.Value = 0
+	                    end
+	
+	                    if table.find(state.disable, "slide animation") then
+	                        old._sliding_spring = u76._sliding_spring
+	                        u76._sliding_spring.Target = 0
+	                        u76._sliding_spring.Value = 0
+	                    end
+	
+	                    if table.find(state.disable, "sprint animation") then
+	                        old._sprinting_spring = u76._sprinting_spring
+	                        u76._sprinting_spring.Target = 0
+	                        u76._sprinting_spring.Value = 0
+	                    end
+	
+	                    if table.find(state.disable, "jump animation") then
+	                        old._landing_spring = u76._landing_spring
+	                        u76._landing_spring.Velocity = 0
+	                        u76._landing_spring.Target = 0
+	                        u76._landing_spring.Value = 0
+	
+	                        old._jump_spring = u76._jump_spring
+	                        u76._jump_spring.Target = 0
+	                        u76._jump_spring.Value = 0
+	                    end
+	
+	                    if table.find(state.disable, "aiming animation") then
+	                        old._aim_spring = u76._aim_spring
+	                        u76._aim_spring.Value = u76._aim_spring.Target
+	                    end
+	
+	                    if table.find(state.disable, "shoot animation") then
+	                        old._recoil_spring = u76._recoil_spring
+	                        u76._recoil_spring.Target = Vector3.zero
+	                        u76._recoil_spring.Value = Vector3.zero
+	
+	                        old._unrecoil_spring = u76._unrecoil_spring
+	                        u76._unrecoil_spring.Target = Vector3.zero
+	                        u76._unrecoil_spring.Value = Vector3.zero
+	                    end
+	
+	                    local res = orig(u76, p77, p78, p79)
+	
+	                    for spring, rest in pairs(old) do
+	                        u76[spring] = rest
+	                    end
+	
+	                    return res
+	                end
+	            end
+	            
+	            if ClientViewModel.MuzzleFlash then
+	                local orig = ClientViewModel.MuzzleFlash
+	                ClientViewModel.MuzzleFlash = function(self)
+	                    if not self.ClientItem.ClientFighter.IsLocalPlayer or not self:IsEquipped() then
+	                        return orig(self)
+	                    end
+	
+	                    if table.find(states.visuals_state.viewmodel.disable, "muzzle flash") then
+	                        return
+	                    end
+	
+	                    return orig(self)
+	                end
+	            end
+	
+	            if ClientViewModel.ApplyRecoil then
+	                local orig = ClientViewModel.ApplyRecoil
+	                ClientViewModel.ApplyRecoil = function(p62, p63)
+	                    if not p62.ClientItem.ClientFighter.IsLocalPlayer or not p62:IsEquipped() then
+	                        return orig(p62, p63)
+	                    end
+	
+	                    if table.find(states.visuals_state.viewmodel.disable, "shoot animation") then
+	                        return
+	                    end
+	
+	                    return orig(p62, p63)
+	                end
+	            end
+	        end
+	        local animator_module = vm_module:FindFirstChild("ViewModelAnimator")
+	        if animator_module then
+	            local Animator = require(animator_module)
+	            if Animator.PlayIdleAnimation then
+	                local orig = Animator.PlayIdleAnimation
+	                Animator.PlayIdleAnimation = function(self)
+	                    local res = orig(self)
+	
+	                    if table.find(states.visuals_state.viewmodel.disable, "idle animation") then
+	                        local track = self:GetAnimationTrack(self._idle_animation)
+	                        if track then
+	                            track.TimePosition = 0
+	                            track:AdjustSpeed(0)
+	                        end
+	                    end
+	
+	                    return res
+	                end
+	            end
+	            if Animator.PlayEquipAnimation then
+	                local orig = Animator.PlayEquipAnimation
+	                Animator.PlayEquipAnimation = function(self)
+	                    if table.find(states.visuals_state.viewmodel.disable, "equip animation") then
+	                        return true
+	                    end
+	
+	                    return orig(self)
+	                end
+	            end
+	            if Animator.PlaySprintAnimation then
+	                local orig = Animator.PlaySprintAnimation
+	                Animator.PlaySprintAnimation = function(self)
+	                    if table.find(states.visuals_state.viewmodel.disable, "sprint animation") then
+	                        return
+	                    end
+	
+	                    return orig(self)
+	                end
+	            end
+	        end
+	    end)
+	end)
+end))
+
+local function UpdateViewmodelChams()
+	local state = states.visuals_state.viewmodel
+	
+	for _, info in pairs(state.vm_cham_parts) do
+	    local glow = info.glow
+	    if not glow then
+	        continue
+	    end
+	
+	    glow.Transparency = state.cham_transparency
+	    glow.Color = states.visuals_state.colors.viewmodel_chams_color
+	    glow.Material = kConstants.kMaterialMap[state.cham_material]
+	
+	    if glow:IsA("MeshPart") then
+	        if state.cham_texture and state.cham_texture ~= 0 then
+	            glow.TextureID = "rbxassetid://" .. state.cham_texture
+	        else
+	            glow.TextureID = ""
+	        end
+	    elseif info.mesh then
+	        local mesh = info.mesh
+	        if state.cham_texture and state.cham_texture ~= 0 then
+	            mesh.TextureId = "rbxassetid://" .. state.cham_texture
+	        else
+	            mesh.TextureId = ""
+	        end
+	    end
+	end
+end
+
+--[[
+    Animations
+]]
+
+pcall(LPH_NO_VIRTUALIZE(function()
+    local last_anim_set
+
+    services.RunService.Heartbeat:Connect(function()
+        local animate = LocalChar and LocalChar:FindFirstChild("Animate")
+        if not animate then
+            return
+        end
+
+        local anims = kConstants
+            and kConstants.kCharacterAnimsMap
+            and kConstants.kCharacterAnimsMap[states.visuals_state.animations.char_anims]
+
+        if not anims or anims == last_anim_set then
+            return
+        end
+
+        last_anim_set = anims
+
+        local function SetAnimation(folder_name, anim_name, id)
+            if not id then
+                return
+            end
+
+            local folder = animate:FindFirstChild(folder_name)
+            if not folder then
+                return
+            end
+
+            local anim = folder:FindFirstChild(anim_name)
+            if anim and anim:IsA("Animation") and anim.AnimationId ~= id then
+                anim.AnimationId = id
+            end
+        end
+
+        SetAnimation("idle", "Animation1", anims.idle)
+        SetAnimation("idle", "Animation2", anims.idle)
+        SetAnimation("walk", "WalkAnim", anims.walk)
+        SetAnimation("run", "RunAnim", anims.run)
+        SetAnimation("jump", "JumpAnim", anims.jump)
+        SetAnimation("fall", "FallAnim", anims.fall)
+        SetAnimation("climb", "ClimbAnim", anims.climb)
+    end)
+end))
+
+--[[
+    Skybox
+]]
+
+local function GetCustomImage(url)
+    if not url or url == "" then
+        return nil
+    end
+
+    local cache = caches.image_cache[url]
+    if cache and cache.Asset then
+        return cache.Asset
+    end
+
+    local filename = url:match("([^/]+)%?.*$") or url:match("([^/]+)$")
+    if not filename then
+        return nil
+    end
+
+    local filePath = string.format("%s/assets/%s", kConstants.kBaseFolderName, filename)
+
+    if not isfile(filePath) then
+        local ok, data = pcall(game.HttpGet, game, url)
+        if not ok or not data then
+            return nil
+        end
+
+        local writeOk = pcall(writefile, filePath, data)
+        if not writeOk then
+            return nil
+        end
+    end
+
+    local assetOk, asset = pcall(getcustomasset, filePath)
+    if not assetOk then
+        return nil
+    end
+
+    caches.image_cache[url] = {
+        Url = url,
+        Asset = asset
+    }
+
+    return asset
+end
+
+local function SanitizeTextureId(id)
+    if type(id) ~= "string" then
+        return
+    end
+
+    if string.sub(id, 1, 8) == "rbxasset" then
+        return id
+    end
+
+    if string.sub(id, 1, 8) == "https://" then
+        return GetCustomImage(id)
+    end
+
+    if string.match(id, "^%d+$") then
+        return "rbxassetid://" .. id
+    end
+
+    return
+end
+
+local function UpdateSkybox()
+    local state = states.visuals_state.skybox
+
+    if state.lighting_skybox == nil then
+        local original = services.Lighting:FindFirstChildOfClass("Sky")
+        state.lighting_skybox = original:Clone()
+        state.lighting_skybox.Parent = original.Parent
+        original:Destroy()
+
+        services.Lighting.ChildAdded:Connect(function(child)
+            if child:IsA("Sky") then
+                task.defer(function()
+                    child:Destroy()
+                end)
+            end
+        end)
+    end
+
+    local back_texture = ""
+    local down_texture = ""
+    local front_texture = ""
+    local left_texture = ""
+    local right_texture = ""
+    local up_texture = ""
+    local sun_texture = ""
+    local moon_texture = ""
+
+    if state.skybox_value == "Use Custom" then
+        back_texture = state.skybox_back
+        down_texture = state.skybox_down
+        front_texture = state.skybox_front
+        left_texture = state.skybox_left
+        right_texture = state.skybox_right
+        up_texture = state.skybox_up
+        sun_texture = state.sun_texture
+        moon_texture = state.moon_texture
+    else
+        local skybox = kConstants.kSkyboxMap[state.skybox_value]
+        back_texture = skybox.skybox_back
+        down_texture = skybox.skybox_down
+        front_texture = skybox.skybox_front
+        left_texture = skybox.skybox_left
+        right_texture = skybox.skybox_right
+        up_texture = skybox.skybox_up
+        sun_texture = skybox.sun_texture
+        moon_texture = skybox.moon_texture
+    end
+
+    state.lighting_skybox.SkyboxBk = SanitizeTextureId(back_texture)
+    state.lighting_skybox.SkyboxDn = SanitizeTextureId(down_texture)
+    state.lighting_skybox.SkyboxFt = SanitizeTextureId(front_texture)
+    state.lighting_skybox.SkyboxLf = SanitizeTextureId(left_texture)
+    state.lighting_skybox.SkyboxRt = SanitizeTextureId(right_texture)
+    state.lighting_skybox.SkyboxUp = SanitizeTextureId(up_texture)
+    state.lighting_skybox.SunTextureId = SanitizeTextureId(sun_texture)
+    state.lighting_skybox.MoonTextureId = SanitizeTextureId(moon_texture)
+    state.lighting_skybox.StarCount = state.star_count
+    state.lighting_skybox.SunAngularSize = state.sun_angular_size
+    state.lighting_skybox.MoonAngularSize = state.moon_angular_size
+end
+
+local function SetSkyboxAutoRotate()
+    local state = states.visuals_state.skybox
+
+    if state.lighting_skybox == nil then
+        local original = services.Lighting:FindFirstChildOfClass("Sky")
+        state.lighting_skybox = original:Clone()
+        state.lighting_skybox.Parent = original.Parent
+        original:Destroy()
+
+        services.Lighting.ChildAdded:Connect(function(child)
+            if child:IsA("Sky") then
+                task.defer(function()
+                    child:Destroy()
+                end)
+            end
+        end)
+    end
+
+    if state.auto_rotate then
+        state.auto_rotate_conn = services.RunService.Heartbeat:Connect(LPH_NO_VIRTUALIZE(function(dt)
+            state.lighting_skybox.SkyboxOrientation = Vector3.new(0, (state.lighting_skybox.SkyboxOrientation.Y + state.auto_rotate_speed * dt) % 360, 0)
+        end))
+    else
+        state.auto_rotate_conn:Disconnect()
+        state.auto_rotate_conn = nil
+    end
+end
+
+--[[
+    Crosshair
+]]
+
+SolveLine = LPH_NO_VIRTUALIZE(function(a, r)
+    local rad = math.rad(a)
+    return Vector2.new(math.sin(rad) * r, math.cos(rad) * r)
+end)
+
+pcall(function()
+    local lines = {}
+    for i = 1, 8 do
+        lines[i] = Drawing.new("Line")
+    end
+
+    local angles = {
+        0,
+        90,
+        180,
+        270
+    }
+
+    local current_pos = workspace.CurrentCamera.ViewportSize / 2
+
+    services.RunService.RenderStepped:Connect(LPH_NO_VIRTUALIZE(function()
+        local t = os.clock()
+        local state = states.visuals_state.crosshair
+
+        local target_pos = workspace.CurrentCamera.ViewportSize / 2
+        if table.find(state.position, "Barrel") and not states.target_part then
+            local muzzle_pos = GetMuzzlePos()
+            if muzzle_pos then
+                local screenPos, on_screen = WorldToScreen(muzzle_pos)
+                if on_screen then
+                    target_pos = Vector2.new(screenPos.X, screenPos.Y)
+                else
+                    target_pos = workspace.CurrentCamera.ViewportSize / 2
+                end
+            end
+        end
+
+        if table.find(state.position, "Target") and states.target_part then
+            local hitbox_pos = states.target_part.Position
+            if hitbox_pos then
+                local screenPos, on_screen = WorldToScreen(hitbox_pos)
+                if on_screen then
+                    target_pos = Vector2.new(screenPos.X, screenPos.Y)
+                else
+                    target_pos = workspace.CurrentCamera.ViewportSize / 2
+                end
+            end
+        end
+
+        if state.lerp and state.lerp > 0 then
+            current_pos = current_pos:Lerp(target_pos, state.lerp)
+        else
+            current_pos = target_pos
+        end
+
+        if not state.enabled then
+            for i = 1, 8 do
+                lines[i].Visible = false
+            end
+            return
+        end
+
+        local scale = 1 + (math.sin(t * state.bounce_speed) * (1 - 1))
+
+        local length = state.length
+        local thickness = state.thickness * 2
+        local anim_speed = state.bounce_speed * 0.5
+        local rot_speed = state.rotation_speed * 0.5
+
+        if state.bounce_speed > 0 and state.bounce > 0 then
+            local phase = t * anim_speed * math.pi * 2
+            local alpha = (math.sin(phase) + 1) * 0.5
+            length = state.length + alpha * state.bounce
+        end
+
+        if state.enabled then
+            local spinangle = state.rotation
+            if state.rotation_speed > 0 then
+                spinangle = (state.rotation + t * rot_speed * 360) % 360
+            end
+
+            for i = 1, 4 do
+                local basea = angles[i] + spinangle
+                local p1 = current_pos + SolveLine(basea, state.offset * scale)
+                local p2 = current_pos + SolveLine(basea, (state.offset + length) * scale)
+
+                local fill = lines[i + 4]
+                fill.Visible = true
+                fill.Color = state.fill_color
+                fill.From = p1
+                fill.To = p2
+                fill.Thickness = thickness
+
+                local outline = lines[i]
+                outline.Visible = true
+                outline.Color = state.outline_color
+                outline.From = current_pos + SolveLine(basea, state.offset * scale - 1)
+                outline.To = current_pos + SolveLine(basea, (state.offset + length) * scale + 1)
+                outline.Thickness = thickness + 2
+            end
+        else
+            for i = 1, 8 do
+                lines[i].Visible = false
+            end
+        end
+    end))
+end)
+
+--[[
+    SunRays
+]]
+
+local function UpdateSunRaysOptions()
+    local state = states.visuals_state.sunrays
+
+    if state.lighting_sunrays == nil then
+        local original = services.Lighting:FindFirstChildOfClass("SunRaysEffect")
+        if original then
+            state.lighting_sunrays = original:Clone()
+            state.lighting_sunrays.Parent = original.Parent
+            original:Destroy()
+        else
+            state.lighting_sunrays = Instance.new("SunRaysEffect")
+            state.lighting_sunrays.Parent = services.Lighting
+        end
+
+        services.Lighting.ChildAdded:Connect(function(child)
+            if child:IsA("SunRaysEffect") then
+                task.defer(function()
+                    child:Destroy()
+                end)
+            end
+        end)
+    end
+
+    state.lighting_sunrays.Enabled = state.sunrays_enabled
+    state.lighting_sunrays.Intensity = state.sunrays_intensity
+    state.lighting_sunrays.Spread = state.sunrays_spread
+end
+
+--[[
+    Lighting
+]]
+
+local debounce = false
+UpdateLightingOptions = LPH_JIT_MAX(function()
+    local state = states.visuals_state.lighting
+
+    debounce = true
+    services.Lighting.Ambient = state.ambient_color
+    services.Lighting.OutdoorAmbient = state.outdoor_ambient_color
+    services.Lighting.ColorShift_Top = state.shift_top
+    services.Lighting.ColorShift_Bottom = state.shift_bottom
+    services.Lighting.ExposureCompensation = state.exposure
+    services.Lighting.Brightness = state.brightness
+    services.Lighting.ShadowSoftness = state.shadow_softness
+    services.Lighting.EnvironmentDiffuseScale = state.diffuse_scale
+    services.Lighting.EnvironmentSpecularScale = state.specular_scale
+    services.Lighting.GlobalShadows = state.global_shadows
+    services.Lighting.LightingStyle = kConstants.kLightingStyleMap[state.lighting_style]
+    debounce = false
+end)
+
+pcall(function()
+    local function ReapplyLightingIfNeeded()
+	    if debounce then
+	        return
+	    end
+	
+	    local state = states.visuals_state.lighting
+	    local desired_style = kConstants.kLightingStyleMap[state.lighting_style]
+	
+	    if services.Lighting.Ambient ~= state.ambient_color
+	        or services.Lighting.OutdoorAmbient ~= state.outdoor_ambient_color
+	        or services.Lighting.ColorShift_Top ~= state.shift_top
+	        or services.Lighting.ColorShift_Bottom ~= state.shift_bottom
+	        or services.Lighting.ExposureCompensation ~= state.exposure
+	        or services.Lighting.Brightness ~= state.brightness
+	        or services.Lighting.ShadowSoftness ~= state.shadow_softness
+	        or services.Lighting.EnvironmentDiffuseScale ~= state.diffuse_scale
+	        or services.Lighting.EnvironmentSpecularScale ~= state.specular_scale
+	        or services.Lighting.GlobalShadows ~= state.global_shadows
+	        or services.Lighting.LightingStyle ~= desired_style
+	    then
+	        UpdateLightingOptions()
+	    end
+	end
+	
+	local lighting_change_connections = {}
+	local function ConnectLightingChangeHandlers()
+	    if next(lighting_change_connections) ~= nil then
+	        return
+	    end
+	
+	    local properties = {
+	        "Ambient",
+	        "OutdoorAmbient",
+	        "ColorShift_Top",
+	        "ColorShift_Bottom",
+	        "ExposureCompensation",
+	        "Brightness",
+	        "ShadowSoftness",
+	        "EnvironmentDiffuseScale",
+	        "EnvironmentSpecularScale",
+	        "GlobalShadows",
+	        "LightingStyle",
+	    }
+	
+	    for _, property_name in ipairs(properties) do
+	        table.insert(lighting_change_connections, services.Lighting:GetPropertyChangedSignal(property_name):Connect(ReapplyLightingIfNeeded))
+	    end
+	end
+	
+	ConnectLightingChangeHandlers()
+end)
+
+--[[
+    Atmosphere
+]]
+
+local function UpdateAtmosphereOptions()
+    local state = states.visuals_state.atmosphere
+
+    if state.lighting_atmosphere == nil then
+        local original = services.Lighting:FindFirstChildOfClass("Atmosphere")
+        state.lighting_atmosphere = original:Clone()
+        state.lighting_atmosphere.Parent = original.Parent
+        original:Destroy()
+
+        services.Lighting.ChildAdded:Connect(function(child)
+            if child:IsA("Atmosphere") then
+                task.defer(function()
+                    child:Destroy()
+                end)
+            end
+        end)
+    end
+
+    state.lighting_atmosphere.Density = state.density
+    state.lighting_atmosphere.Offset = state.offset
+    state.lighting_atmosphere.Color = state.color
+    state.lighting_atmosphere.Decay = state.decay
+    state.lighting_atmosphere.Glare = state.glare
+    state.lighting_atmosphere.Haze = state.haze
+end
+
+--[[
+    ColorCorrection
+]]
+
+local function UpdateColorCorrectionOptions()
+    local state = states.visuals_state.color_correction
+
+    if state.lighting_cc == nil then
+        state.lighting_cc = Instance.new("ColorCorrectionEffect")
+        state.lighting_cc.Parent = services.Lighting
+    end
+
+    state.lighting_cc.Enabled = state.enabled
+    state.lighting_cc.Brightness = state.brightness
+    state.lighting_cc.Contrast = state.contrast
+    state.lighting_cc.Saturation = state.saturation
+    state.lighting_cc.TintColor = state.tint_color
+end
+
+--[[
+    Weather
+]]
+
+local function StartWeatherThunder()
+    local state = states.visuals_state.weather
+
+    if state.thunder_active then
+        return
+    end
+
+    state.thunder_active = true
+
+    state.thunder_loop = task.spawn(LPH_JIT_MAX(function()
+        while state.thunder_active do
+            task.wait(math.random(5, 15))
+
+            if not state.thunder_active then
+                break
+            end
+
+            local base = states.visuals_state.lighting.brightness
+
+            states.visuals_state.lighting.brightness = base + 10
+            UpdateLightingOptions()
+
+            task.wait(0.08)
+
+            states.visuals_state.lighting.brightness = base + 6
+            UpdateLightingOptions()
+
+            task.wait(0.12)
+
+            states.visuals_state.lighting.brightness = base + 8
+            UpdateLightingOptions()
+
+            task.wait(0.08)
+
+            states.visuals_state.lighting.brightness = base
+            UpdateLightingOptions()
+        end
+    end))
+end
+
+local function StopWeatherThunder()
+	states.visuals_state.weather.thunder_active = false
+	states.visuals_state.weather.thunder_loop = nil
+end
+
+local function UpdateWeatherOptions()
+    local state = states.visuals_state.weather
+
+    if state.emitter_part == nil then
+        state.emitter_part = Instance.new("Part")
+        state.emitter_part.Name = ""
+        state.emitter_part.Parent = workspace
+        state.emitter_part.Size = Vector3.new(50, 1, 50)
+        state.emitter_part.Anchored = true
+        state.emitter_part.Transparency = 1
+        state.emitter_part.Orientation = Vector3.new(0, -90, 0)
+        state.emitter_part.CanCollide = false
+        state.emitter_part.CanQuery = false
+        state.emitter_part.CanTouch = false
+
+        services.RunService.RenderStepped:Connect(LPH_NO_VIRTUALIZE(function()
+            if not state.emitter_part then return end
+            state.emitter_part.Position = workspace.CurrentCamera.CFrame.Position + Vector3.new(0, 25, 0)
+        end))
+    end
+
+    for _, child in ipairs(state.emitter_part:GetChildren()) do
+        child:Destroy()
+    end
+
+    if state.thunder_active or not state.enabled then
+        StopWeatherThunder()
+    end
+
+    if not state.enabled then
+        return
+    end
+
+    if state.type == "Rain" then
+        state.emitter_part.Color = Color3.fromRGB(163, 162, 165)
+
+        local emitter = Instance.new("ParticleEmitter")
+        emitter.Name = ""
+        emitter.Parent = state.emitter_part
+        emitter.Brightness = 2
+        emitter.Orientation = Enum.ParticleOrientation.VelocityParallel
+        emitter.Color = ColorSequence.new(Color3.fromRGB(255, 255, 255))
+        emitter.Rate = state.rate * 500
+        emitter.Lifetime = NumberRange.new(0.5, 0.5)
+        emitter.Speed = NumberRange.new(100, 100)
+        emitter.Size = NumberSequence.new({
+            NumberSequenceKeypoint.new(0, 1, 0),
+            NumberSequenceKeypoint.new(0.1, 0.708511, 0),
+            NumberSequenceKeypoint.new(0.2, 0.522806, 0),
+            NumberSequenceKeypoint.new(0.3, 0.386288, 0),
+            NumberSequenceKeypoint.new(0.4, 0.280422, 0),
+            NumberSequenceKeypoint.new(0.5, 0.196475, 0),
+            NumberSequenceKeypoint.new(0.6, 0.12965, 0),
+            NumberSequenceKeypoint.new(0.7, 0.0771794, 0),
+            NumberSequenceKeypoint.new(0.8, 0.0376439, 0),
+            NumberSequenceKeypoint.new(0.9, 0.0109769, 0),
+            NumberSequenceKeypoint.new(1, 0, 0)
+        })
+        emitter.Squash = NumberSequence.new(-3)
+        emitter.Texture = GetCustomImage(kConstants.kBaseURL .. "Textures/rain.png")
+        emitter.Transparency = NumberSequence.new({
+            NumberSequenceKeypoint.new(0, 1, 0),
+            NumberSequenceKeypoint.new(0.196451, 0.83125, 0),
+            NumberSequenceKeypoint.new(1, 1, 0)
+        })
+        emitter.ZOffset = 1
+        emitter.Rotation = NumberRange.new(180)
+        emitter.RotSpeed = NumberRange.new(0, 0)
+        emitter.SpreadAngle = Vector2.new(0, 0)
+        emitter.EmissionDirection = Enum.NormalId.Bottom
+        emitter.LockedToPart = true
+        emitter.LightEmission = 1
+        emitter.LightInfluence = 0
+        emitter.TimeScale = state.timescale
+
+        emitter:SetAttribute("EmitDelay", 0)
+        services.CollectionService:AddTag(emitter, "AuraInstance")
+
+        emitter:Clone().Parent = emitter.Parent
+        emitter:Clone().Parent = emitter.Parent
+    elseif state.type == "Snow" then
+        state.emitter_part.Color = Color3.fromRGB(0, 255, 255)
+
+        local emitter = Instance.new("ParticleEmitter")
+        emitter.Name = ""
+        emitter.Parent = state.emitter_part
+        emitter.Brightness = 2
+        emitter.Orientation = Enum.ParticleOrientation.VelocityParallel
+        emitter.Color = ColorSequence.new(Color3.fromRGB(255, 255, 255))
+        emitter.Rate = state.rate * 500
+        emitter.Lifetime = NumberRange.new(3, 3)
+        emitter.Speed = NumberRange.new(10, 10)
+        emitter.Size = NumberSequence.new({
+            NumberSequenceKeypoint.new(0, 0.125, 0),
+            NumberSequenceKeypoint.new(1, 0.05, 0)
+        })
+        emitter.Texture = GetCustomImage(kConstants.kBaseURL .. "Textures/snow.png")
+        emitter.Transparency = NumberSequence.new({
+            NumberSequenceKeypoint.new(0, 1, 0),
+            NumberSequenceKeypoint.new(0.02, 0.4, 0),
+            NumberSequenceKeypoint.new(0.95, 0.4, 0),
+            NumberSequenceKeypoint.new(1, 1, 0)
+        })
+        emitter.ZOffset = 0
+        emitter.Rotation = NumberRange.new(0, 360)
+        emitter.RotSpeed = NumberRange.new(-5, 5)
+        emitter.SpreadAngle = Vector2.new(-15, 15)
+        emitter.EmissionDirection = Enum.NormalId.Bottom
+        emitter.LockedToPart = true
+        emitter.LightEmission = 0
+        emitter.LightInfluence = 1
+        emitter.TimeScale = state.timescale
+    else
+        state.emitter_part.Color = Color3.fromRGB(163, 162, 165)
+
+        local emitter = Instance.new("ParticleEmitter")
+        emitter.Name = ""
+        emitter.Parent = state.emitter_part
+        emitter.Brightness = 2
+        emitter.Orientation = Enum.ParticleOrientation.VelocityParallel
+        emitter.Color = ColorSequence.new(Color3.fromRGB(255, 255, 255))
+        emitter.Rate = state.rate * 500
+        emitter.Lifetime = NumberRange.new(0.5, 0.5)
+        emitter.Speed = NumberRange.new(100, 100)
+        emitter.Size = NumberSequence.new({
+            NumberSequenceKeypoint.new(0, 1, 0),
+            NumberSequenceKeypoint.new(0.1, 0.708511, 0),
+            NumberSequenceKeypoint.new(0.2, 0.522806, 0),
+            NumberSequenceKeypoint.new(0.3, 0.386288, 0),
+            NumberSequenceKeypoint.new(0.4, 0.280422, 0),
+            NumberSequenceKeypoint.new(0.5, 0.196475, 0),
+            NumberSequenceKeypoint.new(0.6, 0.12965, 0),
+            NumberSequenceKeypoint.new(0.7, 0.0771794, 0),
+            NumberSequenceKeypoint.new(0.8, 0.0376439, 0),
+            NumberSequenceKeypoint.new(0.9, 0.0109769, 0),
+            NumberSequenceKeypoint.new(1, 0, 0)
+        })
+        emitter.Squash = NumberSequence.new(-5)
+        emitter.Texture = GetCustomImage(kConstants.kBaseURL .. "Textures/rain.png")
+        emitter.Transparency = NumberSequence.new({
+            NumberSequenceKeypoint.new(0, 1, 0),
+            NumberSequenceKeypoint.new(0.196451, 0.83125, 0),
+            NumberSequenceKeypoint.new(1, 1, 0)
+        })
+        emitter.ZOffset = 1
+        emitter.Rotation = NumberRange.new(180)
+        emitter.RotSpeed = NumberRange.new(0, 0)
+        emitter.SpreadAngle = Vector2.new(0, 0)
+        emitter.EmissionDirection = Enum.NormalId.Bottom
+        emitter.LockedToPart = true
+        emitter.LightEmission = 1
+        emitter.LightInfluence = 0
+        emitter.TimeScale = state.timescale
+
+        emitter:SetAttribute("EmitDelay", 0)
+        services.CollectionService:AddTag(emitter, "AuraInstance")
+
+        emitter:Clone().Parent = emitter.Parent
+        emitter:Clone().Parent = emitter.Parent
+        emitter:Clone().Parent = emitter.Parent
+        emitter:Clone().Parent = emitter.Parent
+        emitter:Clone().Parent = emitter.Parent
+        emitter:Clone().Parent = emitter.Parent
+
+        StartWeatherThunder()
+    end
+end
+
+--[[
+    Ambience
+]]
+
+GetThunderSound = LPH_JIT_MAX(function()
+    local sound = services.SoundService:FindFirstChild("AmbienceThunder")
+
+    if not sound then
+        sound = Instance.new("Sound")
+        sound.Name = ""
+        sound.SoundId = "rbxassetid://6409267922"
+        sound.Volume = 1
+        sound.Parent = services.SoundService
+    end
+
+    return sound
+end)
+
+local function StartAmbienceThunder()
+    local state = states.visuals_state.ambience
+
+    if state.thunder_active then
+        return
+    end
+
+    state.thunder_active = true
+
+    state.thunder_loop = task.spawn(LPH_JIT_MAX(function()
+        while state.thunder_active do
+            task.wait(math.random(5, 15))
+
+            if not state.thunder_active then
+                break
+            end
+
+            local thunder = GetThunderSound()
+
+            thunder:Stop()
+            thunder.TimePosition = 0
+            thunder:Play()
+        end
+    end))
+end
+
+local function StopAmbienceThunder()
+	states.visuals_state.ambience.thunder_active = false
+	states.visuals_state.ambience.thunder_loop = nil
+    local thunder = GetThunderSound()
+    thunder:Destroy()
+end
+
+local function UpdateAmbienceOptions()
+    local state = states.visuals_state.ambience
+
+    if state.sound_inst == nil then
+        state.sound_inst = Instance.new("Sound")
+        state.sound_inst.Parent = services.SoundService
+        state.sound_inst.Looped = true
+    end
+
+    state.sound_inst:Stop()
+
+    if state.thunder_active or not state.enabled then
+        StopAmbienceThunder()
+    end
+
+    state.sound_inst.SoundId = kConstants.kAmbienceMap[state.type]
+    state.sound_inst.Volume = state.volume
+
+    if state.enabled then
+        state.sound_inst:Play()
+    end
+
+    if state.type == "Thunder" and state.enabled then
+        StartAmbienceThunder()
+    end
+end
+
+--[[
+    Camera
+]]
+
+local old_getpublicstate
+local function SetStateChangerEnabled(state)
+    if state == states.visuals_state.camera.state_changer then
+        return
+    end
+
+    states.visuals_state.camera.state_changer = state
+
+    ui_objects.StateChangerEnabled:Set(state)
+    ui_objects.StateChangerKeybind:SetPressed(state)
+
+    local old_state = modules.CameraController.CameraState._public_state
+
+    if state then
+        old_getpublicstate = modules.CameraController.CameraState.GetPublicState
+        modules.CameraController.CameraState.GetPublicState = function()
+            return states.visuals_state.camera.camera_state
+        end
+    else
+        modules.CameraController.CameraState.GetPublicState = old_getpublicstate
+    end
+
+    modules.CameraController.CameraState.StateChanged:Fire(states.visuals_state.camera.camera_state, old_state)
+end
+
+local orig_flashbang_replfromserver = modules.Flashbang.ReplicateFromServer
+modules.Flashbang.ReplicateFromServer = function(p4, p5, ...)
+    if states.visuals_state.camera.anti_flashbang and p5 == "BlindEffect" then
+        if p4:IsRendered() then
+            local v6, _ = ...;
+            p4._play_flash_sound_callback(v6)
+        end;
+        return
+    end
+
+    return orig_flashbang_replfromserver(p4, p5, ...)
+end
+
+local orig_smokeclouds_objadded = modules.SmokeClouds._ObjectAdded
+modules.SmokeClouds._ObjectAdded = function(p12, p13)
+    local result = orig_smokeclouds_objadded(p12, p13)
+
+    if states.visuals_state.camera.anti_smoke then
+        if p12._smoke_clouds[p13].Model then
+            p12._smoke_clouds[p13].Model:Destroy();
+            p12._smoke_clouds[p13].Model = nil;
+        end
+    end
+
+    return result
+end
+
+local SmokeScreen = modules.FighterController:GetFighter(LocalPlayer).FighterInterface.SmokeScreen
+local orig_smokescreen_upd = SmokeScreen.Update
+SmokeScreen.Update = LPH_NO_VIRTUALIZE(function(self, ...)
+    if states.visuals_state.camera.anti_smoke then
+        self:Hide()
+        return
+    end
+    orig_smokescreen_upd(self, ...)
+end)
+
+services.RunService.RenderStepped:Connect(LPH_NO_VIRTUALIZE(function()
+    workspace.CurrentCamera.CFrame = workspace.CurrentCamera.CFrame * CFrame.new(0, 0, 0, 1, 0, 0, 0, states.visuals_state.camera.camera_resolution, 0, 0, 0, 1)
+
+    -- 只有使用者真的動過 FOV 滑桿才強制寫回，否則每一幀都在跟遊戲自己的
+    -- CameraController 搶 _base_fov
+    if states.visuals_state.camera.fov_overridden then
+        modules.CameraController._base_fov = states.visuals_state.camera.camera_fov
+    end
+
+    services.Lighting.ClockTime = states.visuals_state.skybox.clocktime
+end))
+
+--[[
+    Unlocker
+]]
+
+CloneCosmetic = LPH_JIT_MAX(function(name, cosmetic_type, options)
+    if not modules.CosmeticLibrary or not modules.CosmeticLibrary.Cosmetics then return nil end
+
+    local base = modules.CosmeticLibrary.Cosmetics[name]
+    if not base then return nil end
+
+    local data = table.clone(base)
+    data.Name = name
+    data.Type = data.Type or cosmetic_type
+    data.Seed = math.random(1, 1000000)
+
+    if modules.EnumLibrary then
+        pcall(function()
+            local enum_id = modules.EnumLibrary:ToEnum(name)
+            if enum_id then
+                data.Enum, data.ObjectID = enum_id, enum_id
+            end
+        end)
+    end
+
+    if options then
+        if options.inverted then
+            data.Inverted = true
+        end
+
+        if options.favorites_only then
+            data.OnlyUseFavorites = true
+        end
+    end
+
+    return data
+end)
+
+local ownscosnorm_original = modules.CosmeticLibrary.OwnsCosmeticNormally
+modules.CosmeticLibrary.OwnsCosmeticNormally = LPH_JIT_MAX(function(p1, p2, p3)
+    local entry = states.skinchanger_state.fake_owned[p3]
+    if entry then return true end
+    return ownscosnorm_original(p1, p2, p3)
+end)
+
+local ownscosuni_original = modules.CosmeticLibrary.OwnsCosmeticUniversally
+modules.CosmeticLibrary.OwnsCosmeticUniversally = LPH_JIT_MAX(function(p1, p2, p3)
+    local entry = states.skinchanger_state.fake_owned[p3]
+    if entry then return true end
+    return ownscosuni_original(p1, p2, p3)
+end)
+
+local ownscosforsm_original = modules.CosmeticLibrary.OwnsCosmeticForSomething
+modules.CosmeticLibrary.OwnsCosmeticForSomething = LPH_JIT_MAX(function(p1, p2, p3)
+    local entry = states.skinchanger_state.fake_owned[p3]
+    if entry then return true end
+    return ownscosforsm_original(p1, p2, p3)
+end)
+
+local ownscosforwp_original = modules.CosmeticLibrary.OwnsCosmeticForWeapon
+modules.CosmeticLibrary.OwnsCosmeticForWeapon = LPH_JIT_MAX(function(p1, p2, p3, p4)
+    local entry = states.skinchanger_state.fake_owned[p3]
+    if entry then return true end
+	return ownscosforwp_original(p1, p2, p3, p4)
+end)
+
+local owns_cosmetic_original = modules.CosmeticLibrary.OwnsCosmetic
+modules.CosmeticLibrary.OwnsCosmetic = LPH_JIT_MAX(function(self, inventory, name, weapon)
+    local entry = states.skinchanger_state.fake_owned[name]
+    if entry then return true end
+    return owns_cosmetic_original(self, inventory, name, weapon)
+end)
+
+local hasgamepass_original = modules.PlayerDataController.HasGamepass
+modules.PlayerDataController.HasGamepass = LPH_JIT_MAX(function(p11, ...)
+    local has_gamepass = hasgamepass_original(p11, ...)
+    local name = ({...})[1]
+
+    return states.spoofer_state.marketplace.fake_bundles_owned[name] or has_gamepass
+end)
+
+-- 把偽裝武器清單「疊加」在真實清單上面，而不是整份取代掉真實清單，
+-- 這樣沒被偽裝到的武器一律照真實資料走，不會用到過時的假資料
+local function MergeWeaponInventory(real, fake)
+    if type(fake) ~= "table" or #fake == 0 then
+        return real
+    end
+
+    local merged = {}
+    local overridden = {}
+
+    for _, weapon in ipairs(fake) do
+        table.insert(merged, weapon)
+        if type(weapon) == "table" and weapon.Name then
+            overridden[weapon.Name] = true
+        end
+    end
+
+    if type(real) == "table" then
+        for _, weapon in pairs(real) do
+            if not (type(weapon) == "table" and weapon.Name and overridden[weapon.Name]) then
+                table.insert(merged, weapon)
+            end
+        end
+    end
+
+    return merged
+end
+
+local dataget_original = modules.PlayerDataController.Get
+modules.PlayerDataController.Get = LPH_JIT_MAX(function(p1, ...)
+    local data = dataget_original(p1, ...)
+    local key = ({...})[1]
+
+    if key == "CosmeticInventory" then
+        return states.skinchanger_state.fake_owned or data
+    end
+    if key == "UnclaimedRewards" then
+        return states.inventory_state.fake_owned or data
+    end
+    if key == "GiftRobuxSpentProgress" then
+        return states.spoofer_state.marketplace.fake_gift_robux_spent or data
+    end
+    if key == "GiftRobuxSpentRewardsClaimed" then
+        return states.spoofer_state.marketplace.fake_gift_rewards_claimed or data
+    end
+    if key == "GamepassBundlesClaimed" then
+        return states.spoofer_state.marketplace.fake_bundles_owned or data
+    end
+    if key == "DuelHistory" then
+        return states.spoofer_state.duel_history.duel_history_value or data
+    end
+    if key == "LoggedELOEvents" then
+        return states.spoofer_state.duel_history.logged_elo_events or data
+    end
+    if key == "WeaponKeys" then
+        return states.spoofer_state.currency.weapon_keys_value or data
+    end
+    if key == "UnlockTokens" then
+        return states.spoofer_state.currency.unlock_tokens_value or data
+    end
+    if key == "EventCurrency" then
+        return states.spoofer_state.currency.event_currency_value or data
+    end
+    if key == "Glory" then
+        return states.spoofer_state.currency.glory_value or data
+    end
+    if key == "SkinTickets" then
+        return states.spoofer_state.currency.skin_tickets_value or data
+    end
+    if key == "WeaponInventory" then
+        return MergeWeaponInventory(data, states.skinchanger_state.fake_weapon_owned)
+    end
+    if key == "FreeWeaponUnlockCheck" then
+        return MergeWeaponInventory(data, states.skinchanger_state.fake_weapon_owned)
+    end
+    if key == "FavoritedCosmetics" then
+        return states.skinchanger_state.favorites or data
+    end
+    return data
+end)
+
+local getweapondata_original = modules.PlayerDataController.GetWeaponData
+modules.PlayerDataController.GetWeaponData = LPH_JIT_MAX(function(p1, ...)
+    local weapon_name = ({...})[1]
+    local original_data, index = getweapondata_original(p1, ...)
+
+    local fake_owned = false
+    for _, weapon in ipairs(states.skinchanger_state.fake_weapon_owned) do
+        if weapon.Name == weapon_name then
+            fake_owned = true
+            break
+        end
+    end
+
+    if fake_owned and not original_data then
+        local fake_data = {
+            Name = weapon_name,
+            Level = 1,
+            XP = 0,
+            IsFavorited = false,
+            Skin = nil,
+        }
+
+        if states.skinchanger_state.equipped
+            and states.skinchanger_state.equipped[weapon_name] then
+
+            for cos_type, cos_data in pairs(
+                states.skinchanger_state.equipped[weapon_name]
+            ) do
+                if type(cos_data) == "table" and (cos_data.Name == "NONE_COSMETIC" or cos_data.Name == "None") then
+                    fake_data[cos_type] = nil
+                else
+                    fake_data[cos_type] = cos_data
+                end
+            end
+        end
+
+        return fake_data, index
+    end
+
+    if original_data
+        and states.skinchanger_state.equipped
+        and states.skinchanger_state.equipped[weapon_name] then
+
+        for cos_type, cos_data in pairs(
+            states.skinchanger_state.equipped[weapon_name]
+        ) do
+            if type(cos_data) == "table" and (cos_data.Name == "NONE_COSMETIC" or cos_data.Name == "None") then
+                original_data[cos_type] = nil
+            else
+                original_data[cos_type] = cos_data
+            end
+        end
+    end
+
+    return original_data, index
+end)
+
+local function PatchCurrentDataGet(current_data)
+    if not current_data or type(current_data.Get) ~= "function" or current_data._fakeWeaponOwnedPatched then
+        return
+    end
+
+    local old_get = current_data.Get
+    current_data.Get = function(self, ...)
+        local data = old_get(self, ...)
+        local key = ({...})[1]
+
+        if key == "CosmeticInventory" then
+            return states.skinchanger_state.fake_owned or data
+        end
+
+        if key == "UnclaimedRewards" then
+            return states.inventory_state.fake_owned or data
+        end
+
+        if key == "WeaponInventory" then
+            return MergeWeaponInventory(data, states.skinchanger_state.fake_weapon_owned)
+        end
+
+        if key == "FreeWeaponUnlockCheck" then
+            return MergeWeaponInventory(data, states.skinchanger_state.fake_weapon_owned)
+        end
+
+        return data
+    end
+
+    current_data._fakeWeaponOwnedPatched = true
+end
+
+local function GetRandomCosmetic(cosmetic_type, weapon_name, is_inverted, only_use_favorites)
+    local available = {}
+
+    for cosmetic_name, cosmetic_data in pairs(modules.CosmeticLibrary.Cosmetics) do
+        if cosmetic_type == "Skin" then
+            if cosmetic_data.Type == cosmetic_type and  modules.CosmeticLibrary:OwnsCosmetic(modules.PlayerDataController:Get("CosmeticInventory"), cosmetic_name, weapon_name) and cosmetic_data.ItemName == weapon_name then
+                table.insert(available, cosmetic_name)
+            end
+        else
+            if cosmetic_data.Type == cosmetic_type and modules.CosmeticLibrary:OwnsCosmetic(modules.PlayerDataController:Get("CosmeticInventory"), cosmetic_name, weapon_name) then
+                table.insert(available, cosmetic_name)
+            end
+        end
+    end
+
+    if #available == 0 then
+        return nil
+    end
+
+    return CloneCosmetic(
+        available[math.random(#available)],
+        cosmetic_type,
+        {
+            inverted = is_inverted,
+            favorites_only = only_use_favorites
+        }
+    )
+end
+
+ResolveCosmetic = LPH_JIT_MAX(function(weaponName, cosmeticType)
+    local equipped = states.skinchanger_state.equipped[weaponName] and states.skinchanger_state.equipped[weaponName][cosmeticType]
+
+    if not equipped then
+        return nil
+    end
+
+    if equipped.Name == "None" or equipped.Name == "NONE_COSMETIC" then
+        return nil
+    end
+
+    if equipped.Name == "Random" or equipped.Name == "RANDOM_COSMETIC" then
+        return GetRandomCosmetic(
+            cosmeticType,
+            weaponName,
+            equipped.Inverted,
+            equipped.OnlyUseFavorites
+        )
+    end
+
+    return equipped
+end)
+
+task.spawn(LPH_NO_VIRTUALIZE(function()
+    while not modules.PlayerDataController.CurrentData do
+        task.wait(0.1)
+    end
+    PatchCurrentDataGet(modules.PlayerDataController.CurrentData)
+end))
+
+RebuildObjectIDMap = LPH_NO_VIRTUALIZE(function()
+    if not modules.FighterController then return end
+    pcall(function()
+        local fighter = modules.FighterController:GetFighter(LocalPlayer)
+        if not fighter or not fighter.Items then return end
+        for _, item in pairs(fighter.Items) do
+            local ok, oid = pcall(function()
+                return item:Get("ObjectID")
+            end)
+
+            if ok and oid ~= nil then
+                caches.objectid_to_weapon_cache[tostring(oid)] = item.Name
+            end
+        end
+    end)
+end)
+
+task.spawn(LPH_NO_VIRTUALIZE(function()
+    while true do
+        RebuildObjectIDMap()
+        task.wait(5)
+    end
+end))
+
+task.spawn(LPH_JIT_MAX(function()
+    task.wait(1)
+
+    local function HandleUseItem(args)
+        if not modules.FighterController then return end
+
+        local oid_str = args[1] ~= nil and tostring(args[1]) or nil
+        if not oid_str then return end
+
+        local cached = caches.objectid_to_weapon_cache[oid_str]
+        if cached then
+            states.skinchanger_state.last_used_weapon = cached
+            return
+        end
+
+        task.spawn(function()
+            pcall(function()
+                local fighter = modules.FighterController:GetFighter(LocalPlayer)
+                if not fighter or not fighter.Items then return end
+                for _, item in pairs(fighter.Items) do
+                    local ok, oid = pcall(function() return item:Get("ObjectID") end)
+                    if ok and oid ~= nil and tostring(oid) == oid_str then
+                        states.skinchanger_state.last_used_weapon = item.Name
+                        caches.objectid_to_weapon_cache[oid_str] = item.Name
+                        break
+                    end
+                end
+            end)
+        end)
+    end
+
+    local function HandleEquip(args)
+        local weapon_name = args[1]
+        local cosmetic_type = args[2]
+        local cosmetic_name = args[3]
+        local options = args[4] or {}
+
+        states.skinchanger_state.equipped[weapon_name] = states.skinchanger_state.equipped[weapon_name] or {}
+
+        if not cosmetic_name or cosmetic_name == "" or cosmetic_name == "None" or cosmetic_name == "NONE_COSMETIC" then
+            states.skinchanger_state.equipped[weapon_name] = states.skinchanger_state.equipped[weapon_name] or {}
+            states.skinchanger_state.equipped[weapon_name][cosmetic_type] = { Name = "NONE_COSMETIC" }
+        elseif cosmetic_name == "Random" or cosmetic_name == "RANDOM_COSMETIC" then
+            local data = {}
+            data.Name = cosmetic_name
+            data.Type = cosmetic_type
+            data.Inverted = options.IsInverted
+            data.OnlyUseFavorites = options.OnlyUseFavorites
+            data.Seed = math.random(1, 1000000)
+
+            states.skinchanger_state.equipped[weapon_name][cosmetic_type] = data
+        else
+            local cloned = CloneCosmetic(
+                cosmetic_name,
+                cosmetic_type,
+                {
+                    inverted = options.IsInverted,
+                    favorites_only = options.OnlyUseFavorites
+                }
+            )
+
+            if cloned then
+                states.skinchanger_state.equipped[weapon_name][cosmetic_type] = cloned
+            end
+        end
+
+        task.spawn(function()
+            task.wait(0.1)
+
+            pcall(function()
+                if modules.PlayerDataController and modules.PlayerDataController.CurrentData then
+                    modules.PlayerDataController.CurrentData:Replicate("WeaponInventory")
+                end
+            end)
+        end)
+    end
+
+    local function HandleFavorite(args)
+        local weapon_name = args[1]
+        local cosmetic_name = args[2]
+        local state = args[3]
+
+        states.skinchanger_state.favorites[weapon_name] = states.skinchanger_state.favorites[weapon_name] or {}
+        states.skinchanger_state.favorites[weapon_name][cosmetic_name] = state or nil
+    end
+
+    NamecallDispatcher:Register(function(self, method, ...)
+        if method ~= "FireServer" then
+            return false
+        end
+
+        local args = { ... }
+
+        if self.Name == "UseItem" then
+            HandleUseItem(args)
+            return NamecallDispatcher:CallOriginal(self, ...)
+        end
+
+        if self.Name == "EquipCosmetic" then
+            HandleEquip(args)
+            return true
+        end
+
+        if self.Name == "FavoriteCosmetic" then
+            HandleFavorite(args)
+            return true
+        end
+
+        return false
+    end)
+end))
+
+local getviewmodelimage_original = modules.ItemLibrary.GetViewModelImageFromWeaponData
+modules.ItemLibrary.GetViewModelImageFromWeaponData = function(p1, p2, p3)
+    if not p2 then return getviewmodelimage_original(p1, p2, p3) end
+
+    local weapon_name = p2.Name
+    local should_show_skin = (p2.Skin and states.skinchanger_state.equipped[weapon_name] and p2.Skin == ResolveCosmetic(weapon_name, "Skin")) or (states.skinchanger_state.viewing_profile == LocalPlayer and states.skinchanger_state.equipped[weapon_name] and ResolveCosmetic(weapon_name, "Skin"))
+
+    if should_show_skin and states.skinchanger_state.equipped[weapon_name] and ResolveCosmetic(weapon_name, "Skin") then
+        local skin_info = p1.ViewModels[ResolveCosmetic(weapon_name, "Skin").Name]
+
+        if skin_info then
+            return skin_info[p3 and "ImageHighResolution" or "Image"] or skin_info.Image
+        end
+    end
+    return getviewmodelimage_original(p1, p2, p3)
+end
+
+task.spawn(LPH_JIT_MAX(function()
+    task.wait(3)
+    pcall(function()
+        local clientItemPath = LocalPlayer.PlayerScripts.Modules.ClientReplicatedClasses.ClientFighter.ClientItem
+        local ClientItem = require(clientItemPath)
+        if ClientItem._CreateViewModel then
+            local orig = ClientItem._CreateViewModel
+            ClientItem._CreateViewModel = function(self, viewmodelRef)
+                local weaponName = self.Name
+                local weaponPlayer = self.ClientFighter and self.ClientFighter.Player
+                states.skinchanger_state.constructing_weapon = (weaponPlayer == LocalPlayer) and weaponName or nil
+
+                if weaponPlayer == LocalPlayer and states.skinchanger_state.equipped[weaponName] and ResolveCosmetic(weaponName, "Skin") and viewmodelRef then
+                    pcall(function()
+                        local dataKey, skinKey, nameKey = self:ToEnum("Data"), self:ToEnum("Skin"), self:ToEnum("Name")
+
+                        if viewmodelRef[dataKey] then
+                            viewmodelRef[dataKey][skinKey] = ResolveCosmetic(weaponName, "Skin")
+                            viewmodelRef[dataKey][nameKey] = ResolveCosmetic(weaponName, "Skin").Name
+                        elseif viewmodelRef.Data then
+                            viewmodelRef.Data.Skin = ResolveCosmetic(weaponName, "Skin")
+                            viewmodelRef.Data.Name = ResolveCosmetic(weaponName, "Skin").Name
+                        end
+                    end)
+                end
+
+                local result = orig(self, viewmodelRef)
+                states.skinchanger_state.constructing_weapon = nil
+
+                return result
+            end
+        end
+    end)
+    pcall(function()
+        local viewModelModule = LocalPlayer.PlayerScripts.Modules.ClientReplicatedClasses.ClientFighter.ClientItem:FindFirstChild("ClientViewModel")
+        if viewModelModule then
+            local ClientViewModel = require(viewModelModule)
+            if ClientViewModel.GetWrap then
+                local orig = ClientViewModel.GetWrap
+                ClientViewModel.GetWrap = function(self)
+                    local weaponName = self.ClientItem and self.ClientItem.Name
+                    local weaponPlayer = self.ClientItem and self.ClientItem.ClientFighter and self.ClientItem.ClientFighter.Player
+
+                    if weaponName and weaponPlayer == LocalPlayer and states.skinchanger_state.equipped[weaponName] and ResolveCosmetic(weaponName, "Wrap") then
+                        return ResolveCosmetic(weaponName, "Wrap")
+                    end
+                    return orig(self)
+                end
+            end
+            local origNew = ClientViewModel.new
+            ClientViewModel.new = function(replicatedData, clientItem)
+                local weaponPlayer = clientItem.ClientFighter and clientItem.ClientFighter.Player
+                local weaponName = states.skinchanger_state.constructing_weapon or clientItem.Name
+
+                if weaponPlayer == LocalPlayer and states.skinchanger_state.equipped[weaponName] then
+                    pcall(function()
+                        local ReplicatedClass = require(services.ReplicatedStorage.Modules.ReplicatedClass)
+                        local dataKey = ReplicatedClass:ToEnum("Data")
+                        replicatedData[dataKey] = replicatedData[dataKey] or {}
+
+                        if ResolveCosmetic(weaponName, "Skin") then
+                            replicatedData[dataKey][ReplicatedClass:ToEnum("Skin")] = ResolveCosmetic(weaponName, "Skin")
+                        end
+
+                        if ResolveCosmetic(weaponName, "Wrap") then
+                            replicatedData[dataKey][ReplicatedClass:ToEnum("Wrap")] = ResolveCosmetic(weaponName, "Wrap")
+                        end
+
+                        if ResolveCosmetic(weaponName, "Charm") then
+                            replicatedData[dataKey][ReplicatedClass:ToEnum("Charm")] = ResolveCosmetic(weaponName, "Charm")
+                        end
+                    end)
+                end
+                local result = origNew(replicatedData, clientItem)
+                pcall(function()
+                    local objectID = nil
+                    pcall(function()
+                        local ReplicatedClass = require(services.ReplicatedStorage.Modules.ReplicatedClass)
+                        local dataKey = ReplicatedClass:ToEnum("Data")
+                        local objKey  = ReplicatedClass:ToEnum("ObjectID")
+                        if replicatedData[dataKey] then
+                            objectID = replicatedData[dataKey][objKey]
+                        end
+                    end)
+                    if objectID == nil then
+                        pcall(function() objectID = result:Get("ObjectID") or result.ObjectID end)
+                    end
+                    if objectID and weaponPlayer == LocalPlayer and states.skinchanger_state.equipped[weaponName] then
+                        states.skinchanger_state.placed_object_map = states.skinchanger_state.placed_object_map or {}
+                        states.skinchanger_state.placed_object_map[objectID] = weaponName
+                    end
+                end)
+                if weaponPlayer == LocalPlayer and states.skinchanger_state.equipped[weaponName] and ResolveCosmetic(weaponName, "Wrap") and result._UpdateWrap then
+                    task.spawn(function()
+                        result:_UpdateWrap()
+                        task.wait(0.1)
+                        if not result._destroyed then result:_UpdateWrap() end
+                    end)
+                end
+                return result
+            end
+        end
+    end)
+    pcall(function()
+        local ViewProfile = require(LocalPlayer.PlayerScripts.Modules.Pages.ViewProfile)
+        if ViewProfile and ViewProfile.Fetch then
+            local orig = ViewProfile.Fetch
+            ViewProfile.Fetch = function(self, targetPlayer)
+                states.skinchanger_state.viewing_profile = targetPlayer
+                return orig(self, targetPlayer)
+            end
+        end
+    end)
+    pcall(function()
+        local ClientEntity = require(LocalPlayer.PlayerScripts.Modules.ClientReplicatedClasses.ClientEntity)
+        if not ClientEntity or not ClientEntity.ReplicateFromServer then return end
+
+        local orig = ClientEntity.ReplicateFromServer
+
+        local function DecodeKillerArg(value)
+            if value == nil then return nil end
+
+            if typeof(value) == "Instance" then
+                if value:IsA("Player") then
+                    return value.Name
+                end
+                return nil
+            end
+
+            if type(value) == "number" then
+                return value == LocalPlayer.UserId and LocalPlayer.Name or nil
+            end
+
+            if type(value) == "string" then
+                return value
+            end
+
+            if type(value) == "userdata" then
+                if modules.EnumLibrary and modules.EnumLibrary.FromEnum then
+                    local ok, decoded = pcall(function() return modules.EnumLibrary:FromEnum(value) end)
+                    if ok and decoded ~= nil then
+                        return tostring(decoded)
+                    end
+                end
+                return tostring(value)
+            end
+
+            return tostring(value)
+        end
+
+        local function IsLocalPlayerKiller(args)
+            local lname_lower = LocalPlayer.Name:lower()
+            local decoded = DecodeKillerArg(args[3])
+            if decoded and decoded:lower() == lname_lower then
+                return true
+            end
+            return false
+        end
+
+        local function ResolveFinisherWeapon()
+            local primary = states.skinchanger_state.last_used_weapon
+            if primary
+                and states.skinchanger_state.equipped[primary]
+                and ResolveCosmetic(primary, "Finisher")
+            then
+                return primary
+            end
+
+            for weaponName, _ in pairs(states.skinchanger_state.equipped) do
+                if ResolveCosmetic(weaponName, "Finisher") then
+                    return weaponName
+                end
+            end
+
+            return nil
+        end
+
+        local function ResolveFinisherEnum(finisherData)
+            if not finisherData then
+                return nil, "finisherData is nil"
+            end
+
+            if finisherData.Enum ~= nil then
+                return finisherData.Enum, nil
+            end
+
+            if modules.EnumLibrary then
+                if modules.EnumLibrary.ToEnum then
+                    local ok, result = pcall(function()
+                        return modules.EnumLibrary:ToEnum(finisherData.Name)
+                    end)
+                    if ok and result ~= nil then
+                        finisherData.Enum = result
+                        return result, nil
+                    end
+                end
+            end
+
+            if finisherData.ObjectID ~= nil then
+                finisherData.Enum = finisherData.ObjectID
+                return finisherData.ObjectID, nil
+            end
+
+            return nil, "could not resolve enum for finisher: " .. tostring(finisherData.Name)
+        end
+
+        ClientEntity.ReplicateFromServer = function(self, action, ...)
+            if action ~= "FinisherEffect" then
+                return orig(self, action, ...)
+            end
+
+            local args = { ... }
+
+            if not IsLocalPlayerKiller(args) then
+                return orig(self, action, ...)
+            end
+
+            local weaponName = ResolveFinisherWeapon()
+            if not weaponName then
+                return orig(self, action, ...)
+            end
+
+            local finisherData = ResolveCosmetic(weaponName, "Finisher")
+            local finisherEnum, _ = ResolveFinisherEnum(finisherData)
+
+            if finisherEnum == nil then
+                return orig(self, action, ...)
+            end
+
+            if not self:IsRendered() then return end
+
+            local ok, decoded = pcall(function()
+                return self:FromEnum(finisherEnum)
+            end)
+            if not ok or decoded == nil then
+                decoded = finisherData.Name
+            end
+
+            if decoded == nil then
+                return orig(self, action, ...)
+            end
+
+            local v2, v3, v4 = args[2], args[3], args[4]
+            pcall(function()
+                self:_PlayFinisher(decoded, v2, v3, v4)
+            end)
+
+            return
+        end
+    end)
+    pcall(function()
+        if not modules.FighterController or not modules.FighterController.GetWrap then return end
+
+        local orig_GetWrap = modules.FighterController.GetWrap
+        modules.FighterController.GetWrap = function(self, objectID)
+            local result = orig_GetWrap(self, objectID)
+            if result then return result end
+
+            if objectID and states.skinchanger_state.placed_object_map then
+                local weaponName = states.skinchanger_state.placed_object_map[objectID]
+                if weaponName and states.skinchanger_state.equipped[weaponName] then
+                    local wrap = ResolveCosmetic(weaponName, "Wrap")
+                    if wrap then return wrap end
+                end
+            end
+            return nil
+        end
+    end)
+    pcall(function()
+        local JumpPads = require(LocalPlayer.PlayerScripts.Modules.GameComponents.JumpPads)
+        if not JumpPads or not JumpPads.CreateJumpPadVisual then return end
+
+        local orig_CreateVisual = JumpPads.CreateJumpPadVisual
+        JumpPads.CreateJumpPadVisual = function(self, name, size)
+            if states.skinchanger_state.equipped["Jump Pad"] then
+                pcall(function()
+                    local skin = ResolveCosmetic("Jump Pad", "Skin")
+                    if skin and skin.Name then
+                        name = skin.Name
+                    end
+                end)
+            end
+            return orig_CreateVisual(self, name, size)
+        end
+    end)
+end))
+
+local function GetCosmeticsByRarity(rarity)
+    local results = {}
+    for name, cosmetic in pairs(modules.CosmeticLibrary.Cosmetics) do
+        if cosmetic.Rarity == rarity then
+            table.insert(results, name)
+        end
+    end
+    return results
+end
+
+local function GetCosmeticsByType(type_name)
+    local results = {}
+    for name, cosmetic in pairs(modules.CosmeticLibrary.Cosmetics) do
+        if cosmetic.Type == type_name then
+            table.insert(results, name)
+        end
+    end
+    return results
+end
+
+local function GetSpecificCosmetic(type_name, cos_name, weapon_name)
+    local result;
+    for name, cosmetic in pairs(modules.CosmeticLibrary.Cosmetics) do
+        if type_name == "Skin" then
+            if name == cos_name and cosmetic.Type == type_name and cosmetic.ItemName == weapon_name then
+                result = name
+            end
+        else
+            if name == cos_name and cosmetic.Type == type_name then
+                result = name
+            end
+        end
+    end
+    return result
+end
+
+local function GetAllCosmeticsOfWeapon(weapon_name)
+    local results = {}
+    for name, cosmetic in pairs(modules.CosmeticLibrary.Cosmetics) do
+        if cosmetic.Type == "Skin" then
+            if cosmetic.ItemName == weapon_name then
+                table.insert(results, name)
+            end
+        else
+            table.insert(results, name)
+        end
+    end
+    return results
+end
+
+local function GetAllCosmetics()
+    local results = {}
+    for name, _ in pairs(modules.CosmeticLibrary.Cosmetics) do
+        table.insert(results, name)
+    end
+    return results
+end
+
+local function UnlockSelectedRarity()
+    local rarity = states.skinchanger_state.general_unlocker.unlock_rarity
+    local list = GetCosmeticsByRarity(rarity)
+
+    for _, cosmetic in ipairs(list) do
+        if cosmetic:find("MISSING_") then continue end
+        states.skinchanger_state.fake_owned[cosmetic] = true
+    end
+end
+
+local function LockSelectedRarity()
+    local rarity = states.skinchanger_state.general_unlocker.unlock_rarity
+    local list = GetCosmeticsByRarity(rarity)
+
+    for _, cosmetic in ipairs(list) do
+        if cosmetic:find("MISSING_") then continue end
+        states.skinchanger_state.fake_owned[cosmetic] = nil
+    end
+end
+
+local function UnlockAllOfType()
+    local type_name = states.skinchanger_state.general_unlocker.unlock_type
+    local list = GetCosmeticsByType(type_name)
+
+    for _, cosmetic in ipairs(list) do
+        if cosmetic:find("MISSING_") then continue end
+        states.skinchanger_state.fake_owned[cosmetic] = true
+    end
+end
+
+local function LockAllOfType()
+    local type_name = states.skinchanger_state.general_unlocker.unlock_type
+    local list = GetCosmeticsByType(type_name)
+
+    for _, cosmetic in ipairs(list) do
+        if cosmetic:find("MISSING_") then continue end
+        states.skinchanger_state.fake_owned[cosmetic] = nil
+    end
+end
+
+local function UnlockSpecific()
+    local type_name = states.skinchanger_state.specific_unlocker.unlock_type
+    local cosmetic_name = states.skinchanger_state.specific_unlocker.cosmetic_name
+    local weapon_name = states.skinchanger_state.specific_unlocker.weapon_name
+
+    local cosmetic = GetSpecificCosmetic(type_name, cosmetic_name, weapon_name)
+    if cosmetic:find("MISSING_") then return end
+    states.skinchanger_state.fake_owned[cosmetic] = true
+end
+
+local function LockSpecific()
+    local type_name = states.skinchanger_state.specific_unlocker.unlock_type
+    local cosmetic_name = states.skinchanger_state.specific_unlocker.cosmetic_name
+    local weapon_name = states.skinchanger_state.specific_unlocker.weapon_name
+
+    local cosmetic = GetSpecificCosmetic(type_name, cosmetic_name, weapon_name)
+    if cosmetic:find("MISSING_") then return end
+    states.skinchanger_state.fake_owned[cosmetic] = nil
+end
+
+local function UnlockSpecificWeapon()
+    local weapon_name = states.skinchanger_state.specific_unlocker.weapon_name
+    local current_data = modules.PlayerDataController.CurrentData
+    if not current_data then return end
+
+    local inventory = current_data:Get("WeaponInventory")
+    local owned = {}
+    if type(inventory) == "table" then
+        for _, weapon_data in pairs(inventory) do
+            if type(weapon_data) == "table" and weapon_data.Name then
+                owned[weapon_data.Name] = true
+            end
+        end
+    end
+
+    if not owned[weapon_name] then
+        table.insert(states.skinchanger_state.fake_weapon_owned, {
+            Name = weapon_name,
+            Level = 1,
+            XP = 0,
+            IsFavorited = false,
+            Skin = nil,
+        })
+    end
+end
+
+local function LockSpecificWeapon()
+    local weapon_name = states.skinchanger_state.specific_unlocker.weapon_name
+
+    for i, weapon in ipairs(states.skinchanger_state.fake_weapon_owned) do
+        if weapon.Name == weapon_name then
+            table.remove(states.skinchanger_state.fake_weapon_owned, i)
+            break
+        end
+    end
+end
+
+local function UnlockAllWeapons()
+    local current_data = modules.PlayerDataController.CurrentData
+    if not current_data then return end
+
+    local inventory = current_data:Get("WeaponInventory")
+    local owned = {}
+    if type(inventory) == "table" then
+        for _, weapon_data in pairs(inventory) do
+            if type(weapon_data) == "table" and weapon_data.Name then
+                owned[weapon_data.Name] = true
+            end
+        end
+    end
+
+    local ownables = modules.ShopLibrary:GetReleasedOwnableWeapons()
+    for _, weapon_name in pairs(ownables) do
+        if not owned[weapon_name] then
+            table.insert(states.skinchanger_state.fake_weapon_owned, {
+                Name = weapon_name,
+                Level = 1,
+                XP = 0,
+                IsFavorited = false,
+                Skin = nil,
+            })
+        end
+    end
+end
+
+local function LockAllWeapons()
+    for weapon_name in pairs(states.skinchanger_state.fake_weapon_owned) do
+        for i, weapon in ipairs(states.skinchanger_state.fake_weapon_owned) do
+            if weapon.Name == weapon_name then
+                table.remove(states.skinchanger_state.fake_weapon_owned, i)
+                break
+            end
+        end
+    end
+end
+
+local function UnlockAllForWeapon()
+    local weapon_name = states.skinchanger_state.specific_unlocker.weapon_name
+    local list = GetAllCosmeticsOfWeapon(weapon_name)
+
+    for _, cosmetic in ipairs(list) do
+        if cosmetic:find("MISSING_") then continue end
+        states.skinchanger_state.fake_owned[cosmetic] = true
+    end
+end
+
+local function LockAllForWeapon()
+    local weapon_name = states.skinchanger_state.specific_unlocker.weapon_name
+    local list = GetAllCosmeticsOfWeapon(weapon_name)
+
+    for _, cosmetic in ipairs(list) do
+        if cosmetic:find("MISSING_") then continue end
+        states.skinchanger_state.fake_owned[cosmetic] = nil
+    end
+end
+
+local function UnlockAll()
+    local list = GetAllCosmetics()
+
+    for _, cosmetic in ipairs(list) do
+        if cosmetic:find("MISSING_") then continue end
+        states.skinchanger_state.fake_owned[cosmetic] = true
+    end
+end
+
+local function LockAll()
+    local list = GetAllCosmetics()
+
+    for _, cosmetic in ipairs(list) do
+        if cosmetic:find("MISSING_") then continue end
+        states.skinchanger_state.fake_owned[cosmetic] = nil
+    end
+end
+
+local function EquipApply()
+    local EquipCosmeticRemote = services.ReplicatedStorage.Remotes.Data.EquipCosmetic
+    local unlock_type = states.skinchanger_state.equip_unlocker.unlock_type
+    local cosmetic_name = states.skinchanger_state.equip_unlocker.cosmetic_name
+    local weapon_name = states.skinchanger_state.equip_unlocker.weapon_name
+    local is_inverted = states.skinchanger_state.equip_unlocker.inverted
+
+    if typeof(weapon_name) ~= "string" or weapon_name == "" then
+		return
+	end
+
+	local name_to_send = if cosmetic_name ~= nil and cosmetic_name ~= "" then cosmetic_name else nil
+
+	local options = {}
+	if unlock_type == "Wrap" then
+		options.IsInverted = if is_inverted then true else nil
+	end
+
+	EquipCosmeticRemote:FireServer(weapon_name, unlock_type, name_to_send, options)
+end
+
+local function EquipApplyAll()
+    local EquipCosmeticRemote = services.ReplicatedStorage.Remotes.Data.EquipCosmetic
+    local unlock_type = states.skinchanger_state.equip_unlocker.unlock_type
+    local cosmetic_name = states.skinchanger_state.equip_unlocker.cosmetic_name
+    local is_inverted = states.skinchanger_state.equip_unlocker.inverted
+
+    if unlock_type == "Skin" then return end
+
+	for weapon_name, weapon_data in pairs(modules.ItemLibrary.Items) do
+		if unlock_type == "Finisher" and not weapon_data.CanEliminate then
+			continue
+		end
+
+        if typeof(weapon_name) ~= "string" or weapon_name == "" then
+		    return
+	    end
+
+	    local name_to_send = if cosmetic_name ~= nil and cosmetic_name ~= "" then cosmetic_name else nil
+
+	    local options = {}
+	    if unlock_type == "Wrap" then
+		    options.IsInverted = if is_inverted then true else nil
+	    end
+
+	    EquipCosmeticRemote:FireServer(weapon_name, unlock_type, name_to_send, options)
+	end
+end
+
+local function GetCustomVmSound(url)
+    if not url or url == "" then
+        return nil
+    end
+
+    if caches.sound_cache[url] and caches.sound_cache[url].Url == url and caches.sound_cache[url].Asset then
+        return caches.sound_cache[url].Asset
+    end
+
+    local file_path = kConstants.kBaseFolderName .. "/assets/ShootSound.mp3"
+
+    local ok, encoded = pcall(function()
+        return request({
+            Url = url,
+            Method = "GET",
+            Headers = {
+                ["Content-Type"] = "application/json"
+            }
+        }).Body
+    end)
+
+    if not ok then
+        warn("Failed to download sound:", encoded)
+        return nil
+    end
+
+    local decode_ok, decoded = pcall(base64decode, encoded)
+
+    if not decode_ok or not decoded then
+        warn("Failed to decode sound")
+        return nil
+    end
+
+    local write_ok = pcall(writefile, file_path, decoded)
+
+    if not write_ok then
+        warn("Failed to write sound")
+        return nil
+    end
+
+    local asset_ok, asset = pcall(getcustomasset, file_path)
+
+    if not asset_ok then
+        warn("Failed to create custom asset")
+        return nil
+    end
+
+    caches.sound_cache[url] = {
+        Url = url,
+        Asset = asset
+    }
+
+    return asset
+end
+
+ResolveSoundId = LPH_JIT_MAX(function(sound_table)
+    local sound_value = sound_table.sound_value
+
+    if sound_value == "None" or sound_value == nil or sound_value == "" then
+        return nil
+    end
+
+    if sound_value == "Use Asset Id" and sound_table.sound_asset_id then
+        return "rbxassetid://" .. tostring(sound_table.sound_asset_id)
+    end
+
+    if sound_value == "Use URL" then
+        return GetCustomVmSound(sound_table.sound_url)
+    end
+
+    return Assets.Get("sound_" .. string.lower(sound_value))
+end)
+
+pcall(LPH_JIT_MAX(function()
+    task.spawn(function()
+        local shoot_key_set = {}
+        local reload_key_set = {}
+
+        do
+            local shoot = kConstants.kShootSemanticKeys
+            for i = 1, #shoot do
+                shoot_key_set[shoot[i]] = true
+            end
+
+            local reload = kConstants.kReloadSemanticKeys
+            for i = 1, #reload do
+                reload_key_set[reload[i]] = true
+            end
+        end
+    
+        local vms = modules.ItemLibrary.ViewModels
+        for _, vm in pairs(vms) do
+            local anims = vm.Animations
+            if type(anims) == "table" then
+                for key, name in pairs(anims) do
+                    if type(key) == "string" and type(name) == "string" then
+                        if shoot_key_set[key] then
+                            shoot_anim_names[name] = true
+                        elseif reload_key_set[key] then
+                            reload_anim_names[name] = true
+                        elseif key:byte(1) == 83 then
+                            if string.match(key, "^Shoot%d+$") then
+                                shoot_anim_names[name] = true
+                            end
+                        elseif key:byte(1) == 82 then
+                            if string.match(key, "^Reload%d*$") then
+                                reload_anim_names[name] = true
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end)
+    task.spawn(function()
+        local anim_info = modules.AnimationLibrary.Info
+        for name, info in pairs(anim_info) do
+            local original = info.SoundCallback
+            if original then
+                info.SoundCallback = function(vm, speed, hash)
+                    vm._sc_activeAnimName = name
+                    local ok, err = pcall(original, vm, speed, hash)
+                    vm._sc_activeAnimName = nil
+                    return ok, err
+                end
+            end
+        end
+    end)
+    task.spawn(function()
+	    task.wait(3)
+	    pcall(function()
+	        local vm_module = LocalPlayer.PlayerScripts.Modules.ClientReplicatedClasses.ClientFighter.ClientItem:FindFirstChild("ClientViewModel")
+	        if vm_module then
+	            local ClientViewModel = require(vm_module)
+	
+	            local original_createsound = ClientViewModel.CreateSound
+	            ClientViewModel.CreateSound = function(self, sound_id, volume, pitch, ...)
+	                local ctx = self._sc_activeAnimName
+	                local ctx_player = self.ClientItem and self.ClientItem.ClientFighter and self.ClientItem.ClientFighter.Player
+	
+	                if ctx_player == LocalPlayer and ctx ~= nil then
+	                    if shoot_anim_names[ctx] then
+	                        local shoot_volume = states.skinchanger_state.shoot_sound.sound_volume
+	                        local shoot_pitch = states.skinchanger_state.shoot_sound.sound_pitch
+	                        local override = ResolveSoundId(states.skinchanger_state.shoot_sound) or sound_id
+	
+	                        return original_createsound(self, override, shoot_volume / 100, shoot_pitch / 10, ...)
+	                    elseif reload_anim_names[ctx] then
+	                        local reload_volume = states.skinchanger_state.reload_sound.sound_volume
+	                        local reload_pitch = states.skinchanger_state.reload_sound.sound_pitch
+	                        local override = ResolveSoundId(states.skinchanger_state.reload_sound) or sound_id
+	
+	                        return original_createsound(self, override, reload_volume / 100, reload_pitch / 10, ...)
+	                    end
+	                end
+	
+	                return original_createsound(self, sound_id, volume, pitch, ...)
+	            end
+	
+	            local original_playhitmarkersound = ClientViewModel.PlayHitmarkerSound
+	            ClientViewModel.PlayHitmarkerSound = function(self, is_crit, distance)
+	                local ctx_player = self.ClientItem and self.ClientItem.ClientFighter and self.ClientItem.ClientFighter.Player
+	
+	                if ctx_player == LocalPlayer then
+	                    while #self._last_hitmarker_sounds > 10 do
+	                        table.remove(self._last_hitmarker_sounds, 1):Destroy()
+	                    end
+	
+	                    if is_crit then
+	                        local pitch = states.skinchanger_state.crit_sound.sound_pitch
+	                        local id1 = ResolveSoundId(states.skinchanger_state.crit_sound) or kConstants.kOriginalHitmarkers.kill_layer1
+	                        local id2 = ResolveSoundId(states.skinchanger_state.crit_sound) or kConstants.kOriginalHitmarkers.kill_layer2
+	
+	                        self:_CreateHitmarkerSound(id1, (3 / distance), pitch / 10, vm_module, true, 1)
+	                        self:_CreateHitmarkerSound(id2, (2 / distance), pitch / 10, vm_module, true, 1)
+	                    else
+	                        local pitch = states.skinchanger_state.hit_sound.sound_pitch
+	                        local id = ResolveSoundId(states.skinchanger_state.hit_sound) or kConstants.kOriginalHitmarkers.hit
+	
+	                        self:_CreateHitmarkerSound(id, (1.5 / distance), pitch / 10, vm_module, true, 1)
+	                    end
+	
+	                    return
+	                end
+	
+	                return original_playhitmarkersound(self, is_crit, distance)
+	            end
+	        end
+	    end)
+	end)
+	
+	local original_enemydeathsounds = table.clone(modules.SoundLibrary.EnemyDeathSounds)
+	modules.SoundLibrary.EnemyDeathSounds = setmetatable({}, {
+	    __index = function(_, key)
+	        return ResolveSoundId(states.skinchanger_state.death_sound) or original_enemydeathsounds[key]
+	    end
+	})
+	
+	local original_eliminationsounds = table.clone(modules.SoundLibrary.EliminationSounds)
+	modules.SoundLibrary.EliminationSounds = setmetatable({}, {
+	    __index = function(_, key)
+	        return ResolveSoundId(states.skinchanger_state.kill_sound) or original_eliminationsounds[key]
+	    end
+	})
+end))
+
+local sound_previewing = false
+local function PlayPreviewSound(sound_table)
+    if sound_previewing then return end
+    sound_previewing = true
+
+    local sound_id = ResolveSoundId(sound_table)
+    if sound_id == nil then
+        sound_previewing = false
+        return
+    end
+
+    local volume = sound_table.sound_volume
+    local pitch = sound_table.sound_pitch
+
+    local sound = Instance.new("Sound")
+    sound.Parent = services.SoundService
+    sound.SoundId = sound_id
+    sound.Volume = volume / 100
+    sound.PlaybackSpeed = pitch / 10
+    sound:Play()
+
+    sound.Ended:Connect(function()
+        sound:Destroy()
+        sound_previewing = false
+    end)
+end
+
+local function ShootSoundPreview()
+    PlayPreviewSound(states.skinchanger_state.shoot_sound)
+end
+
+local function HitSoundPreview()
+    PlayPreviewSound(states.skinchanger_state.hit_sound)
+end
+
+local function KillSoundPreview()
+    PlayPreviewSound(states.skinchanger_state.kill_sound)
+end
+
+local function CritSoundPreview()
+    PlayPreviewSound(states.skinchanger_state.crit_sound)
+end
+
+local function ReloadSoundPreview()
+    PlayPreviewSound(states.skinchanger_state.reload_sound)
+end
+
+local function DeathSoundPreview()
+    PlayPreviewSound(states.skinchanger_state.death_sound)
+end
+
+--[[
+    Inventory
+]]
+
+local function ReplicateInventory()
+    pcall(function()
+        if modules.PlayerDataController and modules.PlayerDataController.CurrentData then
+            modules.PlayerDataController.CurrentData:Replicate("UnclaimedRewards")
+        end
+    end)
+end
+
+local function RollLootboxReward(lootbox_name, weapon_name)
+    local reward_info = modules.CosmeticLibrary.Rewards[lootbox_name]
+    if not reward_info or not reward_info.GetContents then return nil end
+
+    local ok, contents = pcall(function() return reward_info:GetContents() end)
+    if not ok or not contents or #contents == 0 then return nil end
+
+    local inventory = modules.PlayerDataController:Get("CosmeticInventory")
+    local available_rewards = {}
+
+    for _, cosmetic_name in ipairs(contents) do
+        if not modules.CosmeticLibrary:OwnsCosmetic(inventory, cosmetic_name) then
+            table.insert(available_rewards, cosmetic_name)
+        end
+    end
+
+    if #available_rewards == 0 then
+        available_rewards = contents
+    end
+
+    local rolled_name = available_rewards[math.random(#available_rewards)]
+
+    local cosmetic = modules.CosmeticLibrary.Cosmetics[rolled_name]
+    local is_weapon_cosmetic =
+        cosmetic
+        and modules.CosmeticLibrary.Types
+        and modules.CosmeticLibrary.Types[cosmetic.Type]
+        and modules.CosmeticLibrary.Types[cosmetic.Type].IsWeaponCosmetic
+
+    return {
+        Name = rolled_name,
+        Quantity = 1,
+        Weapon = is_weapon_cosmetic and weapon_name or nil,
+        ExpireTime = nil,
+    }
+end
+
+local function UseUnclaimedReward(index, quantity)
+    local backpack = states.inventory_state.fake_owned
+    local entry = backpack[index]
+    if not entry then return "" end
+
+    local lootbox_name = entry.Name
+    local reward_info = modules.CosmeticLibrary.Rewards[lootbox_name]
+
+    local current = entry.Quantity or 1
+    if current > quantity then
+        entry.Quantity = current - quantity
+    else
+        table.remove(backpack, index)
+    end
+
+    ReplicateInventory()
+
+    if reward_info and reward_info.SoundProfile then
+        local char = LocalPlayer.Character
+        if char and char:FindFirstChild("HumanoidRootPart") then
+            local pos = char.HumanoidRootPart.Position
+            for i = 1, quantity do
+                local reward_data = RollLootboxReward(lootbox_name, entry.Weapon)
+                if reward_data then
+                    local cosmetic = modules.CosmeticLibrary.Cosmetics[reward_data.Name]
+                    if cosmetic then
+                        states.skinchanger_state.fake_owned[reward_data.Name] = true
+                    else
+                        table.insert(states.skinchanger_state.fake_weapon_owned, {
+                            Name = reward_data.Name,
+                            Level = 1,
+                            XP = 0,
+                            IsFavorited = false,
+                            Skin = nil,
+                        })
+                    end
+                    local delay = (i - 1) * 3
+                    task.spawn(function()
+                        modules.LootboxEffect(pos, lootbox_name, {{ RewardData = reward_data }}, delay, nil, LocalPlayer)
+
+                        if not cosmetic or cosmetic.Type ~= "Skin" then return end
+
+                        local rarity = cosmetic.Rarity or "Common"
+                        local rarity_color = Color3.fromRGB(255, 255, 255)
+
+                        if modules.CosmeticLibrary.Rarities then
+                            local rarityInfo = modules.CosmeticLibrary.Rarities[rarity]
+                            if rarityInfo and rarityInfo.Color then
+                                rarity_color = rarityInfo.Color
+                            end
+                        end
+
+                        local message = string.format("[SERVER] %s (@%s) just unboxed a %s %s skin for the %s!", LocalPlayer.DisplayName, LocalPlayer.Name, rarity, reward_data.Name, cosmetic.ItemName)
+
+                        modules.SendChat({
+                            Text = message,
+                            Color = rarity_color
+                        })
+                    end)
+                end
+            end
+        end
+    end
+    return "Success"
+end
+
+task.spawn(function()
+    task.wait(3)
+    pcall(function()
+        modules.InspectBackpackReward.Use = function(p5, p6)
+            if modules.FighterController.LocalFighter and not (modules.FighterController.LocalFighter:Get("IsInDuel") or modules.FighterController.LocalFighter:Get("IsInShootingRange")) then
+                local reward_info = p5._reward_info;
+                if reward_info then
+                    reward_info = p5._reward_info.Type == "Lootbox";
+                end
+
+                local result = services.ReplicatedStorage.Remotes.Data.UseUnclaimedReward:InvokeServer(p5._index, p6)
+
+                if result ~= "Success" then
+                    result = UseUnclaimedReward(p5._index, p6)
+                end
+
+                if result == "Success" then
+                    if reward_info then
+                        if p5._reward_info.SoundProfile then
+                            p5.ClosePage:Fire()
+                            return
+                        end
+                        p5:CloseRequest()
+                    end
+                elseif reward_info then
+                    p5.OpenPrompt:Fire("ErrorMessage", "Woops!", "Failed to open, you probably already have everything!")
+                elseif p5._cosmetic_info and modules.CosmeticLibrary.Types[p5._cosmetic_info.Type].IsWeaponCosmetic then
+                    p5.OpenPrompt:Fire("ErrorMessage", "Woops!", "Failed to use, this item is probably already unlocked for all possible weapons!")
+                else
+                    p5.OpenPrompt:Fire("ErrorMessage", "Woops!", "Failed to use, this item is probably already unlocked!")
+                end
+            end
+        end
+    end)
+end)
+
+local function AddToBackpack()
+    local item_name = states.inventory_state.specific.lootbox_name
+    local new_entry = states.inventory_state.specific.new_entry
+    local quantity = states.inventory_state.specific.quantity
+    local weapon_name = states.inventory_state.specific.weapon_name
+
+    if not modules.CosmeticLibrary or not modules.CosmeticLibrary.Rewards then return end
+    if not modules.CosmeticLibrary.Rewards[item_name] then return end
+
+    if not weapon_name or weapon_name == "" then
+        weapon_name = "IsRandom"
+    end
+
+    local reward_entry = {
+        Name = item_name,
+        Quantity = quantity or 1,
+        Weapon = weapon_name,
+        ExpireTime = nil
+    }
+
+    if new_entry then
+        table.insert(states.inventory_state.fake_owned, reward_entry)
+    else
+        local found = false
+
+        for _, entry in ipairs(states.inventory_state.fake_owned) do
+            if entry.Name == reward_entry.Name and entry.Weapon == reward_entry.Weapon and entry.Quantity < 99 then
+                entry.Quantity = (entry.Quantity or 1) + (reward_entry.Quantity or 1)
+                found = true
+                break
+            end
+        end
+
+        if not found then
+            table.insert(states.inventory_state.fake_owned, reward_entry)
+        end
+    end
+
+    ReplicateInventory()
+end
+
+local function AddAllCases()
+    local quantity = states.inventory_state.bulk.quantity
+
+    if not modules.CosmeticLibrary or not modules.CosmeticLibrary.Rewards then return end
+
+    local total = {}
+    for name, info in pairs(modules.CosmeticLibrary.Rewards) do
+        if info.Type == "Lootbox" then
+            table.insert(total, name)
+        end
+    end
+
+    for _, name in ipairs(total) do
+        if not modules.CosmeticLibrary.Rewards[name] then return end
+
+        local reward_entry = {
+            Name = name,
+            Quantity = quantity or 1,
+            Weapon = "IsRandom",
+            ExpireTime = nil
+        }
+
+        table.insert(states.inventory_state.fake_owned, reward_entry)
+    end
+
+    ReplicateInventory()
+end
+
+local function GetBackpackEntries()
+    if modules.PlayerDataController then
+        local backpack = modules.PlayerDataController:Get("UnclaimedRewards") or {}
+        local results = {}
+        for _, info in ipairs(backpack) do
+            table.insert(results, info.Name)
+        end
+        return results
+    end
+
+    return {"None"}
+end
+
+local function DeleteAllBackpack()
+    table.clear(states.inventory_state.fake_owned)
+    ReplicateInventory()
+end
+
+local function DeleteQuantity()
+    local backpack_entry = states.inventory_state.delete.backpack_entry
+    local quantity = states.inventory_state.delete.quantity
+
+    for i, info in ipairs(states.inventory_state.fake_owned) do
+        if info.Name ~= backpack_entry then
+            continue
+        end
+
+        if info.Quantity > quantity then
+            states.inventory_state.fake_owned[i].Quantity -= quantity
+        else
+            table.remove(states.inventory_state.fake_owned, i)
+        end
+    end
+
+    ReplicateInventory()
+end
+
+local function DeleteAllOfEntry()
+    local backpack_entry = states.inventory_state.delete.backpack_entry
+
+    for i, info in ipairs(states.inventory_state.fake_owned) do
+        if info.Name ~= backpack_entry then
+            continue
+        end
+
+        table.remove(states.inventory_state.fake_owned, i)
+    end
+
+    ReplicateInventory()
+end
+
+local function InjectIntoBackpack()
+    local item_type = states.inventory_state.inject.item_type
+    local cosmetic_name = states.inventory_state.inject.cosmetic_name
+    local weapon_name = states.inventory_state.inject.weapon_name
+    local stack_duplicates = states.inventory_state.inject.stack_duplicates
+
+    local reward_entry
+    if item_type == "Skin" then
+        if not weapon_name or weapon_name == "" then
+            return
+        end
+
+        reward_entry = {
+            Name = cosmetic_name,
+            Quantity = 1,
+            Weapon = weapon_name,
+        }
+    else
+        reward_entry = {
+            Name = cosmetic_name,
+            Quantity = 1,
+        }
+    end
+
+    if not stack_duplicates then
+        table.insert(states.inventory_state.fake_owned, reward_entry)
+    else
+        local found = false
+
+        for _, entry in ipairs(states.inventory_state.fake_owned) do
+            if entry.Name == reward_entry.Name and entry.Weapon == reward_entry.Weapon and entry.Quantity < 99 then
+                entry.Quantity = (entry.Quantity or 1) + (reward_entry.Quantity or 1)
+                found = true
+                break
+            end
+        end
+
+        if not found then
+            table.insert(states.inventory_state.fake_owned, reward_entry)
+        end
+    end
+
+    ReplicateInventory()
+end
+
+--[[
+    Spoofer
+]]
+
+local device_cancel = 0
+SetDevice = LPH_JIT_MAX(function(use_old)
+    local map = {
+        Desktop = "MouseKeyboard",
+        Mobile = "Touch",
+        Console = "Gamepad",
+        VR = "VR"
+    }
+    local dev = map[use_old and states.spoofer_state.old_device or states.spoofer_state.device] or "MouseKeyboard"
+    services.ReplicatedStorage.Remotes.Replication.Fighter.SetControls:FireServer(dev)
+end)
+
+local function SpoofDevice()
+    if states.spoofer_state.spoof_device then
+        SetDevice(false)
+    else
+        SetDevice(true)
+    end
+end
+
+local function DeviceSpam()
+    device_cancel += 1
+    local token = device_cancel
+
+    task.spawn(LPH_JIT_MAX(function()
+        while states.spoofer_state.device_spam and token == device_cancel do
+            local list = {
+                "Desktop",
+                "Mobile",
+                "Console",
+                "VR"
+            }
+            states.spoofer_state.device = list[math.random(1,#list)]
+            SetDevice(false)
+            task.wait(states.spoofer_state.spam_rate)
+        end
+        SetDevice(true)
+    end))
+end
+
+local function WeldAttachments(attach1, attach2)
+    local weld = Instance.new("Weld")
+    weld.Part0 = attach1.Parent
+    weld.Part1 = attach2.Parent
+    weld.C0 = attach1.CFrame
+    weld.C1 = attach2.CFrame
+    weld.Parent = attach1.Parent
+    return weld
+end
+
+local function BuildWeld(weld_name, parent, part0, part1, c0, c1)
+    local weld = Instance.new("Weld")
+    weld.Name = weld_name
+    weld.Part0 = part0
+    weld.Part1 = part1
+    weld.C0 = c0
+    weld.C1 = c1
+    weld.Parent = parent
+    return weld
+end
+
+FindFirstMatchingAttachment = LPH_JIT_MAX(function(model, name)
+    for _, child in pairs(model:GetChildren()) do
+        if child:IsA("Attachment") and child.Name == name then
+            return child
+        elseif not child:IsA("Accoutrement") and not child:IsA("Tool") then
+            local found = FindFirstMatchingAttachment(child, name)
+            if found then
+                return found
+            end
+        end
+    end
+end)
+
+FindHeadPart = LPH_JIT_MAX(function(instance)
+    if not instance then
+        return nil
+    end
+
+    if instance:IsA("BasePart") then
+        return instance
+    end
+
+    local head = instance:FindFirstChild("Head")
+    if head and head:IsA("BasePart") then
+        return head
+    end
+
+    for _, descendant in ipairs(instance:GetDescendants()) do
+        if descendant:IsA("BasePart") and descendant.Name == "Head" then
+            return descendant
+        end
+    end
+
+    for _, descendant in ipairs(instance:GetDescendants()) do
+        if descendant:IsA("BasePart") then
+            return descendant
+        end
+    end
+
+    return nil
+end)
+
+AddAccoutrement = LPH_JIT_MAX(function(character, accoutrement)
+    accoutrement.Parent = character
+    local handle = accoutrement:FindFirstChild("Handle")
+    if handle then
+        local attachment = handle:FindFirstChildOfClass("Attachment")
+        if attachment then
+            local char_attachment = FindFirstMatchingAttachment(character, attachment.Name)
+            if char_attachment then
+                WeldAttachments(char_attachment, attachment)
+            end
+        else
+            local head = character:FindFirstChild("Head")
+            if head then
+                local attachmentCFrame = CFrame.new(0, 0.5, 0)
+                local hatCFrame = accoutrement.AttachmentPoint
+                BuildWeld("HeadWeld", head, head, handle, attachmentCFrame, hatCFrame)
+            end
+        end
+    end
+end)
+
+CopyHeadVisuals = LPH_JIT_MAX(function(real_head, source_head)
+    if not real_head or not source_head then
+        return
+    end
+
+    if not real_head:IsA("BasePart") or not source_head:IsA("BasePart") then
+        return
+    end
+
+    for _, child in ipairs(real_head:GetChildren()) do
+        if child:IsA("Decal") or child:IsA("Texture") or child:IsA("SpecialMesh") or child:IsA("Mesh") then
+            child:Destroy()
+        end
+    end
+
+    real_head.Material = source_head.Material
+    real_head.Color = source_head.Color
+    real_head.Reflectance = source_head.Reflectance
+    real_head.Transparency = source_head.Transparency
+    real_head.LocalTransparencyModifier = source_head.LocalTransparencyModifier
+    real_head.CastShadow = source_head.CastShadow
+    real_head.CanCollide = false
+
+    if real_head:IsA("MeshPart") and source_head:IsA("MeshPart") then
+        real_head.MeshId = source_head.MeshId
+        real_head.TextureID = source_head.TextureID
+        real_head.Size = source_head.Size
+    end
+
+    for _, child in ipairs(source_head:GetChildren()) do
+        if child:IsA("Decal") or child:IsA("Texture") or child:IsA("SpecialMesh") or child:IsA("Mesh") then
+            local clone = child:Clone()
+            clone.Parent = real_head
+        end
+    end
+end)
+
+ApplyFakeHead = LPH_JIT_MAX(function(character, source_head)
+    if not character or not source_head then return end
+
+    local real_head = character:FindFirstChild("Head")
+    if not real_head or not real_head:IsA("BasePart") then
+        return
+    end
+
+    CopyHeadVisuals(real_head, source_head)
+end)
+
+ApplyThumbnailSpoof = LPH_JIT_MAX(function(obj)
+    if not obj:IsA("ImageLabel") then
+        return
+    end
+
+    local image = obj.Image
+    if typeof(image) ~= "string" then
+        return
+    end
+
+    if states.spoofer_state.spoof_avatar and obj.Name == "AvatarThumbnail" then
+        image = image:gsub(
+            LocalPlayer.UserId,
+            states.spoofer_state.avatar_userid
+        )
+    end
+
+    if states.spoofer_state.spoof_avatar and obj.Parent.Name == "Thumbnail" and obj.Name == "ImageLabel" then
+        image = image:gsub(
+            LocalPlayer.UserId,
+            states.spoofer_state.avatar_userid
+        )
+    end
+
+    if states.spoofer_state.spoof_avatar and obj.Name == "Headshot" then
+        image = image:gsub(
+            LocalPlayer.UserId,
+            states.spoofer_state.avatar_userid
+        )
+    end
+
+    if obj.Image ~= image then
+        obj.Image = image
+    end
+end)
+
+RefreshAllThumbnailSpoofs = LPH_JIT_MAX(function()
+    for obj, _ in pairs(states.spoofer_state.thumb_spoof_conn) do
+        if obj and obj.Parent then
+            ApplyThumbnailSpoof(obj)
+        end
+    end
+end)
+
+RegisterImageObject = LPH_JIT_MAX(function(obj)
+    if not obj:IsA("ImageLabel") then
+        return
+    end
+
+    local kAllowed = {
+        AvatarThumbnail = true,
+        ImageLabel = true,
+        Headshot = true
+    }
+
+    if not kAllowed[obj.Name] then
+        return
+    end
+
+    ApplyThumbnailSpoof(obj)
+
+    if states.spoofer_state.thumb_spoof_conn[obj] then
+        return
+    end
+
+    states.spoofer_state.thumb_spoof_conn[obj] = obj:GetPropertyChangedSignal("Image"):Connect(function()
+        ApplyThumbnailSpoof(obj)
+    end)
+
+    obj.Destroying:Connect(function()
+        if states.spoofer_state.thumb_spoof_conn[obj] then
+            states.spoofer_state.thumb_spoof_conn[obj]:Disconnect()
+            states.spoofer_state.thumb_spoof_conn[obj] = nil
+        end
+    end)
+end)
+
+for _, obj in ipairs(game:GetDescendants()) do
+    RegisterImageObject(obj)
+end
+
+game.DescendantAdded:Connect(RegisterImageObject)
+
+SetAvatar = LPH_JIT_MAX(function(use_old)
+    local user_id = use_old and LocalPlayer.UserId or states.spoofer_state.avatar_userid
+    if not user_id then return end
+
+    if not LocalChar or not LocalChar.Parent then
+        LocalChar = GetCharacter()
+    end
+
+    local ok, rig_model = pcall(function()
+        return services.Players:CreateHumanoidModelFromUserId(user_id)
+    end)
+    
+    if not ok or not rig_model then return end
+
+    for _, v in ipairs(LocalChar:GetDescendants()) do
+        local isFaceDecal = v:IsA("Decal") and v.Name == "face"
+        if v:IsA("Accessory")
+        or v:IsA("Shirt")
+        or v:IsA("Pants")
+        or v:IsA("ShirtGraphic")
+        or v:IsA("BodyColors")
+        or v:IsA("CharacterMesh")
+        or v:IsA("LayeredClothing")
+        or isFaceDecal then
+            pcall(function()
+                v:Destroy()
+            end)
+        end
+    end
+    
+    for _, item in ipairs(rig_model:GetChildren()) do
+        if item:IsA("Accessory") then
+            pcall(function()
+                local acc = item:Clone()
+                AddAccoutrement(LocalChar, acc)
+            end)
+        elseif item:IsA("Shirt")
+        or item:IsA("Pants")
+        or item:IsA("ShirtGraphic")
+        or item:IsA("BodyColors")
+        or item:IsA("LayeredClothing")
+        or item:IsA("CharacterMesh") then
+            pcall(function()
+                local clone = item:Clone()
+                clone.Parent = LocalChar
+            end)
+        end
+    end
+
+    local target_head = FindHeadPart(rig_model)
+    if target_head then
+        ApplyFakeHead(LocalChar, target_head)
+        task.wait(0.1)
+    end
+
+    pcall(function()
+        rig_model:Destroy()
+    end)
+end)
+
+local function SpoofAvatar()
+    if states.spoofer_state.spoof_avatar then
+        SetAvatar(false)
+    else
+        SetAvatar(true)
+    end
+end
+
+LocalPlayer.CharacterAdded:Connect(SpoofAvatar)
+
+local function IsTextObject(obj)
+    return obj:IsA("TextLabel") or obj:IsA("TextButton") or obj:IsA("TextBox")
+end
+
+local function FormatNumber(n)
+	n = tostring(n)
+	return n:reverse():gsub("%d%d%d", "%1,"):reverse():gsub("^,", "")
+end
+
+ApplyNameSpoof = LPH_JIT_MAX(function(obj)
+    if not IsTextObject(obj) then
+        return
+    end
+
+    local text = obj.Text
+    if typeof(text) ~= "string" then
+        return
+    end
+
+    if states.spoofer_state.display_name and obj.Name == "DisplayName" then
+        text = text:gsub(
+            LocalPlayer.DisplayName,
+            states.spoofer_state.display_name_value
+        )
+    end
+
+    if states.spoofer_state.username and obj.Name == "Username" then
+        text = text:gsub(
+            LocalPlayer.Name,
+            states.spoofer_state.username_value
+        )
+    end
+
+    if states.spoofer_state.display_name and obj.Parent.Name == "NameContainer" and obj.Name == "Name" then
+        text = text:gsub(
+            LocalPlayer.DisplayName,
+            states.spoofer_state.display_name_value
+        )
+    end
+
+    if states.spoofer_state.username and obj.Parent.Name == "NameContainer" and obj.Name == "Handle" then
+        text = text:gsub(
+            LocalPlayer.Name,
+            states.spoofer_state.username_value
+        )
+    end
+
+    if states.spoofer_state.display_name and obj.Parent.Name == "Title" and obj.Name == "TitleText" then
+        text = text:gsub(
+            LocalPlayer.DisplayName,
+            states.spoofer_state.display_name_value
+        )
+    end
+
+    if states.spoofer_state.username and obj.Parent.Name == "Subtitle" and obj.Name == "SubtitleText" then
+        text = text:gsub(
+            LocalPlayer.Name,
+            states.spoofer_state.username_value
+        )
+    end
+
+    if states.spoofer_state.display_name and obj.Name == "HeaderText" then
+        text = text:gsub(
+            LocalPlayer.DisplayName,
+            states.spoofer_state.display_name_value
+        )
+    end
+
+    if states.spoofer_state.display_name and obj.Name == "Title" then
+        text = text:gsub(
+            LocalPlayer.DisplayName,
+            states.spoofer_state.display_name_value
+        )
+    end
+
+    if states.spoofer_state.leaderboard.Wins and obj.Name == "Wins" then
+        text = FormatNumber(states.spoofer_state.leaderboard.wins_value)
+    end
+
+    if states.spoofer_state.leaderboard.Level and obj.Parent.Name == "Level" and obj.Name == "Value" then
+        text = FormatNumber(states.spoofer_state.leaderboard.level_value)
+    end
+
+    if states.spoofer_state.leaderboard.Streak and obj.Parent.Name == "Streak" and obj.Name == "Value" then
+        text = FormatNumber(states.spoofer_state.leaderboard.streak_value)
+    end
+
+    if obj.Text ~= text then
+        obj.Text = text
+    end
+end)
+
+local function RefreshAllNameSpoofs()
+    for obj, _ in pairs(states.spoofer_state.name_spoof_conn) do
+        if obj and obj.Parent then
+            ApplyNameSpoof(obj)
+        end
+    end
+end
+
+RegisterTextObject = LPH_JIT_MAX(function(obj)
+    if not IsTextObject(obj) then
+        return
+    end
+
+    local kAllowed = {
+        DisplayName = true,
+        Username = true,
+        Name = true,
+        Handle = true,
+        TitleText = true,
+        SubtitleText = true,
+        HeaderText = true,
+        Title = true,
+        Wins = true,
+        Value = true,
+    }
+
+    if not kAllowed[obj.Name] then
+        return
+    end
+
+    ApplyNameSpoof(obj)
+
+    if states.spoofer_state.name_spoof_conn[obj] then
+        return
+    end
+
+    states.spoofer_state.name_spoof_conn[obj] = obj:GetPropertyChangedSignal("Text"):Connect(function()
+        ApplyNameSpoof(obj)
+    end)
+
+    obj.Destroying:Connect(function()
+        if states.spoofer_state.name_spoof_conn[obj] then
+            states.spoofer_state.name_spoof_conn[obj]:Disconnect()
+            states.spoofer_state.name_spoof_conn[obj] = nil
+        end
+    end)
+end)
+
+for _, obj in ipairs(game:GetDescendants()) do
+    RegisterTextObject(obj)
+end
+
+game.DescendantAdded:Connect(RegisterTextObject)
+
+GenerateRandomName = LPH_JIT_MAX(function()
+    local result = ""
+
+    for i = 1, math.random(2, 4) do
+        local index = math.random(1, #kConstants.kWordList)
+        result ..= kConstants.kWordList[index]
+    end
+
+    return result .. tostring(math.random(12, 36))
+end)
+
+GetFakeName = LPH_JIT_MAX(function(player)
+    if not states.spoofer_state.fake_names[player] then
+        states.spoofer_state.fake_names[player] = GenerateRandomName()
+    end
+
+    return states.spoofer_state.fake_names[player]
+end)
+
+local AnonymousRigTemplate
+GetAnonymousRig = LPH_JIT_MAX(function()
+    if AnonymousRigTemplate and AnonymousRigTemplate.Parent then
+        return AnonymousRigTemplate:Clone()
+    end
+
+    local ok, rig = pcall(function()
+        return services.Players:CreateHumanoidModelFromUserId(6942067)
+    end)
+
+    if not ok or not rig then
+        return nil
+    end
+
+    AnonymousRigTemplate = rig
+    AnonymousRigTemplate.Parent = nil
+
+    return AnonymousRigTemplate:Clone()
+end)
+
+ApplyAnonymousNameSpoof = LPH_JIT_MAX(function(obj)
+    if not IsTextObject(obj) then
+        return
+    end
+
+    local text = obj.Text
+
+    for _, player in ipairs(services.Players:GetPlayers()) do
+        local fakeName = GetFakeName(player)
+
+        text = text:gsub(player.Name, fakeName)
+        text = text:gsub(player.DisplayName, fakeName)
+    end
+
+    if obj.Text ~= text then
+        obj.Text = text
+    end
+end)
+
+ApplyAnonymousThumbnailSpoof = LPH_JIT_MAX(function(obj)
+    if not obj:IsA("ImageLabel") then
+        return
+    end
+
+    local image = obj.Image
+
+    for _, player in ipairs(services.Players:GetPlayers()) do
+        image = image:gsub(tostring(player.UserId), tostring(6942067))
+    end
+
+    if obj.Image ~= image then
+        obj.Image = image
+    end
+end)
+
+ApplyAnonymousAvatar = LPH_JIT_MAX(function(character)
+    if not character then
+        return
+    end
+
+    local rig = GetAnonymousRig()
+
+    if not rig then
+        return
+    end
+
+    for _, v in ipairs(character:GetDescendants()) do
+        local isFaceDecal = v:IsA("Decal") and v.Name == "face"
+
+        if v:IsA("Accessory")
+            or v:IsA("Shirt")
+            or v:IsA("Pants")
+            or v:IsA("ShirtGraphic")
+            or v:IsA("BodyColors")
+            or v:IsA("CharacterMesh")
+            or v:IsA("LayeredClothing")
+            or isFaceDecal then
+
+            pcall(function()
+                v:Destroy()
+            end)
+        end
+    end
+
+    for _, item in ipairs(rig:GetChildren()) do
+        if item:IsA("Accessory") then
+            AddAccoutrement(character, item:Clone())
+        elseif item:IsA("Shirt")
+            or item:IsA("Pants")
+            or item:IsA("ShirtGraphic")
+            or item:IsA("BodyColors")
+            or item:IsA("CharacterMesh")
+            or item:IsA("LayeredClothing") then
+
+            item:Clone().Parent = character
+        end
+    end
+
+    local head = FindHeadPart(rig)
+    if head then
+        ApplyFakeHead(character, head)
+    end
+
+    rig:Destroy()
+end)
+
+local function RegisterAnonymousObject(obj)
+    if IsTextObject(obj) then
+        ApplyAnonymousNameSpoof(obj)
+
+        obj:GetPropertyChangedSignal("Text"):Connect(function()
+            ApplyAnonymousNameSpoof(obj)
+        end)
+    elseif obj:IsA("ImageLabel") then
+        ApplyAnonymousThumbnailSpoof(obj)
+
+        obj:GetPropertyChangedSignal("Image"):Connect(function()
+            ApplyAnonymousThumbnailSpoof(obj)
+        end)
+    end
+end
+
+local function DisableAnonymousMode()
+    for _, connection in ipairs(states.spoofer_state.anon_connections) do
+        if connection and connection.Disconnect then
+            connection:Disconnect()
+        end
+    end
+
+    table.clear(states.spoofer_state.anon_connections)
+    table.clear(states.spoofer_state.fake_names)
+end
+
+AnonymousMode = LPH_JIT_MAX(function()
+    if not states.spoofer_state.anonymous_mode then
+        DisableAnonymousMode()
+        return
+    end
+
+    DisableAnonymousMode()
+
+    math.randomseed(os.clock() * 100000)
+
+    for _, player in ipairs(services.Players:GetPlayers()) do
+        GetFakeName(player)
+
+        if player.Character then
+            task.defer(ApplyAnonymousAvatar, player.Character)
+        end
+
+        table.insert(
+            states.spoofer_state.anon_connections,
+            player.CharacterAdded:Connect(function(character)
+                task.defer(ApplyAnonymousAvatar, character)
+            end)
+        )
+    end
+
+    table.insert(
+        states.spoofer_state.anon_connections,
+        services.Players.PlayerAdded:Connect(function(player)
+            GetFakeName(player)
+
+            player.CharacterAdded:Connect(function(character)
+                task.defer(ApplyAnonymousAvatar, character)
+            end)
+        end)
+    )
+
+    for _, obj in ipairs(game:GetDescendants()) do
+        RegisterAnonymousObject(obj)
+    end
+
+    table.insert(
+        states.spoofer_state.anon_connections,
+        game.DescendantAdded:Connect(RegisterAnonymousObject)
+    )
+end)
+
+local function InsertPlayerByValue(list, user_id, value)
+    for i = #list, 1, -1 do
+        if tonumber(list[i].key) == user_id then
+            table.remove(list, i)
+            break
+        end
+    end
+
+    local rank = 1
+    for i, entry in ipairs(list) do
+        if tonumber(entry.value) >= value then
+            rank = i + 1
+        else
+            break
+        end
+    end
+
+    table.insert(list, rank, {
+        key = tostring(user_id),
+        value = value,
+    })
+end
+
+ResetLeaderboard = LPH_JIT_MAX(function(name, config_idx)
+    if not modules.LeaderboardController then
+        return
+    end
+
+    Unbind(config_idx)
+
+    local serial = modules.LeaderboardController.LeaderboardSerials[name]
+    if serial and serial.Players then
+        local user_id = LocalPlayer.UserId
+
+        for i = #serial.Players, 1, -1 do
+            local player = serial.Players[i]
+
+            if player.UserId == user_id
+                or player.UserID == user_id
+                or player.PlayerId == user_id then
+                table.remove(serial.Players, i)
+            end
+        end
+
+        if modules.LeaderboardController.Refreshed then
+            modules.LeaderboardController.Refreshed:Fire(name)
+        end
+    end
+end)
+
+ModifyLeaderboard = LPH_JIT_MAX(function(config_idx, name, value)
+    if not modules.LeaderboardController then
+        return
+    end
+
+    while not modules.LeaderboardController.LeaderboardSerials[name]
+        or not modules.LeaderboardController.LeaderboardSerials[name].Players
+        or #modules.LeaderboardController.LeaderboardSerials[name].Players <= 0 do
+        task.wait(0.5)
+    end
+
+    local user_id = LocalPlayer.UserId
+    local serial = modules.LeaderboardController.LeaderboardSerials[name]
+
+    if serial and serial.Players then
+        InsertPlayerByValue(serial.Players, user_id, value)
+
+        if modules.LeaderboardController.Refreshed then
+            modules.LeaderboardController.Refreshed:Fire(name)
+        end
+    end
+
+    local UpdateRemote = services.ReplicatedStorage:FindFirstChild("Remotes")
+        and services.ReplicatedStorage.Remotes:FindFirstChild("Misc")
+        and services.ReplicatedStorage.Remotes.Misc:FindFirstChild("UpdateLeaderboard")
+
+    if not (UpdateRemote and UpdateRemote:IsA("RemoteEvent")) then
+        return
+    end
+
+    Bind(config_idx, UpdateRemote.OnClientEvent, function(data)
+        local lb_name = data and data.Name
+        if not lb_name or lb_name ~= name then
+            return
+        end
+
+        if not states.spoofer_state.leaderboard[config_idx] then
+            return
+        end
+
+        task.defer(function()
+            local serial = modules.LeaderboardController.LeaderboardSerials[name]
+            if serial and serial.Players then
+                InsertPlayerByValue(serial.Players, user_id, value)
+
+                if modules.LeaderboardController.Refreshed then
+                    modules.LeaderboardController.Refreshed:Fire(name)
+                end
+            end
+        end)
+    end)
+end)
+
+local function UpdateLeaderboardOptions()
+    if states.spoofer_state.leaderboard.ELO then
+        Unbind("ELO")
+        ModifyLeaderboard("ELO", "Highest ELO", states.spoofer_state.leaderboard.elo_value)
+    end
+
+    if states.spoofer_state.leaderboard.Streak then
+        Unbind("Streak")
+        ModifyLeaderboard("Streak", "Current Highest Win Streak", states.spoofer_state.leaderboard.streak_value)
+
+        states.spoofer_state.leaderboard.old_streak_value = LocalPlayer:GetAttribute("StatisticDuelsWinStreak")
+        LocalPlayer:SetAttribute("StatisticDuelsWinStreak", states.spoofer_state.leaderboard.streak_value)
+    end
+
+    if states.spoofer_state.leaderboard.Kills then
+        Unbind("Kills")
+        ModifyLeaderboard("Kills", "Most Eliminations", states.spoofer_state.leaderboard.kills_value)
+    end
+
+    if states.spoofer_state.leaderboard.Wins then
+        Unbind("Wins")
+        ModifyLeaderboard("Wins", "Most Wins", states.spoofer_state.leaderboard.wins_value)
+    end
+
+    if states.spoofer_state.leaderboard.Level then
+        Unbind("Level")
+        ModifyLeaderboard("Level", "Highest Level", states.spoofer_state.leaderboard.level_value)
+
+        states.spoofer_state.leaderboard.old_level_value = LocalPlayer:GetAttribute("Level")
+        LocalPlayer:SetAttribute("Level", states.spoofer_state.leaderboard.level_value)
+    end
+
+    if not states.spoofer_state.leaderboard.ELO then
+        ResetLeaderboard("Highest ELO", "ELO")
+    end
+
+    if not states.spoofer_state.leaderboard.Streak then
+        ResetLeaderboard("Current Highest Win Streak", "Streak")
+        if states.spoofer_state.leaderboard.old_streak_value ~= nil then
+            LocalPlayer:SetAttribute("StatisticDuelsWinStreak", states.spoofer_state.leaderboard.old_streak_value)
+        end
+    end
+
+    if not states.spoofer_state.leaderboard.Kills then
+        ResetLeaderboard("Most Eliminations", "Kills")
+    end
+
+    if not states.spoofer_state.leaderboard.Wins then
+        ResetLeaderboard("Most Wins", "Wins")
+    end
+
+    if not states.spoofer_state.leaderboard.Level then
+        ResetLeaderboard("Highest Level", "Level")
+        if states.spoofer_state.leaderboard.old_level_value ~= nil then
+            LocalPlayer:SetAttribute("Level", states.spoofer_state.leaderboard.old_level_value)
+        end
+    end
+end
+
+local old_namecall; old_namecall = hookmetamethod(game, "__index", LPH_NO_VIRTUALIZE(function(self, key)
+    if self == LocalPlayer then
+        if key == "MembershipType" and states.spoofer_state.badges.Premium then
+            return Enum.MembershipType.Premium
+        end
+        if key == "HasVerifiedBadge" and states.spoofer_state.badges.Verified then
+            return true
+        end
+    end
+    return old_namecall(self, key)
+end))
+
+local function UpdateBadgesOptions()
+    LocalPlayer:SetAttribute("IsInfluencer", states.spoofer_state.badges.Influencer and true or false)
+    LocalPlayer:SetAttribute("IsRobloxEmployee", states.spoofer_state.badges.Admin and true or false)
+end
+
+local original_fsrc = modules.SeasonLibrary.FormatSeasonRankCharm
+modules.SeasonLibrary.FormatSeasonRankCharm = function(self, p2, p3, p4, p5)
+    local season_num = kConstants.kSeasonNameMap[p3]
+	local elo = kConstants.kCharmEloMap[states.spoofer_state.charm.charm_rank] or states.spoofer_state.leaderboard.elo_value
+
+	if season_num and kConstants.kSeasonToggleMap[season_num] and states.spoofer_state.charm[kConstants.kSeasonToggleMap[season_num]] then
+		p4 = elo or p4
+        p5 = states.spoofer_state.charm.arch_rank
+	end
+
+	return original_fsrc(self, p2, p3, p4, p5)
+end
+
+local function UpdateCharmOptions()
+    task.wait(2)
+
+    for _, descendant in ipairs(workspace:GetDescendants()) do
+		if not descendant:IsA("Model") then
+			continue
+		end
+
+        if not descendant:FindFirstChild("Extra") then
+            continue
+        end
+
+        local name = descendant.Name
+		if string.sub(name, 1, 7) ~= "Season " then
+			continue
+		end
+
+        local season_num = tonumber(string.sub(name, 8))
+		if not season_num then
+			continue
+		end
+
+        if not kConstants.kSeasonToggleMap[season_num] then
+            continue
+        end
+
+        if not states.spoofer_state.charm[kConstants.kSeasonToggleMap[season_num]] then
+            continue
+        end
+
+        local season_name = kConstants.kSeasonNameMap[season_num]
+		if not season_name then
+			continue
+		end
+
+        local elo = kConstants.kCharmEloMap[states.spoofer_state.charm.charm_rank] or states.spoofer_state.leaderboard.elo_value
+		local rank = states.spoofer_state.charm.arch_rank
+
+		modules.SeasonLibrary:FormatSeasonRankCharm(
+			descendant,
+			season_name,
+			elo,
+			rank
+		)
+	end
+end
+
+local function UpdateCurrencyOptions()
+    pcall(function()
+        if modules.PlayerDataController and modules.PlayerDataController.CurrentData then
+            modules.PlayerDataController.CurrentData:Replicate("WeaponKeys")
+            modules.PlayerDataController.CurrentData:Replicate("UnlockTokens")
+            modules.PlayerDataController.CurrentData:Replicate("EventCurrency")
+            modules.PlayerDataController.CurrentData:Replicate("Glory")
+            modules.PlayerDataController.CurrentData:Replicate("SkinTickets")
+        end
+    end)
+end
+
+local function UpdateDuelHistory()
+    local match = states.spoofer_state.duel_history.duel_history_value[states.spoofer_state.duel_history.match_index]
+    if not match then
+        return false
+    end
+
+    match.QueueName = states.spoofer_state.duel_history.mode == "Ranked" and "Ranked" or "Casual"
+
+    match.Map = states.spoofer_state.duel_history.map
+    match.Scores = {states.spoofer_state.duel_history.team1score, states.spoofer_state.duel_history.team2score}
+
+    if states.spoofer_state.duel_history.result == "Victory" then
+        match.WinningTeamIndex = 1
+    else
+        match.WinningTeamIndex = 2
+    end
+
+    local me = match.Duelers[states.spoofer_state.duel_history.dueler_index]
+
+    me.Username = states.spoofer_state.duel_history.username
+    me.DisplayName = states.spoofer_state.duel_history.display_name
+
+    me.Eliminations = states.spoofer_state.duel_history.kills
+    me.Deaths = states.spoofer_state.duel_history.deaths
+    me.Assists = states.spoofer_state.duel_history.assists
+    me.Damage = states.spoofer_state.duel_history.damage
+
+    if states.spoofer_state.duel_history.mode == "Ranked" then
+        me.DisplayELO = states.spoofer_state.duel_history.elo
+
+        states.spoofer_state.duel_history.logged_elo_events[states.spoofer_state.duel_history.match_index].CurrentELO = states.spoofer_state.duel_history.elo
+        states.spoofer_state.duel_history.logged_elo_events[states.spoofer_state.duel_history.match_index].ELOIncrement = states.spoofer_state.duel_history.elo_change or 0
+    end
+
+    pcall(function()
+        if modules.PlayerDataController and modules.PlayerDataController.CurrentData then
+            modules.PlayerDataController.CurrentData:Replicate("DuelHistory")
+            modules.PlayerDataController.CurrentData:Replicate("LoggedELOEvents")
+        end
+    end)
+end
+
+local function FindContainerWithRobuxPrice()
+    for _, child in ipairs(services.CoreGui:GetChildren()) do
+        local found = child:FindFirstChild("RobuxPrice", true)
+        if found then
+            return child
+        end
+    end
+    return nil
+end
+
+local function AddGamepass(gamepass_id)
+    states.spoofer_state.marketplace.fake_bundles_owned[modules.MonetizationLibrary:GetGamepassName(gamepass_id)] = true
+    pcall(function()
+        if modules.PlayerDataController and modules.PlayerDataController.CurrentData then
+            modules.PlayerDataController.CurrentData:Replicate("GamepassBundlesClaimed")
+        end
+    end)
+end
+
+local function AddReward(reward_name, reward_amount, reward_weapon)    
+    if reward_name == "Key" then
+        states.spoofer_state.currency.weapon_keys_value += reward_amount
+
+        pcall(function()
+            if modules.PlayerDataController and modules.PlayerDataController.CurrentData then
+                modules.PlayerDataController.CurrentData:Replicate("WeaponKeys")
+            end
+        end)
+    elseif modules.CosmeticLibrary and modules.CosmeticLibrary.Cosmetics and modules.CosmeticLibrary.Cosmetics[reward_name] then
+        local reward_info = modules.CosmeticLibrary.Cosmetics[reward_name]
+        if reward_info.Type == "Skin" or reward_info.Type == "Wrap" or reward_info.Type == "Charm" or reward_info.Type == "Finisher" then
+            states.skinchanger_state.fake_owned[reward_name] = true
+        end
+    elseif modules.ShopLibrary and modules.ShopLibrary.Weapons and modules.ShopLibrary.Weapons[reward_name] then
+        local owned = {}
+        for _, weapon_data in pairs(states.skinchanger_state.fake_weapon_owned) do
+            if type(weapon_data) == "table" and weapon_data.Name then
+                owned[weapon_data.Name] = true
+            end
+        end
+
+        if not owned[reward_name] then
+            table.insert(states.skinchanger_state.fake_weapon_owned, {
+                Name = reward_name,
+                Level = 1,
+                XP = 0,
+                IsFavorited = false,
+                Skin = nil,
+            })
+        end
+
+        pcall(function()
+            if modules.PlayerDataController and modules.PlayerDataController.CurrentData then
+                modules.PlayerDataController.CurrentData:Replicate("WeaponInventory")
+            end
+        end)
+    elseif modules.CosmeticLibrary and modules.CosmeticLibrary.Rewards and modules.CosmeticLibrary.Rewards[reward_name] then
+        local reward_info = modules.CosmeticLibrary.Rewards[reward_name]
+
+        local reward_entry
+        if reward_info.Type == "Skin" then
+            if not reward_weapon or reward_weapon == "" then
+                return
+            end
+
+            reward_entry = {
+                Name = reward_name,
+                Quantity = reward_amount,
+                Weapon = reward_weapon,
+            }
+        else
+            reward_entry = {
+                Name = reward_name,
+                Quantity = reward_amount,
+            }
+        end
+
+        local found = false
+
+        for _, entry in ipairs(states.inventory_state.fake_owned) do
+            if entry.Name == reward_entry.Name and entry.Weapon == reward_entry.Weapon and entry.Quantity < 99 then
+                entry.Quantity = (entry.Quantity or 1) + (reward_entry.Quantity or 1)
+                found = true
+                break
+            end
+        end
+
+        if not found then
+            table.insert(states.inventory_state.fake_owned, reward_entry)
+        end
+
+        pcall(function()
+            if modules.PlayerDataController and modules.PlayerDataController.CurrentData then
+                modules.PlayerDataController.CurrentData:Replicate("UnclaimedRewards")
+            end
+        end)
+    end
+end
+
+local product_type = "product"
+local marketplace_asset_id = 0
+local function UpdateMarketplace()
+    if states.spoofer_state.marketplace.fake_robux then
+        local foundation_overlay = FindContainerWithRobuxPrice()
+        if not foundation_overlay or not foundation_overlay:FindFirstChild("SafeAreaFrame") then
+            return
+        end
+
+        if not marketplace_asset_id or marketplace_asset_id == 0 then
+            return
+        end
+
+        local robux_text = string.format(
+            '<font family="rbxasset://LuaPackages/Packages/_Index/BuilderIcons/BuilderIcons/BuilderIcons.json" weight="400">robux</font> %s',
+            FormatNumber(states.spoofer_state.marketplace.robux_amount)
+        )
+
+        local info_type = product_type == "gamepass" and Enum.InfoType.GamePass or product_type == "product" and Enum.InfoType.Product or Enum.InfoType.Asset
+        local product_info = services.MarketplaceService:GetProductInfo(marketplace_asset_id, info_type)
+        local has_enough = product_info.PriceInRobux <= states.spoofer_state.marketplace.robux_amount
+
+        local BuyButton
+        local PromptTitle
+        local RobuxBalance
+        local SheetContentContainer
+
+        for _, descendant in ipairs(foundation_overlay:GetDescendants()) do
+            local parent = descendant.Parent
+            local grandparent = parent and parent.Parent
+
+            if descendant.Name == "RobuxPrice" and descendant:IsA("TextLabel") and grandparent and grandparent.Name == "ModalHeader" then
+                descendant.RichText = true
+                descendant.Text = robux_text
+                RobuxBalance = descendant
+            elseif descendant.Name == "RobuxAmount" and descendant:IsA("TextLabel") and grandparent and grandparent.Name == "ModalHeader" then
+                descendant.Text = has_enough and "Buy item" or "Buy Robux and item"
+                PromptTitle = descendant
+            elseif descendant:IsA("ImageButton") and parent and parent.Name == "1" then
+                BuyButton = descendant
+            elseif descendant.Name == "SheetContentContainer" and descendant:IsA("Frame") and parent and parent.Name == "ScrollingFrame" then
+                SheetContentContainer = descendant
+            elseif descendant.Name == "UpsellSuggestions" and descendant:IsA("Frame") and parent and parent.Name == "SheetContentContainer" and has_enough then
+                descendant:Destroy()
+            elseif descendant.Name == "DisclosureTerms" and descendant:IsA("Frame") and parent and parent.Name == "1" and has_enough then
+                descendant:Destroy()
+            end
+        end
+
+        if BuyButton then
+            local OverlayButton = foundation_overlay:FindFirstChild("nigga")
+
+            if OverlayButton then
+                return
+            end
+
+            OverlayButton = Instance.new("TextButton")
+            OverlayButton.Name = "nigga"
+            OverlayButton.BackgroundTransparency = 1
+            OverlayButton.Text = ""
+            OverlayButton.AutoButtonColor = false
+            OverlayButton.ZIndex = BuyButton.ZIndex + 100
+            OverlayButton.Size = UDim2.fromOffset(BuyButton.AbsoluteSize.X, BuyButton.AbsoluteSize.Y)
+            OverlayButton.Position = UDim2.fromOffset(BuyButton.AbsolutePosition.X, BuyButton.AbsolutePosition.Y + BuyButton.AbsoluteSize.Y + (BuyButton.AbsoluteSize.Y / 2))
+            OverlayButton.AnchorPoint = BuyButton.AnchorPoint
+            OverlayButton.Parent = foundation_overlay
+
+            BuyButton.Destroying:Connect(function()
+                OverlayButton:Destroy()
+                product_type = "product"
+                marketplace_asset_id = 0
+            end)
+
+            services.RunService.Heartbeat:Connect(LPH_NO_VIRTUALIZE(function()
+                OverlayButton.Position = UDim2.fromOffset(BuyButton.AbsolutePosition.X, BuyButton.AbsolutePosition.Y + BuyButton.AbsoluteSize.Y + (BuyButton.AbsoluteSize.Y / 2))
+            end))
+
+            task.wait(3)
+
+            local purchased = false
+            OverlayButton.MouseButton1Click:Connect(function()
+                local current_id = getthreadidentity()
+                setthreadidentity(2)
+
+                if purchased then
+                    services.GuiService:InspectPlayerFromUserId(LocalPlayer.UserId)
+                    services.GuiService:CloseInspectMenu()
+                    return
+                end
+
+                local currency_rewards = {}
+
+                for _, bundle in pairs(modules.MonetizationLibrary.Bundles) do
+                    if bundle.ProductID == marketplace_asset_id or bundle.GamepassName == modules.MonetizationLibrary:GetGamepassName(marketplace_asset_id) then
+                        currency_rewards = bundle.Rewards
+                        break
+                    end
+                end
+
+                setthreadidentity(current_id)
+
+                local original_bgcolor = BuyButton.BackgroundColor3
+                BuyButton.BackgroundColor3 = Color3.fromRGB(38, 61, 143)
+
+                local bgcolor_conn = BuyButton:GetPropertyChangedSignal("BackgroundColor3"):Connect(function()
+                    BuyButton.BackgroundColor3 = Color3.fromRGB(38, 61, 143)
+                end)
+
+                task.wait(2)
+
+                bgcolor_conn:Disconnect()
+                BuyButton.BackgroundColor3 = original_bgcolor
+
+                if product_type == "gamepass" then
+                    services.MarketplaceService:SignalPromptGamePassPurchaseFinished(LocalPlayer, marketplace_asset_id, has_enough)
+                elseif product_type == "product" then
+                    services.MarketplaceService:SignalPromptProductPurchaseFinished(LocalPlayer.UserId, marketplace_asset_id, has_enough)
+                elseif product_type == "asset" then
+                    services.MarketplaceService:SignalPromptPurchaseFinished(LocalPlayer, marketplace_asset_id, has_enough)
+                end
+
+                PromptTitle.Text = "Purchase completed"
+                PromptTitle.Name = "Title"
+                RobuxBalance:Destroy()
+
+                local BodyContainer = Instance.new("Frame")
+                BodyContainer.Name = "Body"
+                BodyContainer.Parent = SheetContentContainer.Parent
+                BodyContainer.AutomaticSize = Enum.AutomaticSize.Y
+                BodyContainer.BackgroundTransparency = 1
+                BodyContainer.BorderSizePixel = 0
+                BodyContainer.LayoutOrder = 1
+                BodyContainer.Size = UDim2.fromScale(1, 0)
+                BodyContainer.AutoLocalize = false
+                SheetContentContainer:Destroy()
+
+                local UIListLayout = Instance.new("UIListLayout")
+                UIListLayout.Parent = BodyContainer
+                UIListLayout.Padding = UDim.new(0, 16)
+                UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+                UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+                UIListLayout.VerticalAlignment = Enum.VerticalAlignment.Center
+
+                local UIPadding = Instance.new("UIPadding")
+                UIPadding.Parent = BodyContainer
+                UIPadding.PaddingTop = UDim.new(0, 8)
+
+                local Icon = Instance.new("TextLabel")
+                Icon.Name = "Icon"
+                Icon.Parent = BodyContainer
+                Icon.BackgroundTransparency = 1
+                Icon.BorderSizePixel = 0
+                Icon.LayoutOrder = 0
+                Icon.Size = UDim2.fromOffset(48, 48)
+                Icon.AutoLocalize = false
+                Icon.FontFace = Font.new("rbxasset://LuaPackages/Packages/_Index/BuilderIcons/BuilderIcons/BuilderIcons.json", Enum.FontWeight.Regular)
+                Icon.Text = "circle-check"
+                Icon.TextColor3 = Color3.fromRGB(213, 215, 221)
+                Icon.TextSize = 48
+
+                local Message = Instance.new("TextLabel")
+                Message.Name = "Message"
+                Message.Parent = BodyContainer
+                Message.AutomaticSize = Enum.AutomaticSize.XY
+                Message.BackgroundTransparency = 1
+                Message.BorderSizePixel = 0
+                Message.Size = UDim2.new(0, 0, 0, 0)
+                Message.AutoLocalize = false
+                Message.FontFace = Font.new("rbxasset://fonts/families/LegacyArimo.json", Enum.FontWeight.Regular)
+                Message.Text = "You have successfully bought " .. product_info.Name .. "."
+                Message.TextColor3 = Color3.fromRGB(213, 215, 221)
+                Message.TextSize = 15
+                Message.TextWrapped = true
+                Message.TextXAlignment = Enum.TextXAlignment.Left
+
+                local label = BuyButton:FindFirstChildOfClass("TextLabel")
+                if label then
+                    local clone = label:Clone()
+                    clone.Text = "OK"
+                    clone.Parent = label.Parent
+                    label:Destroy()
+                end
+
+                setthreadidentity(2)
+
+                task.wait()
+                modules.MonetizationController:_FinishPrompt(has_enough)
+
+                if has_enough and product_type == "gamepass" then
+                    AddGamepass(marketplace_asset_id)
+                end
+
+                for _, reward in ipairs(currency_rewards) do
+                    AddReward(reward.Type or reward.Name, reward.Quantity or 1, reward.Weapon)
+                end
+
+                if has_enough and modules.MonetizationLibrary.Gifts[tostring(marketplace_asset_id)] and states.spoofer_state.marketplace.fake_gifting then
+                    local marketplace = states.spoofer_state.marketplace
+
+                    marketplace.fake_gift_robux_spent += product_info.PriceInRobux
+
+                    while true do
+                        local required = modules.MonetizationLibrary:GetGiftRewardRobuxSpentRequirement(
+                            marketplace.fake_gift_rewards_claimed
+                        )
+
+                        if marketplace.fake_gift_robux_spent < required then
+                            break
+                        end
+
+                        marketplace.fake_gift_robux_spent -= required
+                        marketplace.fake_gift_rewards_claimed += 1
+                    end
+
+                    modules.PlayerDataController.CurrentData:Replicate("GiftRobuxSpentProgress")
+                    modules.PlayerDataController.CurrentData:Replicate("GiftRobuxSpentRewardsClaimed")
+                end
+
+                purchased = true
+            end)
+        end
+    end
+end
+
+services.CoreGui.DescendantAdded:Connect(UpdateMarketplace)
+
+task.spawn(function()
+    pcall(function()
+        local original = modules.MonetizationController.PromptProductPurchase
+
+        modules.MonetizationController.PromptProductPurchase = function(self, product_id, ...)
+            if product_id and product_id ~= 0 then
+                marketplace_asset_id = product_id
+                product_type = "product"
+            end
+
+            local results = {original(self, product_id, ...)}
+            return unpack(results)
+        end
+    end)
+
+    pcall(function()
+        local original = modules.MonetizationController.PromptGamePassPurchase
+
+        modules.MonetizationController.PromptGamePassPurchase = function(self, gamepass_id, ...)
+            if gamepass_id and gamepass_id ~= 0 then
+                marketplace_asset_id = gamepass_id
+                product_type = "gamepass"
+            end
+
+            local results = {original(self, gamepass_id, ...)}
+            return unpack(results)
+        end
+    end)
+
+    pcall(function()
+        local original = modules.MonetizationController.PromptPurchase
+
+        modules.MonetizationController.PromptPurchase = function(self, asset_id)
+            if asset_id and asset_id ~= 0 then
+                marketplace_asset_id = asset_id
+                product_type = "asset"
+            end
+
+            local results = {original(self, asset_id)}
+            return unpack(results)
+        end
+    end)
+
+    pcall(function()
+        local remote = services.ReplicatedStorage.Remotes.Misc.PromptGiftProductPurchase
+
+        NamecallDispatcher:Register(LPH_JIT_MAX(function(self, method, ...)
+            if method ~= "InvokeServer" or self ~= remote then
+                return false
+            end
+
+            local args = { ... }
+
+            if args[1] and args[1] ~= 0 then
+                marketplace_asset_id = args[1]
+                product_type = "product"
+            end
+
+            return NamecallDispatcher:CallOriginal(self, ...)
+        end))
+    end)
+end)
+
+--[[
+    User Interface
+]]
+
+ui_objects.Window = Library:CreateWindow({
+    Title = tostring(LP_SCRIPT_NAME),
+    Version = "v1.0.0",
+    Icon = kConstants.kAethereaLogo
+})
+
+ui_objects.Window:CreateConfigFlag(
+	"fake_owned",
+	function()
+		return states.skinchanger_state.fake_owned
+	end,
+	function(value)
+		states.skinchanger_state.fake_owned = value
+	end
+)
+
+ui_objects.Window:CreateConfigFlag(
+	"fake_weapon_owned",
+	function()
+		return states.skinchanger_state.fake_weapon_owned
+	end,
+	function(value)
+		states.skinchanger_state.fake_weapon_owned = value
+	end
+)
+
+ui_objects.Window:CreateConfigFlag(
+	"equipped",
+	function()
+		return states.skinchanger_state.equipped
+	end,
+	function(value)
+		states.skinchanger_state.equipped = value
+	end
+)
+
+ui_objects.Window:CreateConfigFlag(
+	"favorites",
+	function()
+		return states.skinchanger_state.favorites
+	end,
+	function(value)
+		states.skinchanger_state.favorites = value
+	end
+)
+
+ui_objects.Window:CreateConfigFlag(
+	"inventory_fake_owned",
+	function()
+		return states.inventory_state.fake_owned
+	end,
+	function(value)
+		states.inventory_state.fake_owned = value
+	end
+)
+
+ui_objects.Window:CreateConfigFlag(
+	"fake_bundles_owned",
+	function()
+		return states.spoofer_state.marketplace.fake_bundles_owned
+	end,
+	function(value)
+		states.spoofer_state.marketplace.fake_bundles_owned = value
+	end
+)
+
+ui_objects.Window:CreateConfigFlag(
+	"fake_gift_robux_spent",
+	function()
+		return states.spoofer_state.marketplace.fake_gift_robux_spent
+	end,
+	function(value)
+		states.spoofer_state.marketplace.fake_gift_robux_spent = value
+	end
+)
+
+ui_objects.Window:CreateConfigFlag(
+	"fake_gift_rewards_claimed",
+	function()
+		return states.spoofer_state.marketplace.fake_gift_rewards_claimed
+	end,
+	function(value)
+		states.spoofer_state.marketplace.fake_gift_rewards_claimed = value
+	end
+)
+
+ui_objects.Window:CreateConfigFlag(
+	"duel_history_value",
+	function()
+		return states.spoofer_state.duel_history.duel_history_value
+	end,
+	function(value)
+		states.spoofer_state.duel_history.duel_history_value = value
+	end
+)
+
+ui_objects.Window:CreateConfigFlag(
+	"logged_elo_events",
+	function()
+		return states.spoofer_state.duel_history.logged_elo_events
+	end,
+	function(value)
+		states.spoofer_state.duel_history.logged_elo_events = value
+	end
+)
+
+--[[
+    Main
+]]
+
+ui_objects.MainTab = ui_objects.Window:CreateTab("Main", nil, kConstants.kLucideHome)
+
+ui_objects.AccountSection = ui_objects.MainTab:CreateSection("Account", kConstants.kLucideUser)
+
+ui_objects.AccountSection:CreateLabel({
+    Title = "Welcome back, "..LP_DISCORD
+})
+
+ui_objects.AccountSection:CreateLabel({
+    Title = "Account Age: " .. LocalPlayer.AccountAge
+})
+
+ui_objects.PingLabel = ui_objects.AccountSection:CreateLabel({
+    Title = "Ping: " .. tostring(math.floor(LocalPlayer:GetNetworkPing() * 1000))
+})
+
+ui_objects.TimeWastedLabel = ui_objects.AccountSection:CreateLabel({
+    Title = "Time Wasted: " .. tostring(0)
+})
+
+ui_objects.TimeLeftLabel = ui_objects.AccountSection:CreateLabel({
+    Title = "Time Left: " .. tostring(LP_TIMELEFT)
+})
+
+ui_objects.AccountSection:CreateEmpty()
+
+task.spawn(LPH_NO_VIRTUALIZE(function()
+    local start = tick()
+	while task.wait(1) do
+        local ping = tostring(math.floor(LocalPlayer:GetNetworkPing() * 1000))
+        local time = tostring(math.floor(tick() - start))
+
+        ui_objects.PingLabel:Set("Ping: " .. ping, nil)
+        ui_objects.TimeWastedLabel:Set("Time Wasted: " .. time, nil)
+	end
+end))
+
+ui_objects.StatusSection = ui_objects.MainTab:CreateSection("Status", kConstants.kLucideHeart)
+
+ui_objects.StatusSection:CreateLabel({
+    Title = "[+] RIVALS",
+    Type = "Success"
+})
+
+ui_objects.StatusSection:CreateLabel({
+    Title = "[+] Prison Life",
+    Type = "Success"
+})
+
+ui_objects.StatusSection:CreateLabel({
+    Title = "[+] Bloxburg",
+    Type = "Success"
+})
+
+ui_objects.StatusSection:CreateLabel({
+    Title = "[+] Murder Mystery 2",
+    Type = "Success"
+})
+
+ui_objects.ChangelogsSection = ui_objects.MainTab:CreateSection("Changelogs", kConstants.kLucideClipboard)
+
+pcall(function()
+    local changelog_table = {}
+
+    for line in string.gmatch(ChangeLogs, "[^\r\n]+") do
+        table.insert(changelog_table, line)
+    end
+
+    for _, str  in ipairs(changelog_table) do
+        local data = {
+            Title = str
+        }
+
+        if str:sub(1, 3) == "[+]" then
+            data.Type = "Success"
+        elseif str:sub(1, 3) == "[-]" then
+            data.Type = "Error"
+        end
+
+        ui_objects.ChangelogsSection:CreateLabel(data)
+    end
+end)
+
+ui_objects.CompatabilitySection = ui_objects.MainTab:CreateSection("Compatability", kConstants.kLucideCheckCircle)
+
+pcall(function()
+    local funcs_passed = 0
+
+    for _, func in ipairs(kConstants.kFunctionsUsed) do
+        if getgenv()[func] ~= nil then
+            funcs_passed += 1
+        end
+    end
+
+    ui_objects.CompatabilitySection:CreateLabel({
+        Title = "Result: " .. funcs_passed .. "/" .. #kConstants.kFunctionsUsed .. " passed",
+        Type = "Success"
+    })
+
+    ui_objects.CompatabilitySection:CreateDivider()
+
+    for _, func in ipairs(kConstants.kFunctionsUsed) do
+        local exists = getgenv()[func] ~= nil
+
+        ui_objects.CompatabilitySection:CreateLabel({
+            Title = (exists and "[+] " or "[-] ") .. func,
+            Type = exists and "Success" or "Error"
+        })
+    end
+end)
+
+--[[
+    Legit
+]]
+
+ui_objects.LegitTab = ui_objects.Window:CreateTab("Legit", "Legit Hacks.", kConstants.kLucideCheckCircle)
+
+ui_objects.SilentAimSection = ui_objects.LegitTab:CreateSection("Silent Aim", kConstants.kLucideCrosshair)
+
+ui_objects.SilentAimEnabled = ui_objects.SilentAimSection:CreateToggle({
+    Name = "Enabled",
+    Flag = "silentaim_enabled",
+    CurrentValue = states.legit_state.silent_aim.enabled,
+    Callback = function(v)
+        if states.legit_state.silent_aim.enabled ~= v then
+            SetSilentAimEnabled(v)
+        end
+    end
+})
+
+ui_objects.SilentAimKeybind = ui_objects.SilentAimSection:CreateKeybind({
+    Name = "SilentAim Keybind",
+    Flag = "silentaim_keybind",
+    Callback = function(v)
+        if states.legit_state.silent_aim.enabled ~= v then
+            SetSilentAimEnabled(v)
+        end
+
+        if v then
+            ui_objects.Window:Notify({
+                Title = "Silent Aim Enabled",
+                Content = "Aim enhancements enabled.",
+                Duration = 5
+            })
+        else
+            ui_objects.Window:Notify({
+                Title = "Silent Aim Disabled",
+                Content = "Aim enhancements disabled.",
+                Duration = 5
+            })
+        end
+    end
+})
+
+ui_objects.SilentAimSection:CreateSlider({
+    Name = "Hit Chance",
+    Flag = "silent_hit_chance",
+    Range = {0, 100},
+    Increment = 1,
+    CurrentValue = states.legit_state.silent_aim.hit_chance,
+    Callback = function(v)
+        states.legit_state.silent_aim.hit_chance = v
+    end
+})
+
+ui_objects.SilentAimSection:CreateChecklist({
+    Name = "Options",
+    Flag = "silentaim_options",
+    Options = {
+        {
+            Name = "Manipulation",
+            Default = states.legit_state.silent_aim.manipulation
+        },
+        {
+            Name = "Visualize",
+            Default = states.legit_state.silent_aim.visualize
+        },
+    },
+    Callback = function(o)
+        states.legit_state.silent_aim.manipulation = o["Manipulation"]
+        states.legit_state.silent_aim.visualize = o["Visualize"]
+    end
+})
+
+ui_objects.TriggerbotSection = ui_objects.LegitTab:CreateSection("Triggerbot", kConstants.kLucideView)
+
+ui_objects.TriggerbotEnabled = ui_objects.TriggerbotSection:CreateToggle({
+    Name = "Enabled",
+    Flag = "triggerbot_enabled",
+    CurrentValue = states.legit_state.triggerbot.enabled,
+    Callback = function(v)
+        if states.legit_state.triggerbot.enabled ~= v then
+            SetTriggerbotEnabled(v)
+        end
+    end
+})
+
+ui_objects.TriggerbotKeybind = ui_objects.TriggerbotSection:CreateKeybind({
+    Name = "Triggerbot Keybind",
+    Flag = "triggerbot_keybind",
+    Callback = function(v)
+        if states.legit_state.triggerbot.enabled ~= v then
+            SetTriggerbotEnabled(v)
+        end
+
+        if v then
+            ui_objects.Window:Notify({
+                Title = "Triggerbot Enabled",
+                Content = "Aim enhancements enabled.",
+                Duration = 5
+            })
+        else
+            ui_objects.Window:Notify({
+                Title = "Triggerbot Disabled",
+                Content = "Aim enhancements disabled.",
+                Duration = 5
+            })
+        end
+    end
+})
+
+ui_objects.TriggerbotSection:CreateSlider({
+    Name = "Shoot delay",
+    Flag = "triggerbot_shoot_delay",
+    Range = {0, 300},
+    Increment = 1,
+    CurrentValue = states.legit_state.triggerbot.shoot_delay,
+    Callback = function(v)
+        states.legit_state.triggerbot.shoot_delay = v
+    end
+})
+
+ui_objects.TriggerbotSection:CreateDropdown({
+    Name = "Check scoped",
+    Flag = "triggerbot_check_scoped",
+    Options = kConstants.kCheckScoped,
+    CurrentOption = states.legit_state.triggerbot.check_scoped,
+    MultipleOptions = true,
+    AllowNone = false,
+    Callback = function(v)
+        states.legit_state.triggerbot.check_scoped = v
+    end
+})
+
+ui_objects.TargetingSection = ui_objects.LegitTab:CreateSection("Targeting", kConstants.kLucideEye)
+
+ui_objects.TargetingSection:CreateDropdown({
+    Name = "Target Group",
+    Flag = "targeting_target_group",
+    Options = kConstants.kTargetList,
+    CurrentOption = states.targeting_state.target_group,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.targeting_state.target_group = v
+    end
+})
+
+ui_objects.TargetingSection:CreateDropdown({
+    Name = "Ignore",
+    Flag = "targeting_ignore",
+    Options = kConstants.kGunIgnoreList,
+    CurrentOption = states.targeting_state.ignore,
+    MultipleOptions = true,
+    AllowNone = false,
+    Callback = function(v)
+        states.targeting_state.ignore = v
+    end
+})
+
+ui_objects.TargetingSection:CreateSlider({
+    Name = "Radius",
+    Flag = "targeting_radius",
+    Range = {0, 500},
+    Increment = 1,
+    CurrentValue = states.targeting_state.radius,
+    Callback = function(v)
+        states.targeting_state.radius = v
+    end
+})
+
+ui_objects.TargetingSection:CreateSlider({
+    Name = "Max Distance",
+    Flag = "targeting_max_distance",
+    Range = {50, 1000},
+    Increment = 1,
+    CurrentValue = states.targeting_state.max_distance,
+    Callback = function(v)
+        states.targeting_state.max_distance = v
+    end
+})
+
+ui_objects.TargetingSection:CreateSlider({
+    Name = "Weight Ratio",
+    Flag = "targeting_weight_ratio",
+    Range = {0, 1},
+    Increment = 0.1,
+    CurrentValue = states.targeting_state.weight_ratio,
+    Callback = function(v)
+        states.targeting_state.weight_ratio = v
+    end
+})
+
+ui_objects.TargetingSection:CreateSlider({
+    Name = "Reaction time",
+    Flag = "targeting_reaction_time",
+    Range = {0, 300},
+    Increment = 1,
+    CurrentValue = states.targeting_state.reaction_time,
+    Callback = function(v)
+        states.targeting_state.reaction_time = v
+    end
+})
+
+ui_objects.TargetingSection:CreateSlider({
+    Name = "Forget time",
+    Flag = "targeting_forget_time",
+    Range = {0, 10},
+    Increment = 0.1,
+    CurrentValue = states.targeting_state.forget_time,
+    Callback = function(v)
+        states.targeting_state.forget_time = v
+    end
+})
+
+ui_objects.TargetingSection:CreateDropdown({
+    Name = "Target",
+    Flag = "targeting_target",
+    Options = {
+        "Closest Part",
+        "Head",
+        "HumanoidRootPart",
+        "UpperTorso",
+        "LowerTorso",
+        "LeftFoot",
+        "LeftLowerLeg",
+        "LeftUpperLeg",
+        "RightFoot",
+        "RightLowerLeg",
+        "RightUpperLeg",
+        "LeftHand",
+        "LeftLowerArm",
+        "LeftUpperArm",
+        "RightHand",
+        "RightLowerArm",
+        "RightUpperArm",
+    },
+    CurrentOption = states.targeting_state.target,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.targeting_state.target = v
+    end
+})
+
+ui_objects.TargetingSection:CreateDropdown({
+    Name = "Include Parts",
+    Flag = "targeting_include_parts",
+    Options = kConstants.kBodyParts,
+    CurrentOption = states.targeting_state.include_parts,
+    MultipleOptions = true,
+    AllowNone = false,
+    Callback = function(v)
+        states.targeting_state.include_parts = v
+    end
+})
+
+ui_objects.TargetingSection:CreateChecklist({
+    Name = "Options",
+    Flag = "targeting_options",
+    Options = {
+        {
+            Name = "Wallcheck",
+            Default = states.targeting_state.wallcheck
+        },
+        {
+            Name = "Show FOV",
+            Default = states.targeting_state.show_fov
+        },
+    },
+    Callback = function(o)
+        states.targeting_state.wallcheck = o["Wallcheck"]
+        states.targeting_state.show_fov = o["Show FOV"]
+    end
+})
+
+ui_objects.TargetingSection:CreateChecklist({
+    Name = "FOV",
+    Flag = "targeting_fov",
+    Options = {
+        {
+            Name = "FOV Outline",
+            Default = states.targeting_state.fov_outline
+        },
+        {
+            Name = "FOV Fill",
+            Default = states.targeting_state.fov_fill
+        },
+    },
+    Callback = function(o)
+        states.targeting_state.fov_outline = o["FOV Outline"]
+        states.targeting_state.fov_fill = o["FOV Fill"]
+    end
+})
+
+ui_objects.TargetingSection:CreateSlider({
+    Name = "Lerp",
+    Flag = "fov_lerp",
+    Range = {0.1, 1},
+    Increment = 0.01,
+    CurrentValue = states.targeting_state.fov_lerp,
+    Callback = function(v)
+        states.targeting_state.fov_lerp = v
+    end
+})
+
+ui_objects.TargetingSection:CreateSlider({
+    Name = "Rotation",
+    Flag = "fov_rotation",
+    Range = {0, 360},
+    Increment = 1,
+    CurrentValue = states.targeting_state.fov_rotation,
+    Callback = function(v)
+        states.targeting_state.fov_rotation = v
+    end
+})
+
+ui_objects.TargetingSection:CreateSlider({
+    Name = "Rotation Speed",
+    Flag = "fov_rotation_speed",
+    Range = {0, 5},
+    Increment = 0.1,
+    CurrentValue = states.targeting_state.fov_rotation_speed,
+    Callback = function(v)
+        states.targeting_state.fov_rotation_speed = v
+    end
+})
+
+ui_objects.TargetingSection:CreateColorPicker({
+    Name = "Start Color",
+    Flag = "fov_start_color",
+    Color = states.targeting_state.fov_start_color,
+    Callback = function(c)
+        states.targeting_state.fov_start_color = c
+    end
+})
+
+ui_objects.TargetingSection:CreateColorPicker({
+    Name = "Mid Color",
+    Flag = "fov_mid_color",
+    Color = states.targeting_state.fov_mid_color,
+    Callback = function(c)
+        states.targeting_state.fov_mid_color = c
+    end
+})
+
+ui_objects.TargetingSection:CreateColorPicker({
+    Name = "End Color",
+    Flag = "fov_end_color",
+    Color = states.targeting_state.fov_end_color,
+    Callback = function(c)
+        states.targeting_state.fov_end_color = c
+    end
+})
+
+ui_objects.TargetingSection:CreateColorPicker({
+    Name = "Outline Start Color",
+    Flag = "fov_outline_start_color",
+    Color = states.targeting_state.fov_outline_start_color,
+    Callback = function(c)
+        states.targeting_state.fov_outline_start_color = c
+    end
+})
+
+ui_objects.TargetingSection:CreateColorPicker({
+    Name = "Outline Mid Color",
+    Flag = "fov_outline_mid_color",
+    Color = states.targeting_state.fov_outline_mid_color,
+    Callback = function(c)
+        states.targeting_state.fov_outline_mid_color = c
+    end
+})
+
+ui_objects.TargetingSection:CreateColorPicker({
+    Name = "Outline End Color",
+    Flag = "fov_outline_end_color",
+    Color = states.targeting_state.fov_outline_end_color,
+    Callback = function(c)
+        states.targeting_state.fov_outline_end_color = c
+    end
+})
+
+ui_objects.TargetingSection:CreateSlider({
+    Name = "Transparency",
+    Flag = "fov_transparency",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = states.targeting_state.fov_transparency,
+    Callback = function(v)
+        states.targeting_state.fov_transparency = v
+    end
+})
+
+ui_objects.TargetingSection:CreateSlider({
+    Name = "Outline Transparency",
+    Flag = "fov_outline_transparency",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = states.targeting_state.fov_outline_transparency,
+    Callback = function(v)
+        states.targeting_state.fov_outline_transparency = v
+    end
+})
+
+ui_objects.TargetingSection:CreateDropdown({
+    Name = "Position",
+    Flag = "fov_position",
+    Options = kConstants.kLerpPos,
+    CurrentOption = states.targeting_state.fov_position,
+    MultipleOptions = true,
+    AllowNone = false,
+    Callback = function(v)
+        table.clear(states.targeting_state.fov_position)
+
+        for _, pos in v do
+            states.targeting_state.fov_position[pos] = true
+        end
+    end
+})
+
+--[[
+    Rage
+]]
+
+ui_objects.RageTab = ui_objects.Window:CreateTab("Rage", "Rage Hacks.", kConstants.kLucideCrosshair)
+
+ui_objects.WeaponsSection = ui_objects.RageTab:CreateSection("Weapons", kConstants.kLucideCrosshair)
+
+ui_objects.WeaponsSection:CreateChecklist({
+    Name = "Exploits",
+    Flag = "exploits",
+    Options = {
+        {
+            Name = "No recoil",
+            Default = states.rage_state.weapons.no_recoil
+        },
+        {
+            Name = "No spread",
+            Default = states.rage_state.weapons.no_spread
+        },
+        {
+            Name = "Full auto",
+            Default = states.rage_state.weapons.full_auto
+        },
+    },
+    Callback = function(o)
+        states.rage_state.weapons.no_recoil = o["No recoil"]
+        states.rage_state.weapons.no_spread = o["No spread"]
+        states.rage_state.weapons.full_auto = o["Full auto"]
+    end
+})
+
+ui_objects.WeaponsSection:CreateSlider({
+    Name = "Firerate",
+    Flag = "firerate",
+    Range = {10, 100},
+    Increment = 1,
+    CurrentValue = states.rage_state.weapons.firerate,
+    Callback = function(v)
+        states.rage_state.weapons.firerate = v
+    end
+})
+
+ui_objects.PluggWalkSection = ui_objects.RageTab:CreateSection("PluggWalk", kConstants.kLucideCat)
+
+ui_objects.PluggWalkSection:CreateLabel({
+    Title = "Show me yo PluggWalk"
+})
+
+ui_objects.PluggWalkEnabled = ui_objects.PluggWalkSection:CreateToggle({
+    Name = "PluggWalk Enabled",
+    Flag = "pluggwalk_enabled",
+    CurrentValue = states.rage_state.pluggwalk.enabled,
+    Callback = function(v)
+        if states.rage_state.pluggwalk.enabled ~= v then
+            SetPluggWalkEnabled(v)
+        end
+    end
+})
+
+ui_objects.PluggWalkKeybind = ui_objects.PluggWalkSection:CreateKeybind({
+    Name = "PluggWalk Keybind",
+    Flag = "pluggwalk_keybind",
+    Callback = function(v)
+        if states.rage_state.pluggwalk.enabled ~= v then
+            SetPluggWalkEnabled(v)
+        end
+
+        if v then
+            ui_objects.Window:Notify({
+                Title = "PluggWalk Enabled",
+                Content = "yo didywalk :skull:",
+                Duration = 5
+            })
+        else
+            ui_objects.Window:Notify({
+                Title = "PluggWalk Disabled",
+                Content = "yo didywalk :skull:",
+                Duration = 5
+            })
+        end
+    end
+})
+
+ui_objects.RageMiscSection = ui_objects.RageTab:CreateSection("Misc", kConstants.kLucideBox)
+
+ui_objects.RageMiscSection:CreateChecklist({
+    Name = "Options",
+    Flag = "rage_misc_options",
+    Options = {
+        {
+            Name = "Anti Tripmine",
+            Default = states.rage_state.misc.anti_tripmine
+        },
+        {
+            Name = "TP Throwables",
+            Default = states.rage_state.misc.tp_throwables
+        },
+    },
+    Callback = function(o)
+        states.rage_state.misc.anti_tripmine = o["Anti Tripmine"]
+        states.rage_state.misc.tp_throwables = o["TP Throwables"]
+    end
+})
+
+ui_objects.RageBotSection = ui_objects.RageTab:CreateSection("Rage Bot", kConstants.kLucideCrosshair)
+
+ui_objects.RageBotEnabled = ui_objects.RageBotSection:CreateToggle({
+    Name = "Rage Bot Enabled",
+    Flag = "rage_bot_enabled",
+    CurrentValue = states.rage_state.rage_bot.enabled,
+    Callback = function(v)
+        if states.rage_state.rage_bot.enabled ~= v then
+            SetRageBotEnabled(v)
+        end
+    end
+})
+
+ui_objects.RageBotKeybind = ui_objects.RageBotSection:CreateKeybind({
+    Name = "Rage Bot Keybind",
+    Flag = "rage_bot_keybind",
+    Callback = function(v)
+        if states.rage_state.rage_bot.enabled ~= v then
+            SetRageBotEnabled(v)
+        end
+
+        if v then
+            ui_objects.Window:Notify({
+                Title = "Rage Bot Enabled",
+                Content = "Rage is enabled",
+                Duration = 5
+            })
+        else
+            ui_objects.Window:Notify({
+                Title = "Rage Bot Disabled",
+                Content = "Rage is disabled",
+                Duration = 5
+            })
+        end
+    end
+})
+
+ui_objects.RageBotSection:CreateToggle({
+    Name = "Void Spam",
+    Flag = "void_spam",
+    CurrentValue = states.rage_state.rage_bot.void_spam,
+    Callback = function(v)
+        SetVoidSpamEnabled(v)
+    end
+})
+
+ui_objects.RageBotSection:CreateSlider({
+    Name = "Hide",
+    Flag = "rage_bot_hide",
+    Range = {0.01, 1},
+    Increment = 0.01,
+    CurrentValue = states.rage_state.rage_bot.hide,
+    Callback = function(v)
+        states.rage_state.rage_bot.hide = v
+    end
+})
+
+ui_objects.RageBotSection:CreateSlider({
+    Name = "Attack",
+    Flag = "rage_bot_attack",
+    Range = {0.01, 1},
+    Increment = 0.01,
+    CurrentValue = states.rage_state.rage_bot.attack,
+    Callback = function(v)
+        states.rage_state.rage_bot.attack = v
+    end
+})
+
+ui_objects.RageBotSection:CreateSlider({
+    Name = "Shoot Attempts",
+    Flag = "rage_bot_shoot_attempts",
+    Range = {1, 2},
+    Increment = 1,
+    CurrentValue = states.rage_state.rage_bot.shoot_attempts,
+    Callback = function(v)
+        states.rage_state.rage_bot.shoot_attempts = v
+    end
+})
+
+ui_objects.RageBotSection:CreateDropdown({
+    Name = "Attack mode",
+    Flag = "rage_bot_attack_mode",
+    Options = {
+        "Gun",
+        "Knife",
+        "Melee"
+    },
+    CurrentOption = states.rage_state.rage_bot.attack_mode,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.rage_state.rage_bot.attack_mode = v
+    end
+})
+
+ui_objects.RageBotSection:CreateDropdown({
+    Name = "Preferred",
+    Flag = "rage_bot_preferred",
+    Options = {
+        "Primary",
+        "Secondary",
+    },
+    CurrentOption = states.rage_state.rage_bot.preferred,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.rage_state.rage_bot.preferred = v
+    end
+})
+
+ui_objects.RageBotSection:CreateChecklist({
+    Name = "Options",
+    Flag = "rage_bot_options",
+    Options = {
+        {
+            Name = "Hit Notifications",
+            Default = states.rage_state.rage_bot.hit_notifications
+        },
+        {
+            Name = "Rage HUD",
+            Default = states.rage_state.rage_bot.rage_hud
+        },
+    },
+    Callback = function(o)
+        states.rage_state.rage_bot.hit_notifications = o["Hit Notifications"]
+        states.rage_state.rage_bot.rage_hud = o["Rage HUD"]
+    end
+})
+
+ui_objects.AntiAimSection = ui_objects.RageTab:CreateSection("Anti Aim", kConstants.kLucideCrosshair)
+
+ui_objects.AntiAimEnabled = ui_objects.AntiAimSection:CreateToggle({
+    Name = "Anti Aim Enabled",
+    Flag = "anti_aim_enabled",
+    CurrentValue = states.rage_state.anti_aim.enabled,
+    Callback = function(v)
+        if states.rage_state.anti_aim.enabled ~= v then
+            SetAntiAimEnabled(v)
+        end
+    end
+})
+
+ui_objects.AntiAimKeybind = ui_objects.AntiAimSection:CreateKeybind({
+    Name = "Anti Aim Keybind",
+    Flag = "anti_aim_keybind",
+    Callback = function(v)
+        if states.rage_state.anti_aim.enabled ~= v then
+            SetAntiAimEnabled(v)
+        end
+
+        if v then
+            ui_objects.Window:Notify({
+                Title = "Anti Aim Enabled",
+                Content = "Aim prevention enabled",
+                Duration = 5
+            })
+        else
+            ui_objects.Window:Notify({
+                Title = "Anti Aim Disabled",
+                Content = "Aim prevention disabled",
+                Duration = 5
+            })
+        end
+    end
+})
+
+ui_objects.AntiAimSection:CreateDropdown({
+    Name = "Pitch",
+    Flag = "anti_aim_pitch",
+    Options = kConstants.kPitchOptions,
+    CurrentOption = states.rage_state.anti_aim.pitch,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.rage_state.anti_aim.pitch = v
+    end
+})
+
+ui_objects.AntiAimSection:CreateSlider({
+    Name = "Pitch Angle",
+    Flag = "anti_aim_pitch_angle",
+    Range = {-180, 180},
+    Increment = 1,
+    CurrentValue = states.rage_state.anti_aim.pitch_angle,
+    Callback = function(v)
+        states.rage_state.anti_aim.pitch_angle = v
+    end
+})
+
+ui_objects.AntiAimSection:CreateDropdown({
+    Name = "Yaw",
+    Flag = "anti_aim_yaw",
+    Options = kConstants.kYawOptions,
+    CurrentOption = states.rage_state.anti_aim.yaw,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.rage_state.anti_aim.yaw = v
+    end
+})
+
+ui_objects.AntiAimSection:CreateSlider({
+    Name = "Yaw Angle",
+    Flag = "anti_aim_yaw_angle",
+    Range = {-180, 180},
+    Increment = 1,
+    CurrentValue = states.rage_state.anti_aim.yaw_angle,
+    Callback = function(v)
+        states.rage_state.anti_aim.yaw_angle = v
+    end
+})
+
+ui_objects.AntiAimSection:CreateSlider({
+    Name = "Jitter Angle",
+    Flag = "anti_aim_jitter_angle",
+    Range = {-180, 180},
+    Increment = 1,
+    CurrentValue = states.rage_state.anti_aim.jitter_angle,
+    Callback = function(v)
+        states.rage_state.anti_aim.jitter_angle = v
+    end
+})
+
+ui_objects.AntiAimSection:CreateSlider({
+    Name = "Spin/Jitter Speed",
+    Flag = "anti_aim_speed",
+    Range = {1, 100},
+    Increment = 1,
+    CurrentValue = states.rage_state.anti_aim.speed,
+    Callback = function(v)
+        states.rage_state.anti_aim.speed = v
+    end
+})
+
+ui_objects.AntiAimSection:CreateChecklist({
+    Name = "Options",
+    Flag = "anti_aim_options",
+    Options = {
+        {
+            Name = "Underground",
+            Default = states.rage_state.anti_aim.underground
+        },
+    },
+    Callback = function(o)
+        states.rage_state.anti_aim.underground = o["Underground"]
+    end
+})
+
+ui_objects.MovementSection = ui_objects.RageTab:CreateSection("Movement", kConstants.kLucideUser)
+
+ui_objects.MovementSection:CreateChecklist({
+    Name = "Options",
+    Flag = "movement_options",
+    Options = {
+        {
+            Name = "Fly",
+            Default = states.rage_state.movement.fly
+        },
+        {
+            Name = "Velocity",
+            Default = states.rage_state.movement.velocity
+        },
+        {
+            Name = "Slide boost",
+            Default = states.rage_state.movement.slide_boost
+        },
+        {
+            Name = "Double jump height",
+            Default = states.rage_state.movement.double_jump_height
+        },
+        {
+            Name = "Infinite double jump",
+            Default = states.rage_state.movement.infinite_double_jump
+        },
+    },
+    Callback = function(o)
+        states.rage_state.movement.fly = o["Fly"]
+        states.rage_state.movement.velocity = o["Velocity"]
+        states.rage_state.movement.slide_boost = o["Slide boost"]
+        states.rage_state.movement.double_jump_height = o["Double jump height"]
+        states.rage_state.movement.infinite_double_jump = o["Infinite double jump"]
+    end
+})
+
+ui_objects.MovementSection:CreateSlider({
+    Name = "Fly Speed",
+    Flag = "fly_speed",
+    Range = {10, 85},
+    Increment = 1,
+    CurrentValue = states.rage_state.movement.fly_speed,
+    Callback = function(v)
+        states.rage_state.movement.fly_speed = v
+    end
+})
+
+ui_objects.MovementSection:CreateSlider({
+    Name = "Velocity Speed",
+    Flag = "velocity_speed",
+    Range = {10, 85},
+    Increment = 1,
+    CurrentValue = states.rage_state.movement.velocity_speed,
+    Callback = function(v)
+        states.rage_state.movement.velocity_speed = v
+    end
+})
+
+ui_objects.MovementSection:CreateSlider({
+    Name = "Slide boost",
+    Flag = "slide_boost_value",
+    Range = {1, 5},
+    Increment = 0.1,
+    CurrentValue = states.rage_state.movement.slide_boost_value,
+    Callback = function(v)
+        states.rage_state.movement.slide_boost_value = v
+    end
+})
+
+ui_objects.MovementSection:CreateSlider({
+    Name = "Double jump height",
+    Flag = "double_jump_height_value",
+    Range = {1, 10},
+    Increment = 0.1,
+    CurrentValue = states.rage_state.movement.double_jump_height_value,
+    Callback = function(v)
+        states.rage_state.movement.double_jump_height_value = v
+    end
+})
+
+--[[
+    Visuals
+]]
+
+ui_objects.VisualsTab = ui_objects.Window:CreateTab("Visuals", "Visual Hacks.", kConstants.kLucideEye)
+
+ui_objects.VisualsSection = ui_objects.VisualsTab:CreateSection("Visuals", kConstants.kLucideView)
+
+ui_objects.VisualsEnabled = ui_objects.VisualsSection:CreateToggle({
+    Name = "Visuals Enabled",
+    Flag = "visuals_enabled",
+    CurrentValue = states.visuals_state.visuals_enabled,
+    Callback = function(v)
+        if states.visuals_state.visuals_enabled ~= v then
+            SetVisualsEnabled(v)
+        end
+    end
+})
+
+ui_objects.VisualsKeybind = ui_objects.VisualsSection:CreateKeybind({
+    Name = "Visuals Keybind",
+    Flag = "visuals_keybind",
+    Callback = function(v)
+        if states.visuals_state.visuals_enabled ~= v then
+            SetVisualsEnabled(v)
+        end
+
+        if v then
+            ui_objects.Window:Notify({
+                Title = "Visuals Enabled",
+                Content = "Visual enhancements enabled.",
+                Duration = 5
+            })
+        else
+            ui_objects.Window:Notify({
+                Title = "Visuals Disabled",
+                Content = "Visual enhancements disabled.",
+                Duration = 5
+            })
+        end
+    end
+})
+
+ui_objects.VisualsSection:CreateDivider()
+
+ui_objects.VisualsSection:CreateChecklist({
+    Name = "Visual Checks",
+    Flag = "visual_checks",
+    Options = {
+        {
+            Name = "Show Teammates",
+            Default = states.visuals_state.teammates
+        },
+        {
+            Name = "Show Team Colors",
+            Default = states.visuals_state.team_colors
+        },
+        {
+            Name = "Show Target Highlights",
+            Default = states.visuals_state.target_highlights
+        }
+    },
+    Callback = function(o)
+        states.visuals_state.teammates = o["Show Teammates"]
+        states.visuals_state.team_colors = o["Show Team Colors"]
+        states.visuals_state.target_highlights = o["Show Target Highlights"]
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.VisualsSection:CreateDivider()
+
+ui_objects.VisualsSection:CreateChecklist({
+    Name = "Outlines",
+    Flag = "visual_outlines",
+    Options = {
+        {
+            Name = "Box",
+            Default = states.visuals_state.outlines.Box
+        },
+        {
+            Name = "Skeletons",
+            Default = states.visuals_state.outlines.Skeletons
+        },
+        {
+            Name = "Chams",
+            Default = states.visuals_state.outlines.Chams
+        },
+        {
+            Name = "Health",
+            Default = states.visuals_state.outlines.Health
+        },
+        {
+            Name = "Name",
+            Default = states.visuals_state.outlines.Name
+        },
+        {
+            Name = "Tracers",
+            Default = states.visuals_state.outlines.Tracers
+        },
+        {
+            Name = "Weapon",
+            Default = states.visuals_state.outlines.Weapon
+        },
+        {
+            Name = "Distance",
+            Default = states.visuals_state.outlines.Distance
+        }
+    },
+    Callback = function(o)
+        states.visuals_state.outlines.Box = o.Box
+        states.visuals_state.outlines.Skeletons = o.Skeletons
+        states.visuals_state.outlines.Chams = o.Chams
+        states.visuals_state.outlines.Health = o.Health
+        states.visuals_state.outlines.Name = o.Name
+        states.visuals_state.outlines.Tracers = o.Tracers
+        states.visuals_state.outlines.Weapon = o.Weapon
+        states.visuals_state.outlines.Distance = o.Distance
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.VisualsSection:CreateToggle({
+    Name = "Box Filled",
+    Flag = "box_filled",
+    CurrentValue = states.visuals_state.box_filled,
+    Callback = function(v)
+        states.visuals_state.box_filled = v
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.VisualsSection:CreateDropdown({
+    Name = "Tracer Origin",
+    Flag = "tracer_origin",
+    Options = {
+        "Bottom",
+        "Middle",
+        "Top"
+    },
+    CurrentOption = states.visuals_state.tracer_origin,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.visuals_state.tracer_origin = v
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.VisualsSection:CreateDivider()
+
+ui_objects.VisualsSection:CreateChecklist({
+    Name = "Trails",
+    Flag = "visual_trails",
+    Options = {
+        {
+            Name = "Bullets",
+            Default = states.visuals_state.trails.Bullets
+        },
+        {
+            Name = "Throwables",
+            Default = states.visuals_state.trails.Throwables
+        },
+    },
+    Callback = function(o)
+        states.visuals_state.trails.Bullets = o.Bullets
+        states.visuals_state.trails.Throwables = o.Throwables
+    end
+})
+
+ui_objects.VisualsSection:CreateDivider()
+
+ui_objects.VisualsSection:CreateSlider({
+    Name = "Max Distance",
+    Flag = "max_distance",
+    Range = {50, 1000},
+    Increment = 1,
+    CurrentValue = states.visuals_state.max_distance,
+    Callback = function(v)
+        states.visuals_state.max_distance = v
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.VisualsSection:CreateDropdown({
+    Name = "Cham Material",
+    Flag = "cham_material",
+    Options = kConstants.kMaterialList,
+    CurrentOption = states.visuals_state.cham_material,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.visuals_state.cham_material = v
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.VisualsSection:CreateInput({
+    Name = "Cham Texture",
+    Flag = "cham_texture",
+    PlaceholderText = "e.g. 1478668577",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.visuals_state.cham_texture = v
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.ViewmodelSection = ui_objects.VisualsTab:CreateSection("Viewmodel", kConstants.kLucideUser)
+
+ui_objects.ViewmodelSection:CreateDropdown({
+    Name = "Disable",
+    Flag = "viewmodel_disable",
+    Options = kConstants.kViewmodelDisable,
+    CurrentOption = states.visuals_state.viewmodel.disable,
+    MultipleOptions = true,
+    AllowNone = false,
+    Callback = function(v)
+        states.visuals_state.viewmodel.disable = v
+    end
+})
+
+ui_objects.ViewmodelSection:CreateToggle({
+    Name = "Override fps",
+    Flag = "viewmodel_override_fps",
+    CurrentValue = states.visuals_state.viewmodel.override_fps,
+    Callback = function(v)
+        states.visuals_state.viewmodel.override_fps = v
+    end
+})
+
+ui_objects.ViewmodelSection:CreateSlider({
+    Name = "Fps",
+    Flag = "viewmodel_fps_multi",
+    Range = {1, 60},
+    Increment = 1,
+    CurrentValue = states.visuals_state.viewmodel.fps_multi,
+    Callback = function(v)
+        states.visuals_state.viewmodel.fps_multi = v
+    end
+})
+
+ui_objects.ViewmodelSection:CreateToggle({
+    Name = "Chams",
+    Flag = "viewmodel_chams",
+    CurrentValue = states.visuals_state.viewmodel.chams,
+    Callback = function(v)
+        states.visuals_state.viewmodel.chams = v
+    end
+})
+
+ui_objects.ViewmodelSection:CreateSlider({
+    Name = "Cham Transparency",
+    Flag = "viewmodel_cham_transparency",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = 0,
+    Callback = function(v)
+        states.visuals_state.viewmodel.cham_transparency = v
+        UpdateViewmodelChams()
+    end
+})
+
+ui_objects.ViewmodelSection:CreateDropdown({
+    Name = "Cham Material",
+    Flag = "viewmodel_cham_material",
+    Options = kConstants.kMaterialList,
+    CurrentOption = "ForceField",
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.visuals_state.viewmodel.cham_material = v
+        UpdateViewmodelChams()
+    end
+})
+
+ui_objects.ViewmodelSection:CreateInput({
+    Name = "Cham Texture",
+    Flag = "viewmodel_cham_texture",
+    PlaceholderText = "e.g. 1478668577",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.visuals_state.viewmodel.cham_texture = v
+        UpdateViewmodelChams()
+    end
+})
+
+ui_objects.ViewmodelSection:CreateToggle({
+    Name = "Offset",
+    Flag = "viewmodel_offset",
+    CurrentValue = states.visuals_state.viewmodel.offset,
+    Callback = function(v)
+        states.visuals_state.viewmodel.offset = v
+    end
+})
+
+ui_objects.ViewmodelSection:CreateSlider({
+    Name = "X Offset",
+    Flag = "viewmodel_x_offset",
+    Range = {-3, 3},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.viewmodel.x_offset,
+    Callback = function(v)
+        states.visuals_state.viewmodel.x_offset = v
+    end
+})
+
+ui_objects.ViewmodelSection:CreateSlider({
+    Name = "Y Offset",
+    Flag = "viewmodel_y_offset",
+    Range = {-3, 3},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.viewmodel.y_offset,
+    Callback = function(v)
+        states.visuals_state.viewmodel.y_offset = v
+    end
+})
+
+ui_objects.ViewmodelSection:CreateSlider({
+    Name = "Z Offset",
+    Flag = "viewmodel_z_offset",
+    Range = {-3, 3},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.viewmodel.z_offset,
+    Callback = function(v)
+        states.visuals_state.viewmodel.z_offset = v
+    end
+})
+
+ui_objects.ViewmodelSection:CreateDivider()
+
+ui_objects.ViewmodelSection:CreateToggle({
+    Name = "Appearance",
+    Flag = "viewmodel_appearance",
+    CurrentValue = states.visuals_state.viewmodel.appearance,
+    Callback = function(v)
+        states.visuals_state.viewmodel.appearance = v
+    end
+})
+
+ui_objects.ViewmodelSection:CreateColorPicker({
+    Name = "Color",
+    Flag = "viewmodel_color",
+    Color = states.visuals_state.viewmodel.color,
+    Callback = function(c)
+        states.visuals_state.viewmodel.color = c
+    end
+})
+
+ui_objects.ViewmodelSection:CreateDropdown({
+    Name = "Material",
+    Flag = "viewmodel_material",
+    Options = kConstants.kMaterialList,
+    CurrentOption = states.visuals_state.viewmodel.material,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.visuals_state.viewmodel.material = v
+    end
+})
+
+ui_objects.ViewmodelSection:CreateSlider({
+    Name = "Transparency",
+    Flag = "viewmodel_transparency",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.viewmodel.transparency,
+    Callback = function(v)
+        states.visuals_state.viewmodel.transparency = v
+    end
+})
+
+ui_objects.ViewmodelSection:CreateChecklist({
+    Name = "Options",
+    Flag = "viewmodel_options",
+    Options = {
+        {
+            Name = "Wireframe",
+            Default = states.visuals_state.viewmodel.wireframe
+        },
+        {
+            Name = "No Textures",
+            Default = states.visuals_state.viewmodel.no_textures
+        },
+        {
+            Name = "No Clothes",
+            Default = states.visuals_state.viewmodel.no_clothes
+        },
+    },
+    Callback = function(o)
+        states.visuals_state.viewmodel.wireframe = o["Wireframe"]
+        states.visuals_state.viewmodel.no_textures = o["No Textures"]
+        states.visuals_state.viewmodel.no_clothes = o["No Clothes"]
+    end
+})
+
+ui_objects.AnimationsSection = ui_objects.VisualsTab:CreateSection("Animations", kConstants.kLucideUser)
+
+ui_objects.AnimationsSection:CreateDropdown({
+    Name = "Char Anims",
+    Flag = "char_anims",
+    Options = kConstants.kCharacterAnims,
+    CurrentOption = states.visuals_state.animations.char_anims,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.visuals_state.animations.char_anims = v
+    end
+})
+
+ui_objects.SkyboxSection = ui_objects.VisualsTab:CreateSection("Skybox", kConstants.kLucideCloud)
+
+ui_objects.SkyboxSection:CreateDropdown({
+    Name = "Skybox",
+    Flag = "skybox_value",
+    Options = kConstants.kSkyboxList,
+    CurrentOption = states.visuals_state.skybox.skybox_value,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.visuals_state.skybox.skybox_value = v
+        UpdateSkybox()
+    end
+})
+
+ui_objects.SkyboxSection:CreateLabel({
+    Title = "Asset IDs or URLs are accepted."
+})
+
+ui_objects.SkyboxSection:CreateInput({
+    Name = "Back",
+    Flag = "skybox_back",
+    PlaceholderText = "1234567890",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.visuals_state.skybox.skybox_back = v
+        UpdateSkybox()
+    end
+})
+
+ui_objects.SkyboxSection:CreateInput({
+    Name = "Front",
+    Flag = "skybox_front",
+    PlaceholderText = "1234567890",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.visuals_state.skybox.skybox_front = v
+        UpdateSkybox()
+    end
+})
+
+ui_objects.SkyboxSection:CreateInput({
+    Name = "Left",
+    Flag = "skybox_left",
+    PlaceholderText = "1234567890",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.visuals_state.skybox.skybox_left = v
+        UpdateSkybox()
+    end
+})
+
+ui_objects.SkyboxSection:CreateInput({
+    Name = "Right",
+    Flag = "skybox_right",
+    PlaceholderText = "1234567890",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.visuals_state.skybox.skybox_right = v
+        UpdateSkybox()
+    end
+})
+
+ui_objects.SkyboxSection:CreateInput({
+    Name = "Up",
+    Flag = "skybox_up",
+    PlaceholderText = "1234567890",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.visuals_state.skybox.skybox_up = v
+        UpdateSkybox()
+    end
+})
+
+ui_objects.SkyboxSection:CreateDivider()
+
+ui_objects.SkyboxSection:CreateSlider({
+    Name = "StarCount",
+    Flag = "star_count",
+    Range = {0, 5000},
+    Increment = 1,
+    CurrentValue = states.visuals_state.skybox.star_count,
+    Callback = function(v)
+        states.visuals_state.skybox.star_count = v
+    end
+})
+
+ui_objects.SkyboxSection:CreateSlider({
+    Name = "Sun Size",
+    Flag = "sun_size",
+    Range = {0, 60},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.skybox.sun_angular_size,
+    Callback = function(v)
+        states.visuals_state.skybox.sun_angular_size = v
+    end
+})
+
+ui_objects.SkyboxSection:CreateSlider({
+    Name = "Moon Size",
+    Flag = "moon_size",
+    Range = {0, 60},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.skybox.moon_angular_size,
+    Callback = function(v)
+        states.visuals_state.skybox.moon_angular_size = v
+    end
+})
+
+ui_objects.SkyboxSection:CreateSlider({
+    Name = "ClockTime",
+    Flag = "clocktime",
+    Range = {0, 24},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.skybox.clocktime,
+    Callback = function(v)
+        states.visuals_state.skybox.clocktime = v
+    end
+})
+
+ui_objects.SkyboxSection:CreateDivider()
+
+ui_objects.SkyboxSection:CreateToggle({
+    Name = "Auto Rotate",
+    Flag = "auto_rotate",
+    CurrentValue = states.visuals_state.skybox.auto_rotate,
+    Callback = function(v)
+        states.visuals_state.skybox.auto_rotate = v
+        SetSkyboxAutoRotate()
+    end
+})
+
+ui_objects.SkyboxSection:CreateSlider({
+    Name = "Rotation Speed",
+    Flag = "rotation_speed",
+    Range = {0, 50},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.skybox.auto_rotate_speed,
+    Callback = function(v)
+        states.visuals_state.skybox.auto_rotate_speed = v
+    end
+})
+
+ui_objects.CrosshairSection = ui_objects.VisualsTab:CreateSection("Crosshair", kConstants.kLucideCrosshair)
+
+ui_objects.CrosshairSection:CreateToggle({
+    Name = "Enabled",
+    Flag = "crosshair_enabled",
+    CurrentValue = states.visuals_state.crosshair.enabled,
+    Callback = function(v)
+        states.visuals_state.crosshair.enabled = v
+    end
+})
+
+ui_objects.CrosshairSection:CreateColorPicker({
+    Name = "Fill Color",
+    Flag = "crosshair_fill_color",
+    Color = states.visuals_state.crosshair.fill_color,
+    Callback = function(c)
+        states.visuals_state.crosshair.fill_color = c
+    end
+})
+
+ui_objects.CrosshairSection:CreateColorPicker({
+    Name = "OutlineColor",
+    Flag = "crosshair_outline_color",
+    Color = states.visuals_state.crosshair.outline_color,
+    Callback = function(c)
+        states.visuals_state.crosshair.outline_color = c
+    end
+})
+
+ui_objects.CrosshairSection:CreateSlider({
+    Name = "Rotation",
+    Flag = "crosshair_rotation",
+    Range = {0, 360},
+    Increment = 1,
+    CurrentValue = states.visuals_state.crosshair.rotation,
+    Callback = function(v)
+        states.visuals_state.crosshair.rotation = v
+    end
+})
+
+ui_objects.CrosshairSection:CreateSlider({
+    Name = "Rotation Speed",
+    Flag = "crosshair_rotation_speed",
+    Range = {0, 5},
+    Increment = 0.1,
+    CurrentValue = states.visuals_state.crosshair.rotation_speed,
+    Callback = function(v)
+        states.visuals_state.crosshair.rotation_speed = v
+    end
+})
+
+ui_objects.CrosshairSection:CreateSlider({
+    Name = "Bounce",
+    Flag = "crosshair_bounce",
+    Range = {0, 300},
+    Increment = 1,
+    CurrentValue = states.visuals_state.crosshair.bounce,
+    Callback = function(v)
+        states.visuals_state.crosshair.bounce = v
+    end
+})
+
+ui_objects.CrosshairSection:CreateSlider({
+    Name = "Bounce Speed",
+    Flag = "crosshair_bounce_speed",
+    Range = {0, 5},
+    Increment = 0.1,
+    CurrentValue = states.visuals_state.crosshair.bounce_speed,
+    Callback = function(v)
+        states.visuals_state.crosshair.bounce_speed = v
+    end
+})
+
+ui_objects.CrosshairSection:CreateSlider({
+    Name = "Offset",
+    Flag = "crosshair_offset",
+    Range = {0, 100},
+    Increment = 1,
+    CurrentValue = states.visuals_state.crosshair.offset,
+    Callback = function(v)
+        states.visuals_state.crosshair.offset = v
+    end
+})
+
+ui_objects.CrosshairSection:CreateSlider({
+    Name = "Length",
+    Flag = "crosshair_length",
+    Range = {0, 500},
+    Increment = 1,
+    CurrentValue = states.visuals_state.crosshair.length,
+    Callback = function(v)
+        states.visuals_state.crosshair.length = v
+    end
+})
+
+ui_objects.CrosshairSection:CreateSlider({
+    Name = "Thickness",
+    Flag = "crosshair_thickness",
+    Range = {0, 10},
+    Increment = 1,
+    CurrentValue = states.visuals_state.crosshair.thickness,
+    Callback = function(v)
+        states.visuals_state.crosshair.thickness = v
+    end
+})
+
+ui_objects.CrosshairSection:CreateSlider({
+    Name = "Lerp",
+    Flag = "crosshair_lerp",
+    Range = {0.1, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.crosshair.lerp,
+    Callback = function(v)
+        states.visuals_state.crosshair.lerp = v
+    end
+})
+
+ui_objects.CrosshairSection:CreateDropdown({
+    Name = "Position",
+    Flag = "crosshair_position",
+    Options = kConstants.kLerpPos,
+    CurrentOption = states.visuals_state.crosshair.position,
+    MultipleOptions = true,
+    AllowNone = false,
+    Callback = function(v)
+        states.visuals_state.crosshair.position = v
+    end
+})
+
+ui_objects.ColorsSection = ui_objects.VisualsTab:CreateSection("Colors", kConstants.kLucideRainbow)
+
+ui_objects.ColorsSection:CreateColorPicker({
+    Name = "Enemy Box Fill",
+    Flag = "enemy_box_fill_color",
+    Color = Color3.fromRGB(106, 13, 173),
+    Callback = function(c)
+        states.visuals_state.colors.enemy_box_fill_color = c
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.ColorsSection:CreateColorPicker({
+    Name = "Enemy Box Outline",
+    Flag = "enemy_box_outline_color",
+    Color = Color3.fromRGB(181, 126, 220),
+    Callback = function(c)
+        states.visuals_state.colors.enemy_box_outline_color = c
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.ColorsSection:CreateColorPicker({
+    Name = "Enemy Tracer",
+    Flag = "enemy_tracer_color",
+    Color = Color3.fromRGB(131, 38, 198),
+    Callback = function(c)
+        states.visuals_state.colors.enemy_tracer_color = c
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.ColorsSection:CreateColorPicker({
+    Name = "Enemy Chams Fill",
+    Flag = "enemy_chams_fill_color",
+    Color = Color3.fromRGB(106, 13, 173),
+    Callback = function(c)
+        states.visuals_state.colors.enemy_chams_fill_color = c
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.ColorsSection:CreateColorPicker({
+    Name = "Friendly Box Fill",
+    Flag = "friendly_box_fill_color",
+    Color = Color3.fromRGB(50, 138, 220),
+    Callback = function(c)
+        states.visuals_state.colors.friendly_box_fill_color = c
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.ColorsSection:CreateColorPicker({
+    Name = "Friendly Box Outline",
+    Flag = "friendly_box_outline_color",
+    Color = Color3.fromRGB(120, 180, 255),
+    Callback = function(c)
+        states.visuals_state.colors.friendly_box_outline_color = c
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.ColorsSection:CreateColorPicker({
+    Name = "Friendly Tracer",
+    Flag = "friendly_tracer_color",
+    Color = Color3.fromRGB(50, 138, 220),
+    Callback = function(c)
+        states.visuals_state.colors.friendly_tracer_color = c
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.ColorsSection:CreateColorPicker({
+    Name = "Friendly Chams Fill",
+    Flag = "friendly_chams_fill_color",
+    Color = Color3.fromRGB(50, 138, 220),
+    Callback = function(c)
+        states.visuals_state.colors.friendly_chams_fill_color = c
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.ColorsSection:CreateDivider()
+
+ui_objects.ColorsSection:CreateColorPicker({
+    Name = "Trail Color",
+    Flag = "trail_color",
+    Color = Color3.fromRGB(181, 126, 220),
+    Callback = function(c)
+        states.visuals_state.colors.trail_color = c
+    end
+})
+
+ui_objects.ColorsSection:CreateColorPicker({
+    Name = "Viewmodel Chams Color",
+    Flag = "viewmodel_chams_color",
+    Color = Color3.fromRGB(181, 126, 220),
+    Callback = function(c)
+        states.visuals_state.colors.viewmodel_chams_color = c
+        UpdateViewmodelChams()
+    end
+})
+
+ui_objects.ColorsSection:CreateColorPicker({
+    Name = "Target Highlight",
+    Flag = "target_highlight_color",
+    Color = Color3.fromRGB(255, 255, 255),
+    Callback = function(c)
+        states.visuals_state.colors.target_highlight_color = c
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.ColorsSection:CreateDivider()
+
+ui_objects.ColorsSection:CreateSlider({
+    Name = "Chams Transparency",
+    Flag = "chams_transparency",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.colors.chams_fill_transparency,
+    Callback = function(v)
+        states.visuals_state.colors.chams_fill_transparency = v
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.ColorsSection:CreateSlider({
+    Name = "Tracer Transparency",
+    Flag = "tracer_transparency",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.colors.tracer_transparency,
+    Callback = function(v)
+        states.visuals_state.colors.tracer_transparency = v
+        UpdateEspOptions()
+    end
+})
+
+ui_objects.SunRaysSection = ui_objects.VisualsTab:CreateSection("SunRays", kConstants.kLucideCloud)
+
+ui_objects.SunRaysSection:CreateToggle({
+    Name = "SunRays Enabled",
+    Flag = "sunrays_enabled",
+    CurrentValue = states.visuals_state.sunrays.sunrays_enabled,
+    Callback = function(v)
+        states.visuals_state.sunrays.sunrays_enabled = v
+        UpdateSunRaysOptions()
+    end
+})
+
+ui_objects.SunRaysSection:CreateSlider({
+    Name = "Intensity",
+    Flag = "sunrays_intensity",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.sunrays.sunrays_intensity,
+    Callback = function(v)
+        states.visuals_state.sunrays.sunrays_intensity = v
+        UpdateSunRaysOptions()
+    end
+})
+
+ui_objects.SunRaysSection:CreateSlider({
+    Name = "Spread",
+    Flag = "sunrays_spread",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.sunrays.sunrays_spread,
+    Callback = function(v)
+        states.visuals_state.sunrays.sunrays_spread = v
+        UpdateSunRaysOptions()
+    end
+})
+
+ui_objects.CameraSection = ui_objects.VisualsTab:CreateSection("Camera", kConstants.kLucideEye)
+
+ui_objects.StateChangerEnabled = ui_objects.CameraSection:CreateToggle({
+    Name = "State Changer Enabled",
+    Flag = "state_changer_enabled",
+    CurrentValue = states.visuals_state.camera.state_changer,
+    Callback = function(v)
+        if states.visuals_state.camera.state_changer ~= v then
+            SetStateChangerEnabled(v)
+        end
+    end
+})
+
+ui_objects.StateChangerKeybind = ui_objects.CameraSection:CreateKeybind({
+    Name = "State Changer Keybind",
+    Flag = "state_changer_keybind",
+    Callback = function(v)
+        if states.visuals_state.camera.state_changer ~= v then
+            SetStateChangerEnabled(v)
+        end
+    end
+})
+
+ui_objects.CameraSection:CreateDropdown({
+    Name = "Camera State",
+    Flag = "camera_state",
+    Options = kConstants.kCameraStates,
+    CurrentOption = states.visuals_state.camera.camera_state,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        local old_state = modules.CameraController.CameraState._public_state
+        states.visuals_state.camera.camera_state = v
+        modules.CameraController.CameraState.StateChanged:Fire(states.visuals_state.camera.camera_state, old_state)
+    end
+})
+
+ui_objects.CameraSection:CreateDivider()
+
+ui_objects.CameraSection:CreateToggle({
+    Name = "Anti Flashbang",
+    Flag = "anti_flashbang",
+    CurrentValue = states.visuals_state.camera.anti_flashbang,
+    Callback = function(v)
+        states.visuals_state.camera.anti_flashbang = v
+    end
+})
+
+ui_objects.CameraSection:CreateToggle({
+    Name = "Anti Smoke",
+    Flag = "anti_smoke",
+    CurrentValue = states.visuals_state.camera.anti_smoke,
+    Callback = function(v)
+        states.visuals_state.camera.anti_smoke = v
+    end
+})
+
+ui_objects.CameraSection:CreateDivider()
+
+ui_objects.CameraSection:CreateSlider({
+    Name = "FOV",
+    Flag = "camera_fov",
+    Range = {10, 120},
+    Increment = 1,
+    CurrentValue = states.visuals_state.camera.camera_fov,
+    Callback = function(v)
+        states.visuals_state.camera.camera_fov = v
+        states.visuals_state.camera.fov_overridden = true
+    end
+})
+
+ui_objects.CameraSection:CreateSlider({
+    Name = "Resolution",
+    Flag = "camera_resolution",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.camera.camera_resolution,
+    Callback = function(v)
+        states.visuals_state.camera.camera_resolution = v
+    end
+})
+
+ui_objects.LightingSection = ui_objects.VisualsTab:CreateSection("Lighting", kConstants.kLucideCloud)
+
+ui_objects.LightingSection:CreateColorPicker({
+    Name = "Ambient",
+    Flag = "ambient_color",
+    Color = states.visuals_state.lighting.ambient_color,
+    Callback = function(c)
+        states.visuals_state.lighting.ambient_color = c
+        UpdateLightingOptions()
+    end
+})
+
+ui_objects.LightingSection:CreateColorPicker({
+    Name = "OutdoorAmbient",
+    Flag = "outdoor_ambient_color",
+    Color = states.visuals_state.lighting.outdoor_ambient_color,
+    Callback = function(c)
+        states.visuals_state.lighting.outdoor_ambient_color = c
+        UpdateLightingOptions()
+    end
+})
+
+ui_objects.LightingSection:CreateColorPicker({
+    Name = "Shift Top",
+    Flag = "shift_top",
+    Color = states.visuals_state.lighting.shift_top,
+    Callback = function(c)
+        states.visuals_state.lighting.shift_top = c
+        UpdateLightingOptions()
+    end
+})
+
+ui_objects.LightingSection:CreateColorPicker({
+    Name = "Shift Bottom",
+    Flag = "shift_bottom",
+    Color = states.visuals_state.lighting.shift_bottom,
+    Callback = function(c)
+        states.visuals_state.lighting.shift_bottom = c
+        UpdateLightingOptions()
+    end
+})
+
+ui_objects.LightingSection:CreateSlider({
+    Name = "Exposure",
+    Flag = "lighting_exposure",
+    Range = {-3, 3},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.lighting.exposure,
+    Callback = function(v)
+        states.visuals_state.lighting.exposure = v
+        UpdateLightingOptions()
+    end
+})
+
+ui_objects.LightingSection:CreateSlider({
+    Name = "Brightness",
+    Flag = "lighting_brightness",
+    Range = {0, 10},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.lighting.brightness,
+    Callback = function(v)
+        states.visuals_state.lighting.brightness = v
+        UpdateLightingOptions()
+    end
+})
+
+ui_objects.LightingSection:CreateSlider({
+    Name = "Shadow Softness",
+    Flag = "shadow_softness",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.lighting.shadow_softness,
+    Callback = function(v)
+        states.visuals_state.lighting.shadow_softness = v
+        UpdateLightingOptions()
+    end
+})
+
+ui_objects.LightingSection:CreateSlider({
+    Name = "Diffuse Scale",
+    Flag = "diffuse_scale",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.lighting.diffuse_scale,
+    Callback = function(v)
+        states.visuals_state.lighting.diffuse_scale = v
+        UpdateLightingOptions()
+    end
+})
+
+ui_objects.LightingSection:CreateSlider({
+    Name = "Specular Scale",
+    Flag = "specular_scale",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.lighting.specular_scale,
+    Callback = function(v)
+        states.visuals_state.lighting.specular_scale = v
+        UpdateLightingOptions()
+    end
+})
+
+ui_objects.LightingSection:CreateToggle({
+    Name = "GlobalShadows",
+    Flag = "globalshadows",
+    CurrentValue = states.visuals_state.lighting.global_shadows,
+    Callback = function(v)
+        states.visuals_state.lighting.global_shadows = v
+        UpdateLightingOptions()
+    end
+})
+
+ui_objects.LightingSection:CreateDropdown({
+    Name = "LightingStyle",
+    Flag = "lightingstyle",
+    Options = kConstants.kLightingStyles,
+    CurrentOption = states.visuals_state.lighting.lighting_style,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.visuals_state.lighting.lighting_style = v
+        UpdateLightingOptions()
+    end
+})
+
+ui_objects.AtmosphereSection = ui_objects.VisualsTab:CreateSection("Atmosphere", kConstants.kLucideCloud)
+
+ui_objects.AtmosphereSection:CreateSlider({
+    Name = "Density",
+    Flag = "atmosphere_density",
+    Range = {0, 1},
+    Increment = 0.001,
+    CurrentValue = states.visuals_state.atmosphere.density,
+    Callback = function(v)
+        states.visuals_state.atmosphere.density = v
+        UpdateAtmosphereOptions()
+    end
+})
+
+ui_objects.AtmosphereSection:CreateSlider({
+    Name = "Offset",
+    Flag = "atmosphere_offset",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.atmosphere.offset,
+    Callback = function(v)
+        states.visuals_state.atmosphere.offset = v
+        UpdateAtmosphereOptions()
+    end
+})
+
+ui_objects.AtmosphereSection:CreateColorPicker({
+    Name = "Color",
+    Flag = "atmosphere_color",
+    Color = states.visuals_state.atmosphere.color,
+    Callback = function(c)
+        states.visuals_state.atmosphere.color = c
+        UpdateAtmosphereOptions()
+    end
+})
+
+ui_objects.AtmosphereSection:CreateColorPicker({
+    Name = "Decay",
+    Flag = "atmosphere_decay",
+    Color = states.visuals_state.atmosphere.decay,
+    Callback = function(c)
+        states.visuals_state.atmosphere.decay = c
+        UpdateAtmosphereOptions()
+    end
+})
+
+ui_objects.AtmosphereSection:CreateSlider({
+    Name = "Glare",
+    Flag = "atmosphere_glare",
+    Range = {0, 10},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.atmosphere.glare,
+    Callback = function(v)
+        states.visuals_state.atmosphere.glare = v
+        UpdateAtmosphereOptions()
+    end
+})
+
+ui_objects.AtmosphereSection:CreateSlider({
+    Name = "Haze",
+    Flag = "atmosphere_haze",
+    Range = {0, 10},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.atmosphere.haze,
+    Callback = function(v)
+        states.visuals_state.atmosphere.haze = v
+        UpdateAtmosphereOptions()
+    end
+})
+
+ui_objects.ColorCorrectionSection = ui_objects.VisualsTab:CreateSection("ColorCorrection", kConstants.kLucideCloud)
+
+ui_objects.ColorCorrectionSection:CreateToggle({
+    Name = "Enabled",
+    Flag = "cc_enabled",
+    CurrentValue = states.visuals_state.color_correction.enabled,
+    Callback = function(v)
+        states.visuals_state.color_correction.enabled = v
+        UpdateColorCorrectionOptions()
+    end
+})
+
+ui_objects.ColorCorrectionSection:CreateSlider({
+    Name = "Brightness",
+    Flag = "cc_brightness",
+    Range = {-1, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.color_correction.brightness,
+    Callback = function(v)
+        states.visuals_state.color_correction.brightness = v
+        UpdateColorCorrectionOptions()
+    end
+})
+
+ui_objects.ColorCorrectionSection:CreateSlider({
+    Name = "Contrast",
+    Flag = "cc_contrast",
+    Range = {-1, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.color_correction.contrast,
+    Callback = function(v)
+        states.visuals_state.color_correction.contrast = v
+        UpdateColorCorrectionOptions()
+    end
+})
+
+ui_objects.ColorCorrectionSection:CreateSlider({
+    Name = "Saturation",
+    Flag = "cc_saturation",
+    Range = {-1, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.color_correction.saturation,
+    Callback = function(v)
+        states.visuals_state.color_correction.saturation = v
+        UpdateColorCorrectionOptions()
+    end
+})
+
+ui_objects.ColorCorrectionSection:CreateColorPicker({
+    Name = "TintColor",
+    Flag = "cc_tintcolor",
+    Color = states.visuals_state.color_correction.tint_color,
+    Callback = function(c)
+        states.visuals_state.color_correction.tint_color = c
+        UpdateColorCorrectionOptions()
+    end
+})
+
+ui_objects.WeatherSection = ui_objects.VisualsTab:CreateSection("Weather", kConstants.kLucideCloud)
+
+ui_objects.WeatherSection:CreateToggle({
+    Name = "Enabled",
+    Flag = "weather_enabled",
+    CurrentValue = states.visuals_state.weather.enabled,
+    Callback = function(v)
+        states.visuals_state.weather.enabled = v
+        UpdateWeatherOptions()
+    end
+})
+
+ui_objects.WeatherSection:CreateDropdown({
+    Name = "Type",
+    Flag = "weather_type",
+    Options = kConstants.kWeatherTypes,
+    CurrentOption = states.visuals_state.weather.type,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.visuals_state.weather.type = v
+        UpdateWeatherOptions()
+    end
+})
+
+ui_objects.WeatherSection:CreateSlider({
+    Name = "Rate",
+    Flag = "weather_rate",
+    Range = {0, 10},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.weather.rate,
+    Callback = function(v)
+        states.visuals_state.weather.rate = v
+        UpdateWeatherOptions()
+    end
+})
+
+ui_objects.WeatherSection:CreateSlider({
+    Name = "TimeScale",
+    Flag = "weather_timescale",
+    Range = {0, 1},
+    Increment = 0.01,
+    CurrentValue = states.visuals_state.weather.timescale,
+    Callback = function(v)
+        states.visuals_state.weather.timescale = v
+        UpdateWeatherOptions()
+    end
+})
+
+ui_objects.AmbienceSection = ui_objects.VisualsTab:CreateSection("Ambience", kConstants.kLucideVolume2)
+
+ui_objects.AmbienceSection:CreateToggle({
+    Name = "Enabled",
+    Flag = "ambience_enabled",
+    CurrentValue = states.visuals_state.ambience.enabled,
+    Callback = function(v)
+        states.visuals_state.ambience.enabled = v
+        UpdateAmbienceOptions()
+    end
+})
+
+ui_objects.AmbienceSection:CreateDropdown({
+    Name = "Type",
+    Flag = "ambience_type",
+    Options = kConstants.kAmbienceTypes,
+    CurrentOption = states.visuals_state.ambience.type,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.visuals_state.ambience.type = v
+        UpdateAmbienceOptions()
+    end
+})
+
+ui_objects.AmbienceSection:CreateSlider({
+    Name = "Volume",
+    Flag = "ambience_volume",
+    Range = {0, 10},
+    Increment = 0.1,
+    CurrentValue = states.visuals_state.ambience.volume,
+    Callback = function(v)
+        states.visuals_state.ambience.volume = v
+        UpdateAmbienceOptions()
+    end
+})
+
+--[[
+    Skin Changer
+]]
+
+ui_objects.SkinChangerTab = ui_objects.Window:CreateTab("Skin Changer", "Settings for Skin Changer.", kConstants.kLucideSparkles)
+
+ui_objects.UnlockerSection = ui_objects.SkinChangerTab:CreateSection("Unlocker", kConstants.kLucideUnlock)
+
+ui_objects.UnlockerSection:CreateDropdown({
+    Name = "Type",
+    Flag = "unlocker_type",
+    Options = kConstants.kCosmeticTypes,
+    CurrentOption = states.skinchanger_state.general_unlocker.unlock_type,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.skinchanger_state.general_unlocker.unlock_type = v
+    end
+})
+
+ui_objects.UnlockerSection:CreateDropdown({
+    Name = "Rarity",
+    Flag = "unlocker_rarity",
+    Options = kConstants.kCosmeticRarities,
+    CurrentOption = states.skinchanger_state.general_unlocker.unlock_rarity,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.skinchanger_state.general_unlocker.unlock_rarity = v
+    end
+})
+
+ui_objects.UnlockerSection:CreateButton({
+    Name = "Unlock Selected Rarity",
+    Callback = function()
+        UnlockSelectedRarity()
+        ui_objects.Window:Notify({
+            Title = "Unlocked Rarity!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.UnlockerSection:CreateButton({
+    Name = "Lock Selected Rarity",
+    Callback = function()
+        LockSelectedRarity()
+        ui_objects.Window:Notify({
+            Title = "Locked Rarity!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.UnlockerSection:CreateButton({
+    Name = "Unlock All of Type",
+    Callback = function()
+        UnlockAllOfType()
+        ui_objects.Window:Notify({
+            Title = "Unlocked Type!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.UnlockerSection:CreateButton({
+    Name = "Lock All of Type",
+    Callback = function()
+        LockAllOfType()
+        ui_objects.Window:Notify({
+            Title = "Locked Type!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.SpecificSection = ui_objects.SkinChangerTab:CreateSection("Specific", kConstants.kLucideSearch)
+
+ui_objects.SpecificSection:CreateDropdown({
+    Name = "Type",
+    Flag = "specific_type",
+    Options = kConstants.kCosmeticTypes,
+    CurrentOption = states.skinchanger_state.specific_unlocker.unlock_type,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.skinchanger_state.specific_unlocker.unlock_type = v
+    end
+})
+
+ui_objects.SpecificSection:CreateInput({
+    Name = "Cosmetic",
+    Flag = "cosmetic_name",
+    PlaceholderText = "e.g. 10B Visits",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.skinchanger_state.specific_unlocker.cosmetic_name = v
+    end
+})
+
+ui_objects.SpecificSection:CreateInput({
+    Name = "Weapon",
+    Flag = "weapon_name",
+    PlaceholderText = "e.g. Assault Rifle",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.skinchanger_state.specific_unlocker.weapon_name = v
+    end
+})
+
+ui_objects.SpecificSection:CreateButton({
+    Name = "Unlock Specific",
+    Callback = function()
+        UnlockSpecific()
+        ui_objects.Window:Notify({
+            Title = "Unlocked Cosmetic!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.SpecificSection:CreateButton({
+    Name = "Lock Specific",
+    Callback = function()
+        LockSpecific()
+        ui_objects.Window:Notify({
+            Title = "Locked Cosmetic!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.SpecificSection:CreateButton({
+    Name = "Unlock Specific Weapon",
+    Callback = function()
+        UnlockSpecificWeapon()
+        ui_objects.Window:Notify({
+            Title = "Unlocked Weapon!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.SpecificSection:CreateButton({
+    Name = "Lock Specific Weapon",
+    Callback = function()
+        LockSpecificWeapon()
+        ui_objects.Window:Notify({
+            Title = "Locked Weapon!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.EquipSection = ui_objects.SkinChangerTab:CreateSection("Equip", kConstants.kLucideBox)
+
+ui_objects.EquipSection:CreateDropdown({
+    Name = "Type",
+    Flag = "equip_type",
+    Options = kConstants.kCosmeticTypes,
+    CurrentOption = states.skinchanger_state.equip_unlocker.unlock_type,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.skinchanger_state.equip_unlocker.unlock_type = v
+    end
+})
+
+ui_objects.EquipSection:CreateInput({
+    Name = "Cosmetic",
+    Flag = "equip_cosmetic",
+    PlaceholderText = "e.g. 10B Visits",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.skinchanger_state.equip_unlocker.cosmetic_name = v
+    end
+})
+
+ui_objects.EquipSection:CreateInput({
+    Name = "Weapon",
+    Flag = "equip_weapon",
+    PlaceholderText = "e.g. Assault Rifle",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.skinchanger_state.equip_unlocker.weapon_name = v
+    end
+})
+
+ui_objects.EquipSection:CreateToggle({
+    Name = "Inverted",
+    Flag = "equip_inverted",
+    CurrentValue = states.skinchanger_state.equip_unlocker.inverted,
+    Callback = function(v)
+        states.skinchanger_state.equip_unlocker.inverted = v
+    end
+})
+
+ui_objects.EquipSection:CreateButton({
+    Name = "Apply",
+    Callback = function()
+        EquipApply()
+        ui_objects.Window:Notify({
+            Title = "Applied!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.EquipSection:CreateButton({
+    Name = "Apply to all weapons",
+    Callback = function()
+        EquipApplyAll()
+        ui_objects.Window:Notify({
+            Title = "Applied!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.BulkSection = ui_objects.SkinChangerTab:CreateSection("Bulk", kConstants.kLucideBox)
+
+ui_objects.BulkSection:CreateButton({
+    Name = "Unlock All Weapons",
+    Callback = function()
+        UnlockAllWeapons()
+        ui_objects.Window:Notify({
+            Title = "Unlocked All Weapons!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.BulkSection:CreateButton({
+    Name = "Lock All Weapons",
+    Callback = function()
+        LockAllWeapons()
+        ui_objects.Window:Notify({
+            Title = "Locked All Weapons!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.BulkSection:CreateButton({
+    Name = "Unlock All for Weapon",
+    Callback = function()
+        UnlockAllForWeapon()
+        ui_objects.Window:Notify({
+            Title = "Unlocked All for Weapon!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.BulkSection:CreateButton({
+    Name = "Lock All for Weapon",
+    Callback = function()
+        LockAllForWeapon()
+        ui_objects.Window:Notify({
+            Title = "Locked All for Weapon!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.BulkSection:CreateButton({
+    Name = "Unlock All",
+    Callback = function()
+        UnlockAll()
+        ui_objects.Window:Notify({
+            Title = "Unlocked All Cosmetics!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.BulkSection:CreateButton({
+    Name = "Lock All",
+    Callback = function()
+        LockAll()
+        ui_objects.Window:Notify({
+            Title = "Locked All Cosmetics!",
+            Content = "Please check weapons.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.ShootSoundSection = ui_objects.SkinChangerTab:CreateSection("Shoot Sound", kConstants.kLucideVolume2)
+
+ui_objects.ShootSoundSection:CreateDropdown({
+    Name = "Sound",
+    Flag = "shoot_sound_value",
+    Options = kConstants.kSoundMods,
+    CurrentOption = states.skinchanger_state.shoot_sound.sound_value,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.skinchanger_state.shoot_sound.sound_value = v
+    end
+})
+
+ui_objects.ShootSoundSection:CreateInput({
+    Name = "Asset ID",
+    Flag = "shoot_sound_asset_id",
+    PlaceholderText = "1234567890",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.skinchanger_state.shoot_sound.sound_asset_id = v
+    end
+})
+
+ui_objects.ShootSoundSection:CreateInput({
+    Name = "URL",
+    Flag = "shoot_sound_url",
+    PlaceholderText = "https://example.com/example.mp3",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.skinchanger_state.shoot_sound.sound_url = v
+    end
+})
+
+ui_objects.ShootSoundSection:CreateSlider({
+    Name = "Volume",
+    Flag = "shoot_sound_volume",
+    Range = {1, 100},
+    Increment = 1,
+    CurrentValue = states.skinchanger_state.shoot_sound.sound_volume,
+    Callback = function(v)
+        states.skinchanger_state.shoot_sound.sound_volume = v
+    end
+})
+
+ui_objects.ShootSoundSection:CreateSlider({
+    Name = "Pitch",
+    Flag = "shoot_sound_pitch",
+    Range = {1, 100},
+    Increment = 1,
+    CurrentValue = states.skinchanger_state.shoot_sound.sound_pitch,
+    Callback = function(v)
+        states.skinchanger_state.shoot_sound.sound_pitch = v
+    end
+})
+
+ui_objects.ShootSoundSection:CreateButton({
+    Name = "Preview",
+    Callback = function()
+        ShootSoundPreview()
+        ui_objects.Window:Notify({
+            Title = "Shoot Sound",
+            Content = "Preview Playing!",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.HitSoundSection = ui_objects.SkinChangerTab:CreateSection("Hit Sound", kConstants.kLucideVolume2)
+
+ui_objects.HitSoundSection:CreateDropdown({
+    Name = "Sound",
+    Flag = "hit_sound_value",
+    Options = kConstants.kSoundMods,
+    CurrentOption = states.skinchanger_state.hit_sound.sound_value,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.skinchanger_state.hit_sound.sound_value = v
+    end
+})
+
+ui_objects.HitSoundSection:CreateInput({
+    Name = "Asset ID",
+    Flag = "hit_sound_asset_id",
+    PlaceholderText = "1234567890",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.skinchanger_state.hit_sound.sound_asset_id = v
+    end
+})
+
+ui_objects.HitSoundSection:CreateInput({
+    Name = "URL",
+    Flag = "hit_sound_url",
+    PlaceholderText = "https://example.com/example.mp3",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.skinchanger_state.hit_sound.sound_url = v
+    end
+})
+
+ui_objects.HitSoundSection:CreateSlider({
+    Name = "Volume",
+    Flag = "hit_sound_volume",
+    Range = {1, 100},
+    Increment = 1,
+    CurrentValue = states.skinchanger_state.hit_sound.sound_volume,
+    Callback = function(v)
+        states.skinchanger_state.hit_sound.sound_volume = v
+    end
+})
+
+ui_objects.HitSoundSection:CreateSlider({
+    Name = "Pitch",
+    Flag = "hit_sound_pitch",
+    Range = {1, 100},
+    Increment = 1,
+    CurrentValue = states.skinchanger_state.hit_sound.sound_pitch,
+    Callback = function(v)
+        states.skinchanger_state.hit_sound.sound_pitch = v
+    end
+})
+
+ui_objects.HitSoundSection:CreateDropdown({
+    Name = "Crit Sound",
+    Flag = "crit_sound_value",
+    Options = kConstants.kSoundMods,
+    CurrentOption = states.skinchanger_state.crit_sound.sound_value,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.skinchanger_state.crit_sound.sound_value = v
+    end
+})
+
+ui_objects.HitSoundSection:CreateInput({
+    Name = "Crit Asset ID",
+    Flag = "crit_sound_asset_id",
+    PlaceholderText = "1234567890",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.skinchanger_state.crit_sound.sound_asset_id = v
+    end
+})
+
+ui_objects.HitSoundSection:CreateInput({
+    Name = "Crit URL",
+    Flag = "crit_sound_url",
+    PlaceholderText = "https://example.com/example.mp3",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.skinchanger_state.crit_sound.sound_url = v
+    end
+})
+
+ui_objects.HitSoundSection:CreateSlider({
+    Name = "Crit Pitch",
+    Flag = "crit_sound_pitch",
+    Range = {1, 100},
+    Increment = 1,
+    CurrentValue = states.skinchanger_state.crit_sound.sound_pitch,
+    Callback = function(v)
+        states.skinchanger_state.crit_sound.sound_pitch = v
+    end
+})
+
+ui_objects.HitSoundSection:CreateButton({
+    Name = "Preview Hit",
+    Callback = function()
+        HitSoundPreview()
+        ui_objects.Window:Notify({
+            Title = "Hit Sound",
+            Content = "Preview Playing!",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.HitSoundSection:CreateButton({
+    Name = "Preview Crit",
+    Callback = function()
+        CritSoundPreview()
+        ui_objects.Window:Notify({
+            Title = "Crit Sound",
+            Content = "Preview Playing!",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.KillSoundSection = ui_objects.SkinChangerTab:CreateSection("Kill Sound", kConstants.kLucideVolume2)
+
+ui_objects.KillSoundSection:CreateDropdown({
+    Name = "Sound",
+    Flag = "kill_sound_value",
+    Options = kConstants.kSoundMods,
+    CurrentOption = states.skinchanger_state.kill_sound.sound_value,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.skinchanger_state.kill_sound.sound_value = v
+    end
+})
+
+ui_objects.KillSoundSection:CreateInput({
+    Name = "Asset ID",
+    Flag = "kill_sound_asset_id",
+    PlaceholderText = "1234567890",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.skinchanger_state.kill_sound.sound_asset_id = v
+    end
+})
+
+ui_objects.KillSoundSection:CreateInput({
+    Name = "URL",
+    Flag = "kill_sound_url",
+    PlaceholderText = "https://example.com/example.mp3",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.skinchanger_state.kill_sound.sound_url = v
+    end
+})
+
+ui_objects.KillSoundSection:CreateSlider({
+    Name = "Volume",
+    Flag = "kill_sound_volume",
+    Range = {1, 100},
+    Increment = 1,
+    CurrentValue = states.skinchanger_state.kill_sound.sound_volume,
+    Callback = function(v)
+        states.skinchanger_state.kill_sound.sound_volume = v
+    end
+})
+
+ui_objects.KillSoundSection:CreateSlider({
+    Name = "Pitch",
+    Flag = "kill_sound_pitch",
+    Range = {1, 100},
+    Increment = 1,
+    CurrentValue = states.skinchanger_state.kill_sound.sound_pitch,
+    Callback = function(v)
+        states.skinchanger_state.kill_sound.sound_pitch = v
+    end
+})
+
+ui_objects.KillSoundSection:CreateButton({
+    Name = "Preview",
+    Callback = function()
+        KillSoundPreview()
+        ui_objects.Window:Notify({
+            Title = "Kill Sound",
+            Content = "Preview Playing!",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.ReloadSoundSection = ui_objects.SkinChangerTab:CreateSection("Reload Sound", kConstants.kLucideVolume2)
+
+ui_objects.ReloadSoundSection:CreateDropdown({
+    Name = "Sound",
+    Flag = "reload_sound_value",
+    Options = kConstants.kSoundMods,
+    CurrentOption = states.skinchanger_state.reload_sound.sound_value,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.skinchanger_state.reload_sound.sound_value = v
+    end
+})
+
+ui_objects.ReloadSoundSection:CreateInput({
+    Name = "Asset ID",
+    Flag = "reload_sound_asset_id",
+    PlaceholderText = "1234567890",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.skinchanger_state.reload_sound.sound_asset_id = v
+    end
+})
+
+ui_objects.ReloadSoundSection:CreateInput({
+    Name = "URL",
+    Flag = "reload_sound_url",
+    PlaceholderText = "https://example.com/example.mp3",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.skinchanger_state.reload_sound.sound_url = v
+    end
+})
+
+ui_objects.ReloadSoundSection:CreateSlider({
+    Name = "Volume",
+    Flag = "reload_sound_volume",
+    Range = {1, 100},
+    Increment = 1,
+    CurrentValue = states.skinchanger_state.reload_sound.sound_volume,
+    Callback = function(v)
+        states.skinchanger_state.reload_sound.sound_volume = v
+    end
+})
+
+ui_objects.ReloadSoundSection:CreateSlider({
+    Name = "Pitch",
+    Flag = "reload_sound_pitch",
+    Range = {1, 100},
+    Increment = 1,
+    CurrentValue = states.skinchanger_state.reload_sound.sound_pitch,
+    Callback = function(v)
+        states.skinchanger_state.reload_sound.sound_pitch = v
+    end
+})
+
+ui_objects.ReloadSoundSection:CreateButton({
+    Name = "Preview",
+    Callback = function()
+        ReloadSoundPreview()
+        ui_objects.Window:Notify({
+            Title = "Reload Sound",
+            Content = "Preview Playing!",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.DeathSoundSection = ui_objects.SkinChangerTab:CreateSection("Death Sound", kConstants.kLucideVolume2)
+
+ui_objects.DeathSoundSection:CreateDropdown({
+    Name = "Sound",
+    Flag = "death_sound_value",
+    Options = kConstants.kSoundMods,
+    CurrentOption = states.skinchanger_state.death_sound.sound_value,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.skinchanger_state.death_sound.sound_value = v
+    end
+})
+
+ui_objects.DeathSoundSection:CreateInput({
+    Name = "Asset ID",
+    Flag = "death_sound_asset_id",
+    PlaceholderText = "1234567890",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.skinchanger_state.death_sound.sound_asset_id = v
+    end
+})
+
+ui_objects.DeathSoundSection:CreateInput({
+    Name = "URL",
+    Flag = "death_sound_url",
+    PlaceholderText = "https://example.com/example.mp3",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.skinchanger_state.death_sound.sound_url = v
+    end
+})
+
+ui_objects.DeathSoundSection:CreateSlider({
+    Name = "Volume",
+    Flag = "death_sound_volume",
+    Range = {1, 100},
+    Increment = 1,
+    CurrentValue = states.skinchanger_state.death_sound.sound_volume,
+    Callback = function(v)
+        states.skinchanger_state.death_sound.sound_volume = v
+    end
+})
+
+ui_objects.DeathSoundSection:CreateSlider({
+    Name = "Pitch",
+    Flag = "death_sound_pitch",
+    Range = {1, 100},
+    Increment = 1,
+    CurrentValue = states.skinchanger_state.death_sound.sound_pitch,
+    Callback = function(v)
+        states.skinchanger_state.death_sound.sound_pitch = v
+    end
+})
+
+ui_objects.DeathSoundSection:CreateButton({
+    Name = "Preview",
+    Callback = function()
+        DeathSoundPreview()
+        ui_objects.Window:Notify({
+            Title = "Death Sound",
+            Content = "Preview Playing!",
+            Duration = 5
+        })
+    end
+})
+
+--[[
+    Inventory
+]]
+
+ui_objects.InventoryTab = ui_objects.Window:CreateTab("Inventory", "Quick inventory manager.", kConstants.kLucideBox)
+
+ui_objects.InventorySpecificSection = ui_objects.InventoryTab:CreateSection("Specific", kConstants.kLucideSearch)
+
+ui_objects.InventorySpecificSection:CreateDropdown({
+    Name = "Case / Box",
+    Flag = "inv_specific_name",
+    Options = kConstants.kLootboxNames,
+    CurrentOption = states.inventory_state.specific.lootbox_name,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.inventory_state.specific.lootbox_name = v
+    end
+})
+
+ui_objects.InventorySpecificSection:CreateSlider({
+    Name = "Quantity",
+    Flag = "inv_quantity",
+    Range = {1, 99},
+    Increment = 1,
+    CurrentValue = states.inventory_state.specific.quantity,
+    Callback = function(v)
+        states.inventory_state.specific.quantity = v
+    end
+})
+
+ui_objects.InventorySpecificSection:CreateInput({
+    Name = "Weapon",
+    Flag = "inv_weapon_name",
+    PlaceholderText = "e.g. Assault Rifle",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.inventory_state.specific.weapon_name = v
+    end
+})
+
+ui_objects.InventorySpecificSection:CreateToggle({
+    Name = "New Entry",
+    Flag = "inv_new_entry",
+    CurrentValue = states.inventory_state.specific.new_entry,
+    Callback = function(v)
+        states.inventory_state.specific.new_entry = v
+    end
+})
+
+ui_objects.InventorySpecificSection:CreateButton({
+    Name = "Add to Backpack",
+    Callback = function()
+        AddToBackpack()
+        ui_objects.Window:Notify({
+            Title = "Added!",
+            Content = "Please check backpack.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.InventoryBulkSection = ui_objects.InventoryTab:CreateSection("Bulk", kConstants.kLucideBox)
+
+ui_objects.InventoryBulkSection:CreateSlider({
+    Name = "Quantity",
+    Flag = "inv_bulk_quantity",
+    Range = {1, 99},
+    Increment = 1,
+    CurrentValue = states.inventory_state.bulk.quantity,
+    Callback = function(v)
+        states.inventory_state.bulk.quantity = v
+    end
+})
+
+ui_objects.InventoryBulkSection:CreateButton({
+    Name = "Add All Cases",
+    Callback = function()
+        AddAllCases()
+        ui_objects.Window:Notify({
+            Title = "Added!",
+            Content = "Please check backpack.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.InventoryDeleteSection = ui_objects.InventoryTab:CreateSection("Delete", kConstants.kLucideX)
+
+local bp_entries = GetBackpackEntries()
+ui_objects.InventoryDeleteEntry = ui_objects.InventoryDeleteSection:CreateDropdown({
+    Name = "Backpack Entry",
+    Flag = "inv_delete_backpack_entry",
+    Options = bp_entries,
+    CurrentOption = bp_entries[1],
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.inventory_state.delete.backpack_entry = v
+    end
+})
+
+ui_objects.InventoryDeleteSection:CreateSlider({
+    Name = "Quantity",
+    Flag = "inv_delete_quantity",
+    Range = {1, 99},
+    Increment = 1,
+    CurrentValue = states.inventory_state.delete.quantity,
+    Callback = function(v)
+        states.inventory_state.delete.quantity = v
+    end
+})
+
+ui_objects.InventoryDeleteSection:CreateButton({
+    Name = "Refresh List",
+    Callback = function()
+        table.clear(bp_entries)
+        bp_entries = GetBackpackEntries()
+
+        ui_objects.InventoryDeleteEntry:Refresh(bp_entries, bp_entries[1])
+        ui_objects.Window:Notify({
+            Title = "Refreshed!",
+            Content = "Please check dropdowns.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.InventoryDeleteSection:CreateButton({
+    Name = "Delete ALL Backpack",
+    Callback = function()
+        DeleteAllBackpack()
+        ui_objects.Window:Notify({
+            Title = "Deleted!",
+            Content = "Please check backpack.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.InventoryDeleteSection:CreateButton({
+    Name = "Delete (Qty)",
+    Callback = function()
+        DeleteQuantity()
+        ui_objects.Window:Notify({
+            Title = "Deleted!",
+            Content = "Please check backpack.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.InventoryDeleteSection:CreateButton({
+    Name = "Delete ALL of Entry",
+    Callback = function()
+        DeleteAllOfEntry()
+        ui_objects.Window:Notify({
+            Title = "Deleted!",
+            Content = "Please check backpack.",
+            Duration = 5
+        })
+    end
+})
+
+ui_objects.InventoryInjectSection = ui_objects.InventoryTab:CreateSection("Inject", kConstants.kLucideView)
+
+ui_objects.InventoryInjectSection:CreateDropdown({
+    Name = "Type",
+    Flag = "inv_inject_type",
+    Options = kConstants.kItemTypes,
+    CurrentOption = states.inventory_state.inject.item_type,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.inventory_state.inject.item_type = v
+    end
+})
+
+ui_objects.InventoryInjectSection:CreateInput({
+    Name = "Weapon",
+    Flag = "inv_inject_weapon",
+    PlaceholderText = "e.g. Assault Rifle",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.inventory_state.inject.weapon_name = v
+    end
+})
+
+ui_objects.InventoryInjectSection:CreateInput({
+    Name = "Cosmetic",
+    Flag = "inv_inject_cosmetic",
+    PlaceholderText = "e.g. 10B Visits",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.inventory_state.inject.cosmetic_name = v
+    end
+})
+
+ui_objects.InventoryInjectSection:CreateToggle({
+    Name = "Stack duplicates",
+    Flag = "inv_inject_stack_dupe",
+    CurrentValue = states.inventory_state.inject.stack_duplicates,
+    Callback = function(v)
+        states.inventory_state.inject.stack_duplicates = v
+    end
+})
+
+ui_objects.InventoryInjectSection:CreateButton({
+    Name = "Inject into Backpack",
+    Callback = function()
+        InjectIntoBackpack()
+        ui_objects.Window:Notify({
+            Title = "Injected!",
+            Content = "Please check backpack.",
+            Duration = 5
+        })
+    end
+})
+
+--[[
+    Spoofer
+]]
+
+ui_objects.SpooferTab = ui_objects.Window:CreateTab("Spoofer", "Advanced RIVALS spoofer.", kConstants.kLucideRainbow)
+
+ui_objects.PlatformSection = ui_objects.SpooferTab:CreateSection("Platform", kConstants.kLucideSmartphone)
+
+ui_objects.PlatformSection:CreateDropdown({
+    Name = "Device",
+    Flag = "device",
+    Options = {
+        "Desktop",
+        "Mobile",
+        "Console",
+        "VR"
+    },
+    CurrentOption = states.spoofer_state.device,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.spoofer_state.device = v
+    end
+})
+
+ui_objects.PlatformSection:CreateToggle({
+    Name = "Spoof Device",
+    Flag = "spoof_device",
+    CurrentValue = states.spoofer_state.spoof_device,
+    Callback = function(v)
+        states.spoofer_state.spoof_device = v
+        SpoofDevice()
+    end
+})
+
+ui_objects.PlatformSection:CreateToggle({
+    Name = "Device Spam",
+    Flag = "device_spam",
+    CurrentValue = states.spoofer_state.device_spam,
+    Callback = function(v)
+        states.spoofer_state.device_spam = v
+        DeviceSpam()
+    end
+})
+
+ui_objects.PlatformSection:CreateSlider({
+    Name = "Spam Rate",
+    Flag = "spam_rate",
+    Range = {0.1, 5},
+    Increment = 0.1,
+    CurrentValue = states.spoofer_state.spam_rate,
+    Callback = function(v)
+        states.spoofer_state.spam_rate = v
+    end
+})
+
+ui_objects.PlayerSection = ui_objects.SpooferTab:CreateSection("Player", kConstants.kLucideUser)
+
+ui_objects.PlayerSection:CreateInput({
+    Name = "Display Name",
+    Flag = "display_name_value",
+    PlaceholderText = "Enter string...",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.spoofer_state.display_name_value = v
+    end
+})
+
+ui_objects.PlayerSection:CreateInput({
+    Name = "Username",
+    Flag = "userrname_value",
+    PlaceholderText = "Enter string...",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.spoofer_state.username_value = v
+    end
+})
+
+ui_objects.PlayerSection:CreateChecklist({
+    Name = "Spoofs",
+    Flag = "player_spoofs",
+    Options = {
+        {
+            Name = "Display Name",
+            Default = states.spoofer_state.display_name
+        },
+        {
+            Name = "Username",
+            Default = states.spoofer_state.username
+        }
+    },
+    Callback = function(o)
+        states.spoofer_state.display_name = o["Display Name"]
+        states.spoofer_state.username = o.Username
+        RefreshAllNameSpoofs()
+    end
+})
+
+ui_objects.PlayerSection:CreateDivider()
+
+ui_objects.PlayerSection:CreateInput({
+    Name = "Victim User Id",
+    Flag = "victim_user_id",
+    PlaceholderText = "Enter UserId...",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.spoofer_state.avatar_userid = tonumber(v)
+        SpoofAvatar()
+        RefreshAllThumbnailSpoofs()
+    end
+})
+
+ui_objects.PlayerSection:CreateToggle({
+    Name = "Spoof Avatar",
+    Flag = "spoof_avatar",
+    CurrentValue = states.spoofer_state.spoof_avatar,
+    Callback = function(v)
+        states.spoofer_state.spoof_avatar = v
+        SpoofAvatar()
+        RefreshAllThumbnailSpoofs()
+    end
+})
+
+ui_objects.PlayerSection:CreateDivider()
+
+ui_objects.PlayerSection:CreateToggle({
+    Name = "Anonymous Mode",
+    Flag = "anonymous_mode",
+    CurrentValue = states.spoofer_state.anonymous_mode,
+    Callback = function(v)
+        states.spoofer_state.anonymous_mode = v
+        AnonymousMode()
+    end
+})
+
+ui_objects.PlayerSection:CreateDivider()
+
+ui_objects.PlayerSection:CreateChecklist({
+    Name = "Badges Spoofs",
+    Flag = "player_badges_spoofs",
+    Options = {
+        {
+            Name = "Premium",
+            Default = states.spoofer_state.badges.Premium
+        },
+        {
+            Name = "Verified",
+            Default = states.spoofer_state.badges.Verified
+        },
+        {
+            Name = "Influencer",
+            Default = states.spoofer_state.badges.Influencer
+        },
+        {
+            Name = "Admin",
+            Default = states.spoofer_state.badges.Admin
+        }
+    },
+    Callback = function(o)
+        states.spoofer_state.badges.Premium = o.Premium
+        states.spoofer_state.badges.Verified = o.Verified
+        states.spoofer_state.badges.Influencer = o.Influencer
+        states.spoofer_state.badges.Admin = o.Admin
+        UpdateBadgesOptions()
+    end
+})
+
+ui_objects.LeaderboardSection = ui_objects.SpooferTab:CreateSection("Leaderboard", kConstants.kLucideList)
+
+ui_objects.LeaderboardSection:CreateInput({
+    Name = "ELO",
+    Flag = "elo_value",
+    PlaceholderText = "Enter number...",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.spoofer_state.leaderboard.elo_value = tonumber(v)
+        UpdateLeaderboardOptions()
+    end
+})
+
+ui_objects.LeaderboardSection:CreateInput({
+    Name = "Streak",
+    Flag = "streak_value",
+    PlaceholderText = "Enter number...",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.spoofer_state.leaderboard.streak_value = tonumber(v)
+        UpdateLeaderboardOptions()
+    end
+})
+
+ui_objects.LeaderboardSection:CreateInput({
+    Name = "Kills",
+    Flag = "kills_value",
+    PlaceholderText = "Enter number...",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.spoofer_state.leaderboard.kills_value = tonumber(v)
+        UpdateLeaderboardOptions()
+    end
+})
+
+ui_objects.LeaderboardSection:CreateInput({
+    Name = "Wins",
+    Flag = "wins_value",
+    PlaceholderText = "Enter number...",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.spoofer_state.leaderboard.wins_value = tonumber(v)
+        UpdateLeaderboardOptions()
+    end
+})
+
+ui_objects.LeaderboardSection:CreateInput({
+    Name = "Level",
+    Flag = "level_value",
+    PlaceholderText = "Enter number...",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.spoofer_state.leaderboard.level_value = tonumber(v)
+        UpdateLeaderboardOptions()
+    end
+})
+
+ui_objects.LeaderboardSection:CreateChecklist({
+    Name = "Spoofs",
+    Flag = "leaderboard_spoofs",
+    Options = {
+        {
+            Name = "ELO",
+            Default = states.spoofer_state.leaderboard.ELO
+        },
+        {
+            Name = "Streak",
+            Default = states.spoofer_state.leaderboard.Streak
+        },
+        {
+            Name = "Kills",
+            Default = states.spoofer_state.leaderboard.Kills
+        },
+        {
+            Name = "Wins",
+            Default = states.spoofer_state.leaderboard.Wins
+        },
+        {
+            Name = "Level",
+            Default = states.spoofer_state.leaderboard.Level
+        }
+    },
+    Callback = function(o)
+        states.spoofer_state.leaderboard.ELO = o.ELO
+        states.spoofer_state.leaderboard.Streak = o.Streak
+        states.spoofer_state.leaderboard.Kills = o.Kills
+        states.spoofer_state.leaderboard.Wins = o.Wins
+        states.spoofer_state.leaderboard.Level = o.Level
+        UpdateLeaderboardOptions()
+        RefreshAllNameSpoofs()
+    end
+})
+
+ui_objects.CharmSection = ui_objects.SpooferTab:CreateSection("Charm", kConstants.kLucideStar)
+
+ui_objects.CharmSection:CreateDropdown({
+    Name = "Charm Rank",
+    Flag = "charm_rank",
+    Options = kConstants.kCharmRanks,
+    CurrentOption = states.spoofer_state.charm.charm_rank,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.spoofer_state.charm.charm_rank = v
+        UpdateCharmOptions()
+    end
+})
+
+ui_objects.CharmSection:CreateSlider({
+    Name = "Arch Rank",
+    Flag = "arch_rank",
+    Range = {1, 100},
+    Increment = 1,
+    CurrentValue = states.spoofer_state.charm.arch_rank,
+    Callback = function(v)
+        states.spoofer_state.charm.arch_rank = tonumber(v)
+        UpdateCharmOptions()
+    end
+})
+
+ui_objects.CharmSection:CreateChecklist({
+    Name = "Spoofs",
+    Flag = "charm_spoofs",
+    Options = {
+        {
+            Name = "Season 0 Charm",
+            Default = states.spoofer_state.charm.s0_charm
+        },
+        {
+            Name = "Season 1 Charm",
+            Default = states.spoofer_state.charm.s1_charm
+        },
+        {
+            Name = "Season 2 Charm",
+            Default = states.spoofer_state.charm.s2_charm
+        },
+        {
+            Name = "Season 3 Charm",
+            Default = states.spoofer_state.charm.s3_charm
+        }
+    },
+    Callback = function(o)
+        states.spoofer_state.charm.s0_charm = o["Season 0 Charm"]
+        states.spoofer_state.charm.s1_charm = o["Season 1 Charm"]
+        states.spoofer_state.charm.s2_charm = o["Season 2 Charm"]
+        states.spoofer_state.charm.s3_charm = o["Season 3 Charm"]
+        UpdateCharmOptions()
+    end
+})
+
+ui_objects.CurrencySection = ui_objects.SpooferTab:CreateSection("Currency", kConstants.kLucideCircleDollarSign)
+
+ui_objects.CurrencySection:CreateInput({
+    Name = "Keys",
+    Flag = "keys_value",
+    PlaceholderText = "Enter number...",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.spoofer_state.currency.weapon_keys_value = tonumber(v)
+        UpdateCurrencyOptions()
+    end
+})
+
+ui_objects.CurrencySection:CreateInput({
+    Name = "Tokens",
+    Flag = "tokens_value",
+    PlaceholderText = "Enter number...",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.spoofer_state.currency.unlock_tokens_value = tonumber(v)
+        UpdateCurrencyOptions()
+    end
+})
+
+ui_objects.CurrencySection:CreateInput({
+    Name = "Event Currency",
+    Flag = "event_currency_value",
+    PlaceholderText = "Enter number...",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.spoofer_state.currency.event_currency_value = tonumber(v)
+        UpdateCurrencyOptions()
+    end
+})
+
+ui_objects.CurrencySection:CreateInput({
+    Name = "Glory",
+    Flag = "glory_value",
+    PlaceholderText = "Enter number...",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.spoofer_state.currency.glory_value = tonumber(v)
+        UpdateCurrencyOptions()
+    end
+})
+
+ui_objects.CurrencySection:CreateInput({
+    Name = "Tickets",
+    Flag = "tickets_value",
+    PlaceholderText = "Enter number...",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+        states.spoofer_state.currency.skin_tickets_value = tonumber(v)
+        UpdateCurrencyOptions()
+    end
+})
+
+ui_objects.CurrencySection:CreateChecklist({
+    Name = "Spoofs",
+    Flag = "currency_spoofs",
+    Options = {
+        {
+            Name = "Keys",
+            Default = states.spoofer_state.currency.weapon_keys
+        },
+        {
+            Name = "Tokens",
+            Default = states.spoofer_state.currency.unlock_tokens
+        },
+        {
+            Name = "Event Currency",
+            Default = states.spoofer_state.currency.event_currency
+        },
+        {
+            Name = "Glory",
+            Default = states.spoofer_state.currency.glory
+        },
+        {
+            Name = "Tickets",
+            Default = states.spoofer_state.currency.skin_tickets
+        }
+    },
+    Callback = function(o)
+        states.spoofer_state.currency.weapon_keys = o["Keys"]
+        states.spoofer_state.currency.unlock_tokens = o["Tokens"]
+        states.spoofer_state.currency.event_currency = o["Event Currency"]
+        states.spoofer_state.currency.glory = o["Glory"]
+        states.spoofer_state.currency.skin_tickets = o["Tickets"]
+        UpdateCurrencyOptions()
+    end
+})
+
+ui_objects.DuelHistorySection = ui_objects.SpooferTab:CreateSection("Duel History", kConstants.kLucideList)
+
+ui_objects.DuelHistorySection:CreateInput({
+    Name = "Match Index",
+    Flag = "duel_match_index",
+    Text = "1",
+    PlaceholderText = "e.g. 1",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+       states.spoofer_state.duel_history.match_index = tonumber(v) or 1
+    end
+})
+
+ui_objects.DuelHistorySection:CreateDropdown({
+    Name = "Mode",
+    Flag = "duel_mode",
+    Options = {
+        "Ranked",
+        "Casual"
+    },
+    CurrentOption = states.spoofer_state.duel_history.mode,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.spoofer_state.duel_history.mode = v
+        UpdateDuelHistory()
+    end
+})
+
+ui_objects.DuelHistorySection:CreateDropdown({
+    Name = "Result",
+    Flag = "duel_result",
+    Options = kConstants.kDuelResults,
+    CurrentOption = states.spoofer_state.duel_history.result,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.spoofer_state.duel_history.result = v
+        UpdateDuelHistory()
+    end
+})
+
+ui_objects.DuelHistorySection:CreateDropdown({
+    Name = "Map",
+    Flag = "duel_map",
+    Options = kConstants.kDuelMaps,
+    CurrentOption = states.spoofer_state.duel_history.map,
+    MultipleOptions = false,
+    AllowNone = false,
+    Callback = function(v)
+        states.spoofer_state.duel_history.map = v
+        UpdateDuelHistory()
+    end
+})
+
+ui_objects.DuelHistorySection:CreateInput({
+    Name = "Team 1 Score",
+    Flag = "duel_team_1_score",
+    Text = "5",
+    PlaceholderText = "e.g. 5",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+       states.spoofer_state.duel_history.team1score = tonumber(v) or 5
+       UpdateDuelHistory()
+    end
+})
+
+ui_objects.DuelHistorySection:CreateInput({
+    Name = "Team 2 Score",
+    Flag = "duel_team_2_score",
+    Text = "0",
+    PlaceholderText = "e.g. 0",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+       states.spoofer_state.duel_history.team2score = tonumber(v) or 0
+       UpdateDuelHistory()
+    end
+})
+
+ui_objects.DuelHistorySection:CreateDivider()
+
+ui_objects.DuelHistorySection:CreateInput({
+    Name = "Dueler Index",
+    Flag = "duel_dueler_index",
+    Text = "1",
+    PlaceholderText = "e.g. 1",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+       states.spoofer_state.duel_history.dueler_index = tonumber(v) or 1
+    end
+})
+
+ui_objects.DuelHistorySection:CreateInput({
+    Name = "Display Name",
+    Flag = "duel_display_name",
+    PlaceholderText = "Enter string...",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.spoofer_state.duel_history.display_name = v
+        UpdateDuelHistory()
+    end
+})
+
+ui_objects.DuelHistorySection:CreateInput({
+    Name = "Username",
+    Flag = "duel_username",
+    PlaceholderText = "Enter string...",
+    NumbersOnly = false,
+    ChangedCallback = function(v)
+        states.spoofer_state.duel_history.username = v
+        UpdateDuelHistory()
+    end
+})
+
+ui_objects.DuelHistorySection:CreateInput({
+    Name = "Kills",
+    Flag = "duel_kills",
+    Text = "15",
+    PlaceholderText = "e.g. 15",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+       states.spoofer_state.duel_history.kills = tonumber(v) or 15
+       UpdateDuelHistory()
+    end
+})
+
+ui_objects.DuelHistorySection:CreateInput({
+    Name = "Deaths",
+    Flag = "duel_deaths",
+    Text = "2",
+    PlaceholderText = "e.g. 2",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+       states.spoofer_state.duel_history.deaths = tonumber(v) or 2
+       UpdateDuelHistory()
+    end
+})
+
+ui_objects.DuelHistorySection:CreateInput({
+    Name = "Assists",
+    Flag = "duel_assists",
+    Text = "6",
+    PlaceholderText = "e.g. 6",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+       states.spoofer_state.duel_history.assists = tonumber(v) or 6
+       UpdateDuelHistory()
+    end
+})
+
+ui_objects.DuelHistorySection:CreateInput({
+    Name = "Damage",
+    Flag = "duel_damage",
+    Text = "5000",
+    PlaceholderText = "e.g. 5000",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+       states.spoofer_state.duel_history.damage = tonumber(v) or 5000
+       UpdateDuelHistory()
+    end
+})
+
+ui_objects.DuelHistorySection:CreateInput({
+    Name = "ELO",
+    Flag = "duel_elo",
+    Text = "2000",
+    PlaceholderText = "e.g. 2000",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+       states.spoofer_state.duel_history.elo = tonumber(v) or 2000
+       UpdateDuelHistory()
+    end
+})
+
+ui_objects.DuelHistorySection:CreateInput({
+    Name = "ELO Change",
+    Flag = "duel_elo_change",
+    Text = "35",
+    PlaceholderText = "e.g. 35",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+       states.spoofer_state.duel_history.elo_change = tonumber(v) or 35
+       UpdateDuelHistory()
+    end
+})
+
+ui_objects.MarketplaceSection = ui_objects.SpooferTab:CreateSection("Marketplace", kConstants.kLucideCircleDollarSign)
+
+ui_objects.MarketplaceSection:CreateToggle({
+    Name = "Fake Robux",
+    Flag = "fake_robux",
+    CurrentValue = states.spoofer_state.marketplace.fake_robux,
+    Callback = function(v)
+        states.spoofer_state.marketplace.fake_robux = v
+        UpdateMarketplace()
+    end
+})
+
+ui_objects.MarketplaceSection:CreateInput({
+    Name = "Robux Amount",
+    Flag = "robux_amount",
+    PlaceholderText = "e.g. 999999",
+    NumbersOnly = true,
+    ChangedCallback = function(v)
+       states.spoofer_state.marketplace.robux_amount = tonumber(v) or 0
+       UpdateMarketplace()
+    end
+})
+
+ui_objects.MarketplaceSection:CreateToggle({
+    Name = "Fake Gifting",
+    Flag = "fake_gifting",
+    CurrentValue = states.spoofer_state.marketplace.fake_gifting,
+    Callback = function(v)
+        states.spoofer_state.marketplace.fake_gifting = v
+        UpdateMarketplace()
+    end
+})
+
+--[[
+    Settings
+]]
+
+ui_objects.SettingsTab = ui_objects.Window:CreateTab("Settings", nil, kConstants.kLucideSettings)
+
+ui_objects.GeneralSection = ui_objects.SettingsTab:CreateSection("General", kConstants.kLucideGlobe)
+
+ui_objects.GeneralSection:CreateKeybind({
+    Name = "Menu Keybind",
+    Flag = "menu_keybind",
+    CurrentKeybind = "RightShift",
+    HoldToInteract = false,
+    Callback = function(v)
+        if v then
+            ui_objects.Window:Show()
+        else
+            ui_objects.Window:Hide()
+        end
+    end
+}):SetPressed(true)
+
+ui_objects.GeneralSection:CreateToggle({
+    Name = "Keybind Window",
+    Flag = "keybind_window_enabled",
+    CurrentValue = true,
+    Callback = function(v)
+        if v then
+            ui_objects.Window:ShowKeybindWindow()
+        else
+            ui_objects.Window:HideKeybindWindow()
+        end
+    end
+})
+
+ui_objects.GeneralSection:CreateToggle({
+    Name = "Watermark",
+    Flag = "watermark_enabled",
+    CurrentValue = true,
+    Callback = function(v)
+        if v then
+            ui_objects.Window:ShowWatermark()
+        else
+            ui_objects.Window:HideWatermark()
+        end
+    end
+})
+
+ui_objects.GeneralSection:CreateToggle({
+    Name = "Silent Load",
+    Flag = "silent_load_enabled",
+    CurrentValue = false,
+    Callback = function(v)
+        ui_objects.Window:SetSilentLoad(v)
+    end
+})
+
+ui_objects.ConfigSection = ui_objects.SettingsTab:CreateSection("Config", kConstants.kLucideView)
+
+local selected_config
+local save_config_name
+local rename_config_name
+
+ui_objects.ConfigDropdown = ui_objects.ConfigSection:CreateDropdown({
+	Name = "Config",
+	Options = ui_objects.Window:ListConfigs(),
+	CurrentOption = ui_objects.Window:GetActiveConfigName(),
+	Callback = function(selected)
+		selected_config = selected
+	end,
+})
+
+ui_objects.ConfigSection:CreateInput({
+	Name = "Save As",
+	PlaceholderText = "Config name",
+	Callback = function(text)
+		if text ~= "" then
+			save_config_name = text
+		end
+	end,
+})
+
+ui_objects.ConfigSection:CreateInput({
+	Name = "Rename To",
+	PlaceholderText = "New config name",
+	Callback = function(text)
+		if text ~= "" then
+			rename_config_name = text
+		end
+	end,
+})
+
+ui_objects.ConfigSection:CreateButton({
+    Name = "Load Config",
+    Callback = function()
+        ui_objects.Window:Notify({
+            Title = "Loading config",
+            Content = "Please wait..",
+            Duration = 5
+        })
+        ui_objects.Window:LoadConfigByName(selected_config)
+    end
+})
+
+ui_objects.ConfigSection:CreateButton({
+    Name = "Save Config",
+    Callback = function()
+        if save_config_name == nil then return end
+        ui_objects.Window:Notify({
+            Title = "Saving config",
+            Content = "Please wait..",
+            Duration = 5
+        })
+        ui_objects.Window:SaveConfigAs(save_config_name)
+		ui_objects.ConfigDropdown:Refresh(ui_objects.Window:ListConfigs(), save_config_name)
+		selected_config = save_config_name
+    end
+})
+
+ui_objects.ConfigSection:CreateButton({
+    Name = "Rename Config",
+    Callback = function()
+        if selected_config == nil or rename_config_name == nil or rename_config_name == "" then return end
+        local ok = ui_objects.Window:RenameConfig(selected_config, rename_config_name)
+        if ok then
+            ui_objects.ConfigDropdown:Refresh(ui_objects.Window:ListConfigs(), rename_config_name)
+            selected_config = rename_config_name
+            ui_objects.Window:Notify({
+                Title = "Config renamed",
+                Content = "Renamed to " .. rename_config_name,
+                Duration = 3
+            })
+        end
+    end
+})
+
+ui_objects.ConfigSection:CreateButton({
+    Name = "Delete Config",
+    Callback = function()
+        if selected_config == nil then return end
+        local ok = ui_objects.Window:DeleteConfig(selected_config)
+        if ok then
+            ui_objects.ConfigDropdown:Refresh(ui_objects.Window:ListConfigs(), ui_objects.Window:GetActiveConfigName())
+            selected_config = ui_objects.Window:GetActiveConfigName()
+            ui_objects.Window:Notify({
+                Title = "Config deleted",
+                Content = "The selected config was removed.",
+                Duration = 3
+            })
+        end
+    end
+})
+
+ui_objects.ConfigSection:CreateButton({
+    Name = "Set Auto-Load",
+    Callback = function()
+        if selected_config == nil then return end
+        local ok = ui_objects.Window:SetAutoLoadConfig(selected_config)
+        if ok then
+            ui_objects.Window:Notify({
+                Title = "Auto-load updated",
+                Content = "This config will load automatically next time.",
+                Duration = 3
+            })
+        end
+    end
+})
+
+ui_objects.ConfigSection:CreateButton({
+    Name = "Clear Auto-Load",
+    Callback = function()
+        ui_objects.Window:ClearAutoLoadConfig()
+        ui_objects.Window:Notify({
+            Title = "Auto-load cleared",
+            Content = "The window will stop loading a specific config automatically.",
+            Duration = 3
+        })
+    end
+})
+
+ui_objects.ThemeSection = ui_objects.SettingsTab:CreateSection("Theme", kConstants.kLucideStar)
+
+local selected_theme
+
+ui_objects.ThemeDropdown = ui_objects.ThemeSection:CreateDropdown({
+	Name = "Theme",
+	Options = Library:ListThemes(),
+	CurrentOption = ui_objects.Window:GetActiveConfigName() and ui_objects.Window.theme_name or "default",
+	Callback = function(selected)
+        selected_theme = selected
+	end,
+})
+
+ui_objects.ThemeSection:CreateButton({
+    Name = "Load Theme",
+    Callback = function()
+        ui_objects.Window:Notify({
+            Title = "Loading theme",
+            Content = "Please wait..",
+            Duration = 5
+        })
+        ui_objects.Window:SetTheme(selected_theme)
+    end
+})
+
+ui_objects.ThemeSection:CreateButton({
+    Name = "Refresh",
+    Callback = function()
+		ui_objects.ThemeDropdown:Refresh(Library:ListThemes(), ui_objects.ThemeDropdown.CurrentOption)
+    end
+})
+
+if not ui_objects.Window:IsSilentLoadEnabled() then
+    ui_objects.Window:ShowAll()
+    ui_objects.Window:Notify({
+        Title = "Aetherea Loaded",
+        Content = "Press RightShift to toggle.",
+        Duration = 5
+    })
+end
